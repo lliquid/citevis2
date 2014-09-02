@@ -1,0 +1,6725 @@
+[
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis06--4015416", 
+      "infovis06--4015436", 
+      "infovis10--154", 
+      "infovis08--4658140", 
+      "infovis11--233", 
+      "infovis06--4015425", 
+      "infovis05--1532150"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--238", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "75", 
+    "outnodes": [
+      "infovis02--1173160", 
+      "infovis01--963285"
+    ], 
+    "innodes": [
+      "infovis04--1382901"
+    ], 
+    "id": "infovis03--1249010", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "148", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis04--1382909", 
+      "infovis06--4015419", 
+      "infovis08--4658141", 
+      "infovis08--4658145", 
+      "infovis10--205"
+    ], 
+    "id": "infovis03--1249011", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "23", 
+    "outnodes": [
+      "infovis02--1173150", 
+      "infovis02--1173159", 
+      "infovis02--1173161"
+    ], 
+    "innodes": [
+      "infovis04--1382891"
+    ], 
+    "id": "infovis03--1249012", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "12", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis04--1382891"
+    ], 
+    "id": "infovis03--1249013", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [
+      "infovis96--559223", 
+      "infovis02--1173161", 
+      "infovis99--801855", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis04--1382893", 
+      "infovis05--1532133"
+    ], 
+    "id": "infovis03--1249014", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "90", 
+    "outnodes": [
+      "infovis98--729559", 
+      "infovis00--885086", 
+      "infovis02--1173151"
+    ], 
+    "innodes": [
+      "infovis04--1382895", 
+      "infovis04--1382893", 
+      "infovis05--1532141", 
+      "infovis08--4658144", 
+      "infovis09--5290705", 
+      "infovis09--5290704", 
+      "infovis11--229"
+    ], 
+    "id": "infovis03--1249015", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "58", 
+    "outnodes": [
+      "infovis98--729559", 
+      "infovis03--1249016"
+    ], 
+    "innodes": [
+      "infovis03--1249016", 
+      "infovis05--1532139"
+    ], 
+    "id": "infovis03--1249016", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [
+      "infovis01--963275", 
+      "infovis02--1173159", 
+      "infovis02--1173161"
+    ], 
+    "innodes": [], 
+    "id": "infovis03--1249017", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "15", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis03--1249018", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "7", 
+    "outnodes": [
+      "infovis98--729570"
+    ], 
+    "innodes": [], 
+    "id": "infovis03--1249019", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "14", 
+    "outnodes": [
+      "infovis02--1173155"
+    ], 
+    "innodes": [
+      "infovis04--1382902"
+    ], 
+    "id": "infovis03--1284026", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "63", 
+    "outnodes": [
+      "infovis03--1249006", 
+      "infovis04--1382895", 
+      "infovis04--1382892"
+    ], 
+    "innodes": [
+      "infovis09--5290704", 
+      "infovis10--205", 
+      "infovis10--184", 
+      "infovis11--229", 
+      "infovis11--201", 
+      "infovis11--227", 
+      "infovis11--237", 
+      "infovis12--256"
+    ], 
+    "id": "infovis05--1532142", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "46", 
+    "outnodes": [
+      "infovis04--1382894", 
+      "infovis03--1249024", 
+      "infovis02--1173157", 
+      "infovis04--1382895", 
+      "infovis03--1249008", 
+      "infovis04--1382893", 
+      "infovis03--1249015", 
+      "infovis02--1173151"
+    ], 
+    "innodes": [
+      "infovis09--5290705", 
+      "infovis10--205"
+    ], 
+    "id": "infovis05--1532141", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis95--528691"
+    ], 
+    "innodes": [
+      "infovis07--4376150", 
+      "infovis12--288"
+    ], 
+    "id": "infovis05--1532140", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "22", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis05--1532147", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "10", 
+    "outnodes": [
+      "infovis00--885093", 
+      "infovis97--636718", 
+      "infovis00--885091"
+    ], 
+    "innodes": [], 
+    "id": "infovis05--1532146", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "69", 
+    "outnodes": [
+      "infovis98--729559", 
+      "infovis97--636759", 
+      "infovis95--528691", 
+      "infovis98--729555", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis01--963286", 
+      "infovis06--4015421"
+    ], 
+    "id": "infovis00--885088", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "24", 
+    "outnodes": [
+      "infovis98--729557"
+    ], 
+    "innodes": [
+      "infovis01--963293", 
+      "infovis01--963282"
+    ], 
+    "id": "infovis00--885089", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "302", 
+    "outnodes": [
+      "infovis96--559210"
+    ], 
+    "innodes": [
+      "infovis02--1173158", 
+      "infovis03--1249015", 
+      "infovis04--1382895", 
+      "infovis09--5290720", 
+      "infovis09--5290707", 
+      "infovis11--257"
+    ], 
+    "id": "infovis00--885086", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis95--528688"
+    ], 
+    "innodes": [
+      "infovis11--213", 
+      "infovis12--193"
+    ], 
+    "id": "infovis00--885087", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis01--963274", 
+      "infovis01--963273"
+    ], 
+    "innodes": [], 
+    "id": "infovis05--1532149", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [
+      "infovis99--801867", 
+      "infovis99--801851", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis08--4658125", 
+      "infovis11--195", 
+      "infovis12--253"
+    ], 
+    "id": "infovis05--1532148", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "18", 
+    "outnodes": [
+      "infovis01--963290", 
+      "infovis04--1382885", 
+      "infovis07--4376151", 
+      "infovis01--963283", 
+      "infovis00--885091", 
+      "infovis99--801860", 
+      "infovis05--1532145", 
+      "infovis08--4658138"
+    ], 
+    "innodes": [
+      "infovis11--227", 
+      "infovis11--197", 
+      "infovis12--205", 
+      "infovis12--262"
+    ], 
+    "id": "infovis10--186", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis98--729559", 
+      "infovis06--4015422", 
+      "infovis97--636793", 
+      "infovis05--1532142"
+    ], 
+    "innodes": [
+      "infovis11--229", 
+      "infovis11--166", 
+      "infovis11--163", 
+      "infovis12--207"
+    ], 
+    "id": "infovis10--184", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis08--4658145", 
+      "infovis05--1532124", 
+      "infovis08--4658143", 
+      "infovis97--636718", 
+      "infovis02--1173152", 
+      "infovis02--1173148", 
+      "infovis03--1249004"
+    ], 
+    "innodes": [], 
+    "id": "infovis10--185", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "17", 
+    "outnodes": [
+      "infovis07--4376136", 
+      "infovis04--1382887"
+    ], 
+    "innodes": [], 
+    "id": "infovis08--4658139", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "43", 
+    "outnodes": [
+      "infovis04--1382885", 
+      "infovis02--1173153"
+    ], 
+    "innodes": [
+      "infovis09--5290716", 
+      "infovis10--177", 
+      "infovis10--186", 
+      "infovis12--197"
+    ], 
+    "id": "infovis08--4658138", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "20", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis08--4658135", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "31", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis09--5290704", 
+      "infovis09--5290725", 
+      "infovis11--212"
+    ], 
+    "id": "infovis08--4658134", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "35", 
+    "outnodes": [
+      "infovis06--4015435", 
+      "infovis05--1532151", 
+      "infovis06--4015424"
+    ], 
+    "innodes": [
+      "infovis09--5290695", 
+      "infovis12--213", 
+      "infovis12--255"
+    ], 
+    "id": "infovis08--4658137", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "81", 
+    "outnodes": [
+      "infovis00--885098", 
+      "infovis06--4015420", 
+      "infovis07--4376131", 
+      "infovis05--1532122"
+    ], 
+    "innodes": [
+      "infovis09--5290720", 
+      "infovis10--129", 
+      "infovis10--162", 
+      "infovis10--206", 
+      "infovis11--185", 
+      "infovis11--239", 
+      "infovis12--212", 
+      "infovis12--253"
+    ], 
+    "id": "infovis08--4658136", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "66", 
+    "outnodes": [
+      "infovis07--4376131", 
+      "infovis05--1532122", 
+      "infovis07--4376132", 
+      "infovis07--4376138"
+    ], 
+    "innodes": [
+      "infovis09--5290715", 
+      "infovis10--129", 
+      "infovis10--222", 
+      "infovis12--252"
+    ], 
+    "id": "infovis08--4658131", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "9", 
+    "outnodes": [
+      "infovis07--4376141", 
+      "infovis01--963287", 
+      "infovis07--4376146", 
+      "infovis98--729570", 
+      "infovis06--4015425", 
+      "infovis05--1532134", 
+      "infovis96--559210", 
+      "infovis00--885091", 
+      "infovis07--4376131", 
+      "infovis01--963279"
+    ], 
+    "innodes": [], 
+    "id": "infovis08--4658130", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "74", 
+    "outnodes": [
+      "infovis02--1173148", 
+      "infovis07--4376131", 
+      "infovis02--1173155", 
+      "infovis01--963279"
+    ], 
+    "innodes": [
+      "infovis09--5290726", 
+      "infovis09--5290717", 
+      "infovis09--5290715", 
+      "infovis09--5290724", 
+      "infovis10--154", 
+      "infovis10--149"
+    ], 
+    "id": "infovis08--4658133", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis07--4376141", 
+      "infovis07--4376131"
+    ], 
+    "innodes": [], 
+    "id": "infovis08--4658132", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "2", 
+    "outnodes": [
+      "infovis06--4015425", 
+      "infovis07--4376140", 
+      "infovis06--4015424", 
+      "infovis03--1249030", 
+      "infovis06--4015416", 
+      "infovis06--4015418", 
+      "infovis09--5290692", 
+      "infovis00--885091", 
+      "infovis02--1173151", 
+      "infovis08--4658140"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--247", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis04--1382892", 
+      "infovis00--885086", 
+      "infovis04--1382891"
+    ], 
+    "innodes": [
+      "infovis12--256"
+    ], 
+    "id": "infovis11--257", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [
+      "infovis06--4015416", 
+      "infovis08--4658140", 
+      "infovis07--4376143", 
+      "infovis06--4015425", 
+      "infovis09--5290707", 
+      "infovis05--1532150", 
+      "infovis03--1249030"
+    ], 
+    "innodes": [
+      "infovis11--223", 
+      "infovis12--189", 
+      "infovis12--238"
+    ], 
+    "id": "infovis11--233", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [
+      "infovis02--1173156", 
+      "infovis07--4376150", 
+      "infovis09--5290692", 
+      "infovis09--5290702"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--232", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [
+      "infovis08--4658123", 
+      "infovis04--1382895", 
+      "infovis05--1532142"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--237", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "2", 
+    "outnodes": [
+      "infovis99--801869"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--234", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "12", 
+    "outnodes": [
+      "infovis08--4658136", 
+      "infovis10--129", 
+      "infovis06--4015435", 
+      "infovis00--885098", 
+      "infovis05--1532152", 
+      "infovis09--5290722", 
+      "infovis05--1532122"
+    ], 
+    "innodes": [
+      "infovis12--212", 
+      "infovis12--253"
+    ], 
+    "id": "infovis11--239", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [
+      "infovis07--4376146", 
+      "infovis05--1532133", 
+      "infovis10--162", 
+      "infovis03--1249028", 
+      "infovis10--193"
+    ], 
+    "innodes": [
+      "infovis12--253"
+    ], 
+    "id": "infovis11--259", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [
+      "infovis03--1249010", 
+      "infovis97--636791", 
+      "infovis99--801858", 
+      "infovis00--885090", 
+      "infovis03--1249005"
+    ], 
+    "innodes": [
+      "infovis10--205"
+    ], 
+    "id": "infovis04--1382901", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "41", 
+    "outnodes": [
+      "infovis97--636718"
+    ], 
+    "innodes": [
+      "infovis05--1532128", 
+      "infovis06--4015421", 
+      "infovis07--4376149", 
+      "infovis08--4658124", 
+      "infovis09--5290709"
+    ], 
+    "id": "infovis04--1382900", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "95", 
+    "outnodes": [
+      "infovis97--636792", 
+      "infovis00--885092", 
+      "infovis99--801856"
+    ], 
+    "innodes": [
+      "infovis07--4376134", 
+      "infovis07--4376151", 
+      "infovis09--5290695", 
+      "infovis11--229"
+    ], 
+    "id": "infovis04--1382903", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "105", 
+    "outnodes": [
+      "infovis03--1295823", 
+      "infovis01--963289", 
+      "infovis03--1284026", 
+      "infovis03--1249030", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis09--5290695", 
+      "infovis11--251"
+    ], 
+    "id": "infovis04--1382902", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "209", 
+    "outnodes": [
+      "infovis95--528688", 
+      "infovis02--1173156", 
+      "infovis03--1249008"
+    ], 
+    "innodes": [
+      "infovis05--1532143", 
+      "infovis05--1532127", 
+      "infovis06--4015417", 
+      "infovis06--4015439", 
+      "infovis07--4376154", 
+      "infovis07--4376138", 
+      "infovis08--4658123", 
+      "infovis09--5290720", 
+      "infovis09--5290707", 
+      "infovis09--5290719", 
+      "infovis09--5290716", 
+      "infovis10--144", 
+      "infovis10--222", 
+      "infovis10--126", 
+      "infovis11--185"
+    ], 
+    "id": "infovis04--1382905", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "106", 
+    "outnodes": [
+      "infovis02--1173141"
+    ], 
+    "innodes": [
+      "infovis05--1532143", 
+      "infovis06--4015439", 
+      "infovis07--4376138", 
+      "infovis07--4376137", 
+      "infovis09--5290720", 
+      "infovis09--5290713", 
+      "infovis09--5290719", 
+      "infovis09--5290718", 
+      "infovis10--144", 
+      "infovis10--222", 
+      "infovis11--185", 
+      "infovis11--197", 
+      "infovis12--255"
+    ], 
+    "id": "infovis04--1382904", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "65", 
+    "outnodes": [
+      "infovis03--1249030"
+    ], 
+    "innodes": [
+      "infovis06--4015416", 
+      "infovis06--4015433", 
+      "infovis07--4376154", 
+      "infovis07--4376147", 
+      "infovis09--5290691", 
+      "infovis12--208"
+    ], 
+    "id": "infovis04--1382907", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "86", 
+    "outnodes": [
+      "infovis04--1382906", 
+      "infovis97--636718"
+    ], 
+    "innodes": [
+      "infovis04--1382906", 
+      "infovis08--4658140", 
+      "infovis08--4658142", 
+      "infovis08--4658125", 
+      "infovis09--5290699", 
+      "infovis11--223"
+    ], 
+    "id": "infovis04--1382906", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "123", 
+    "outnodes": [
+      "infovis03--1249011", 
+      "infovis97--636718"
+    ], 
+    "innodes": [
+      "infovis06--4015419", 
+      "infovis06--4015416", 
+      "infovis06--4015433", 
+      "infovis08--4658140", 
+      "infovis08--4658142", 
+      "infovis09--5290699", 
+      "infovis09--5290724"
+    ], 
+    "id": "infovis04--1382909", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "55", 
+    "outnodes": [
+      "infovis99--801859"
+    ], 
+    "innodes": [
+      "infovis06--4015430", 
+      "infovis11--213"
+    ], 
+    "id": "infovis04--1382908", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "43", 
+    "outnodes": [
+      "infovis95--528689", 
+      "infovis98--729555"
+    ], 
+    "innodes": [
+      "infovis00--885090", 
+      "infovis04--1382908", 
+      "infovis06--4015431"
+    ], 
+    "id": "infovis99--801859", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "68", 
+    "outnodes": [
+      "infovis98--729555", 
+      "infovis96--559216"
+    ], 
+    "innodes": [
+      "infovis00--885090", 
+      "infovis02--1173151", 
+      "infovis02--1173145", 
+      "infovis04--1382901"
+    ], 
+    "id": "infovis99--801858", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "37", 
+    "outnodes": [
+      "infovis96--559214", 
+      "infovis98--729558"
+    ], 
+    "innodes": [
+      "infovis00--885094"
+    ], 
+    "id": "infovis99--801857", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis96--559210"
+    ], 
+    "innodes": [
+      "infovis04--1382903"
+    ], 
+    "id": "infovis99--801856", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "58", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis03--1249014", 
+      "infovis11--212"
+    ], 
+    "id": "infovis99--801855", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "164", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis06--4015436", 
+      "infovis07--4376146", 
+      "infovis08--4658146", 
+      "infovis08--4658142"
+    ], 
+    "id": "infovis99--801854", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "39", 
+    "outnodes": [
+      "infovis95--528689", 
+      "infovis98--729560", 
+      "infovis95--528691", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis05--1532133"
+    ], 
+    "id": "infovis99--801853", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis99--801852", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "190", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis05--1532148", 
+      "infovis09--5290694", 
+      "infovis10--162", 
+      "infovis10--206", 
+      "infovis11--195", 
+      "infovis12--253"
+    ], 
+    "id": "infovis99--801851", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [
+      "infovis10--159", 
+      "infovis04--1382886", 
+      "infovis07--4376154"
+    ], 
+    "innodes": [
+      "infovis12--208"
+    ], 
+    "id": "infovis11--187", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "81", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis08--4658129", 
+      "infovis09--5290696", 
+      "infovis10--164", 
+      "infovis11--227"
+    ], 
+    "id": "infovis07--4376133", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "90", 
+    "outnodes": [
+      "infovis99--801862"
+    ], 
+    "innodes": [
+      "infovis08--4658131", 
+      "infovis08--4658124", 
+      "infovis10--194", 
+      "infovis10--137", 
+      "infovis10--191", 
+      "infovis12--220"
+    ], 
+    "id": "infovis07--4376132", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "331", 
+    "outnodes": [
+      "infovis03--1249007", 
+      "infovis05--1532122"
+    ], 
+    "innodes": [
+      "infovis08--4658123", 
+      "infovis08--4658136", 
+      "infovis08--4658133", 
+      "infovis08--4658131", 
+      "infovis08--4658127", 
+      "infovis08--4658147", 
+      "infovis08--4658132", 
+      "infovis08--4658130", 
+      "infovis08--4658144", 
+      "infovis09--5290720", 
+      "infovis09--5290722", 
+      "infovis09--5290726", 
+      "infovis09--5290715", 
+      "infovis09--5290696", 
+      "infovis10--179", 
+      "infovis10--164", 
+      "infovis10--144", 
+      "infovis10--161", 
+      "infovis10--222", 
+      "infovis11--255", 
+      "infovis11--160", 
+      "infovis12--221", 
+      "infovis12--263"
+    ], 
+    "id": "infovis07--4376131", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "7", 
+    "outnodes": [
+      "infovis02--1173158", 
+      "infovis97--636718", 
+      "infovis02--1173148"
+    ], 
+    "innodes": [
+      "infovis12--263"
+    ], 
+    "id": "infovis07--4376130", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "25", 
+    "outnodes": [
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis08--4658126"
+    ], 
+    "id": "infovis07--4376137", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "35", 
+    "outnodes": [
+      "infovis04--1382887", 
+      "infovis05--1532122"
+    ], 
+    "innodes": [
+      "infovis08--4658139", 
+      "infovis09--5290694"
+    ], 
+    "id": "infovis07--4376136", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "19", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis07--4376135", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "87", 
+    "outnodes": [
+      "infovis05--1532126", 
+      "infovis03--1249031", 
+      "infovis04--1382903", 
+      "infovis04--1382897"
+    ], 
+    "innodes": [
+      "infovis08--4658128", 
+      "infovis09--5290722", 
+      "infovis09--5290717", 
+      "infovis10--129", 
+      "infovis10--164", 
+      "infovis10--206", 
+      "infovis10--175", 
+      "infovis11--196", 
+      "infovis12--221", 
+      "infovis12--272"
+    ], 
+    "id": "infovis07--4376134", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "60", 
+    "outnodes": [
+      "infovis06--4015428", 
+      "infovis05--1532122"
+    ], 
+    "innodes": [
+      "infovis10--191"
+    ], 
+    "id": "infovis07--4376139", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "106", 
+    "outnodes": [
+      "infovis04--1382905", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis08--4658131", 
+      "infovis11--181", 
+      "infovis11--176"
+    ], 
+    "id": "infovis07--4376138", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "216", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis97--636789", 
+      "infovis97--636791", 
+      "infovis97--636790", 
+      "infovis97--636788", 
+      "infovis98--729562", 
+      "infovis00--885087", 
+      "infovis01--963289", 
+      "infovis02--1173142", 
+      "infovis04--1382905"
+    ], 
+    "id": "infovis95--528688", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "141", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis97--636718", 
+      "infovis97--636759", 
+      "infovis98--729555", 
+      "infovis99--801859", 
+      "infovis99--801853", 
+      "infovis01--963285", 
+      "infovis01--963281", 
+      "infovis02--1173151"
+    ], 
+    "id": "infovis95--528689", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis12--233", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "39", 
+    "outnodes": [
+      "infovis95--528690", 
+      "infovis99--801867"
+    ], 
+    "innodes": [
+      "infovis08--4658148", 
+      "infovis09--5290708"
+    ], 
+    "id": "infovis01--963288", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "82", 
+    "outnodes": [
+      "infovis95--528688"
+    ], 
+    "innodes": [
+      "infovis04--1382902", 
+      "infovis04--1382885", 
+      "infovis04--1382884", 
+      "infovis05--1532136", 
+      "infovis08--4658124", 
+      "infovis10--177", 
+      "infovis10--164"
+    ], 
+    "id": "infovis01--963289", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "44", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis96--559224"
+    ], 
+    "id": "infovis95--528680", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis95--528681", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "71", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis96--559222", 
+      "infovis97--636794"
+    ], 
+    "id": "infovis95--528682", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis95--528683", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "20", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis96--559213", 
+      "infovis97--636792", 
+      "infovis99--801863"
+    ], 
+    "id": "infovis95--528684", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "202", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis01--963273", 
+      "infovis02--1173155", 
+      "infovis09--5290701"
+    ], 
+    "id": "infovis95--528685", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis01--963280", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis95--528687", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "140", 
+    "outnodes": [
+      "infovis03--1249011", 
+      "infovis04--1382886", 
+      "infovis05--1532126", 
+      "infovis97--636718", 
+      "infovis04--1382909"
+    ], 
+    "innodes": [
+      "infovis08--4658142", 
+      "infovis09--5290706", 
+      "infovis09--5290699", 
+      "infovis10--154", 
+      "infovis11--169"
+    ], 
+    "id": "infovis06--4015419", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "41", 
+    "outnodes": [
+      "infovis03--1249028", 
+      "infovis02--1173153", 
+      "infovis02--1173155"
+    ], 
+    "innodes": [
+      "infovis09--5290698", 
+      "infovis09--5290701", 
+      "infovis11--247", 
+      "infovis12--225"
+    ], 
+    "id": "infovis06--4015418", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "128", 
+    "outnodes": [
+      "infovis04--1382905", 
+      "infovis05--1532126"
+    ], 
+    "innodes": [
+      "infovis08--4658145", 
+      "infovis09--5290695", 
+      "infovis12--208", 
+      "infovis12--255"
+    ], 
+    "id": "infovis06--4015417", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "108", 
+    "outnodes": [
+      "infovis04--1382907", 
+      "infovis04--1382909", 
+      "infovis97--636718", 
+      "infovis05--1532127"
+    ], 
+    "innodes": [
+      "infovis08--4658145", 
+      "infovis10--210", 
+      "infovis11--233", 
+      "infovis11--250", 
+      "infovis11--247", 
+      "infovis12--238"
+    ], 
+    "id": "infovis06--4015416", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "32", 
+    "outnodes": [
+      "infovis04--1382886", 
+      "infovis03--1249009", 
+      "infovis96--559226"
+    ], 
+    "innodes": [
+      "infovis08--4658137", 
+      "infovis08--4658124", 
+      "infovis11--213"
+    ], 
+    "id": "infovis05--1532151", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "16", 
+    "outnodes": [
+      "infovis97--636792", 
+      "infovis00--885092", 
+      "infovis96--559213", 
+      "infovis04--1382905", 
+      "infovis02--1173163", 
+      "infovis02--1173142", 
+      "infovis02--1173141", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis09--5290713"
+    ], 
+    "id": "infovis05--1532143", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "322", 
+    "outnodes": [
+      "infovis95--528689", 
+      "infovis95--528691"
+    ], 
+    "innodes": [
+      "infovis98--729558", 
+      "infovis01--963279", 
+      "infovis01--963284", 
+      "infovis01--963278", 
+      "infovis01--963293", 
+      "infovis02--1173151", 
+      "infovis03--1249009", 
+      "infovis04--1382909", 
+      "infovis04--1382906", 
+      "infovis04--1382900", 
+      "infovis04--1382910", 
+      "infovis05--1532124", 
+      "infovis05--1532146", 
+      "infovis06--4015425", 
+      "infovis06--4015419", 
+      "infovis06--4015416", 
+      "infovis06--4015434", 
+      "infovis07--4376130", 
+      "infovis10--185", 
+      "infovis12--250", 
+      "infovis12--272"
+    ], 
+    "id": "infovis97--636718", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "88", 
+    "outnodes": [
+      "infovis01--963289"
+    ], 
+    "innodes": [
+      "infovis05--1532136", 
+      "infovis08--4658124", 
+      "infovis12--208"
+    ], 
+    "id": "infovis04--1382884", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "39", 
+    "outnodes": [
+      "infovis02--1173152", 
+      "infovis01--963283"
+    ], 
+    "innodes": [
+      "infovis07--4376152", 
+      "infovis08--4658143", 
+      "infovis10--186", 
+      "infovis11--229", 
+      "infovis11--227"
+    ], 
+    "id": "infovis05--1532145", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "138", 
+    "outnodes": [
+      "infovis03--1249030"
+    ], 
+    "innodes": [
+      "infovis05--1532126", 
+      "infovis05--1532151", 
+      "infovis06--4015425", 
+      "infovis06--4015419", 
+      "infovis06--4015424", 
+      "infovis08--4658147", 
+      "infovis11--187", 
+      "infovis12--208"
+    ], 
+    "id": "infovis04--1382886", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "149", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis07--4376136", 
+      "infovis08--4658139", 
+      "infovis09--5290694"
+    ], 
+    "id": "infovis04--1382887", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "50", 
+    "outnodes": [
+      "infovis02--1173144"
+    ], 
+    "innodes": [
+      "infovis06--4015426", 
+      "infovis07--4376129", 
+      "infovis10--180"
+    ], 
+    "id": "infovis04--1382888", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis05--1532125", 
+      "infovis09--5290721"
+    ], 
+    "id": "infovis04--1382889", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "40", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis09--5290694", 
+      "infovis10--162", 
+      "infovis12--265"
+    ], 
+    "id": "infovis05--1532144", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis00--885092", 
+      "infovis06--4015421", 
+      "infovis04--1382885", 
+      "infovis07--4376131", 
+      "infovis03--1249015"
+    ], 
+    "innodes": [
+      "infovis09--5290714"
+    ], 
+    "id": "infovis08--4658144", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "17", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis04--1382888", 
+      "infovis12--264"
+    ], 
+    "id": "infovis02--1173144", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "84", 
+    "outnodes": [
+      "infovis99--801854", 
+      "infovis07--4376146"
+    ], 
+    "innodes": [
+      "infovis09--5290695", 
+      "infovis09--5290702", 
+      "infovis09--5290714", 
+      "infovis10--162", 
+      "infovis10--174", 
+      "infovis11--175", 
+      "infovis12--212", 
+      "infovis12--291"
+    ], 
+    "id": "infovis08--4658146", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [
+      "infovis04--1382886", 
+      "infovis07--4376131"
+    ], 
+    "innodes": [
+      "infovis09--5290700", 
+      "infovis09--5290701", 
+      "infovis10--177", 
+      "infovis11--251", 
+      "infovis12--245"
+    ], 
+    "id": "infovis08--4658147", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "76", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis03--1249030", 
+      "infovis04--1382904", 
+      "infovis05--1532143", 
+      "infovis06--4015439", 
+      "infovis11--227"
+    ], 
+    "id": "infovis02--1173141", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "42", 
+    "outnodes": [
+      "infovis03--1249011", 
+      "infovis06--4015433"
+    ], 
+    "innodes": [], 
+    "id": "infovis08--4658141", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "23", 
+    "outnodes": [
+      "infovis06--4015434", 
+      "infovis99--801854", 
+      "infovis06--4015435", 
+      "infovis04--1382906", 
+      "infovis05--1532126", 
+      "infovis02--1173159", 
+      "infovis06--4015419", 
+      "infovis02--1173148", 
+      "infovis04--1382909"
+    ], 
+    "innodes": [
+      "infovis09--5290706", 
+      "infovis09--5290724", 
+      "infovis10--210"
+    ], 
+    "id": "infovis08--4658142", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "14", 
+    "outnodes": [
+      "infovis07--4376155", 
+      "infovis05--1532126", 
+      "infovis02--1173159", 
+      "infovis05--1532145"
+    ], 
+    "innodes": [
+      "infovis10--185"
+    ], 
+    "id": "infovis08--4658143", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [
+      "infovis01--963288", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis09--5290706", 
+      "infovis10--210", 
+      "infovis11--186"
+    ], 
+    "id": "infovis08--4658148", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "263", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis04--1382885", 
+      "infovis04--1382899", 
+      "infovis05--1532129", 
+      "infovis05--1532124", 
+      "infovis07--4376146", 
+      "infovis07--4376147", 
+      "infovis07--4376153", 
+      "infovis07--4376130", 
+      "infovis08--4658133", 
+      "infovis08--4658142", 
+      "infovis10--185", 
+      "infovis11--212"
+    ], 
+    "id": "infovis02--1173148", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis09--5290703", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "31", 
+    "outnodes": [
+      "infovis98--729559", 
+      "infovis06--4015421", 
+      "infovis08--4658134", 
+      "infovis04--1382895", 
+      "infovis04--1382892", 
+      "infovis05--1532142", 
+      "infovis04--1382891", 
+      "infovis04--1382893", 
+      "infovis03--1249015"
+    ], 
+    "innodes": [
+      "infovis11--229", 
+      "infovis12--256"
+    ], 
+    "id": "infovis09--5290704", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "25", 
+    "outnodes": [
+      "infovis08--4658147"
+    ], 
+    "innodes": [
+      "infovis10--177", 
+      "infovis12--236", 
+      "infovis12--245"
+    ], 
+    "id": "infovis09--5290700", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "92", 
+    "outnodes": [
+      "infovis01--963285", 
+      "infovis01--963289", 
+      "infovis02--1173148", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis07--4376153", 
+      "infovis08--4658138", 
+      "infovis08--4658144", 
+      "infovis10--186", 
+      "infovis10--209", 
+      "infovis11--253", 
+      "infovis11--193"
+    ], 
+    "id": "infovis04--1382885", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis07--4376149"
+    ], 
+    "innodes": [
+      "infovis12--213"
+    ], 
+    "id": "infovis11--192", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "14", 
+    "outnodes": [
+      "infovis07--4376131"
+    ], 
+    "innodes": [
+      "infovis11--174", 
+      "infovis12--230"
+    ], 
+    "id": "infovis10--161", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [
+      "infovis08--4658136", 
+      "infovis07--4376143", 
+      "infovis07--4376151", 
+      "infovis08--4658146", 
+      "infovis05--1532144", 
+      "infovis99--801851"
+    ], 
+    "innodes": [
+      "infovis11--259", 
+      "infovis11--195", 
+      "infovis12--253"
+    ], 
+    "id": "infovis10--162", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "4", 
+    "outnodes": [
+      "infovis09--5290720", 
+      "infovis09--5290692"
+    ], 
+    "innodes": [], 
+    "id": "infovis10--163", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "25", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis00--885092", 
+      "infovis98--729560", 
+      "infovis07--4376143", 
+      "infovis06--4015420", 
+      "infovis08--4658129", 
+      "infovis01--963289", 
+      "infovis08--4658124", 
+      "infovis07--4376133", 
+      "infovis07--4376134", 
+      "infovis07--4376131", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [
+      "infovis11--251", 
+      "infovis12--275", 
+      "infovis12--204"
+    ], 
+    "id": "infovis10--164", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis06--4015427", 
+      "infovis10--191", 
+      "infovis10--186", 
+      "infovis04--1382904", 
+      "infovis96--559216", 
+      "infovis08--4658149", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [
+      "infovis12--285", 
+      "infovis12--279"
+    ], 
+    "id": "infovis11--197", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis05--1532148", 
+      "infovis99--801851", 
+      "infovis10--162", 
+      "infovis10--193", 
+      "infovis07--4376151", 
+      "infovis01--963273"
+    ], 
+    "innodes": [
+      "infovis12--253"
+    ], 
+    "id": "infovis11--195", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "147", 
+    "outnodes": [
+      "infovis96--559214", 
+      "infovis97--636786", 
+      "infovis97--636718"
+    ], 
+    "innodes": [
+      "infovis99--801857", 
+      "infovis01--963278", 
+      "infovis02--1173149", 
+      "infovis08--4658125", 
+      "infovis11--205", 
+      "infovis11--160"
+    ], 
+    "id": "infovis98--729558", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "150", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis99--801868", 
+      "infovis00--885088", 
+      "infovis03--1249015", 
+      "infovis03--1249006", 
+      "infovis03--1249016", 
+      "infovis04--1382895", 
+      "infovis04--1382893", 
+      "infovis08--4658123", 
+      "infovis09--5290705", 
+      "infovis09--5290704", 
+      "infovis10--184", 
+      "infovis11--229"
+    ], 
+    "id": "infovis98--729559", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "4", 
+    "outnodes": [
+      "infovis09--5290720", 
+      "infovis10--191"
+    ], 
+    "innodes": [
+      "infovis12--213", 
+      "infovis12--262"
+    ], 
+    "id": "infovis11--209", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "15", 
+    "outnodes": [
+      "infovis96--559226"
+    ], 
+    "innodes": [
+      "infovis07--4376153", 
+      "infovis11--239", 
+      "infovis12--225"
+    ], 
+    "id": "infovis05--1532152", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "45", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis01--963293"
+    ], 
+    "id": "infovis98--729553", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "19", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis01--963293"
+    ], 
+    "id": "infovis98--729554", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "76", 
+    "outnodes": [
+      "infovis97--636794", 
+      "infovis97--636792", 
+      "infovis95--528689"
+    ], 
+    "innodes": [
+      "infovis99--801858", 
+      "infovis99--801859", 
+      "infovis00--885088", 
+      "infovis02--1173152"
+    ], 
+    "id": "infovis98--729555", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [
+      "infovis96--559216"
+    ], 
+    "innodes": [], 
+    "id": "infovis98--729556", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "60", 
+    "outnodes": [
+      "infovis97--636787"
+    ], 
+    "innodes": [
+      "infovis00--885091", 
+      "infovis00--885089", 
+      "infovis00--885103", 
+      "infovis01--963290", 
+      "infovis02--1173151"
+    ], 
+    "id": "infovis98--729557", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "34", 
+    "outnodes": [
+      "infovis07--4376146", 
+      "infovis03--1249006", 
+      "infovis08--4658146", 
+      "infovis08--4658149", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [
+      "infovis10--144", 
+      "infovis10--191", 
+      "infovis11--174", 
+      "infovis11--227", 
+      "infovis11--232", 
+      "infovis12--205"
+    ], 
+    "id": "infovis09--5290702", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "48", 
+    "outnodes": [
+      "infovis99--801858"
+    ], 
+    "innodes": [
+      "infovis12--285"
+    ], 
+    "id": "infovis02--1173145", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis11--197"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--279", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "14", 
+    "outnodes": [
+      "infovis06--4015416", 
+      "infovis03--1249011", 
+      "infovis97--636792", 
+      "infovis06--4015417", 
+      "infovis07--4376154", 
+      "infovis06--4015425"
+    ], 
+    "innodes": [
+      "infovis10--210", 
+      "infovis10--185", 
+      "infovis12--208", 
+      "infovis12--255"
+    ], 
+    "id": "infovis08--4658145", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis07--4376146", 
+      "infovis08--4658128", 
+      "infovis09--5290695", 
+      "infovis97--636718", 
+      "infovis07--4376134"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--272", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis12--271", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "2", 
+    "outnodes": [
+      "infovis01--963291"
+    ], 
+    "innodes": [], 
+    "id": "infovis02--1173147", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [
+      "infovis09--5290720", 
+      "infovis10--164", 
+      "infovis07--4376145", 
+      "infovis11--251"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--275", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "31", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis07--4376149", 
+      "infovis09--5290709"
+    ], 
+    "id": "infovis02--1173146", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "73", 
+    "outnodes": [
+      "infovis07--4376143", 
+      "infovis07--4376155", 
+      "infovis04--1382906", 
+      "infovis06--4015425", 
+      "infovis05--1532138", 
+      "infovis05--1532150", 
+      "infovis04--1382909", 
+      "infovis03--1249008"
+    ], 
+    "innodes": [
+      "infovis09--5290710", 
+      "infovis09--5290701", 
+      "infovis09--5290724", 
+      "infovis10--154", 
+      "infovis11--233", 
+      "infovis11--190", 
+      "infovis11--223", 
+      "infovis11--247", 
+      "infovis12--212", 
+      "infovis12--238"
+    ], 
+    "id": "infovis08--4658140", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "12", 
+    "outnodes": [
+      "infovis96--559211"
+    ], 
+    "innodes": [], 
+    "id": "infovis02--1173143", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "29", 
+    "outnodes": [
+      "infovis95--528688", 
+      "infovis97--636788"
+    ], 
+    "innodes": [
+      "infovis05--1532143"
+    ], 
+    "id": "infovis02--1173142", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "2", 
+    "outnodes": [
+      "infovis09--5290706", 
+      "infovis10--210"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--199", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "32", 
+    "outnodes": [
+      "infovis98--729560", 
+      "infovis96--559213", 
+      "infovis02--1173156"
+    ], 
+    "innodes": [
+      "infovis06--4015439", 
+      "infovis07--4376131"
+    ], 
+    "id": "infovis03--1249007", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "66", 
+    "outnodes": [
+      "infovis98--729559"
+    ], 
+    "innodes": [
+      "infovis05--1532142", 
+      "infovis09--5290702", 
+      "infovis11--229", 
+      "infovis11--213", 
+      "infovis11--250"
+    ], 
+    "id": "infovis03--1249006", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis04--1382901"
+    ], 
+    "id": "infovis03--1249005", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "72", 
+    "outnodes": [
+      "infovis03--1249030"
+    ], 
+    "innodes": [
+      "infovis03--1249030", 
+      "infovis10--185"
+    ], 
+    "id": "infovis03--1249004", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "26", 
+    "outnodes": [
+      "infovis98--729558", 
+      "infovis01--963286"
+    ], 
+    "innodes": [], 
+    "id": "infovis02--1173149", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "64", 
+    "outnodes": [
+      "infovis96--559214", 
+      "infovis97--636718", 
+      "infovis00--885091", 
+      "infovis02--1173151", 
+      "infovis01--963279"
+    ], 
+    "innodes": [
+      "infovis04--1382890", 
+      "infovis05--1532151", 
+      "infovis09--5290716"
+    ], 
+    "id": "infovis03--1249009", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "80", 
+    "outnodes": [
+      "infovis96--559214", 
+      "infovis97--636786"
+    ], 
+    "innodes": [
+      "infovis04--1382905", 
+      "infovis05--1532141", 
+      "infovis06--4015425", 
+      "infovis07--4376140", 
+      "infovis08--4658140", 
+      "infovis09--5290705", 
+      "infovis11--190", 
+      "infovis11--223", 
+      "infovis12--189", 
+      "infovis12--212"
+    ], 
+    "id": "infovis03--1249008", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "9", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis07--4376140", 
+      "infovis06--4015422", 
+      "infovis08--4658123", 
+      "infovis02--1173157", 
+      "infovis10--205", 
+      "infovis05--1532142"
+    ], 
+    "innodes": [
+      "infovis12--237"
+    ], 
+    "id": "infovis11--201", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "130", 
+    "outnodes": [
+      "infovis98--729560", 
+      "infovis00--885092", 
+      "infovis01--963289", 
+      "infovis04--1382884"
+    ], 
+    "innodes": [
+      "infovis07--4376144", 
+      "infovis07--4376151", 
+      "infovis08--4658123", 
+      "infovis08--4658144", 
+      "infovis09--5290695", 
+      "infovis10--164", 
+      "infovis10--184", 
+      "infovis11--201", 
+      "infovis11--192", 
+      "infovis12--213", 
+      "infovis12--189"
+    ], 
+    "id": "infovis05--1532136", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "16", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis07--4376150"
+    ], 
+    "id": "infovis05--1532137", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "50", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis08--4658130", 
+      "infovis09--5290692"
+    ], 
+    "id": "infovis05--1532134", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis05--1532135", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "24", 
+    "outnodes": [
+      "infovis04--1382899", 
+      "infovis00--885091"
+    ], 
+    "innodes": [
+      "infovis07--4376147", 
+      "infovis08--4658124", 
+      "infovis08--4658125"
+    ], 
+    "id": "infovis05--1532132", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis02--1173160", 
+      "infovis99--801853", 
+      "infovis01--963274", 
+      "infovis03--1249014"
+    ], 
+    "innodes": [
+      "infovis08--4658124", 
+      "infovis10--129", 
+      "infovis11--259"
+    ], 
+    "id": "infovis05--1532133", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis06--4015435", 
+      "infovis12--236"
+    ], 
+    "id": "infovis05--1532130", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "24", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis12--189", 
+      "infovis12--264"
+    ], 
+    "id": "infovis05--1532131", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [
+      "infovis07--4376139", 
+      "infovis07--4376146", 
+      "infovis00--885095", 
+      "infovis09--5290702", 
+      "infovis07--4376132", 
+      "infovis08--4658149"
+    ], 
+    "innodes": [
+      "infovis11--197", 
+      "infovis11--209", 
+      "infovis12--192", 
+      "infovis12--264"
+    ], 
+    "id": "infovis10--191", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "15", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis11--259", 
+      "infovis11--195", 
+      "infovis12--253"
+    ], 
+    "id": "infovis10--193", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [
+      "infovis09--5290722", 
+      "infovis05--1532122", 
+      "infovis07--4376132"
+    ], 
+    "innodes": [
+      "infovis11--176", 
+      "infovis12--253", 
+      "infovis12--264"
+    ], 
+    "id": "infovis10--194", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "96", 
+    "outnodes": [
+      "infovis04--1382894"
+    ], 
+    "innodes": [
+      "infovis08--4658140", 
+      "infovis09--5290705", 
+      "infovis09--5290721", 
+      "infovis10--197", 
+      "infovis11--166", 
+      "infovis11--163"
+    ], 
+    "id": "infovis05--1532138", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "46", 
+    "outnodes": [
+      "infovis02--1173157", 
+      "infovis03--1249016"
+    ], 
+    "innodes": [
+      "infovis09--5290705", 
+      "infovis09--5290705", 
+      "infovis09--5290708", 
+      "infovis10--138", 
+      "infovis10--197", 
+      "infovis11--186"
+    ], 
+    "id": "infovis05--1532139", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "52", 
+    "outnodes": [
+      "infovis95--528689", 
+      "infovis95--528686", 
+      "infovis95--528691", 
+      "infovis96--559223"
+    ], 
+    "innodes": [
+      "infovis98--729568", 
+      "infovis98--729562", 
+      "infovis00--885088"
+    ], 
+    "id": "infovis97--636759", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "10", 
+    "outnodes": [
+      "infovis10--177", 
+      "infovis09--5290695", 
+      "infovis10--179", 
+      "infovis07--4376131"
+    ], 
+    "innodes": [
+      "infovis12--262", 
+      "infovis12--214"
+    ], 
+    "id": "infovis11--255", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "17", 
+    "outnodes": [
+      "infovis06--4015418"
+    ], 
+    "innodes": [
+      "infovis10--149", 
+      "infovis12--225"
+    ], 
+    "id": "infovis09--5290698", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "41", 
+    "outnodes": [
+      "infovis04--1382906", 
+      "infovis04--1382909", 
+      "infovis06--4015425", 
+      "infovis06--4015419", 
+      "infovis06--4015424"
+    ], 
+    "innodes": [
+      "infovis10--154", 
+      "infovis12--252"
+    ], 
+    "id": "infovis09--5290699", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis04--1382902", 
+      "infovis06--4015435", 
+      "infovis07--4376143", 
+      "infovis10--164", 
+      "infovis10--144", 
+      "infovis10--179", 
+      "infovis08--4658147"
+    ], 
+    "innodes": [
+      "infovis12--275", 
+      "infovis12--262", 
+      "infovis12--214"
+    ], 
+    "id": "infovis11--251", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "4", 
+    "outnodes": [
+      "infovis06--4015416", 
+      "infovis07--4376140", 
+      "infovis07--4376154", 
+      "infovis06--4015425", 
+      "infovis10--138", 
+      "infovis03--1249006", 
+      "infovis09--5290692", 
+      "infovis10--216", 
+      "infovis06--4015424", 
+      "infovis05--1532129"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--250", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "12", 
+    "outnodes": [
+      "infovis01--963290", 
+      "infovis04--1382885"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--253", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "39", 
+    "outnodes": [
+      "infovis06--4015425", 
+      "infovis05--1532134"
+    ], 
+    "innodes": [
+      "infovis10--138", 
+      "infovis10--137", 
+      "infovis10--163", 
+      "infovis11--250", 
+      "infovis11--232", 
+      "infovis11--247", 
+      "infovis12--213"
+    ], 
+    "id": "infovis09--5290692", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis09--5290693", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "19", 
+    "outnodes": [
+      "infovis06--4015425"
+    ], 
+    "innodes": [
+      "infovis11--169", 
+      "infovis12--213", 
+      "infovis12--255"
+    ], 
+    "id": "infovis09--5290690", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "7", 
+    "outnodes": [
+      "infovis04--1382907", 
+      "infovis06--4015421", 
+      "infovis07--4376143"
+    ], 
+    "innodes": [], 
+    "id": "infovis09--5290691", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis03--1249024", 
+      "infovis08--4658123", 
+      "infovis01--963287", 
+      "infovis07--4376133", 
+      "infovis07--4376131", 
+      "infovis96--559216"
+    ], 
+    "innodes": [], 
+    "id": "infovis09--5290696", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "24", 
+    "outnodes": [
+      "infovis05--1532124", 
+      "infovis96--559216"
+    ], 
+    "innodes": [
+      "infovis10--205", 
+      "infovis11--213", 
+      "infovis12--237"
+    ], 
+    "id": "infovis09--5290697", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "23", 
+    "outnodes": [
+      "infovis06--4015427", 
+      "infovis07--4376143", 
+      "infovis07--4376136", 
+      "infovis04--1382887", 
+      "infovis06--4015426", 
+      "infovis05--1532144", 
+      "infovis99--801851"
+    ], 
+    "innodes": [], 
+    "id": "infovis09--5290694", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "70", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis04--1382902", 
+      "infovis08--4658137", 
+      "infovis97--636792", 
+      "infovis98--729560", 
+      "infovis06--4015417", 
+      "infovis08--4658124", 
+      "infovis05--1532124", 
+      "infovis05--1532150", 
+      "infovis08--4658146", 
+      "infovis04--1382903", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [
+      "infovis10--126", 
+      "infovis11--255", 
+      "infovis11--175", 
+      "infovis12--213", 
+      "infovis12--255", 
+      "infovis12--272"
+    ], 
+    "id": "infovis09--5290695", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [
+      "infovis08--4658136", 
+      "infovis08--4658131", 
+      "infovis05--1532133", 
+      "infovis03--1249028", 
+      "infovis07--4376134"
+    ], 
+    "innodes": [
+      "infovis11--239", 
+      "infovis12--253", 
+      "infovis12--291"
+    ], 
+    "id": "infovis10--129", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "2", 
+    "outnodes": [
+      "infovis04--1382905", 
+      "infovis09--5290695"
+    ], 
+    "innodes": [], 
+    "id": "infovis10--126", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis98--729558", 
+      "infovis96--559214", 
+      "infovis97--636786"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--205", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis09--5290702", 
+      "infovis10--161", 
+      "infovis08--4658149"
+    ], 
+    "innodes": [
+      "infovis12--213"
+    ], 
+    "id": "infovis11--174", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis07--4376146", 
+      "infovis08--4658124", 
+      "infovis10--177", 
+      "infovis09--5290695", 
+      "infovis08--4658146", 
+      "infovis01--963279"
+    ], 
+    "innodes": [
+      "infovis12--262", 
+      "infovis12--197", 
+      "infovis12--244"
+    ], 
+    "id": "infovis11--175", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "4", 
+    "outnodes": [
+      "infovis08--4658123", 
+      "infovis10--194", 
+      "infovis10--130", 
+      "infovis07--4376138"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--176", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis03--1249025"
+    ], 
+    "id": "infovis98--729561", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "143", 
+    "outnodes": [
+      "infovis97--636792", 
+      "infovis97--636761", 
+      "infovis97--636793", 
+      "infovis96--559222", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis99--801853", 
+      "infovis00--885092", 
+      "infovis03--1249007", 
+      "infovis05--1532136", 
+      "infovis06--4015439", 
+      "infovis08--4658124", 
+      "infovis09--5290720", 
+      "infovis09--5290695", 
+      "infovis09--5290713", 
+      "infovis09--5290715", 
+      "infovis09--5290718", 
+      "infovis10--164", 
+      "infovis12--205", 
+      "infovis12--204"
+    ], 
+    "id": "infovis98--729560", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "85", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis01--963294"
+    ], 
+    "id": "infovis98--729563", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "24", 
+    "outnodes": [
+      "infovis96--559226", 
+      "infovis97--636759", 
+      "infovis95--528691", 
+      "infovis95--528688"
+    ], 
+    "innodes": [], 
+    "id": "infovis98--729562", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "16", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis99--801866", 
+      "infovis00--885097"
+    ], 
+    "id": "infovis98--729565", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis98--729564", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "49", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis98--729567", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "10", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis98--729566", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "19", 
+    "outnodes": [
+      "infovis96--559228", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis99--801868"
+    ], 
+    "id": "infovis98--729569", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "54", 
+    "outnodes": [
+      "infovis97--636761", 
+      "infovis96--559220", 
+      "infovis97--636759", 
+      "infovis96--559228", 
+      "infovis95--528686"
+    ], 
+    "innodes": [], 
+    "id": "infovis98--729568", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "4", 
+    "outnodes": [
+      "infovis09--5290720", 
+      "infovis08--4658131", 
+      "infovis04--1382905", 
+      "infovis09--5290715", 
+      "infovis07--4376131", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [], 
+    "id": "infovis10--222", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis10--129", 
+      "infovis06--4015427", 
+      "infovis07--4376143", 
+      "infovis00--885098", 
+      "infovis06--4015425", 
+      "infovis08--4658146", 
+      "infovis09--5290722"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--291", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "82", 
+    "outnodes": [
+      "infovis02--1173141", 
+      "infovis03--1249004"
+    ], 
+    "innodes": [
+      "infovis03--1249004", 
+      "infovis04--1382886", 
+      "infovis04--1382902", 
+      "infovis04--1382907", 
+      "infovis06--4015425", 
+      "infovis11--233", 
+      "infovis11--247", 
+      "infovis12--208", 
+      "infovis12--226", 
+      "infovis12--255"
+    ], 
+    "id": "infovis03--1249030", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "71", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis07--4376134", 
+      "infovis08--4658128", 
+      "infovis10--175", 
+      "infovis11--196"
+    ], 
+    "id": "infovis03--1249031", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "106", 
+    "outnodes": [
+      "infovis99--801854", 
+      "infovis02--1173148", 
+      "infovis01--963279"
+    ], 
+    "innodes": [
+      "infovis08--4658123", 
+      "infovis08--4658146", 
+      "infovis08--4658130", 
+      "infovis09--5290702", 
+      "infovis10--179", 
+      "infovis10--144", 
+      "infovis10--191", 
+      "infovis11--185", 
+      "infovis11--259", 
+      "infovis11--175", 
+      "infovis12--252", 
+      "infovis12--272"
+    ], 
+    "id": "infovis07--4376146", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "33", 
+    "outnodes": [
+      "infovis04--1382907", 
+      "infovis05--1532128", 
+      "infovis02--1173156", 
+      "infovis04--1382899", 
+      "infovis02--1173148", 
+      "infovis05--1532132", 
+      "infovis99--801860", 
+      "infovis06--4015431", 
+      "infovis05--1532129"
+    ], 
+    "innodes": [
+      "infovis09--5290719"
+    ], 
+    "id": "infovis07--4376147", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "182", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis96--559213", 
+      "infovis05--1532126", 
+      "infovis00--885091", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis08--4658123", 
+      "infovis08--4658127", 
+      "infovis08--4658124", 
+      "infovis09--5290695", 
+      "infovis09--5290702", 
+      "infovis10--177", 
+      "infovis10--164", 
+      "infovis10--175", 
+      "infovis11--229", 
+      "infovis11--197", 
+      "infovis12--204", 
+      "infovis12--237"
+    ], 
+    "id": "infovis07--4376144", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "71", 
+    "outnodes": [
+      "infovis00--885091"
+    ], 
+    "innodes": [
+      "infovis08--4658128", 
+      "infovis09--5290713", 
+      "infovis09--5290714", 
+      "infovis12--275", 
+      "infovis12--204", 
+      "infovis12--237"
+    ], 
+    "id": "infovis07--4376145", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "23", 
+    "outnodes": [
+      "infovis01--963287", 
+      "infovis01--963273", 
+      "infovis00--885097"
+    ], 
+    "innodes": [], 
+    "id": "infovis07--4376142", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "106", 
+    "outnodes": [
+      "infovis97--636789", 
+      "infovis97--636792", 
+      "infovis00--885092"
+    ], 
+    "innodes": [
+      "infovis08--4658140", 
+      "infovis09--5290694", 
+      "infovis09--5290691", 
+      "infovis10--162", 
+      "infovis10--164", 
+      "infovis11--229", 
+      "infovis11--233", 
+      "infovis11--190", 
+      "infovis11--166", 
+      "infovis11--251", 
+      "infovis12--212", 
+      "infovis12--253", 
+      "infovis12--291"
+    ], 
+    "id": "infovis07--4376143", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "72", 
+    "outnodes": [
+      "infovis06--4015425", 
+      "infovis06--4015424", 
+      "infovis03--1249008"
+    ], 
+    "innodes": [
+      "infovis09--5290706", 
+      "infovis10--205", 
+      "infovis11--183", 
+      "infovis11--201", 
+      "infovis11--250", 
+      "infovis11--247"
+    ], 
+    "id": "infovis07--4376140", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "26", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis08--4658132", 
+      "infovis08--4658130"
+    ], 
+    "id": "infovis07--4376141", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "14", 
+    "outnodes": [
+      "infovis03--1249025"
+    ], 
+    "innodes": [], 
+    "id": "infovis07--4376148", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "19", 
+    "outnodes": [
+      "infovis04--1382900", 
+      "infovis02--1173146", 
+      "infovis04--1382891", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis09--5290709", 
+      "infovis11--192"
+    ], 
+    "id": "infovis07--4376149", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "2", 
+    "outnodes": [
+      "infovis09--5290701", 
+      "infovis05--1532150", 
+      "infovis06--4015418", 
+      "infovis05--1532152", 
+      "infovis09--5290698"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--225", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis09--5290706", 
+      "infovis99--801869", 
+      "infovis03--1249030"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--226", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis09--5290706", 
+      "infovis07--4376134", 
+      "infovis07--4376131"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--221", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis07--4376132", 
+      "infovis12--262"
+    ], 
+    "innodes": [
+      "infovis12--262"
+    ], 
+    "id": "infovis12--220", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis10--209", 
+      "infovis04--1382885"
+    ], 
+    "innodes": [
+      "infovis12--215"
+    ], 
+    "id": "infovis11--193", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "2", 
+    "outnodes": [
+      "infovis09--5290706", 
+      "infovis11--183"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--229", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "9", 
+    "outnodes": [
+      "infovis08--4658140", 
+      "infovis07--4376143", 
+      "infovis07--4376154", 
+      "infovis06--4015425", 
+      "infovis03--1249008"
+    ], 
+    "innodes": [
+      "infovis12--212"
+    ], 
+    "id": "infovis11--190", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis12--193", 
+      "infovis12--192"
+    ], 
+    "id": "infovis11--191", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis07--4376134", 
+      "infovis03--1249031"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--196", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "44", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis07--4376139"
+    ], 
+    "id": "infovis06--4015428", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis06--4015429", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "131", 
+    "outnodes": [
+      "infovis04--1382886", 
+      "infovis05--1532126", 
+      "infovis05--1532124"
+    ], 
+    "innodes": [
+      "infovis07--4376154", 
+      "infovis07--4376140", 
+      "infovis08--4658137", 
+      "infovis09--5290699", 
+      "infovis10--210", 
+      "infovis11--183", 
+      "infovis11--213", 
+      "infovis11--250", 
+      "infovis11--247", 
+      "infovis12--189"
+    ], 
+    "id": "infovis06--4015424", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "317", 
+    "outnodes": [
+      "infovis04--1382886", 
+      "infovis97--636718", 
+      "infovis02--1173152", 
+      "infovis05--1532150", 
+      "infovis03--1249030", 
+      "infovis03--1249008", 
+      "infovis05--1532129"
+    ], 
+    "innodes": [
+      "infovis07--4376154", 
+      "infovis07--4376140", 
+      "infovis08--4658140", 
+      "infovis08--4658145", 
+      "infovis08--4658130", 
+      "infovis09--5290699", 
+      "infovis09--5290692", 
+      "infovis09--5290710", 
+      "infovis09--5290690", 
+      "infovis09--5290701", 
+      "infovis10--154", 
+      "infovis10--138", 
+      "infovis11--183", 
+      "infovis11--233", 
+      "infovis11--190", 
+      "infovis11--226", 
+      "infovis11--223", 
+      "infovis11--250", 
+      "infovis11--247", 
+      "infovis12--189", 
+      "infovis12--208", 
+      "infovis12--238", 
+      "infovis12--250", 
+      "infovis12--291"
+    ], 
+    "id": "infovis06--4015425", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "18", 
+    "outnodes": [
+      "infovis04--1382888"
+    ], 
+    "innodes": [
+      "infovis09--5290694"
+    ], 
+    "id": "infovis06--4015426", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "52", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis09--5290694", 
+      "infovis11--197", 
+      "infovis12--291"
+    ], 
+    "id": "infovis06--4015427", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "17", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis08--4658136", 
+      "infovis10--164", 
+      "infovis11--169", 
+      "infovis11--167", 
+      "infovis12--196"
+    ], 
+    "id": "infovis06--4015420", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "41", 
+    "outnodes": [
+      "infovis04--1382900", 
+      "infovis00--885088", 
+      "infovis04--1382895"
+    ], 
+    "innodes": [
+      "infovis08--4658144", 
+      "infovis09--5290704", 
+      "infovis09--5290691", 
+      "infovis11--229"
+    ], 
+    "id": "infovis06--4015421", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "54", 
+    "outnodes": [
+      "infovis04--1382894", 
+      "infovis04--1382895"
+    ], 
+    "innodes": [
+      "infovis09--5290705", 
+      "infovis09--5290710", 
+      "infovis09--5290719", 
+      "infovis10--184", 
+      "infovis11--229", 
+      "infovis11--201", 
+      "infovis11--166"
+    ], 
+    "id": "infovis06--4015422", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "15", 
+    "outnodes": [
+      "infovis01--963279"
+    ], 
+    "innodes": [
+      "infovis10--154"
+    ], 
+    "id": "infovis06--4015423", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "36", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis05--1532122", 
+      "infovis07--4376134", 
+      "infovis08--4658128", 
+      "infovis12--244"
+    ], 
+    "id": "infovis04--1382897", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "38", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis09--5290717"
+    ], 
+    "id": "infovis04--1382896", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "130", 
+    "outnodes": [
+      "infovis98--729559", 
+      "infovis96--559215", 
+      "infovis00--885086", 
+      "infovis03--1249015"
+    ], 
+    "innodes": [
+      "infovis05--1532142", 
+      "infovis05--1532141", 
+      "infovis06--4015422", 
+      "infovis06--4015421", 
+      "infovis08--4658123", 
+      "infovis09--5290705", 
+      "infovis09--5290704", 
+      "infovis10--216", 
+      "infovis11--229", 
+      "infovis11--237"
+    ], 
+    "id": "infovis04--1382895", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "105", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis05--1532138", 
+      "infovis05--1532141", 
+      "infovis06--4015422", 
+      "infovis09--5290705", 
+      "infovis10--216", 
+      "infovis10--197", 
+      "infovis11--226", 
+      "infovis11--166"
+    ], 
+    "id": "infovis04--1382894", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "40", 
+    "outnodes": [
+      "infovis98--729559", 
+      "infovis95--528686", 
+      "infovis03--1249014", 
+      "infovis03--1249015"
+    ], 
+    "innodes": [
+      "infovis05--1532141", 
+      "infovis09--5290704"
+    ], 
+    "id": "infovis04--1382893", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "78", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis05--1532142", 
+      "infovis08--4658123", 
+      "infovis09--5290704", 
+      "infovis10--176", 
+      "infovis11--257", 
+      "infovis12--256"
+    ], 
+    "id": "infovis04--1382892", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "58", 
+    "outnodes": [
+      "infovis02--1173150", 
+      "infovis01--963275", 
+      "infovis02--1173159", 
+      "infovis03--1249012", 
+      "infovis02--1173161", 
+      "infovis03--1249013", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis07--4376149", 
+      "infovis09--5290704", 
+      "infovis09--5290709", 
+      "infovis11--257", 
+      "infovis12--256"
+    ], 
+    "id": "infovis04--1382891", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "35", 
+    "outnodes": [
+      "infovis03--1249009"
+    ], 
+    "innodes": [
+      "infovis08--4658129", 
+      "infovis12--285"
+    ], 
+    "id": "infovis04--1382890", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "15", 
+    "outnodes": [
+      "infovis02--1173152", 
+      "infovis02--1173148"
+    ], 
+    "innodes": [
+      "infovis05--1532132", 
+      "infovis05--1532124", 
+      "infovis07--4376147", 
+      "infovis08--4658124"
+    ], 
+    "id": "infovis04--1382899", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "17", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis04--1382898", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "19", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis12--253"
+    ], 
+    "id": "infovis08--4658150", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "27", 
+    "outnodes": [
+      "infovis09--5290700", 
+      "infovis01--963289", 
+      "infovis08--4658124", 
+      "infovis08--4658127", 
+      "infovis09--5290708", 
+      "infovis08--4658147", 
+      "infovis09--5290711", 
+      "infovis07--4376144", 
+      "infovis08--4658138"
+    ], 
+    "innodes": [
+      "infovis11--255", 
+      "infovis11--175", 
+      "infovis12--214"
+    ], 
+    "id": "infovis10--177", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "18", 
+    "outnodes": [
+      "infovis08--4658123", 
+      "infovis09--5290705", 
+      "infovis01--963286", 
+      "infovis04--1382892"
+    ], 
+    "innodes": [
+      "infovis11--226", 
+      "infovis12--285"
+    ], 
+    "id": "infovis10--176", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [
+      "infovis07--4376134", 
+      "infovis03--1249031", 
+      "infovis09--5290722", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [
+      "infovis12--264"
+    ], 
+    "id": "infovis10--175", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis08--4658146"
+    ], 
+    "innodes": [
+      "infovis11--183"
+    ], 
+    "id": "infovis10--174", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis06--4015439", 
+      "infovis07--4376138"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--181", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "17", 
+    "outnodes": [
+      "infovis07--4376140", 
+      "infovis09--5290706", 
+      "infovis06--4015425", 
+      "infovis01--963286", 
+      "infovis10--138", 
+      "infovis06--4015424", 
+      "infovis10--174"
+    ], 
+    "innodes": [
+      "infovis12--229", 
+      "infovis12--193", 
+      "infovis12--215"
+    ], 
+    "id": "infovis11--183", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "63", 
+    "outnodes": [
+      "infovis08--4658136", 
+      "infovis04--1382905", 
+      "infovis00--885098", 
+      "infovis06--4015439", 
+      "infovis10--144", 
+      "infovis07--4376146", 
+      "infovis00--885091", 
+      "infovis05--1532122", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis12--263"
+    ], 
+    "id": "infovis11--185", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "58", 
+    "outnodes": [
+      "infovis08--4658129", 
+      "infovis07--4376146", 
+      "infovis07--4376131"
+    ], 
+    "innodes": [
+      "infovis11--229", 
+      "infovis11--255", 
+      "infovis11--251", 
+      "infovis12--263"
+    ], 
+    "id": "infovis10--179", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis09--5290706", 
+      "infovis08--4658148", 
+      "infovis05--1532126", 
+      "infovis05--1532139", 
+      "infovis10--210"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--186", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "14", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis00--857699", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "4", 
+    "outnodes": [
+      "infovis04--1382908", 
+      "infovis07--4376154", 
+      "infovis03--1249006", 
+      "infovis09--5290697", 
+      "infovis00--885087", 
+      "infovis05--1532151", 
+      "infovis06--4015424", 
+      "infovis07--4376152", 
+      "infovis08--4658125", 
+      "infovis02--1173153"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--213", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [
+      "infovis09--5290725", 
+      "infovis08--4658134", 
+      "infovis02--1173148", 
+      "infovis99--801855"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--212", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [
+      "infovis05--1532139", 
+      "infovis00--885098", 
+      "infovis97--636793", 
+      "infovis01--963288", 
+      "infovis08--4658127", 
+      "infovis06--4015432"
+    ], 
+    "innodes": [
+      "infovis10--177", 
+      "infovis12--253"
+    ], 
+    "id": "infovis09--5290708", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis04--1382900", 
+      "infovis01--963274", 
+      "infovis02--1173146", 
+      "infovis01--963291", 
+      "infovis07--4376149", 
+      "infovis04--1382891", 
+      "infovis95--528686"
+    ], 
+    "innodes": [], 
+    "id": "infovis09--5290709", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "236", 
+    "outnodes": [
+      "infovis97--636718"
+    ], 
+    "innodes": [
+      "infovis02--1173156", 
+      "infovis02--1173160", 
+      "infovis02--1173151", 
+      "infovis03--1249009", 
+      "infovis06--4015423", 
+      "infovis07--4376146", 
+      "infovis08--4658133", 
+      "infovis08--4658130", 
+      "infovis09--5290716", 
+      "infovis11--175"
+    ], 
+    "id": "infovis01--963279", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [
+      "infovis98--729558", 
+      "infovis96--559214", 
+      "infovis97--636786", 
+      "infovis97--636718", 
+      "infovis97--636784"
+    ], 
+    "innodes": [
+      "infovis02--1173154", 
+      "infovis08--4658125"
+    ], 
+    "id": "infovis01--963278", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "27", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis01--963277", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "15", 
+    "outnodes": [
+      "infovis08--4658140", 
+      "infovis06--4015425", 
+      "infovis95--528685", 
+      "infovis06--4015418", 
+      "infovis08--4658147", 
+      "infovis01--963281"
+    ], 
+    "innodes": [
+      "infovis10--149", 
+      "infovis12--225"
+    ], 
+    "id": "infovis09--5290701", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "82", 
+    "outnodes": [
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis03--1249017", 
+      "infovis04--1382891"
+    ], 
+    "id": "infovis01--963275", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "46", 
+    "outnodes": [
+      "infovis97--636789", 
+      "infovis00--885099", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis02--1173156", 
+      "infovis03--1249026", 
+      "infovis05--1532149", 
+      "infovis05--1532133", 
+      "infovis09--5290709"
+    ], 
+    "id": "infovis01--963274", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "168", 
+    "outnodes": [
+      "infovis00--885098", 
+      "infovis95--528685"
+    ], 
+    "innodes": [
+      "infovis02--1173162", 
+      "infovis05--1532149", 
+      "infovis07--4376142", 
+      "infovis10--206", 
+      "infovis11--195"
+    ], 
+    "id": "infovis01--963273", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "41", 
+    "outnodes": [
+      "infovis98--729559", 
+      "infovis04--1382894", 
+      "infovis05--1532139", 
+      "infovis03--1249023", 
+      "infovis06--4015422", 
+      "infovis08--4658123", 
+      "infovis05--1532141", 
+      "infovis02--1173157", 
+      "infovis05--1532138", 
+      "infovis05--1532139", 
+      "infovis04--1382895", 
+      "infovis03--1249008", 
+      "infovis03--1249015"
+    ], 
+    "innodes": [
+      "infovis10--205", 
+      "infovis10--176"
+    ], 
+    "id": "infovis09--5290705", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "50", 
+    "outnodes": [
+      "infovis07--4376140", 
+      "infovis08--4658142", 
+      "infovis08--4658123", 
+      "infovis08--4658148", 
+      "infovis05--1532126", 
+      "infovis06--4015419", 
+      "infovis05--1532150"
+    ], 
+    "innodes": [
+      "infovis10--210", 
+      "infovis11--183", 
+      "infovis11--186", 
+      "infovis12--199", 
+      "infovis12--229", 
+      "infovis12--221", 
+      "infovis12--226"
+    ], 
+    "id": "infovis09--5290706", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "29", 
+    "outnodes": [
+      "infovis08--4658123", 
+      "infovis04--1382905", 
+      "infovis00--885086"
+    ], 
+    "innodes": [
+      "infovis11--233", 
+      "infovis11--223"
+    ], 
+    "id": "infovis09--5290707", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis11--185", 
+      "infovis97--636793", 
+      "infovis96--559229", 
+      "infovis10--179", 
+      "infovis07--4376130", 
+      "infovis07--4376131"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--263", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis12--220", 
+      "infovis11--175", 
+      "infovis11--255", 
+      "infovis10--186", 
+      "infovis11--209", 
+      "infovis11--251"
+    ], 
+    "innodes": [
+      "infovis12--220"
+    ], 
+    "id": "infovis12--262", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis10--197", 
+      "infovis05--1532144"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--265", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis10--191", 
+      "infovis02--1173144", 
+      "infovis10--175", 
+      "infovis10--194", 
+      "infovis00--885095", 
+      "infovis09--5290722", 
+      "infovis95--528686", 
+      "infovis05--1532131", 
+      "infovis08--4658149"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--264", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "59", 
+    "outnodes": [
+      "infovis01--963290", 
+      "infovis07--4376129", 
+      "infovis01--963283", 
+      "infovis07--4376152"
+    ], 
+    "innodes": [
+      "infovis09--5290702", 
+      "infovis10--191", 
+      "infovis10--180", 
+      "infovis11--174", 
+      "infovis11--197", 
+      "infovis12--205", 
+      "infovis12--264"
+    ], 
+    "id": "infovis08--4658149", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [
+      "infovis06--4015416", 
+      "infovis09--5290706", 
+      "infovis06--4015435", 
+      "infovis08--4658142", 
+      "infovis08--4658123", 
+      "infovis08--4658148", 
+      "infovis05--1532126", 
+      "infovis08--4658145", 
+      "infovis07--4376154", 
+      "infovis10--210", 
+      "infovis06--4015424"
+    ], 
+    "innodes": [
+      "infovis10--210", 
+      "infovis11--186", 
+      "infovis12--199"
+    ], 
+    "id": "infovis10--210", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis04--1382894", 
+      "infovis02--1173157", 
+      "infovis97--636793", 
+      "infovis04--1382895"
+    ], 
+    "innodes": [
+      "infovis11--250"
+    ], 
+    "id": "infovis10--216", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis07--4376155"
+    ], 
+    "innodes": [], 
+    "id": "infovis10--217", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "7", 
+    "outnodes": [
+      "infovis09--5290722", 
+      "infovis02--1173151"
+    ], 
+    "innodes": [
+      "infovis12--285"
+    ], 
+    "id": "infovis10--183", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis11--233", 
+      "infovis06--4015425", 
+      "infovis06--4015424", 
+      "infovis02--1173155", 
+      "infovis03--1249008", 
+      "infovis05--1532131"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--189", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "18", 
+    "outnodes": [
+      "infovis95--528686"
+    ], 
+    "innodes": [], 
+    "id": "infovis96--559225", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "12", 
+    "outnodes": [
+      "infovis95--528680"
+    ], 
+    "innodes": [
+      "infovis97--636791"
+    ], 
+    "id": "infovis96--559224", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "9", 
+    "outnodes": [
+      "infovis01--963278"
+    ], 
+    "innodes": [], 
+    "id": "infovis02--1173154", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "104", 
+    "outnodes": [
+      "infovis95--528685"
+    ], 
+    "innodes": [
+      "infovis03--1249028", 
+      "infovis03--1284026", 
+      "infovis06--4015418", 
+      "infovis08--4658133", 
+      "infovis09--5290721", 
+      "infovis10--206", 
+      "infovis12--189"
+    ], 
+    "id": "infovis02--1173155", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis04--1382888", 
+      "infovis08--4658149"
+    ], 
+    "innodes": [
+      "infovis12--193"
+    ], 
+    "id": "infovis10--180", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "57", 
+    "outnodes": [
+      "infovis98--729555"
+    ], 
+    "innodes": [
+      "infovis04--1382899", 
+      "infovis05--1532145", 
+      "infovis06--4015425", 
+      "infovis10--185"
+    ], 
+    "id": "infovis02--1173152", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "10", 
+    "outnodes": [
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis98--729570", 
+      "infovis98--729568"
+    ], 
+    "id": "infovis96--559220", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "45", 
+    "outnodes": [
+      "infovis04--1382889", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis06--4015431", 
+      "infovis09--5290717"
+    ], 
+    "id": "infovis05--1532125", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis04--1382899", 
+      "infovis97--636718", 
+      "infovis02--1173148"
+    ], 
+    "innodes": [
+      "infovis06--4015424", 
+      "infovis09--5290695", 
+      "infovis09--5290697", 
+      "infovis10--159", 
+      "infovis10--185"
+    ], 
+    "id": "infovis05--1532124", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [
+      "infovis04--1382905", 
+      "infovis02--1173156"
+    ], 
+    "innodes": [
+      "infovis06--4015416"
+    ], 
+    "id": "infovis05--1532127", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "397", 
+    "outnodes": [
+      "infovis04--1382886"
+    ], 
+    "innodes": [
+      "infovis06--4015419", 
+      "infovis06--4015424", 
+      "infovis06--4015417", 
+      "infovis07--4376144", 
+      "infovis07--4376154", 
+      "infovis07--4376134", 
+      "infovis08--4658124", 
+      "infovis08--4658142", 
+      "infovis08--4658143", 
+      "infovis09--5290706", 
+      "infovis10--154", 
+      "infovis10--210", 
+      "infovis11--186", 
+      "infovis12--208", 
+      "infovis12--255"
+    ], 
+    "id": "infovis05--1532126", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "12", 
+    "outnodes": [
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis97--636759", 
+      "infovis97--636789", 
+      "infovis03--1249014"
+    ], 
+    "id": "infovis96--559223", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "7", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis05--1532123", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "88", 
+    "outnodes": [
+      "infovis00--885098", 
+      "infovis04--1382897"
+    ], 
+    "innodes": [
+      "infovis07--4376131", 
+      "infovis07--4376139", 
+      "infovis07--4376136", 
+      "infovis08--4658136", 
+      "infovis08--4658131", 
+      "infovis08--4658128", 
+      "infovis09--5290722", 
+      "infovis09--5290711", 
+      "infovis09--5290717", 
+      "infovis10--194", 
+      "infovis10--197", 
+      "infovis11--185", 
+      "infovis11--239", 
+      "infovis12--204", 
+      "infovis12--253"
+    ], 
+    "id": "infovis05--1532122", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "41", 
+    "outnodes": [
+      "infovis95--528682"
+    ], 
+    "innodes": [
+      "infovis98--729560"
+    ], 
+    "id": "infovis96--559222", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "62", 
+    "outnodes": [
+      "infovis02--1173148", 
+      "infovis00--885091"
+    ], 
+    "innodes": [
+      "infovis06--4015425", 
+      "infovis07--4376154", 
+      "infovis07--4376147", 
+      "infovis07--4376153", 
+      "infovis11--250"
+    ], 
+    "id": "infovis05--1532129", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [
+      "infovis04--1382900", 
+      "infovis01--963283", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis07--4376147", 
+      "infovis11--227", 
+      "infovis12--250"
+    ], 
+    "id": "infovis05--1532128", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis00--885105", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis00--885104", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "12", 
+    "outnodes": [
+      "infovis98--729557"
+    ], 
+    "innodes": [], 
+    "id": "infovis00--885103", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "70", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis08--4658126"
+    ], 
+    "id": "infovis00--885102", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis01--963293"
+    ], 
+    "id": "infovis00--885101", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "107", 
+    "outnodes": [
+      "infovis95--528690"
+    ], 
+    "innodes": [
+      "infovis98--729560", 
+      "infovis98--729570", 
+      "infovis98--729568", 
+      "infovis99--801861", 
+      "infovis00--885092", 
+      "infovis02--1173158"
+    ], 
+    "id": "infovis97--636761", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "90", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis03--1249017", 
+      "infovis03--1249012", 
+      "infovis04--1382891", 
+      "infovis04--1382910", 
+      "infovis08--4658142", 
+      "infovis08--4658143", 
+      "infovis11--220"
+    ], 
+    "id": "infovis02--1173159", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis97--636782", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "19", 
+    "outnodes": [
+      "infovis96--559210"
+    ], 
+    "innodes": [], 
+    "id": "infovis97--636785", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "114", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis01--963278", 
+      "infovis03--1249021"
+    ], 
+    "id": "infovis97--636784", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis98--729557"
+    ], 
+    "id": "infovis97--636787", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "106", 
+    "outnodes": [
+      "infovis96--559214"
+    ], 
+    "innodes": [
+      "infovis98--729558", 
+      "infovis00--885094", 
+      "infovis01--963278", 
+      "infovis03--1249008", 
+      "infovis06--4015438", 
+      "infovis11--205"
+    ], 
+    "id": "infovis97--636786", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "44", 
+    "outnodes": [
+      "infovis95--528688", 
+      "infovis96--559223", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis98--729570", 
+      "infovis00--885098", 
+      "infovis01--963274", 
+      "infovis07--4376143"
+    ], 
+    "id": "infovis97--636789", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "14", 
+    "outnodes": [
+      "infovis95--528688", 
+      "infovis96--559210"
+    ], 
+    "innodes": [
+      "infovis00--885093", 
+      "infovis02--1173142"
+    ], 
+    "id": "infovis97--636788", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis11--176"
+    ], 
+    "id": "infovis10--130", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [
+      "infovis06--4015439", 
+      "infovis07--4376151", 
+      "infovis09--5290692", 
+      "infovis07--4376132"
+    ], 
+    "innodes": [
+      "infovis12--213"
+    ], 
+    "id": "infovis10--137", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "4", 
+    "outnodes": [
+      "infovis06--4015420"
+    ], 
+    "innodes": [
+      "infovis12--196"
+    ], 
+    "id": "infovis11--167", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis04--1382894", 
+      "infovis10--184", 
+      "infovis07--4376143", 
+      "infovis06--4015422", 
+      "infovis02--1173157", 
+      "infovis05--1532138", 
+      "infovis96--559216"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--166", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "4", 
+    "outnodes": [
+      "infovis10--184", 
+      "infovis05--1532138"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--163", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "4", 
+    "outnodes": [
+      "infovis09--5290720", 
+      "infovis98--729558", 
+      "infovis07--4376131"
+    ], 
+    "innodes": [
+      "infovis12--251"
+    ], 
+    "id": "infovis11--160", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "7", 
+    "outnodes": [
+      "infovis06--4015420", 
+      "infovis07--4376154", 
+      "infovis09--5290690", 
+      "infovis06--4015419"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--169", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis00--885102", 
+      "infovis07--4376137"
+    ], 
+    "innodes": [], 
+    "id": "infovis08--4658126", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "38", 
+    "outnodes": [
+      "infovis00--885092", 
+      "infovis07--4376131", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [
+      "infovis09--5290708", 
+      "infovis09--5290724", 
+      "infovis10--177", 
+      "infovis12--204"
+    ], 
+    "id": "infovis08--4658127", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "72", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis98--729556", 
+      "infovis99--801858", 
+      "infovis02--1173157", 
+      "infovis03--1249024", 
+      "infovis09--5290697", 
+      "infovis09--5290696", 
+      "infovis11--166", 
+      "infovis11--197"
+    ], 
+    "id": "infovis96--559216", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis09--5290700", 
+      "infovis08--4658147"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--245", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [
+      "infovis09--5290701", 
+      "infovis09--5290698", 
+      "infovis08--4658133"
+    ], 
+    "innodes": [
+      "infovis12--215"
+    ], 
+    "id": "infovis10--149", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "100", 
+    "outnodes": [
+      "infovis95--528697"
+    ], 
+    "innodes": [
+      "infovis06--4015425", 
+      "infovis08--4658140", 
+      "infovis09--5290695", 
+      "infovis09--5290706", 
+      "infovis09--5290710", 
+      "infovis11--233", 
+      "infovis11--223", 
+      "infovis12--225", 
+      "infovis12--238"
+    ], 
+    "id": "infovis05--1532150", 
+    "year": "2005"
+  }, 
+  {
+    "cites": "20", 
+    "outnodes": [
+      "infovis09--5290720", 
+      "infovis04--1382905", 
+      "infovis06--4015439", 
+      "infovis07--4376146", 
+      "infovis09--5290718", 
+      "infovis09--5290719", 
+      "infovis09--5290702", 
+      "infovis07--4376131", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis11--185", 
+      "infovis11--251"
+    ], 
+    "id": "infovis10--144", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis08--4658128", 
+      "infovis11--175", 
+      "infovis04--1382897"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--244", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "61", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis97--636794", 
+      "infovis02--1173143"
+    ], 
+    "id": "infovis96--559211", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "63", 
+    "outnodes": [
+      "infovis97--636789", 
+      "infovis96--559220", 
+      "infovis97--636761", 
+      "infovis97--636793", 
+      "infovis96--559228", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis99--801866", 
+      "infovis99--801868", 
+      "infovis00--885098", 
+      "infovis00--885097", 
+      "infovis01--963287", 
+      "infovis03--1249019", 
+      "infovis06--4015432", 
+      "infovis08--4658130"
+    ], 
+    "id": "infovis98--729570", 
+    "year": "1998"
+  }, 
+  {
+    "cites": "56", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis03--1249017", 
+      "infovis03--1249014", 
+      "infovis03--1249012", 
+      "infovis04--1382891", 
+      "infovis11--220"
+    ], 
+    "id": "infovis02--1173161", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "103", 
+    "outnodes": [
+      "infovis01--963279"
+    ], 
+    "innodes": [
+      "infovis03--1249010", 
+      "infovis05--1532133", 
+      "infovis12--212"
+    ], 
+    "id": "infovis02--1173160", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [
+      "infovis09--5290721"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--286", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis10--176", 
+      "infovis04--1382890", 
+      "infovis02--1173145", 
+      "infovis11--197", 
+      "infovis10--183"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--285", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis05--1532140", 
+      "infovis07--4376150"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--288", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "125", 
+    "outnodes": [
+      "infovis01--963290", 
+      "infovis02--1173155"
+    ], 
+    "innodes": [
+      "infovis06--4015418", 
+      "infovis10--129", 
+      "infovis11--259"
+    ], 
+    "id": "infovis03--1249028", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis98--729561"
+    ], 
+    "innodes": [
+      "infovis07--4376148"
+    ], 
+    "id": "infovis03--1249025", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "17", 
+    "outnodes": [
+      "infovis00--885092", 
+      "infovis02--1173157", 
+      "infovis96--559216"
+    ], 
+    "innodes": [
+      "infovis05--1532141", 
+      "infovis09--5290696"
+    ], 
+    "id": "infovis03--1249024", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [
+      "infovis02--1173156"
+    ], 
+    "innodes": [
+      "infovis09--5290712"
+    ], 
+    "id": "infovis03--1249027", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "10", 
+    "outnodes": [
+      "infovis01--963285", 
+      "infovis01--963274"
+    ], 
+    "innodes": [], 
+    "id": "infovis03--1249026", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "7", 
+    "outnodes": [
+      "infovis97--636784"
+    ], 
+    "innodes": [], 
+    "id": "infovis03--1249021", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "23", 
+    "outnodes": [
+      "infovis99--801862"
+    ], 
+    "innodes": [
+      "infovis08--4658124"
+    ], 
+    "id": "infovis03--1249020", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "15", 
+    "outnodes": [
+      "infovis02--1173157"
+    ], 
+    "innodes": [
+      "infovis09--5290705", 
+      "infovis12--213"
+    ], 
+    "id": "infovis03--1249023", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis03--1249022", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "47", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis08--4658140", 
+      "infovis08--4658143", 
+      "infovis09--5290718", 
+      "infovis10--217", 
+      "infovis11--220"
+    ], 
+    "id": "infovis07--4376155", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "153", 
+    "outnodes": [
+      "infovis04--1382907", 
+      "infovis04--1382905", 
+      "infovis05--1532126", 
+      "infovis06--4015425", 
+      "infovis06--4015424", 
+      "infovis05--1532129"
+    ], 
+    "innodes": [
+      "infovis08--4658145", 
+      "infovis10--210", 
+      "infovis11--190", 
+      "infovis11--169", 
+      "infovis11--213", 
+      "infovis11--250", 
+      "infovis11--187", 
+      "infovis12--204", 
+      "infovis12--208", 
+      "infovis12--237", 
+      "infovis12--255"
+    ], 
+    "id": "infovis07--4376154", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis04--1382903"
+    ], 
+    "innodes": [
+      "infovis08--4658124", 
+      "infovis10--162", 
+      "infovis10--186", 
+      "infovis10--137", 
+      "infovis11--195"
+    ], 
+    "id": "infovis07--4376151", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "32", 
+    "outnodes": [
+      "infovis05--1532140", 
+      "infovis05--1532137"
+    ], 
+    "innodes": [
+      "infovis11--232", 
+      "infovis12--237", 
+      "infovis12--288"
+    ], 
+    "id": "infovis07--4376150", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "18", 
+    "outnodes": [
+      "infovis02--1173148", 
+      "infovis00--885091", 
+      "infovis02--1173153", 
+      "infovis05--1532129", 
+      "infovis04--1382885", 
+      "infovis05--1532152"
+    ], 
+    "innodes": [
+      "infovis10--138", 
+      "infovis12--208"
+    ], 
+    "id": "infovis07--4376153", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "45", 
+    "outnodes": [
+      "infovis06--4015431", 
+      "infovis05--1532145", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis08--4658149", 
+      "infovis10--138", 
+      "infovis11--213"
+    ], 
+    "id": "infovis07--4376152", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis02--1173160", 
+      "infovis08--4658136", 
+      "infovis11--239", 
+      "infovis08--4658140", 
+      "infovis07--4376143", 
+      "infovis06--4015433", 
+      "infovis08--4658146", 
+      "infovis11--190", 
+      "infovis03--1249008"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--212", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis08--4658137", 
+      "infovis10--206", 
+      "infovis11--192", 
+      "infovis03--1249023", 
+      "infovis11--209", 
+      "infovis10--137", 
+      "infovis09--5290692", 
+      "infovis09--5290695", 
+      "infovis99--801869", 
+      "infovis96--559226", 
+      "infovis09--5290690", 
+      "infovis12--255", 
+      "infovis11--174"
+    ], 
+    "innodes": [
+      "infovis12--255"
+    ], 
+    "id": "infovis12--213", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis11--255", 
+      "infovis10--177", 
+      "infovis11--251"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--214", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis11--193", 
+      "infovis11--183", 
+      "infovis10--149"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--215", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis11--191", 
+      "infovis00--885087", 
+      "infovis11--183", 
+      "infovis10--180"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--193", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis10--191", 
+      "infovis11--191", 
+      "infovis00--885095"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--192", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis11--175", 
+      "infovis08--4658138"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--197", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "2", 
+    "outnodes": [
+      "infovis06--4015420", 
+      "infovis11--167"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--196", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "84", 
+    "outnodes": [
+      "infovis01--963290", 
+      "infovis01--963283", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis06--4015418", 
+      "infovis07--4376153", 
+      "infovis08--4658138", 
+      "infovis11--213"
+    ], 
+    "id": "infovis02--1173153", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "79", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis01--963274"
+    ], 
+    "id": "infovis00--885099", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "382", 
+    "outnodes": [
+      "infovis97--636789", 
+      "infovis98--729570"
+    ], 
+    "innodes": [
+      "infovis01--963273", 
+      "infovis05--1532122", 
+      "infovis08--4658136", 
+      "infovis09--5290720", 
+      "infovis09--5290726", 
+      "infovis09--5290711", 
+      "infovis09--5290708", 
+      "infovis10--154", 
+      "infovis10--197", 
+      "infovis11--185", 
+      "infovis11--239", 
+      "infovis12--253", 
+      "infovis12--291"
+    ], 
+    "id": "infovis00--885098", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "74", 
+    "outnodes": [
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis10--191", 
+      "infovis12--192", 
+      "infovis12--264"
+    ], 
+    "id": "infovis00--885095", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [
+      "infovis99--801857", 
+      "infovis97--636786"
+    ], 
+    "innodes": [], 
+    "id": "infovis00--885094", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "42", 
+    "outnodes": [
+      "infovis97--636791", 
+      "infovis98--729565", 
+      "infovis98--729570", 
+      "infovis95--528686", 
+      "infovis99--801866"
+    ], 
+    "innodes": [
+      "infovis07--4376142"
+    ], 
+    "id": "infovis00--885097", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "16", 
+    "outnodes": [
+      "infovis97--636794", 
+      "infovis97--636792", 
+      "infovis95--528691"
+    ], 
+    "innodes": [], 
+    "id": "infovis00--885096", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "254", 
+    "outnodes": [
+      "infovis98--729557", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis02--1173151", 
+      "infovis03--1249009", 
+      "infovis05--1532129", 
+      "infovis05--1532132", 
+      "infovis05--1532146", 
+      "infovis07--4376144", 
+      "infovis07--4376145", 
+      "infovis07--4376153", 
+      "infovis08--4658125", 
+      "infovis08--4658130", 
+      "infovis09--5290724", 
+      "infovis10--186", 
+      "infovis11--185", 
+      "infovis11--227", 
+      "infovis11--247"
+    ], 
+    "id": "infovis00--885091", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "33", 
+    "outnodes": [
+      "infovis99--801858", 
+      "infovis99--801859"
+    ], 
+    "innodes": [
+      "infovis01--963293", 
+      "infovis04--1382901"
+    ], 
+    "id": "infovis00--885090", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "20", 
+    "outnodes": [
+      "infovis97--636792", 
+      "infovis97--636788"
+    ], 
+    "innodes": [
+      "infovis05--1532146"
+    ], 
+    "id": "infovis00--885093", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "264", 
+    "outnodes": [
+      "infovis97--636761", 
+      "infovis98--729560"
+    ], 
+    "innodes": [
+      "infovis03--1249024", 
+      "infovis04--1382903", 
+      "infovis05--1532136", 
+      "infovis05--1532143", 
+      "infovis07--4376143", 
+      "infovis08--4658127", 
+      "infovis08--4658144", 
+      "infovis09--5290719", 
+      "infovis10--164", 
+      "infovis11--229"
+    ], 
+    "id": "infovis00--885092", 
+    "year": "2000"
+  }, 
+  {
+    "cites": "54", 
+    "outnodes": [
+      "infovis04--1382907", 
+      "infovis04--1382909"
+    ], 
+    "innodes": [
+      "infovis08--4658141", 
+      "infovis12--212"
+    ], 
+    "id": "infovis06--4015433", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "68", 
+    "outnodes": [
+      "infovis02--1173156", 
+      "infovis98--729570"
+    ], 
+    "innodes": [
+      "infovis09--5290712", 
+      "infovis09--5290708", 
+      "infovis10--154"
+    ], 
+    "id": "infovis06--4015432", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "56", 
+    "outnodes": [
+      "infovis05--1532125", 
+      "infovis99--801859", 
+      "infovis99--801860", 
+      "infovis01--963290"
+    ], 
+    "innodes": [
+      "infovis07--4376152", 
+      "infovis07--4376147", 
+      "infovis11--227", 
+      "infovis12--205"
+    ], 
+    "id": "infovis06--4015431", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "9", 
+    "outnodes": [
+      "infovis04--1382908"
+    ], 
+    "innodes": [], 
+    "id": "infovis06--4015430", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "49", 
+    "outnodes": [
+      "infovis02--1173156"
+    ], 
+    "innodes": [
+      "infovis12--251"
+    ], 
+    "id": "infovis06--4015437", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "37", 
+    "outnodes": [
+      "infovis99--801854", 
+      "infovis02--1173156"
+    ], 
+    "innodes": [
+      "infovis08--4658124", 
+      "infovis10--205", 
+      "infovis12--238"
+    ], 
+    "id": "infovis06--4015436", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "40", 
+    "outnodes": [
+      "infovis05--1532130"
+    ], 
+    "innodes": [
+      "infovis08--4658137", 
+      "infovis08--4658142", 
+      "infovis10--210", 
+      "infovis11--239", 
+      "infovis11--251", 
+      "infovis12--208"
+    ], 
+    "id": "infovis06--4015435", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [
+      "infovis97--636718"
+    ], 
+    "innodes": [
+      "infovis08--4658142"
+    ], 
+    "id": "infovis06--4015434", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "111", 
+    "outnodes": [
+      "infovis98--729560", 
+      "infovis04--1382905", 
+      "infovis02--1173141", 
+      "infovis03--1249007", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis09--5290720", 
+      "infovis09--5290719", 
+      "infovis09--5290715", 
+      "infovis10--144", 
+      "infovis10--137", 
+      "infovis11--185", 
+      "infovis11--181", 
+      "infovis12--205"
+    ], 
+    "id": "infovis06--4015439", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "7", 
+    "outnodes": [
+      "infovis96--559214", 
+      "infovis97--636786"
+    ], 
+    "innodes": [], 
+    "id": "infovis06--4015438", 
+    "year": "2006"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis95--528692"
+    ], 
+    "innodes": [
+      "infovis01--963293"
+    ], 
+    "id": "infovis96--559218", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "22", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis99--801864"
+    ], 
+    "id": "infovis96--559219", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "32", 
+    "outnodes": [
+      "infovis07--4376145", 
+      "infovis07--4376134", 
+      "infovis03--1249031", 
+      "infovis04--1382897", 
+      "infovis05--1532122"
+    ], 
+    "innodes": [
+      "infovis12--244", 
+      "infovis12--272"
+    ], 
+    "id": "infovis08--4658128", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "76", 
+    "outnodes": [
+      "infovis04--1382890", 
+      "infovis07--4376133"
+    ], 
+    "innodes": [
+      "infovis10--179", 
+      "infovis10--164"
+    ], 
+    "id": "infovis08--4658129", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "136", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis97--636786", 
+      "infovis98--729558", 
+      "infovis99--801857", 
+      "infovis01--963278", 
+      "infovis03--1249008", 
+      "infovis03--1249009", 
+      "infovis06--4015438", 
+      "infovis08--4658125", 
+      "infovis11--205"
+    ], 
+    "id": "infovis96--559214", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "47", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis04--1382895"
+    ], 
+    "id": "infovis96--559215", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "35", 
+    "outnodes": [
+      "infovis06--4015436", 
+      "infovis98--729560", 
+      "infovis04--1382900", 
+      "infovis05--1532126", 
+      "infovis05--1532133", 
+      "infovis01--963289", 
+      "infovis07--4376151", 
+      "infovis03--1249020", 
+      "infovis04--1382899", 
+      "infovis04--1382884", 
+      "infovis05--1532151", 
+      "infovis05--1532132", 
+      "infovis07--4376132", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [
+      "infovis09--5290695", 
+      "infovis10--177", 
+      "infovis10--164", 
+      "infovis11--175", 
+      "infovis12--237"
+    ], 
+    "id": "infovis08--4658124", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "12", 
+    "outnodes": [
+      "infovis02--1173156", 
+      "infovis04--1382906", 
+      "infovis05--1532148", 
+      "infovis98--729558", 
+      "infovis01--963278", 
+      "infovis96--559214", 
+      "infovis05--1532132", 
+      "infovis00--885091", 
+      "infovis02--1173151"
+    ], 
+    "innodes": [
+      "infovis11--213"
+    ], 
+    "id": "infovis08--4658125", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "138", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis96--559213", 
+      "infovis97--636785", 
+      "infovis97--636788", 
+      "infovis99--801856", 
+      "infovis00--885086", 
+      "infovis02--1173158", 
+      "infovis08--4658130"
+    ], 
+    "id": "infovis96--559210", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "107", 
+    "outnodes": [
+      "infovis05--1532136", 
+      "infovis98--729559", 
+      "infovis04--1382905", 
+      "infovis07--4376146", 
+      "infovis04--1382895", 
+      "infovis04--1382892", 
+      "infovis07--4376131", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [
+      "infovis09--5290706", 
+      "infovis09--5290705", 
+      "infovis09--5290707", 
+      "infovis09--5290696", 
+      "infovis10--205", 
+      "infovis10--176", 
+      "infovis10--210", 
+      "infovis11--201", 
+      "infovis11--176", 
+      "infovis11--237", 
+      "infovis12--237"
+    ], 
+    "id": "infovis08--4658123", 
+    "year": "2008"
+  }, 
+  {
+    "cites": "16", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis96--559212", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "80", 
+    "outnodes": [
+      "infovis95--528684", 
+      "infovis96--559210"
+    ], 
+    "innodes": [
+      "infovis97--636792", 
+      "infovis97--636794", 
+      "infovis03--1249007", 
+      "infovis05--1532143", 
+      "infovis07--4376144"
+    ], 
+    "id": "infovis96--559213", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "9", 
+    "outnodes": [
+      "infovis04--1382894", 
+      "infovis10--176", 
+      "infovis06--4015425", 
+      "infovis09--5290717", 
+      "infovis99--801866"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--226", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "18", 
+    "outnodes": [
+      "infovis07--4376153", 
+      "infovis06--4015425", 
+      "infovis05--1532139", 
+      "infovis09--5290692", 
+      "infovis07--4376152"
+    ], 
+    "innodes": [
+      "infovis11--183", 
+      "infovis11--250", 
+      "infovis12--207"
+    ], 
+    "id": "infovis10--138", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "11", 
+    "outnodes": [
+      "infovis09--5290725", 
+      "infovis07--4376155", 
+      "infovis02--1173159", 
+      "infovis02--1173161"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--220", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis08--4658140", 
+      "infovis11--233", 
+      "infovis04--1382906", 
+      "infovis06--4015425", 
+      "infovis09--5290707", 
+      "infovis05--1532150", 
+      "infovis03--1249008"
+    ], 
+    "innodes": [
+      "infovis12--237"
+    ], 
+    "id": "infovis11--223", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [
+      "infovis98--729559", 
+      "infovis97--636794", 
+      "infovis00--885092", 
+      "infovis06--4015421", 
+      "infovis10--184", 
+      "infovis06--4015422", 
+      "infovis07--4376143", 
+      "infovis09--5290704", 
+      "infovis03--1249006", 
+      "infovis04--1382895", 
+      "infovis10--179", 
+      "infovis04--1382903", 
+      "infovis05--1532145", 
+      "infovis05--1532142", 
+      "infovis03--1249015", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--229", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "17", 
+    "outnodes": [
+      "infovis07--4376147", 
+      "infovis00--885092", 
+      "infovis06--4015422", 
+      "infovis04--1382905", 
+      "infovis02--1173156", 
+      "infovis06--4015439", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis10--144"
+    ], 
+    "id": "infovis09--5290719", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis04--1382902"
+    ], 
+    "id": "infovis03--1295823", 
+    "year": "2003"
+  }, 
+  {
+    "cites": "22", 
+    "outnodes": [
+      "infovis05--1532125", 
+      "infovis04--1382896", 
+      "infovis07--4376134", 
+      "infovis05--1532122", 
+      "infovis08--4658133"
+    ], 
+    "innodes": [
+      "infovis11--226"
+    ], 
+    "id": "infovis09--5290717", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis04--1382905", 
+      "infovis03--1249009", 
+      "infovis01--963279", 
+      "infovis08--4658138"
+    ], 
+    "innodes": [], 
+    "id": "infovis09--5290716", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "15", 
+    "outnodes": [
+      "infovis08--4658131", 
+      "infovis98--729560", 
+      "infovis06--4015439", 
+      "infovis07--4376131", 
+      "infovis08--4658133"
+    ], 
+    "innodes": [
+      "infovis10--222"
+    ], 
+    "id": "infovis09--5290715", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "20", 
+    "outnodes": [
+      "infovis07--4376145", 
+      "infovis08--4658146", 
+      "infovis08--4658144"
+    ], 
+    "innodes": [], 
+    "id": "infovis09--5290714", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "32", 
+    "outnodes": [
+      "infovis98--729560", 
+      "infovis07--4376145", 
+      "infovis04--1382904", 
+      "infovis05--1532143"
+    ], 
+    "innodes": [
+      "infovis12--204"
+    ], 
+    "id": "infovis09--5290713", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "26", 
+    "outnodes": [
+      "infovis03--1249027", 
+      "infovis06--4015432", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis12--250"
+    ], 
+    "id": "infovis09--5290712", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [
+      "infovis00--885098", 
+      "infovis05--1532122"
+    ], 
+    "innodes": [
+      "infovis10--177", 
+      "infovis12--253"
+    ], 
+    "id": "infovis09--5290711", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "24", 
+    "outnodes": [
+      "infovis08--4658140", 
+      "infovis06--4015422", 
+      "infovis06--4015425", 
+      "infovis05--1532150"
+    ], 
+    "innodes": [], 
+    "id": "infovis09--5290710", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "31", 
+    "outnodes": [
+      "infovis02--1173156", 
+      "infovis04--1382888"
+    ], 
+    "innodes": [
+      "infovis08--4658149"
+    ], 
+    "id": "infovis07--4376129", 
+    "year": "2007"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis08--4658137", 
+      "infovis05--1532126", 
+      "infovis08--4658145", 
+      "infovis06--4015417", 
+      "infovis07--4376154", 
+      "infovis09--5290695", 
+      "infovis99--801869", 
+      "infovis09--5290690", 
+      "infovis12--213", 
+      "infovis03--1249030", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis12--213"
+    ], 
+    "id": "infovis12--255", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "25", 
+    "outnodes": [
+      "infovis02--1173159", 
+      "infovis97--636718"
+    ], 
+    "innodes": [], 
+    "id": "infovis04--1382910", 
+    "year": "2004"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis05--1532128", 
+      "infovis10--154", 
+      "infovis09--5290712", 
+      "infovis06--4015425", 
+      "infovis97--636718"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--250", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis11--160", 
+      "infovis06--4015437"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--251", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis10--154", 
+      "infovis08--4658131", 
+      "infovis07--4376146", 
+      "infovis09--5290699"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--252", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis08--4658136", 
+      "infovis11--239", 
+      "infovis10--129", 
+      "infovis07--4376143", 
+      "infovis05--1532148", 
+      "infovis00--885098", 
+      "infovis10--162", 
+      "infovis08--4658150", 
+      "infovis10--193", 
+      "infovis11--259", 
+      "infovis10--194", 
+      "infovis09--5290708", 
+      "infovis99--801851", 
+      "infovis09--5290711", 
+      "infovis05--1532122", 
+      "infovis11--195"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--253", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis98--729559", 
+      "infovis98--729570", 
+      "infovis96--559228", 
+      "infovis98--729569"
+    ], 
+    "innodes": [], 
+    "id": "infovis99--801868", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "27", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis11--234", 
+      "infovis12--213", 
+      "infovis12--226", 
+      "infovis12--255"
+    ], 
+    "id": "infovis99--801869", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis97--636790"
+    ], 
+    "innodes": [
+      "infovis03--1249020", 
+      "infovis07--4376132"
+    ], 
+    "id": "infovis99--801862", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "16", 
+    "outnodes": [
+      "infovis95--528684"
+    ], 
+    "innodes": [], 
+    "id": "infovis99--801863", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "225", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis00--885091", 
+      "infovis01--963285", 
+      "infovis02--1173151", 
+      "infovis02--1173153", 
+      "infovis04--1382885", 
+      "infovis05--1532125", 
+      "infovis05--1532148", 
+      "infovis05--1532128", 
+      "infovis06--4015431", 
+      "infovis07--4376144", 
+      "infovis07--4376152", 
+      "infovis07--4376147", 
+      "infovis08--4658148", 
+      "infovis10--186"
+    ], 
+    "id": "infovis99--801860", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [
+      "infovis97--636761"
+    ], 
+    "innodes": [], 
+    "id": "infovis99--801861", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "129", 
+    "outnodes": [
+      "infovis97--636791", 
+      "infovis98--729565", 
+      "infovis98--729570", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis00--885097", 
+      "infovis11--226"
+    ], 
+    "id": "infovis99--801866", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "27", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis01--963288", 
+      "infovis05--1532148"
+    ], 
+    "id": "infovis99--801867", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "16", 
+    "outnodes": [
+      "infovis96--559219"
+    ], 
+    "innodes": [], 
+    "id": "infovis99--801864", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "25", 
+    "outnodes": [
+      "infovis97--636793"
+    ], 
+    "innodes": [], 
+    "id": "infovis99--801865", 
+    "year": "1999"
+  }, 
+  {
+    "cites": "9", 
+    "outnodes": [
+      "infovis04--1382885", 
+      "infovis01--963291"
+    ], 
+    "innodes": [
+      "infovis11--193", 
+      "infovis11--227"
+    ], 
+    "id": "infovis10--209", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "21", 
+    "outnodes": [
+      "infovis03--1249011", 
+      "infovis06--4015436", 
+      "infovis04--1382901", 
+      "infovis07--4376140", 
+      "infovis08--4658123", 
+      "infovis05--1532141", 
+      "infovis09--5290697", 
+      "infovis05--1532142", 
+      "infovis09--5290705"
+    ], 
+    "innodes": [
+      "infovis11--201"
+    ], 
+    "id": "infovis10--205", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [
+      "infovis08--4658136", 
+      "infovis07--4376134", 
+      "infovis99--801851", 
+      "infovis02--1173155", 
+      "infovis01--963273"
+    ], 
+    "innodes": [
+      "infovis12--213", 
+      "infovis12--204"
+    ], 
+    "id": "infovis10--206", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis96--559226", 
+      "infovis97--636792", 
+      "infovis01--963293", 
+      "infovis05--1532150"
+    ], 
+    "id": "infovis95--528697", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "28", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis97--636778"
+    ], 
+    "id": "infovis95--528696", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis95--528695", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis95--528694", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "9", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis95--528693", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "132", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis96--559218", 
+      "infovis01--963284"
+    ], 
+    "id": "infovis95--528692", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "199", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis97--636718", 
+      "infovis97--636759", 
+      "infovis98--729562", 
+      "infovis99--801853", 
+      "infovis00--885088", 
+      "infovis00--885096", 
+      "infovis01--963281", 
+      "infovis05--1532140"
+    ], 
+    "id": "infovis95--528691", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "36", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis97--636761", 
+      "infovis01--963288"
+    ], 
+    "id": "infovis95--528690", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "12", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis01--963295", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "32", 
+    "outnodes": [
+      "infovis98--729563"
+    ], 
+    "innodes": [], 
+    "id": "infovis01--963294", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "89", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis02--1173147", 
+      "infovis09--5290709", 
+      "infovis10--209"
+    ], 
+    "id": "infovis01--963291", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "99", 
+    "outnodes": [
+      "infovis98--729557"
+    ], 
+    "innodes": [
+      "infovis02--1173151", 
+      "infovis02--1173153", 
+      "infovis03--1249028", 
+      "infovis06--4015431", 
+      "infovis08--4658149", 
+      "infovis10--186", 
+      "infovis11--253"
+    ], 
+    "id": "infovis01--963290", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "18", 
+    "outnodes": [
+      "infovis00--885089", 
+      "infovis96--559218", 
+      "infovis95--528697", 
+      "infovis98--729553", 
+      "infovis00--885090", 
+      "infovis98--729554", 
+      "infovis97--636718", 
+      "infovis96--559226", 
+      "infovis00--885101"
+    ], 
+    "innodes": [], 
+    "id": "infovis01--963293", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "15", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis01--963292", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis05--1532142", 
+      "infovis07--4376133", 
+      "infovis09--5290702", 
+      "infovis02--1173141", 
+      "infovis06--4015431", 
+      "infovis10--186", 
+      "infovis10--209", 
+      "infovis00--885091", 
+      "infovis05--1532145", 
+      "infovis05--1532128"
+    ], 
+    "innodes": [], 
+    "id": "infovis11--227", 
+    "year": "2011"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis09--5290700", 
+      "infovis05--1532130"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--236", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis11--201", 
+      "infovis08--4658123", 
+      "infovis07--4376150", 
+      "infovis02--1173157", 
+      "infovis07--4376154", 
+      "infovis11--223", 
+      "infovis07--4376145", 
+      "infovis08--4658124", 
+      "infovis09--5290697", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--237", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "8", 
+    "outnodes": [
+      "infovis97--636792", 
+      "infovis98--729560", 
+      "infovis02--1173156", 
+      "infovis07--4376155", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis10--144"
+    ], 
+    "id": "infovis09--5290718", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "18", 
+    "outnodes": [
+      "infovis95--528696"
+    ], 
+    "innodes": [], 
+    "id": "infovis97--636778", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis10--161"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--230", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "257", 
+    "outnodes": [
+      "infovis96--559213", 
+      "infovis95--528684", 
+      "infovis95--528697", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis98--729560", 
+      "infovis98--729555", 
+      "infovis00--885093", 
+      "infovis00--885096", 
+      "infovis04--1382903", 
+      "infovis05--1532143", 
+      "infovis07--4376143", 
+      "infovis08--4658145", 
+      "infovis09--5290695", 
+      "infovis09--5290718"
+    ], 
+    "id": "infovis97--636792", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "86", 
+    "outnodes": [
+      "infovis00--885088"
+    ], 
+    "innodes": [
+      "infovis02--1173149", 
+      "infovis10--176", 
+      "infovis11--183"
+    ], 
+    "id": "infovis01--963286", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "19", 
+    "outnodes": [
+      "infovis95--528688"
+    ], 
+    "innodes": [
+      "infovis99--801862"
+    ], 
+    "id": "infovis97--636790", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "37", 
+    "outnodes": [
+      "infovis95--528686", 
+      "infovis96--559224", 
+      "infovis95--528688"
+    ], 
+    "innodes": [
+      "infovis99--801866", 
+      "infovis00--885097", 
+      "infovis04--1382901"
+    ], 
+    "id": "infovis97--636791", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis04--1382894", 
+      "infovis05--1532139", 
+      "infovis00--885098", 
+      "infovis05--1532138", 
+      "infovis05--1532122"
+    ], 
+    "innodes": [
+      "infovis12--265"
+    ], 
+    "id": "infovis10--197", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "66", 
+    "outnodes": [
+      "infovis96--559213", 
+      "infovis95--528682", 
+      "infovis96--559211"
+    ], 
+    "innodes": [
+      "infovis98--729555", 
+      "infovis00--885096", 
+      "infovis11--229"
+    ], 
+    "id": "infovis97--636794", 
+    "year": "1997"
+  }, 
+  {
+    "cites": "64", 
+    "outnodes": [
+      "infovis98--729570"
+    ], 
+    "innodes": [
+      "infovis07--4376142", 
+      "infovis08--4658130", 
+      "infovis09--5290696"
+    ], 
+    "id": "infovis01--963287", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "37", 
+    "outnodes": [
+      "infovis95--528692", 
+      "infovis97--636718"
+    ], 
+    "innodes": [
+      "infovis02--1173151"
+    ], 
+    "id": "infovis01--963284", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "98", 
+    "outnodes": [
+      "infovis95--528689", 
+      "infovis99--801860"
+    ], 
+    "innodes": [
+      "infovis02--1173151", 
+      "infovis03--1249010", 
+      "infovis03--1249026", 
+      "infovis04--1382885"
+    ], 
+    "id": "infovis01--963285", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "16", 
+    "outnodes": [
+      "infovis00--885089"
+    ], 
+    "innodes": [], 
+    "id": "infovis01--963282", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "148", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis96--559229", 
+      "infovis02--1173151", 
+      "infovis02--1173153", 
+      "infovis05--1532145", 
+      "infovis05--1532128", 
+      "infovis08--4658149", 
+      "infovis10--186"
+    ], 
+    "id": "infovis01--963283", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "165", 
+    "outnodes": [
+      "infovis01--963274", 
+      "infovis01--963279"
+    ], 
+    "innodes": [
+      "infovis03--1249007", 
+      "infovis03--1249027", 
+      "infovis04--1382905", 
+      "infovis05--1532127", 
+      "infovis06--4015432", 
+      "infovis06--4015437", 
+      "infovis06--4015436", 
+      "infovis07--4376147", 
+      "infovis07--4376129", 
+      "infovis08--4658125", 
+      "infovis09--5290719", 
+      "infovis09--5290718", 
+      "infovis10--159", 
+      "infovis11--232"
+    ], 
+    "id": "infovis02--1173156", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "147", 
+    "outnodes": [
+      "infovis96--559216"
+    ], 
+    "innodes": [
+      "infovis03--1249024", 
+      "infovis03--1249023", 
+      "infovis05--1532141", 
+      "infovis05--1532139", 
+      "infovis09--5290705", 
+      "infovis10--216", 
+      "infovis11--201", 
+      "infovis11--166", 
+      "infovis12--237"
+    ], 
+    "id": "infovis02--1173157", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "13", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis96--559227", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "74", 
+    "outnodes": [
+      "infovis95--528697"
+    ], 
+    "innodes": [
+      "infovis98--729562", 
+      "infovis01--963293", 
+      "infovis05--1532151", 
+      "infovis05--1532152", 
+      "infovis12--213"
+    ], 
+    "id": "infovis96--559226", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis96--559221", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "529", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis96--559225", 
+      "infovis96--559223", 
+      "infovis96--559220", 
+      "infovis97--636792", 
+      "infovis97--636759", 
+      "infovis97--636789", 
+      "infovis97--636791", 
+      "infovis98--729560", 
+      "infovis98--729570", 
+      "infovis98--729568", 
+      "infovis98--729569", 
+      "infovis99--801866", 
+      "infovis99--801853", 
+      "infovis00--885095", 
+      "infovis00--885088", 
+      "infovis00--885097", 
+      "infovis01--963275", 
+      "infovis01--963274", 
+      "infovis03--1249014", 
+      "infovis04--1382902", 
+      "infovis04--1382891", 
+      "infovis04--1382893", 
+      "infovis07--4376149", 
+      "infovis09--5290712", 
+      "infovis09--5290709", 
+      "infovis10--154", 
+      "infovis12--264"
+    ], 
+    "id": "infovis95--528686", 
+    "year": "1995"
+  }, 
+  {
+    "cites": "62", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis03--1249012", 
+      "infovis04--1382891"
+    ], 
+    "id": "infovis02--1173150", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "97", 
+    "outnodes": [
+      "infovis01--963290", 
+      "infovis98--729557", 
+      "infovis01--963284", 
+      "infovis99--801858", 
+      "infovis01--963285", 
+      "infovis95--528689", 
+      "infovis97--636718", 
+      "infovis01--963283", 
+      "infovis00--885091", 
+      "infovis01--963281", 
+      "infovis99--801860", 
+      "infovis01--963279"
+    ], 
+    "innodes": [
+      "infovis03--1249015", 
+      "infovis03--1249009", 
+      "infovis05--1532141", 
+      "infovis08--4658125", 
+      "infovis10--183", 
+      "infovis11--247"
+    ], 
+    "id": "infovis02--1173151", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "22", 
+    "outnodes": [
+      "infovis95--528689", 
+      "infovis95--528691"
+    ], 
+    "innodes": [
+      "infovis02--1173151", 
+      "infovis09--5290701"
+    ], 
+    "id": "infovis01--963281", 
+    "year": "2001"
+  }, 
+  {
+    "cites": "7", 
+    "outnodes": [
+      "infovis01--963283"
+    ], 
+    "innodes": [
+      "infovis12--263"
+    ], 
+    "id": "infovis96--559229", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "22", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis98--729570", 
+      "infovis98--729568", 
+      "infovis98--729569", 
+      "infovis99--801868"
+    ], 
+    "id": "infovis96--559228", 
+    "year": "1996"
+  }, 
+  {
+    "cites": "20", 
+    "outnodes": [
+      "infovis97--636761", 
+      "infovis96--559210", 
+      "infovis00--885086"
+    ], 
+    "innodes": [
+      "infovis07--4376130"
+    ], 
+    "id": "infovis02--1173158", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "9", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis05--1532143"
+    ], 
+    "id": "infovis02--1173163", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [
+      "infovis01--963273"
+    ], 
+    "innodes": [], 
+    "id": "infovis02--1173162", 
+    "year": "2002"
+  }, 
+  {
+    "cites": "20", 
+    "outnodes": [
+      "infovis02--1173156", 
+      "infovis05--1532124"
+    ], 
+    "innodes": [
+      "infovis11--187", 
+      "infovis12--208"
+    ], 
+    "id": "infovis10--159", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "20", 
+    "outnodes": [
+      "infovis09--5290725", 
+      "infovis06--4015423", 
+      "infovis08--4658140", 
+      "infovis00--885098", 
+      "infovis05--1532126", 
+      "infovis06--4015425", 
+      "infovis06--4015419", 
+      "infovis06--4015432", 
+      "infovis09--5290723", 
+      "infovis09--5290699", 
+      "infovis09--5290726", 
+      "infovis09--5290722", 
+      "infovis08--4658133", 
+      "infovis95--528686"
+    ], 
+    "innodes": [
+      "infovis12--252", 
+      "infovis12--238", 
+      "infovis12--250"
+    ], 
+    "id": "infovis10--154", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "3", 
+    "outnodes": [], 
+    "innodes": [], 
+    "id": "infovis10--150", 
+    "year": "2010"
+  }, 
+  {
+    "cites": "40", 
+    "outnodes": [
+      "infovis00--885098", 
+      "infovis07--4376131", 
+      "infovis08--4658133"
+    ], 
+    "innodes": [
+      "infovis10--154"
+    ], 
+    "id": "infovis09--5290726", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "5", 
+    "outnodes": [
+      "infovis08--4658140", 
+      "infovis08--4658142", 
+      "infovis08--4658127", 
+      "infovis00--885091", 
+      "infovis04--1382909", 
+      "infovis08--4658133"
+    ], 
+    "innodes": [], 
+    "id": "infovis09--5290724", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "23", 
+    "outnodes": [
+      "infovis08--4658134"
+    ], 
+    "innodes": [
+      "infovis10--154", 
+      "infovis11--220", 
+      "infovis11--212"
+    ], 
+    "id": "infovis09--5290725", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "85", 
+    "outnodes": [
+      "infovis07--4376134", 
+      "infovis07--4376131", 
+      "infovis05--1532122"
+    ], 
+    "innodes": [
+      "infovis10--194", 
+      "infovis10--154", 
+      "infovis10--175", 
+      "infovis10--183", 
+      "infovis11--239", 
+      "infovis12--264", 
+      "infovis12--291"
+    ], 
+    "id": "infovis09--5290722", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "30", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis10--154"
+    ], 
+    "id": "infovis09--5290723", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "107", 
+    "outnodes": [
+      "infovis08--4658136", 
+      "infovis98--729560", 
+      "infovis04--1382905", 
+      "infovis00--885098", 
+      "infovis06--4015439", 
+      "infovis00--885086", 
+      "infovis07--4376131", 
+      "infovis04--1382904"
+    ], 
+    "innodes": [
+      "infovis10--144", 
+      "infovis10--222", 
+      "infovis10--163", 
+      "infovis11--160", 
+      "infovis11--209", 
+      "infovis12--275"
+    ], 
+    "id": "infovis09--5290720", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "6", 
+    "outnodes": [
+      "infovis05--1532138", 
+      "infovis04--1382889", 
+      "infovis02--1173155"
+    ], 
+    "innodes": [
+      "infovis12--286"
+    ], 
+    "id": "infovis09--5290721", 
+    "year": "2009"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis09--5290704", 
+      "infovis04--1382892", 
+      "infovis11--257", 
+      "infovis05--1532142", 
+      "infovis04--1382891"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--256", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis04--1382907", 
+      "infovis10--159", 
+      "infovis06--4015435", 
+      "infovis04--1382886", 
+      "infovis07--4376153", 
+      "infovis05--1532126", 
+      "infovis08--4658145", 
+      "infovis06--4015417", 
+      "infovis07--4376154", 
+      "infovis06--4015425", 
+      "infovis11--187", 
+      "infovis04--1382884", 
+      "infovis03--1249030"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--208", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis10--184", 
+      "infovis10--138"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--207", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "1", 
+    "outnodes": [
+      "infovis98--729560", 
+      "infovis06--4015439", 
+      "infovis10--186", 
+      "infovis09--5290702", 
+      "infovis06--4015431", 
+      "infovis08--4658149"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--205", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "0", 
+    "outnodes": [
+      "infovis10--206", 
+      "infovis98--729560", 
+      "infovis10--164", 
+      "infovis07--4376154", 
+      "infovis07--4376145", 
+      "infovis08--4658127", 
+      "infovis09--5290713", 
+      "infovis05--1532122", 
+      "infovis07--4376144"
+    ], 
+    "innodes": [], 
+    "id": "infovis12--204", 
+    "year": "2012"
+  }, 
+  {
+    "cites": "171", 
+    "outnodes": [], 
+    "innodes": [
+      "infovis98--729560", 
+      "infovis98--729570", 
+      "infovis99--801865", 
+      "infovis09--5290708", 
+      "infovis10--184", 
+      "infovis10--216", 
+      "infovis12--263"
+    ], 
+    "id": "infovis97--636793", 
+    "year": "1997"
+  }
+]

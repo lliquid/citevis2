@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>IEEE InfoVis Citations</title>
+    <link rel='stylesheet' href='css/corners3.css'></link>
+    <link rel='stylesheet' href='css/index.css'></link>
+    <link href='http://fonts.googleapis.com/css?family=Advent+Pro' rel='stylesheet' type='text/css'>
+    <!--link rel='stylesheet' href='css/bootstrap.css'></link-->
+    <script src='lib/underscore.js'></script>
+    <script src='lib/jquery-1.7.2.min.js'></script>
+    <script src='lib/jquery.hotkeys.js'></script>
+    <script src='lib/d3.v3.min.js'></script>
+    <!--script src='lib/bootstrap.js'></script-->
+
+    <script src='js/citeview_div.js'></script>
+    
+  </head>
+  <div class="intro">The Information Interfaces Group at Georgia Tech presents...</div>
+  <h3>IEEE InfoVis Citations</h3>
+
+  <div>
+    <div>
+    <div style='display: inline;' class='hlabel hconcept'><b>Concepts:</b> <select id="concepts"></select></div>
+    <div style='display: inline;' class='hlabel hauthor'><b>Authors:</b> <select id="authors"></select></div>
+    <div style='display: inline;' class='hlabel hkeyword'><b>Title Search:</b> <input id='keywords'></input></div>
+    <a href="#" id='clear' class="button">Clear All</a>
+    <a href="#" id='shading' class="button"></a>
+    <a href="legend.htm" target="_blank" class="button">Help</a>
+  </div>
+  <br/>
+  <div id='canvas'></div>
+  <br/>
+  <div id='details'></div>
+  <div id='selection'></div>
+  <!-- <div id='highlightlist'></div> -->
+
+</html>

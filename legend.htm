@@ -1,0 +1,127 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>IEEE InfoVis Citations</title>
+  <link rel='stylesheet' href='css/corners3.css'></link>
+  <link rel='stylesheet' href='css/index.css'></link>
+  <link href='http://fonts.googleapis.com/css?family=Advent+Pro' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <h3>Legend</h3>
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+      <div class="paperglyph papercircle"></div>
+    </div>
+  </div>
+  <div class="legendtext">Paper</div>
+  </div>
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+    <div class="paperglyph papercircle "></div>
+    <div class="best"></div>
+  </div></div>
+  <div class="legendtext">Paper selected as Best Paper its year</div>
+  </div>
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+    <div class="paperglyph papercircle selected"></div>
+  </div></div>
+  <div class="legendtext">Selected paper</div>
+  </div>
+
+
+  <div class="year">
+   <div class="papercell">
+    <div class="paper">
+    <div class="paperglyph papercircle innode"></div>
+  </div></div>
+  <div class="legendtext">Paper cited by selected paper</div>
+  </div>
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+    <div class="paperglyph papercircle outnode"></div>
+  </div></div>
+  <div class="legendtext">Paper that cites selected paper</div>
+  </div>
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+    <div class="paperglyph papercircle outnode"></div>
+    <div class="label">i</div>
+  </div></div>
+  <div class="legendtext">Citation in the abstract or introduction</div>
+  </div>
+
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+    <div class="paperglyph papercircle outnode"></div>
+    <div class="label">r</div>
+  </div></div>
+  <div class="legendtext">Citation in the related work</div>
+  </div>
+
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+    <div class="paperglyph papercircle outnode"></div>
+    <div class="label">b</div>
+  </div></div>
+  <div class="legendtext">Citation in the body of the paper</div>
+  </div>
+
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+      <div class="corners paperglyph hconcept"></div>
+    <div class="paperglyph papercircle "></div>
+  </div></div>
+  <div class="legendtext">Paper title or abstract contains chosen concept</div>
+  </div>
+
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+      <div class="corners paperglyph hauthor"></div>
+    <div class="paperglyph papercircle "></div>
+  </div></div>
+  <div class="legendtext">Paper written by chosen author</div>
+  </div>
+
+
+  <div class="year">
+  <div class="papercell">
+    <div class="paper">
+      <div class="corners paperglyph hkeyword"></div>
+    <div class="paperglyph papercircle "></div>
+  </div></div>
+  <div class="legendtext">Paper title search result</div>
+  </div>
+
+<br/>
+<h3>Hotkeys</h3>
+<table>
+<tr><td>c</td><td>-</td><td>Clear view of selection and searches</td></tr>
+<tr><td>e</td><td>-</td><td>Color papers by total citations (Google Scholar)</td></tr>
+<tr><td>i</td><td>-</td><td>Color papers by internal citations (only Infovis citations)</td></tr>
+</table>
+
+
+
+
+
+</body>
+</html>

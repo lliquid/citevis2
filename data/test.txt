@@ -1,0 +1,128 @@
+
+
+article
+infovis12--213
+10.1109/TVCG.2012.213
+7541022507834958492
+30
+Design Study Methodology: Reflections from the Trenches and the Stacks
+keyword: visualization
+concept: design study
+keyword: design study
+author: Sedlmair, M.
+author: Munzner, T.
+concept: theory
+author: Meyer, M.
+keyword: framework
+keyword: methodology
+citations:
+infovis05--1532136
+b
+infovis08--4658137
+ib
+infovis10--206
+i
+infovis11--192
+b
+infovis03--1249023
+i
+infovis11--209
+irb
+infovis10--137
+ib
+infovis09--5290692
+ib
+infovis09--5290695
+b
+infovis99--801869
+ib
+infovis96--559226
+ib
+infovis09--5290690
+ib
+infovis12--255
+ib
+infovis11--174
+ib
+
+
+
+
+article
+infovis12--214
+10.1109/TVCG.2012.214
+549036916158604147
+2
+Different Strokes for Different Folks: Visual Presentation Design between Disciplines
+concept: social
+keyword: information visualization
+keyword: design
+author: Gomez, S.R.
+author: Jianu, R.
+author: Ziemkiewicz, C.
+author: Guo, H.
+author: Laidlaw, D.H.
+keyword: presentations
+keyword: visual analysis
+citations:
+infovis11--255
+r
+infovis10--177
+r
+infovis11--251
+irb
+
+
+
+article
+infovis12--215
+10.1109/TVCG.2012.215
+5606669136158896633
+3
+Does an Eye Tracker Tell the Truth about Visualizations?: Findings while Investigating Visualizations for Decision Making
+concept: experiment
+keyword: crowdsourcing
+author: Kim, S.-H.
+author: Dong, Z.
+author: Xian, H.
+author: Upatising, B.
+author: Yi, J.S.
+keyword: visualized decision making
+keyword: eye tracking
+keyword: limitations
+keyword: peripheral vision
+keyword: quantitative empirical study
+citations:
+infovis11--193
+ir
+infovis11--183
+i
+infovis10--149
+i
+
+
+
+article
+infovis12--220
+10.1109/TVCG.2012.220
+17479190399577445077
+5
+Evaluating Sketchiness as a Visual Variable for the Depiction of Qualitative Uncertainty
+concept: uncertainty
+keyword: uncertainty visualization
+concept: evaluation
+concept: perception
+author: Boukhelifa, N.
+author: Isenberg, T.
+author: Bezerianos, A.
+keyword: perception
+author: Fekete, J.-D.
+keyword: qualitative evaluation
+keyword: quantitative evaluation
+citations:
+infovis07--4376132
+b
+infovis12--262
+n
+
+
