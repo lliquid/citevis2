@@ -1,0 +1,8 @@
+title: Visual Analysis of Graphs with Multiple Connected Components
+authors: Tatiana von Landesberger, Melanie G??rner, Tobias Schreck
+abstract: In this paper, we present a system for the interactive visualization and exploration of graphs with many weakly connected components. The visualization of large graphs has recently received much research attention. However, specific systems for visual analysis of graph data sets consisting of many components are rare. In our approach, we rely on graph clustering using an extensive set of topology descriptors. Specifically, we use the Self-Organizing-Map algorithm in conjunction with a user-adaptable combination of graph features for clustering of graphs. It offers insight into the overall structure of the data set. The clustering output is presented in a grid containing clusters of the connected components of the input graph. Interactive feature selection and task-tailored data views allow the exploration of the whole graph space. The system provides also tools for assessment and display of cluster quality. We demonstrate the usefulness of our system by application to a shareholder network analysis problem based on a large real-world data set. While so far our approach is applied to weighted directed graphs only, it can be used for various graph types.
+vis citations:
+auber_infovis_03
+cui_infovis_08
+holten_infovis_06
+kumar_infovis_06

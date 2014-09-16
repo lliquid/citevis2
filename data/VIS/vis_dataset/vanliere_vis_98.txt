@@ -1,0 +1,4 @@
+title: A Distributed Blackboard Architecture for Interactive Data Visualization
+authors: Robert van Liere, Jan Harkes, Wim de Leeuw
+abstract: In this paper the motivation, design and application of a distributed blackboard architecture for interactive data visualization is discussed. The main advantages of the architecture is twofold. First, it allows visualization tools to be tightly integrated with simulations. Second, it allows qualitative and quantitative analysis to be combined during the visualization process.
+vis citations:

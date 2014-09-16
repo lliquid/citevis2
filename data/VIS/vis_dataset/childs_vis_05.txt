@@ -1,0 +1,5 @@
+title: A Contract Based System For Large Data Visualization
+authors: Hank Childs, Eric Brugger, Kathleen Bonnell, Jeremy Meredith, Mark
+Miller, Brad Whitlock, Nelson Max
+abstract: VisIt is a richly featured visualization tool that is used to visualize some of the largest simulations ever run. The scale of these simulations requires that optimizations are incorporated into every operation VisIt performs. But the set of applicable optimizations that VisIt can perform is dependent on the types of operations being done. Complicating the issue, VisIt has a plugin capability that allows new, unforeseen components to be added, making it even harder to determine which optimizations can be applied.We introduce the concept of a contract to the standard data flow network design. This contract enables each component of the data flow network to modify the set of optimizations used. In addition, the contract allows for new components to be accommodated gracefully within VisIt???s data flow network system.
+vis citations:

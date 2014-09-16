@@ -1,0 +1,7 @@
+title: Symmetry in Scalar Field Topology
+authors: Dilip Mathew Thomas, Vijay Natarajan
+abstract: Study of symmetric or repeating patterns in scalar fields is important in scientific data analysis because it gives deep insights into the properties of the underlying phenomenon. Though geometric symmetry has been well studied within areas like shape processing, identifying symmetry in scalar fields has remained largely unexplored due to the high computational cost of the associated algorithms. We propose a computationally efficient algorithm for detecting symmetric patterns in a scalar field distribution by analysing the topology of level sets of the scalar field. Our algorithm computes the contour tree of a given scalar field and identifies subtrees that are similar. We define a robust similarity measure for comparing subtrees of the contour tree and use it to group similar subtrees together. Regions of the domain corresponding to subtrees that belong to a common group are extracted and reported to be symmetric. Identifying symmetry in scalar fields finds applications in visualization, data exploration, and feature detection. We describe two applications in detail: symmetry-aware transfer function design and symmetry-aware isosurface extraction.
+vis citations:
+schneide_vis_08
+weber_vis_07
+zhou_vis_09

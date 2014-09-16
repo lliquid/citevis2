@@ -1,0 +1,8 @@
+title: Helping Users Recall Their Reasoning Process
+authors: Heather Richter Lipford, Felesia Stukes, Wenwen Dou, Matthew E. Hawkins, Remco Chang
+abstract: The final product of an analyst???s investigation using a visualization is often a report of the discovered knowledge, as well as the methods employed and reasoning behind the discovery. We believe that analysts may have difficulty keeping track of their knowledge discovery process and will require tools to assist in accurately recovering their reasoning. We first report on a study examining analysts??? recall of their strategies and methods, demonstrating their lack of memory of the path of knowledge discovery. We then explore whether a tool visualizing the steps of the visual analysis can aid users in recalling their reasoning process. The results of our second study indicate that visualizations of interaction logs can serve as an effective memory aid, allowing analysts to recall additional details of their strategies and decisions.
+vis citations:
+chang_vast_07
+jeong_vast_08
+gotz_vast_08
+heer_infovis_08

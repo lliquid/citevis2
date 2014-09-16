@@ -1,0 +1,7 @@
+title: View-Dependent Rendering of Multiresolution Texture-Atlases
+authors: Henrik Buchholz, J??rgen D??llner
+abstract: Real-time rendering of massively textured 3D scenes usually involves two major problems: Large numbers of texture switches are a well-known performance bottleneck and the set of simultaneously visible textures is limited by the graphics memory. This paper presents a level-of-detail texturing technique that overcomes both problems. In a preprocessing step, the technique creates a hierarchical data structure for all textures used by scene objects, and it derives texture atlases at different resolutions. At runtime, our texturing technique requires only a small set of these texture atlases, which represent scene textures in an appropriate size depending on the current camera position and screen resolution. Independent of the number and total size of all simultaneously visible textures, the achieved frame rates are similar to that of rendering the scene without any texture switches. Since the approach includes dynamic texture loading, the total size of the textures is only limited by the hard disk capacity. The technique is applicable for any 3D scenes whose scene objects are primarily distributed in a plane, such as in the case of 3D city models or outdoor scenes in computer games. Our approach has been successfully applied to massively textured, large-scale 3D city models.
+vis citations:
+cline_vis_98
+doellner_vis_00
+hwa_vis_04

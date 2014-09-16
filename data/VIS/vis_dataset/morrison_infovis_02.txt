@@ -1,0 +1,4 @@
+title: A Hybrid Layout Algorithm for Sub-Quadratic Multidimensional Scaling
+authors: Alistair Morrison, Greg Ross, Matthew Chalmers
+abstract: Many clustering and layout techniques have been used for structuring and visualising complex data. This paper is inspired by a number of such contemporary techniques and presents a novel hybrid approach based upon stochastic sampling, interpolation and spring models. We use Chalmers' 1 996 O(N???) spring model as a benchmark when evaluating our technique, comparing layout quality and run times using data sets of synthetic and real data. Our algorithm runs in O(N???N) and executes significantly faster than Chalmers' 1 996 algorithm, whilst producing superior layouts. In reducing complexity and run time, we allow the visualisation of data sets ofpreviously infeasible size. Our results indicate that our method is a solid foundation for interactive and visual exploration of data.
+vis citations:

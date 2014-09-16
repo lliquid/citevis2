@@ -1,0 +1,10 @@
+title: Interactive Multiscale Tensor Reconstruction for Multiresolution Volume Visualization
+authors: Susanne K. Suter, Jos?? A. Iglesias Guiti??n, Fabio Marton, Marco Agus,
+Andreas Elsener, Christoph P.E. Zollikofer, M. Gopi, Enrico Gobbetti, Renato
+Pajarolai
+abstract: Large scale and structurally complex volume datasets from high-resolution 3D imaging devices or computational simulations pose a number of technical challenges for interactive visual analysis. In this paper, we present the first integration of a multiscale volume representation based on tensor approximation within a GPU-accelerated out-of-core multiresolution rendering framework. Specific contributions include (a) a hierarchical brick-tensor decomposition approach for pre-processing large volume data, (b) a GPU accelerated tensor reconstruction implementation exploiting CUDA capabilities, and (c) an effective tensor-specific quantization strategy for reducing data transfer bandwidth and out-of-core memory footprint. Our multiscale representation allows for the extraction, analysis and display of structural features at variable spatial scales, while adaptive level-of-detail rendering methods make it possible to interactively explore large datasets within a constrained memory footprint. The quality and performance of our prototype system is evaluated on large structurally complex datasets, including gigabyte-sized micro-tomographic volumes.
+vis citations:
+fout_vis_07
+guthe_vis_02
+ljung_vis_06
+schneide_vis_03

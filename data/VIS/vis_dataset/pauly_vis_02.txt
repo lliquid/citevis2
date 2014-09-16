@@ -1,0 +1,9 @@
+title: Efficient Simplification of Point-Sampled Surfaces
+authors: Mark Pauly, Markus Gross,Leif P. Kobbelt
+abstract: In this paper we introduce, analyze and quantitatively compare a number of surface simplification methods for point-sampled geometry. We have implemented incremental and hierarchical clustering, iterative simplification, and particle simulation algorithms to create approximations of point-based models with lower sampling density. All these methods work directly on the point cloud, requiring no intermediate tesselation. We show how local variation estimation and quadric error metrics can be employed to diminish the approximation error and concentrate more samples in regions of high curvature. To compare the quality of the simplified surfaces, we have designed a new method for computing numerical and visual error estimates for point-sampled surfaces. Our algorithms are fast, easy to implement, and create high-quality surface approximations, clearly demonstrating the effectiveness of point-based surface simplification.
+vis citations:
+alexa_vis_01
+hubeli_vis_00
+lindstrom01_vis_01
+peikert_vis_99
+shaffer_vis_01

@@ -1,0 +1,4 @@
+title: Spatial Analysis of News Sources
+authors: Andrew Mehler, Yunfan Bao, Xin Li, Yue Wang, Steven Skiena
+abstract: People in different places talk about different things. This interest distribution is reflected by the newspaper articles circulated in a particular area. We use data from our large-scale newspaper analysis system (Lydia) to make entity datamaps, a spatial visualization of the interest in a given named entity. Our goal is to identify entities which display regional biases. We develop a model of estimating the frequency of reference of an entity in any given city from the reference frequency centered in surrounding cities, and techniques for evaluating the spatial significance of this distribution.
+vis citations:

@@ -1,0 +1,4 @@
+title: Fairing Of Non-Manifolds For Visualization
+authors: Andreas Hubeli, Markus Gross
+abstract: The concept of fairing applied to irregular triangular meshes has become more and more important. Previous contributions constructed better fairing operators, and applied them both to multiresolution editing tools and to multiresolution representations of meshes. In this paper, we generalize these powerful techniques to handle non-manifold models. Our framework computes a multilevel fairing of models by fairing both the two-manifold surfaces that define the model, the so-called two-features, and all the boundary and intersection curves of the model, the so-called onefeatures. In addition we introduce two extensions that can be used in our framework as well as in manifold fairing concepts: an exact local volume preservation strategy and a method for feature preservation. Our framework works with any of the manifold fairing operators for meshes.
+vis citations:

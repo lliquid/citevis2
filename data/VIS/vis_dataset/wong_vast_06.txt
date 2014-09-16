@@ -1,0 +1,5 @@
+title: Have Green: A Visual Analytics Framework for Large Semantic Graphs
+authors: Pak Chung Wong, George Chin Jr., Harlan Foote, Patrick Mackey, Jim Thomas
+abstract: A semantic graph is a network of heterogeneous nodes and links annotated with a domain ontology. In intelligence analysis, investigators use semantic graphs to organize concepts and relationships as graph nodes and links in hopes of discovering key trends, patterns, and insights. However, as new information continues to arrive from a multitude of sources, the size and complexity of the semantic graphs will soon overwhelm an investigator???s cognitive capacity to carry out significant analyses. We introduce a powerful visual analytics framework designed to enhance investigators??? natural analytical capabilities to comprehend and analyze large semantic graphs. The paper describes the overall framework design, presents major development accomplishments to date, and discusses future directions of a new visual analytics system known as Have Green.
+vis citations:
+wong_infovis_05

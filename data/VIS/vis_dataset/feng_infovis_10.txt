@@ -1,0 +1,16 @@
+title: Matching Visual Saliency to Confidence in Plots of Uncertain Data
+authors: David Feng, Lester Kwock, Yueh Lee, Russell M. Taylor
+abstract: Conveying data uncertainty in visualizations is crucial for preventing viewers from drawing conclusions based on untrustworthy data points. This paper proposes a methodology for efficiently generating density plots of uncertain multivariate data sets that draws viewers to preattentively identify values of high certainty while not calling attention to uncertain values. We demonstrate how to augment scatter plots and parallel coordinates plots to incorporate statistically modeled uncertainty and show how to integrate them with existing multivariate analysis techniques, including outlier detection and interactive brushing. Computing high quality density plots can be expensive for large data sets, so we also describe a probabilistic plotting technique that summarizes the data without requiring explicit density plot computation. These techniques have been useful for identifying brain tumors in multivariate magnetic resonance spectroscopy data and we describe how to extend them to visualize ensemble data sets.
+vis citations:
+bachthal_vis_08
+elmqvist_infovis_08
+fua_vis_99
+heinrich_vis_09
+yuan_infovis_09
+miksch_infovis_01
+linsen_vis_08
+novotny_vis_06
+olston_infovis_02
+sanyal_vis_09
+seo_infovis_04
+wan_vis_09

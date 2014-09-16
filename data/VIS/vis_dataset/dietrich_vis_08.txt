@@ -1,0 +1,11 @@
+title: Edge Groups: An Approach to Understanding the Mesh Quality of Marching Methods
+authors: Carlos A. Dietrich, Carlos E. Scheidegger, Joao L. D. Comba, Luciana, P. Nedel, Claudio T. Silva
+abstract: Marching Cubes is the most popular isosurface extraction algorithm due to its simplicity, efficiency and robustness. It has been widely studied, improved, and extended. While much early work was concerned with efficiency and correctness issues, lately there has been a push to improve the quality of Marching Cubes meshes so that they can be used in computational codes. In this work we present a new classification of MC cases that we call Edge Groups, which helps elucidate the issues that impact the triangle quality of the meshes that the method generates. This formulation allows a more systematic way to bound the triangle quality, and is general enough to extend to other polyhedral cell shapes used in other polygonization algorithms. Using this analysis, we also discuss ways to improve the quality of the resulting triangle mesh, including some that require only minor modifications of the original algorithm.
+vis citations:
+bhaniram_vis_00
+carr_vis_06
+meyer_vis_07
+nielson_vis_03
+nielson2_vis_04
+nielson_vis_02
+schreine_vis_06

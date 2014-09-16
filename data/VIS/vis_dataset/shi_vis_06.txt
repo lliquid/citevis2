@@ -1,0 +1,13 @@
+title: Isosurface Extraction and Spatial Filtering Using Persistent Octree
+authors: Qingmin Shi, Joseph JaJa
+abstract: We propose a novel Persistent OcTree (POT) indexing structure for accelerating isosurface extraction and spatial filtering from volumetric data. This data structure efficiently handles a wide range of visualization problems such as the generation of viewdependent isosurfaces, ray tracing, and isocontour slicing for high dimensional data. POT can be viewed as a hybrid data structure between the interval tree and the Branch-On-Need Octree (BONO) in the sense that it achieves the asymptotic bound of the interval tree for identifying the active cells corresponding to an isosurface and is more efficient than BONO for handling spatial queries. We encode a compact octree for each isovalue. Each such octree contains only the corresponding active cells, in such a way that the combined structure has linear space. The inherent hierarchical structure associated with the active cells enables very fast filtering of the active cells based on spatial constraints. We demonstrate the effectiveness of our approach by performing view-dependent isosurfacing on a wide variety of volumetric data sets and 4D isocontour slicing on the time-varying Richtmyer-Meshkov instability dataset.
+vis citations:
+bordoloi_vis_03
+chiang_vis_98
+gregorsk_vis_02
+livnat_vis_98
+livnat_vis_04
+parker_vis_98
+shen_vis_98
+shen_vis_99
+sutton_vis_99

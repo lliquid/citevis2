@@ -1,0 +1,7 @@
+title: HOT???Lines: Tracking Lines in Higher Order Tensor Fields
+authors: Mario Hlawitschka, Gerik Scheuermann
+abstract: Tensors occur in many areas of science and engineering. Especially, they are used to describe charge, mass and energy transport (i.e. electrical conductivity tensor, diffusion tensor, thermal conduction tensor resp.) If the locale transport pattern is complicated, usual second order tensor representation is not sufficient. So far, there are no appropriate visualization methods for this case. We point out similarities of symmetric higher order tensors and spherical harmonics. A spherical harmonic representation is used to improve tensor glyphs. This paper unites the definition of streamlines and tensor lines and generalizes tensor lines to those applications where second order tensors representations fail.The algorithm is tested on the tractography problem in diffusion tensor magnetic resonance imaging (DT-MRI) and improved for this special application.
+vis citations:
+sigfrids_vis_02
+tricoche_vis_00
+zheng_vis_04

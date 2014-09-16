@@ -1,0 +1,7 @@
+title: Comparing 3D Vector Field Visualization Methods: A User Study
+authors: Andrew S. Forsberg, Jian Chen, David H. Laidlaw
+abstract: In a user study comparing four visualization methods for three-dimensional vector data, participants used visualizations from each method to perform five simple but representative tasks: 1) determining whether a given point was a critical point, 2) determining the type of a critical point, 3) determining whether an integral curve would advect through two points, 4) determining whether swirling movement is present at a point, and 5) determining whether the vector field is moving faster at one point than another. The visualization methods were line and tube representations of integral curves with both monoscopic and stereoscopic viewing. While participants reported a preference for stereo lines, quantitative results showed performance among the tasks varied by method. Users performed all tasks better with methods that: 1) gave a clear representation with no perceived occlusion, 2) clearly visualized curve speed and direction information, and 3) provided fewer rich 3D cues (e.g., shading, polygonal arrows, overlap cues, and surface textures). These results provide quantitative support for anecdotal evidence on visualization methods. The tasks and testing framework also give a basis for comparing other visualization methods, for creating more effective methods, and for defining additional tasks to explore further the tradeoffs among the methods.
+vis citations:
+laramee_vis_04
+mallo_vis_05
+ye_vis_05

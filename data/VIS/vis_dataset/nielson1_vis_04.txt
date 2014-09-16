@@ -1,0 +1,11 @@
+title: Radial Hermite Operators for Scattered Point Cloud Data with Normal Vectors and Applications to Implicitizing Polygon Mesh Surfaces for Generalized CSG Operations and Smoothing
+authors: Gregory M. Nielson, Arizona State University
+abstract: We describe a new technique for fitting scattered point cloud data. Given a scattered point cloud of 3D data points and associated normal vectors, our new method produces an implicit volume model whose zero level isosurface interpolates the given points and associated normal vectors. In this paper, we concentrate on certain application of these new volume modeling techniques. We take existing polygon mesh surfaces and use the present methods to construct implicit volume models for these surfaces. Implicit models allow for the application of Boolean operations on these surfaces through the techniques of constructive solid geometry. Also, standard wavelet and filter operators can be applied to the implicit volume model leading to effective smoothing and filtering algorithms which are simple to implement.
+vis citations:
+bertram_vis_03
+hotz_vis_02
+nielson2_vis_04
+nielson_vis_02
+sigg_vis_03
+tasdizen_vis_02
+xie_vis_03

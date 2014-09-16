@@ -1,0 +1,4 @@
+title: SpaceTree: Supporting Exploration in Large Node Link Tree, Design Evolution and Empirical Evaluation
+authors: Catherine Plaisant, Jesse Grosjean, Benjamin B. Bederson
+abstract: We present a novel tree browser that builds on the conventional node link tree diagrams. It adds dynamic rescaling of branches of the tree to best fit the available screen space, optimized camera movement, and the use of preview icons summarizing the topology of the branches that cannot be expanded. In addition, it includes integrated search and filter functions. This paper reflects on the evolution of the design and highlights the principles that emerged from it. A controlled experiment showed benefits for navigation to already previously visited nodes and estimation of overall tree topology.
+vis citations:

@@ -1,0 +1,6 @@
+title: CESAR: A Smooth, Accurate and Robust Centerline Extraction Algorithm
+authors: Ingmar Bitter, Mie Sato, Michael Bender, Kevin T. McDonnell, Arie
+Kaufman, Ming Wan
+abstract: We present cEASAR, a centerline extraction algorithm that delivers smooth, accurate, and robust results. Centerlines are needed for accurate measurements of length along winding tubular structures. Centerlines are also required in automatic virtual navigation through human organs, such as the colon or the aorta, as they are used to control movement and orientation of the virtual camera. We introduce a concise but general definition of a centerline, and provide an algorithm that finds the centerline accurately and rapidly. Our algorithm is provably correct for general geometries. Our solution is fully automatic, which frees the user from having to engage in data preprocessing. For a number of test datasets, we show the smooth and accurate centerlines computed by our cEASAR algorithm on a single 194 MHz MIPS R10000 CPU within five minutes .
+vis citations:
+lakare_vis_00

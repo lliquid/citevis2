@@ -1,0 +1,8 @@
+title: Diamonds in the Rough: Social Media Visual Analytics for Journalistic Inquiry
+authors: Nicholas Diakopoulos, Mor Naaman, Funda Kivran-Swaine
+abstract: Journalists increasingly turn to social media sources such as Facebook or Twitter to support their coverage of various news events. For large-scale events such as televised debates and speeches, the amount of content on social media can easily become overwhelming, yet still contain information that may aid and augment reporting via individual content items as well as via aggregate information from the crowd???s response. In this work we present a visual analytic tool, Vox Civitas, designed to help journalists and media professionals extract news value from largescale aggregations of social media content around broadcast events. We discuss the design of the tool, present the text analysis techniques used to enable the presentation, and provide details on the visual and interaction design. We provide an exploratory evaluation based on a user study in which journalists interacted with the system to explore and report on a dataset of over one hundred thousand twitter messages collected during the U.S. State of the Union presidential address in 2010.
+vis citations:
+collins_vast_09
+fisher_vast_08
+kang_vast_09
+rose_vast_09

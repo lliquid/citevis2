@@ -1,0 +1,6 @@
+title: Elastic Hierarchies: Combining Treemaps and Node-Link Diagrams
+authors: Shengdong Zhao, Michael J. McGuffin, Mark H. Chignell
+abstract: We investigate the use of elastic hierarchies for representing trees, where a single graphical depiction uses a hybrid mixture, or ???interleaving???, of more basic forms at different nodes of the tree. In particular, we explore combinations of node-link and Treemap forms, to combine the space-efficiency of Treemaps with the structural clarity of node-link diagrams. A taxonomy is developed to characterize the design space of such hybrid combinations. A software prototype is described, which we used to explore various techniques for visualizing, browsing and interacting with elastic hierarchies, such as side-by-side overview and detail views, highlighting and rubber banding across views, visualization of multiple foci, and smooth animations across transitions. The paper concludes with a discussion of the characteristics of elastic hierarchies and suggestions for research on their properties and uses.
+vis citations:
+plaisant_infovis_02
+stasko_infovis_00

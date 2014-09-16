@@ -1,0 +1,12 @@
+title: Conjunctive Visual Forms
+authors: Chris Weaver
+abstract: Visual exploration of multidimensional data is a process of isolating and extracting relationships within and between dimensions. Coordinated multiple view approaches are particularly effective for visual exploration because they support precise expression of heterogeneous multidimensional queries using simple interactions. Recent visual analytics research has made significant progress in identifying and understanding patterns of composed views and coordinations that support fast, flexible, and open-ended data exploration. What is missing is formalization of the space of expressible queries in terms of visual representation and interaction. This paper introduces the Conjunctive Visual Form model in which visual exploration consists of interactively-driven sequences of transitions between visual states that correspond to conjunctive normal forms in boolean logic. The model predicts several new and useful ways to extend the space of rapidly expressible queries through addition of simple interactive capabilities to existing compositional patterns. Two recent related visual tools offer a subset of these capabilities, providing a basis for conjecturing about such extensions.
+vis citations:
+chen_h_infovis_03
+elmqvist_infovis_08
+havre_infovis_01
+mackinlay_infovis_07
+proulx_vast_06
+stasko_vast_07
+viegas_infovis_07
+weaver_vast_08

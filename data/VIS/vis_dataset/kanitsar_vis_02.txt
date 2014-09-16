@@ -1,0 +1,6 @@
+title: CPR  Curved Planar Reformation
+authors: Armin Kanitsar, Dominik Fleischmann, Rainer Wegenkittl, Petr Felkel,
+Meister Eduard Gr??ller
+abstract: Visualization of tubular structures such as blood vessels is an important topic in medical imaging. One way to display tubular structures for diagnostic purposes is to generate longitudinal crosssections in order to show their lumen, wall, and surrounding tissue in a curved plane. This process is called Curved Planar Reformation (CPR). We present three different methods to generate CPR images. A tube-phantom was scanned with Computed Tomography (CT) to illustrate the properties of the different CPR methods. Furthermore we introduce enhancements to these methods: thick-CPR, rotating-CPR and multi-path-CPR.
+vis citations:
+hahn_vis_01

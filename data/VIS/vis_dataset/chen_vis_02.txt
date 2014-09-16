@@ -1,0 +1,7 @@
+title: Scalable Alignment of Large-Format Multi-Projector Displays Using Camera Homography Trees
+authors: Han Cheni, Rahul Sukthankar, Grant Wallace, Kai Li
+abstract: This paper presents a vision-based geometric alignment system for aligning the projectors in an arbitrarily large display wall. Existing algorithms typically rely on a single camera view and degrade in accuracy1 as the display resolution exceeds the camera resolution by several orders of magnitude. Na??ve approaches to integrating multiple zoomed camera views fail since small errors in aligning adjacent views propagate quickly over the display surface to create glaring discontinuities. Our algorithm builds and refines a camera homography2 tree to automatically register any number of uncalibrated camera images; the resulting system is both faster and significantly more accurate than competing approaches, reliably achieving alignment errors of 0.55 pixels on a 24-projector display in under 9 minutes. Detailed experiments compare our system to two recent display wall alignment algorithms, both on our 18 Megapixel display wall and in simulation. These results indicate that our approach achieves sub-pixel accuracy even on displays with hundreds of projectors.
+vis citations:
+chen2_vis_00
+raskar_vis_99
+yang_vis_01

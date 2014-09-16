@@ -1,0 +1,9 @@
+title: Mesh Layouts for Block-Based Caches
+authors: Sung-Eui Yoon, Peter Lindstromi
+abstract: Current computer architectures employ caching to improve the performance of a wide variety of applications. One of the main characteristics of such cache schemes is the use of block fetching whenever an uncached data element is accessed. To maximize the benefit of the block fetching mechanism, we present novel cache-aware and cache-oblivious layouts of surface and volume meshes that improve the performance of interactive visualization and geometric processing algorithms. Based on a general I/O model, we derive new cache-aware and cache-oblivious metrics that have high correlations with the number of cache misses when accessing a mesh. In addition to guiding the layout process, our metrics can be used to quantify the quality of a layout, e.g. for comparing different layouts of the same mesh and for determining whether a given layout is amenable to significant improvement. We show that layouts of unstructured meshes optimized for our metrics result in improvements over conventional layouts in the performance of visualization applications such as isosurface extraction and view-dependent rendering. Moreover, we improve upon recent cache-oblivious mesh layouts in terms of performance, applicability, and accuracy.
+vis citations:
+isenburg_vis_05
+isenburg_vis_03
+karni_vis_02
+lindstrom02_vis_01
+yoon_vis_04

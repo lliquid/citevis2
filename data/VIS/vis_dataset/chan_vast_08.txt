@@ -1,0 +1,6 @@
+title: Maintaining Interactivity While Exploring Massive Time Series
+authors: Sye-Min Chan, Ling Xiao, John Gerth, Pat Hanrahan
+abstract: The speed of data retrieval qualitatively affects how analysts visually explore and analyze their data. To ensure smooth interactions in massive time series datasets, one needs to address the challenges of computing ad hoc queries, distributing query load, and hiding system latency. In this paper, we present ATLAS, a visualization tool for temporal data that addresses these issues using a combination of high performance database technology, predictive caching, and level of detail management. We demonstrate ATLAS using commodity hardware on a network traffic dataset of more than a billion records.
+vis citations:
+bethel_vast_06
+tesone_vast_07

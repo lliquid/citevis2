@@ -1,0 +1,7 @@
+title: An Empirical Study on Using Visual Embellishments in Visualization
+authors: Rita Borgo, Alfie Abdul-Rahman, Farhan Mohamed, Philip W. Grant, Irene Reppa, Luciano Floridi, Min Chen
+abstract: In written and spoken communications, figures of speech (e.g., metaphors and synecdoche) are often used as an aid to help convey abstract or less tangible concepts. However, the benefits of using rhetorical illustrations or embellishments in visualization have so far been inconclusive. In this work, we report an empirical study to evaluate hypotheses that visual embellishments may aid memorization, visual search and concept comprehension. One major departure from related experiments in the literature is that we make use of a dual-task methodology in our experiment. This design offers an abstraction of typical situations where viewers do not have their full attention focused on visualization (e.g., in meetings and lectures). The secondary task introduces ???divided attention???, and makes the effects of visual embellishments more observable. In addition, it also serves as additional masking in memory-based trials. The results of this study show that visual embellishments can help participants better remember the information depicted in visualization. On the other hand, visual embellishments can have a negative impact on the speed of visual search. The results show a complex pattern as to the benefits of visual embellishments in helping participants grasp key concepts from visualization.
+vis citations:
+chen_vis_10
+hullman1_infovis_11
+ziemkiew_infovis_08

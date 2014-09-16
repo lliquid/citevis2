@@ -1,0 +1,4 @@
+title: BM3D: Motion Estimation in Time Dependent Volume Data
+authors: Wim de Leeuw, Robert van Liere
+abstract: This paper describes BM3D: a method for the analysis of motion in time dependent volume data. From a sequence of volume data sets a sequence of vector data sets representing the movement of the data is computed. A block matching technique is used for the reconstruction of data movement. The derived vector field can be used for the visualization of time dependent volume data. The method is illustrated in two applications.
+vis citations:

@@ -1,0 +1,5 @@
+title: New Techniques for Topologically Correct Surface Reconstruction
+authors: Udo Adamy, Joachim Giesen, Matthias John
+abstract: We present a new approach to surface reconstruction based on the Delaunay complex. First we give a simple and fast algorithm that picks locally a surface at each vertex. For that, we introduce the concept of intervals. It turns out that for smooth regions of the surface this method works very well and at difficult parts of the surface yields an output well-suited for postprocessing. As a postprocessing step we propose a topological clean up and a new technique based on linear programming in order to establish a topologically correct surface. These techniques should be useful also for many other reconstruction schemes.
+vis citations:
+teichman_vis_98

@@ -1,0 +1,9 @@
+title: Multi-Resolution Dynamic Meshes with Arbitrary Deformations
+authors: Ariel Shamir, Valerio Pascucci, Chandrajit Bajaj
+abstract: Multi-resolution techniques and models have been shown to be effective for the display and transmission of large static geometric object. Dynamic environments with internally deforming models and scientific simulations using dynamic meshes pose greater challenges in terms of time and space, and need the development of similar solutions. In this paper we introduce the T-DAG, an adaptive multi-resolution representation for dynamic meshes with arbitrary deformations including attribute, position, connectivity and topology changes. T-DAG stands for Time-dependent Directed Acyclic Graph which defines the structure supporting this representation. We also provide an incremental algorithm (in time) for constructing the T-DAG representation of a given input mesh. This enables the traversal and use of the multi-resolution dynamic model for partial playback while still constructing new time-steps.
+vis citations:
+hoppe_vis_99
+hoppe_vis_98
+shen_vis_99
+staadt_vis_98
+sutton_vis_99

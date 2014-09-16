@@ -1,0 +1,9 @@
+title: Enabling Automatic Clutter Reduction in Parallel Coordinate Plots
+authors: Geoffrey Ellis, Alan Dix
+abstract: We have previously shown that random sampling is an effective clutter reduction technique and that a sampling lens can facilitate focus+context viewing of particular regions. This demands an efficient method of estimating the overlap or occlusion of large numbers of intersecting lines in order to automatically adjust the sampling rate within the lens. This paper proposes several ways for measuring occlusion in parallel coordinate plots. An empirical study into the accuracy and efficiency of the occlusion measures show that a probabilistic approach combined with a 'binning' technique is very fast and yet approaches the accuracy of the more expensive 'true' complete measurement.
+vis citations:
+fekete_infovis_04
+fua_vis_99
+peng_infovis_04
+rafiei_vis_05
+schussma_vis_04

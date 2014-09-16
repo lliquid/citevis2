@@ -1,0 +1,10 @@
+title: Evaluation of Trend Localization with Multi-Variate Visualizations
+authors: Mark A. Livingston, Jonathan W. Decker
+abstract: Multi-valued data sets are increasingly common, with the number of dimensions growing. A number of multi-variate visualization techniques have been presented to display such data. However, evaluating the utility of such techniques for general data sets remains difficult. Thus most techniques are studied on only one data set. Another criticism that could be levied against previous evaluations of multi-variate visualizations is that the task doesn???t require the presence of multiple variables. At the same time, the taxonomy of tasks that users may perform visually is extensive. We designed a task, trend localization, that required comparison of multiple data values in a multi-variate visualization. We then conducted a user study with this task, evaluating five multivariate visualization techniques from the literature (Brush Strokes, Data-Driven Spots, Oriented Slivers, Color Blending, Dimensional Stacking) and juxtaposed grayscale maps. We report the results and discuss the implications for both the techniques and the task.
+vis citations:
+shenas_infovis_07
+healey_vis_98
+kirby_vis_99
+laidlaw_vis_98
+urness_vis_03
+urness_vis_03

@@ -1,0 +1,6 @@
+title: A Flexible Multi-Volume Shader Framework for Arbitrarily Intersecting Multi-Resolution Datasets
+authors: John Plate, Thorsten Holtkaemper, Bernd Froehlich
+abstract: We present a powerful framework for 3D-texture-based rendering of multiple arbitrarily intersecting volumetric datasets. Each volume is represented by a multi-resolution octree-based structure and we use out-of-core techniques to support extremely large volumes. Users define a set of convex polyhedral volume lenses, which may be associated with one or more volumetric datasets. The volumes or the lenses can be interactively moved around while the region inside each lens is rendered using interactively defined multi-volume shaders.Our rendering pipeline splits each lens into multiple convex regions such that each region is homogenous and contains a fixed number of volumes. Each such region is further split by the brick boundaries of the associated octree representations. The resulting puzzle of lens fragments is sorted in front-to-back or back-to-front order using a combination of a view-dependent octree traversal and a GPU-based depth peeling technique. Our current implementation uses slice-based volume rendering and allows interactive roaming through multiple intersecting multi-gigabyte volumes.
+vis citations:
+krueger_vis_03
+weiskopf_vis_02

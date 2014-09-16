@@ -1,0 +1,8 @@
+title: Dispersion Simulation and Visualization for Urban Security
+authors: Feng Qiu, Ye Zhao, Zhe Fan, Xiaoming Wei, Haik Lorenz, Jianning Wang,
+Suzanne Yoakum-Stover, Arie Kaufman, Klaus Mueller
+abstract: We present a system for simulating and visualizing the propagation of dispersive contaminants with an application to urban security. In particular, we simulate airborne contaminant propagation in open environments characterized by sky-scrapers and deep urban canyons. Our approach is based on the Multiple Relaxation Time Lattice Boltzmann Model (MRTLBM), which can efficiently handle complex boundary conditions such as buildings. In addition, we model thermal effects on the flow field using the hybrid thermal MRTLBM. Our approach can also accommodate readings from various sensors distributed in the environment and adapt the simulation accordingly. We accelerate the computation and efficiently render many buildings with small textures on the GPU. We render streamlines and the contaminant smoke with self-shadowing composited with the textured buildings.
+vis citations:
+kniss_vis_02
+wei_vis_02
+zhao_vis_03

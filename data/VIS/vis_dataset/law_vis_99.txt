@@ -1,0 +1,6 @@
+title: A Multi-Threaded Streaming Pipeline Architecture for Large Structured Data Sets
+authors: C. Charles Law, Kenneth M. Martin, William J. Schroeder, Joshua. Temkin
+abstract: Computer simulation and digital measuring systems are now generating data of unprecedented size. The size of data is becoming so large that conventional visualization tools are incapable of processing it, which is in turn is impacting the effectiveness of computational tools. In this paper we describe an object-oriented architecture that addresses this problem by automatically breaking data into pieces, and then processes the data piece-by-piece within a pipeline of filters. The piece size is user specified and can be controlled to eliminate the need for swapping (i.e., relying on virtual memory). In addition, because piece size can be controlled, any size problem can be run on any size computer, at the expense of extra computational time. Furthermore, pieces are automatically broken into sub-pieces and each piece assigned to a different thread for parallel processing. This paper includes numerical performance studies and references to the source code which is freely available on the Web.
+vis citations:
+chiang_vis_98
+kenwrigh_vis_98

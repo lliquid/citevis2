@@ -1,0 +1,4 @@
+title: Large Field Visualization With Demand-Driven Calculation
+authors: Patrick J. Moran, Chris Henze
+abstract: We present a system designed for the interactive definition and visualization of fields derived from large data sets: the Demand-Driven Visualizer (DDV). The system allows the user to write arbitrary expressions to define new fields, and then apply a variety of visualization techniques to the result. Expressions can include differential operators and numerous other built-in functions. Determination of field values, both in space and in time, is directed automatically by the demands of the visualization techniques. The payoff of following a demand-driven design philosophy throughout the visualization system becomes particularly evident when working with large time-series data, where the costs of eager evaluation alternatives can be prohibitive.
+vis citations:

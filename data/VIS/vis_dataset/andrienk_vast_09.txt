@@ -1,0 +1,7 @@
+title: Interactive Visual Clustering of Large Collections of Trajectories
+authors: Gennady Andrienko, Natalia Andrienko, Salvatore Rinzivillo, Mirco Nanni, Dino Pedreschi, Fosca Giannotti
+abstract: One of the most common operations in exploration and analysis of various kinds of data is clustering, i.e. discovery and interpretation of groups of objects having similar properties and/or behaviors. In clustering, objects are often treated as points in multi-dimensional space of properties. However, structurally complex objects, such as trajectories of moving entities and other kinds of spatiotemporal data, cannot be adequately represented in this manner. Such data require sophisticated and computationally intensive clustering algorithms, which are very hard to scale effectively to large datasets not fitting in the computer main memory. We propose an approach to extracting meaningful clusters from large databases by combining clustering and classification, which are driven by a human analyst through an interactive visual interface.
+vis citations:
+andrienk_vast_08
+nam_vast_07
+schreck_vast_08

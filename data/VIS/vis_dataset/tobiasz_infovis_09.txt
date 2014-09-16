@@ -1,0 +1,11 @@
+title: Lark: Coordinating Co-located Collaboration with Information Visualization
+authors: Matthew Tobiasz, Petra Isenberg, Sheelagh Carpendale
+abstract: Large multi-touch displays are expanding the possibilities of multiple-coordinated views by allowing multiple people to interact with data in concert or independently. We present Lark, a system that facilitates the coordination of interactions with information visualizations on shared digital workspaces. We focus on supporting this coordination according to four main criteria: scoped interaction, temporal flexibility, spatial flexibility, and changing collaboration styles. These are achieved by integrating a representation of the information visualization pipeline into the shared workspace, thus explicitly indicating coordination points on data, representation, presentation, and view levels. This integrated meta-visualization supports both the awareness of how views are linked and the freedom to work in concert or independently. Lark incorporates these four main criteria into a coherent visualization collaboration interaction environment by providing direct visual and algorithmic support for the coordination of data analysis actions over shared large displays.
+vis citations:
+brennan_vast_06
+chi_infovis_98
+heer_vast_07
+isenberg_infovis_07
+keel_vast_06
+weaver_infovis_04
+weaver_infovis_05

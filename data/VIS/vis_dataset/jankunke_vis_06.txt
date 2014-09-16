@@ -1,0 +1,9 @@
+title: Vortex Visualization for Practical Engineering Applications
+authors: Monika Jankun-Kelly, Ming Jiang, David Thompson, Raghu Machiraju
+abstract: In order to understand complex vortical flows in large data sets, we must be able to detect and visualize vortices in an automated fashion. In this paper, we present a feature-based vortex detection and visualization technique that is appropriate for large computational fluid dynamics data sets computed on unstructured meshes. In particular, we focus on the application of this technique to visualization of the flow over a serrated wing and the flow field around a spinning missile with dithering canards. We have developed a core line extraction technique based on the observation that vortex cores coincide with local extrema in certain scalar fields. We also have developed a novel technique to handle complex vortex topology that is based on kmeans clustering. These techniques facilitate visualization of vortices in simulation data that may not be optimally resolved or sampled. Results are included that highlight the strengths and weaknesses of our approach. We conclude by describing how our approach can be improved to enhance robustness and expand its range of applicability.
+vis citations:
+jiang_vis_02
+peikert_vis_99
+roth_vis_98
+silver_vis_98
+stegmaie_vis_05

@@ -1,0 +1,7 @@
+title: Fast Blending Scheme for Molecular Surface Representation
+authors: Julius Parulek, Andrea Brambilla
+abstract: Representation of molecular surfaces is a well established way to study the interaction of molecules. The state-of-the-art molecular representation is the SES model, which provides a detailed surface visualization. Nevertheless, it is computationally expensive, so the less accurate Gaussian model is traditionally preferred. We introduce a novel surface representation that resembles the SES and approaches the rendering performance of the Gaussian model. Our technique is based on the iterative blending of implicit functions and avoids any pre-computation. Additionally, we propose a GPU-based ray-casting algorithm that efficiently visualize our molecular representation. A qualitative and quantitative comparison of our model with respect to the Gaussian and SES models is presented. As showcased in the paper, our technique is a valid and appealing alternative to the Gaussian representation. This is especially relevant in all the applications where the cost of the SES is prohibitive.
+vis citations:
+kindlman_vis_03
+krone_vis_09
+tarini_vis_06

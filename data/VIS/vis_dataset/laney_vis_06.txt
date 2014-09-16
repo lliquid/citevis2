@@ -1,0 +1,14 @@
+title: Understanding the Structure of the Turbulent Mixing Layer in Hydrodynamic Instabilities
+authors: D. Laney, P.-T. Bremer, A. Mascarenhas, P. Miller, V. Pascucci
+abstract: When a heavy fluid is placed above a light fluid, tiny vertical perturbations in the interface create a characteristic structure of rising bubbles and falling spikes known as Rayleigh-Taylor instability. Rayleigh-Taylor instabilities have received much attention over the past half-century because of their importance in understanding many natural and man-made phenomena, ranging from the rate of formation of heavy elements in supernovae to the design of capsules for Inertial Confinement Fusion.We present a new approach to analyze Rayleigh-Taylor instabilities in which we extract a hierarchical segmentation of the mixing envelope surface to identify bubbles and analyze analogous segmentations of fields on the original interface plane. We compute meaningful statistical information that reveals the evolution of topological features and corroborates the observations made by scientists. We also use geometric tracking to follow the evolution of single bubbles and highlight merge/split events leading to the formation of the large and complex structures characteristic of the later stages. In particular we (i) Provide a formal definition of a bubble; (ii) Segment the envelope surface to identify bubbles; (iii) Provide a multi-scale analysis technique to produce statistical measures of bubble growth; (iv) Correlate bubble measurements with analysis of fields on the interface plane; (v) Track the evolution of individual bubbles over time. Our approach is based on the rigorous mathematical foundations of Morse theory and can be applied 
+vis citations:
+carr_vis_04
+deleeuw_vis_99
+garth_vis_04
+gyulassy_vis_05
+isenburg_vis_03
+silver_vis_98
+theisel_vis_03
+tricoche_vis_00
+weber_vis_02
+weinkauf_vis_05

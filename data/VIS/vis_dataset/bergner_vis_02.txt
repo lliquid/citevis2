@@ -1,0 +1,6 @@
+title: Interactive Spectral Volume Rendering
+authors: Steven Bergner, Torsten M??ller, Mark S. Drew, Graham D. Finlayson
+abstract: We describe a method for volume rendering using a spectral representation of colour instead of the traditional RGB model. It is shown how to use this framework for a novel exploration of datasets through enhanced transfer function design. Furthermore, our framework is extended to allow real-time re-lighting of the scene created with any rendering method. The technique of postillumination is introduced to generate new spectral images for arbitrary light colours in real-time. Also a tool is described to design a palette of lights and materials having certain properties such as selective metamerism or colour constancy. Applied to spectral transfer functions, different light colours can accentuate or hide specific qualities of the data. In connection with post-illumination this provides a new degree of freedom for guided exploration of volumetric data, which cannot be achieved using the RGB model.
+vis citations:
+kniss_vis_01
+pekar_vis_01

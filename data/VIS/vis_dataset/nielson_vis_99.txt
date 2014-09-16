@@ -1,0 +1,5 @@
+title: Cracking the Cracking Problem with Coons Patches
+authors: Gregory M. Nielson, Dave Holliday, Tom Roxborough
+abstract: We present a new approach to solving the cracking problem. The cracking problem arises in many contexts in scientific visualization and computer graphics modeling where there is need for an approximation based upon domain decomposition that is fine in certain regions and coarse in others. This includes surface rendering, approximation of images and multiresolution terrain visualization. In general, algorithms based upon adaptive refinement strategies must deal with this problem. The new approach presented here is simple and general. It is based upon the use of a triangular Coons patch. Both the basic idea of using a triangular Coons patch in this context and the particular Coons patch that is used constitute the novel contributions of this paper.
+vis citations:
+friedric_vis_98

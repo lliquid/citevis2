@@ -1,0 +1,13 @@
+title: Radial Sets: Interactive Visual Analysis of Large Overlapping Sets
+authors: Bilal Alsallakh, Wolfgang Aigner, Silvia Miksch, Helwig Hauser
+abstract: In many applications, data tables contain multi-valued attributes that often store the memberships of the table entities to multiple sets such as which languages a person masters, which skills an applicant documents, or which features a product comes with. With a growing number of entities, the resulting element-set membership matrix becomes very rich of information about how these sets overlap. Many analysis tasks targeted at set-typed data are concerned with these overlaps as salient features of such data. This paper presents Radial Sets, a novel visual technique to analyze set memberships for a large number of elements. Our technique uses frequency-based representations to enable quickly finding and analyzing different kinds of overlaps between the sets, and relating these overlaps to other attributes of the table entities. Furthermore, it enables various interactions to select elements of interest, find out if they are over-represented in specific sets or overlaps, and if they exhibit a different distribution for a specific attribute compared to the rest of the elements. These interactions allow formulating highly-expressive visual queries on the elements in terms of their set memberships and attribute values. As we demonstrate via two usage scenarios, Radial Sets enable revealing and analyzing a multitude of overlapping patterns between large sets, beyond the limits of state-of-the-art techniques.
+vis citations:
+alper_infovis_11
+alsallakh_vast_12
+collins_infovis_09
+freiler_infovis_08
+ghoniem_infovis_04
+hauser_infovis_02
+riche_infovis_10
+henry_infovis_06
+steinberger_infovis_11

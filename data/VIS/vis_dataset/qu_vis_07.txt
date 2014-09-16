@@ -1,0 +1,6 @@
+title: Visual Analysis of the Air Pollution Problem in Hong Kong
+authors: Huamin Qu, Wing-Yi Chan, Anbang Xu, Kai-Lun Chung, Kai-Hon Lau, Ping Guo
+abstract: We present a comprehensive system for weather data visualization. Weather data are multivariate and contain vector fields formed by wind speed and direction. Several well-established visualization techniques such as parallel coordinates and polar systems are integrated into our system. We also develop various novel methods, including circular pixel bar charts embedded into polar systems, enhanced parallel coordinates with S-shape axis, and weighted complete graphs. Our system was used to analyze the air pollution problem in Hong Kong and some interesting patterns have been found.
+vis citations:
+sauber_vis_06
+yang_infovis_03

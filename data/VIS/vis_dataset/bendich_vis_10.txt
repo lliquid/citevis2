@@ -1,0 +1,4 @@
+title: Computing Robustness and Persistence for Images
+authors: Paul Bendich, Herbert Edelsbrunner, Michael Kerber
+abstract: We are interested in 3dimensional images given as arrays of voxels with intensity values. Extending these values to a continuous function, we study the robustness of homology classes in its level and interlevel sets, that is, the amount of perturbation needed to destroy these classes. The structure of the homology classes and their robustness, over all level and interlevel sets, can be visualized by a triangular diagram of dots obtained by computing the extended persistence of the function. We give a fast hierarchical algorithm using the dual complexes of oct-tree approximations of the function. In addition, we show that for balanced oct-trees, the dual complexes are geometrically realized in R3 and can thus be used to construct level and interlevel sets. We apply these tools to study 3dimensional images of plant root systems.
+vis citations:

@@ -1,0 +1,11 @@
+title: Rethinking Map Legends with Visualization
+authors: Jason Dykes, Jo Wood, Aidan Slingsby
+abstract: This design paper presents new guidance for creating map legends in a dynamic environment. Our contribution is a set of guidelines for legend design in a visualization context and a series of illustrative themes through which they may be expressed. These are demonstrated in an applications context through interactive software prototypes. The guidelines are derived from cartographic literature and in liaison with EDINA who provide digital mapping services for UK tertiary education. They enhance approaches to legend design that have evolved for static media with visualization by considering: selection, layout, symbols, position, dynamism and design and process. Broad visualization legend themes include: The Ground Truth Legend, The Legend as Statistical Graphic and The Map is the Legend. Together, these concepts enable us to augment legends with dynamic properties that address specific needs, rethink their nature and role and contribute to a wider re-evaluation of maps as artifacts of usage rather than statements of fact. EDINA has acquired funding to enhance their clients with visualization legends that use these concepts as a consequence of this work. The guidance applies to the design of a wide range of legends and keys used in cartography and information visualization.
+vis citations:
+dorling_infovis_06
+fisher_infovis_07
+heer_infovis_07
+skupin_infovis_00
+slingsby_infovis_09
+willett_infovis_07
+wood_infovis_08

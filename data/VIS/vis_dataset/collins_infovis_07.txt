@@ -1,0 +1,9 @@
+title: VisLink: Revealing Relationships Amongst Visualizations
+authors: Christopher Collins, Sheelagh Carpendale
+abstract: We present VisLink, a method by which visualizations and the relationships between them can be interactively explored. VisLink readily generalizes to support multiple visualizations, empowers inter-representational queries, and enables the reuse of the spatial variables, thus supporting efficient information encoding and providing for powerful visualization bridging. Our approach uses multiple 2D layouts, drawing each one in its own plane. These planes can then be placed and re-positioned in 3D space: side by side, in parallel, or in chosen placements that provide favoured views. Relationships, connections, and patterns between visualizations can be revealed and explored using a variety of interaction techniques including spreading activation and search filters.
+vis citations:
+holten_infovis_06
+mcguffin_vis_03
+shneiderman_infovis_06
+wong_n_infovis_03
+yee_infovis_01

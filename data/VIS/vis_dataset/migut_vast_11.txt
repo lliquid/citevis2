@@ -1,0 +1,10 @@
+title: Interactive Decision making using Dissimilarity to visually represented
+authors: M.A. Migut, J.C. van Gemert, M. Worring
+abstract: To make informed decisions, an expert has to reason with multidimensional, heterogeneous data and analysis results of these. Items in such datasets are typically represented by features. However, as argued in cognitive science, features do not yield an optimal space for human reasoning. In fact, humans tend to organize complex information in terms of prototypes or known cases rather than in absolute terms. When confronted with unknown data items, humans assess them in terms of similarity to these prototypical elements. Interestingly, an analogues similarity-to-prototype approach, where prototypes are taken from the data, has been successfully applied in machine learning. Combining such a machine learning approach with human prototypical reasoning in a Visual Analytics context requires to integrate similarity-based classification with interactive visualizations. To that end, the data prototypes should be visually represented to trigger direct associations to cases familiar to the domain experts. In this paper, we propose a set of highly interactive visualizations to explore data and classification results in terms of dissimilarities to visually represented prototypes. We argue that this approach not only supports human reasoning processes, but is also suitable to enhance understanding of heterogeneous data. The proposed framework is applied to a risk assessment case study in Forensic Psychiatry.
+vis citations:
+ankerst_infovis_98
+bostock_infovis_09
+migut_vast_10
+stolte_infovis_00
+yi_infovis_07
+yu_vast_08

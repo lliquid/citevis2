@@ -1,0 +1,10 @@
+title: Effects of Stereo and Screen Size on the Legibility of Three-Dimensional Streamtube Visualization
+authors: Jian Chen, Haipeng Cai, Alexander P. Auchus, David H. Laidlaw
+abstract: We report the impact of display characteristics (stereo and size) on task performance in diffusion magnetic resonance imaging (DMRI) in a user study with 12 participants. The hypotheses were that (1) adding stereo and increasing display size would improve task accuracy and reduce completion time, and (2) the greater the complexity of a spatial task, the greater the benefits of an improved display. Thus we expected to see greater performance gains when detailed visual reasoning was required. Participants used dense streamtube visualizations to perform five representative tasks: (1) determine the higher average fractional anisotropy (FA) values between two regions, (2) find the endpoints of fiber tracts, (3) name a bundle, (4) mark a brain lesion, and (5) judge if tracts belong to the same bundle. Contrary to our hypotheses, we found the task completion time was not improved by the use of the larger display and that performance accuracy was hurt rather than helped by the introduction of stereo in our study with dense DMRI data. Bigger was not always better. Thus cautious should be taken when selecting displays for scientific visualization applications. We explored the results further using the body-scale unit and subjective size and stereo experiences.
+vis citations:
+bair_vis_06
+everts_vis_09
+forsberg_vis_09
+kindlman_vis_03
+munzner_infovis_09
+ebert_vis_00

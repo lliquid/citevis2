@@ -1,0 +1,14 @@
+title: Interactive Volume Visualization of General Polyhedral Grids
+authors: Philipp Muigg, Markus Hadwiger
+authors: Helmut Doleisch, Eduard Gr??ller
+abstract: This paper presents a novel framework for visualizing volumetric data specified on complex polyhedral grids, without the need to perform any kind of a priori tetrahedralization. These grids are composed of polyhedra that often are non-convex and have an arbitrary number of faces, where the faces can be non-planar with an arbitrary number of vertices. The importance of such grids in state-of-the-art simulation packages is increasing rapidly. We propose a very compact, face-based data structure for representing such meshes for visualization, called two-sided face sequence lists (TSFSL), as well as an algorithm for direct GPU-based ray-casting using this representation. The TSFSL data structure is able to represent the entire mesh topology in a 1D TSFSL data array of face records, which facilitates the use of efficient 1D texture accesses for visualization. In order to scale to large data sizes, we employ a mesh decomposition into bricks that can be handled independently, where each brick is then composed of its own TSFSL array. This bricking enables memory savings and performance improvements for large meshes. We illustrate the feasibility of our approach with real-world application results, by visualizing highly complex polyhedral data from commercial state-of-the-art simulation packages.
+vis citations:
+bavoil_vis_06
+callahan_vis_05
+kraus_vis_01
+lamar_vis_99
+laramee_vis_05
+levy_vis_01
+muigg_vis_07
+weiler_vis_03
+zhou_vis_06

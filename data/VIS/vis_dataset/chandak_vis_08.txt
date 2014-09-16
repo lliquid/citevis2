@@ -1,0 +1,7 @@
+title: AD-Frustum: Adaptive Frustum Tracing for Interactive Sound Propagation
+authors: Anish Chandak, Christian Lauterbach, Micah Taylor, Zhimin Ren, Dinesh Manocha
+abstract: We present an interactive algorithm to compute sound propagation paths for transmission, specular reflection and edge diffraction in complex scenes. Our formulation uses an adaptive frustum representation that is automatically sub-divided to accurately compute intersections with the scene primitives. We describe a simple and fast algorithm to approximate the visible surface for each frustum and generate new frusta based on specular reflection and edge diffraction. Our approach is applicable to all triangulated models and we demonstrate its performance on architectural and outdoor models with tens or hundreds of thousands of triangles and moving objects. In practice, our algorithm can perform geometric sound propagation in complex scenes at 4-20 frames per second on a multi-core PC.
+vis citations:
+bertram_vis_05
+deines_vis_06
+michel_vis_07

@@ -1,0 +1,7 @@
+title: eSeeTrack: Visualizing Sequential Fixation Patterns
+authors: Hoi Ying Tsang, Melanie Tory, Colin Swindells
+abstract: We introduce eSeeTrack, an eye-tracking visualization prototypethat facilitates exploration and comparison of sequential gaze orderings in a static or a dynamic scene. It extends current eye-tracking data visualizations by extracting patterns of sequential gaze orderings, displaying these patterns in a way that does not depend on the number of fixations on a scene, and enabling users to compare patterns from two or more sets of eye-gaze data. Extracting such patterns was very difficult with previous visualization techniques. eSeeTrack combines a timeline and a tree-structured visual representation to embody three aspects of eye-tracking data that users are interested in: duration, frequency and orderings of fixations. We demonstrate the usefulness of eSeeTrack via two case studies on surgical simulation and retail store chain data. We found that eSeeTrack allows ordering of fixations to be rapidly queried, explored and compared. Furthermore, our tool provides an effective and efficient mechanism to determine pattern outliers. This approach can be effective for behavior analysis in a variety of domains that are described at the end of this paper.
+vis citations:
+blaas_infovis_09
+vrotsou_infovis_09
+wattenbe_infovis_08

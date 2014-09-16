@@ -1,0 +1,7 @@
+title: Beamtrees : Compact Visualization of Large Hierarchies
+authors: Frank van Ham, Jarke J. van Wijk
+abstract: Beamtrees are a new method for the visualization of large hierarchical data sets. Nodes are shown as stacked circular beams, such that both the hierarchical structure as well as the size of nodes are depicted. The dimensions of beams are calculated using a variation of the treemap algorithm. A small user study indicated that beamtrees are significantly more effective than nested treemaps and cushion treemaps for the extraction of global hierarchical information.
+vis citations:
+barlow01_infovis_01
+wattenberg_infovis_01
+vanwijk1_infovis_99

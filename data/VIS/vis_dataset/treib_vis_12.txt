@@ -1,0 +1,12 @@
+title: Turbulence Visualization at the Terascale on Desktop PCs
+authors: Marc Treib, Kai B??rger, Florian Reichl, Charles Meneveau, Alex Szalay, R??diger Westermann
+abstract: Despite the ongoing efforts in turbulence research, the universal properties of the turbulence small-scale structure and the relationships between small- and large-scale turbulent motions are not yet fully understood. The visually guided exploration of turbulence features, including the interactive selection and simultaneous visualization of multiple features, can further progress our understanding of turbulence. Accomplishing this task for flow fields in which the full turbulence spectrum is well resolved is challenging on desktop computers. This is due to the extreme resolution of such fields, requiring memory and bandwidth capacities going beyond what is currently available. To overcome these limitations, we present a GPU system for feature-based turbulence visualization that works on a compressed flow field representation. We use a wavelet-based compression scheme including run-length and entropy encoding, which can be decoded on the GPU and embedded into brick-based volume ray-casting. This enables a drastic reduction of the data to be streamed from disk to GPU memory. Our system derives turbulence properties directly from the velocity gradient tensor, and it either renders these properties in turn or generates and renders scalar feature volumes. The quality and efficiency of the system is demonstrated in the visualization of two unsteady turbulence simulations, each comprising a spatio-temporal resolution of 10244. On a desktop computer, the system can visualize each time step in 5 seconds, and it achieves about three times this rate for the visualization of a scalar feature volume.
+vis citations:
+ellswort_vis_04
+guthe_vis_01
+guthe_vis_02
+kraus_vis_05
+krueger_vis_03
+lindstro_vis_06
+lum_vis_01
+schneide_vis_03

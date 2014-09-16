@@ -1,0 +1,8 @@
+title: Fuzzy Volume Rendering
+authors: Nathaniel Fout, Kwan-Liu Ma
+abstract: In order to assess the reliability of volume rendering, it is necessary to consider the uncertainty associated with the volume data and how it is propagated through the volume rendering algorithm, as well as the contribution to uncertainty from the rendering algorithm itself. In this work, we show how to apply concepts from the field of reliable computing in order to build a framework for management of uncertainty in volume rendering, with the result being a self-validating computational model to compute a posteriori uncertainty bounds. We begin by adopting a coherent, unifying possibility-based representation of uncertainty that is able to capture the various forms of uncertainty that appear in visualization, including variability, imprecision, and fuzziness. Next, we extend the concept of the fuzzy transform in order to derive rules for accumulation and propagation of uncertainty. This representation and propagation of uncertainty together constitute an automated framework for management of uncertainty in visualization, which we then apply to volume rendering. The result, which we call fuzzy volume rendering, is an uncertainty-aware rendering algorithm able to produce more complete depictions of the volume data, thereby allowing more reliable conclusions and informed decisions. Finally, we compare approaches for self-validated computation in volume rendering, demonstrating that our chosen method has the ability to handle complex uncertainty while maintaining efficiency.
+vis citations:
+correa_vast_09
+kniss_vis_05
+lundstroem_vis_07
+zheng_vis_10

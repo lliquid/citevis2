@@ -1,0 +1,6 @@
+title: A Rank-by-Feature Framework for Unsupervised Multidimensional Data Exploration Using Low Dimensional Projections
+authors: Jinwook Seo, Ben Shneiderman
+abstract: Exploratory analysis of multidimensional data sets is challenging because of the difficulty in comprehending more than three dimensions. Two fundamental statistical principles for the exploratory analysis are (1) to examine each dimension first and then find relationships among dimensions, and (2) to try graphical displays first and then find numerical summaries [1]. We implement these principles in a novel conceptual framework called the rank-by-feature framework. In the framework, users can choose a ranking criterion interesting to them and sort 1D or 2D axis-parallel projections according to the criterion. We introduce the rank-by-feature prism that is a color-coded lowertriangular matrix that guides users to desired features. Statistical graphs (histogram, boxplot, and scatterplot) and information visualization techniques (overview, coordination, and dynamic query) are combined to help users effectively traverse 1D and 2D axis-parallel projections, and finally to help them interactively find interesting features.
+vis citations:
+ankerst_infovis_98
+yang_infovis_03

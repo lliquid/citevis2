@@ -1,0 +1,15 @@
+title: Scalable Hybrid Unstructured and Structured Grid Raycasting
+authors: Philipp Muigg, Markus Hadwiger, Helmut Doleisch, Helwig Hauser
+abstract: This paper presents a scalable framework for real-time raycasting of large unstructured volumes that employs a hybrid bricking approach. It adaptively combines original unstructured bricks in important (focus) regions, with structured bricks that are resampled on demand in less important (context) regions. The basis of this focus+context approach is interactive specification of a scalar degree of interest (DOI) function. Thus, rendering always considers two volumes simultaneously: a scalar data volume, and the current DOI volume. The crucial problem of visibility sorting is solved by raycasting individual bricks and compositing in visibility order from front to back. In order to minimize visual errors at the grid boundary, it is always rendered accurately, even for resampled bricks. A variety of different rendering modes can be combined, including contour enhancement. A very important property of our approach is that it supports a variety of cell types natively, i.e., it is notconstrained to tetrahedral grids, even when interpolation within cells is used. Moreover, our framework can handle multi-variate data, e.g., multiple scalar channels such as temperature or pressure, as well as time-dependent data. The combination of unstructured and structured bricks with different quality characteristics such as the type of interpolation or resampling resolution in conjunction with custom texture memory management yields a very scalable system.
+vis citations:
+bavoil_vis_06
+georgii_vis_06
+kraus_vis_01
+krueger_vis_06
+krueger_vis_03
+lamar_vis_99
+roettger_vis_00
+viola_vis_06
+weiler_vis_01
+weiler_vis_03
+zhou_vis_06

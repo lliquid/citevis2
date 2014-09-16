@@ -1,0 +1,13 @@
+title: A Correlative Analysis Process in a Visual Analytics Environment
+authors: Abish Malik, Ross Maciejewski, Yun Jang, Whitney Huang, Niklas Elmqvist, David S. Ebert
+abstract: Finding patterns and trends in spatial and temporal datasets has been a long studied problem in statistics and different domains of science. This paper presents a visual analytics approach for the interactive exploration and analysis of spatiotemporal correlations among multivariate datasets. Our approach enables users to discover correlations and explore potentially causal or predictive links at different spatiotemporal aggregation levels among the datasets, and allows them to understand the underlying statistical foundations that precede the analysis. Our technique utilizes the Pearson???s product-moment correlation coefficient and factors in the lead or lag between different datasets to detect trends and periodic patterns amongst them.
+vis citations:
+hao_infovis_05
+heer_infovis_07
+javed_infovis_10
+kincaid_infovis_10
+krstajic_infovis_11
+stasko_vast_07
+vanwijk2_infovis_99
+vanwijk2_infovis_99
+zhao_infovis_11

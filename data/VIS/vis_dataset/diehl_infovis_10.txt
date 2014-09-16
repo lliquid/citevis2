@@ -1,0 +1,6 @@
+title: Uncovering Strengths and Weaknesses of Radial Visualizations???an Empirical Approach
+authors: Stephan Diehl, Fabian Beck, Michael Burch
+abstract: Radial visualizations play an important role in the information visualization community. But the decision to choose a radial coordinate system is rather based on intuition than on scientific foundations. The empirical approach presented in this paper aims at uncovering strengths and weaknesses of radial visualizations by comparing them to equivalent ones in Cartesian coordinate systems. We identified memorizing positions of visual elements as a generic task when working with visualizations. A first study with 674 participants provides a broad data spectrum for exploring differences between the two visualization types. A second, complementing study with fewer participants focuses on further questions raised by the first study. Our findings document that Cartesian visualizations tend to outperform their radial counterparts especially with respect to answer times. Nonetheless, radial visualization seem to be more appropriate for focusing on a particular data dimension.
+vis citations:
+kobsa_infovis_04
+tavanti_infovis_01

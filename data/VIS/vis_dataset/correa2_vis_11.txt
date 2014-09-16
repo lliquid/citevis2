@@ -1,0 +1,8 @@
+title: Towards Robust Topology of Sparsely Sampled Data
+authors: Carlos D. Correa, Peter Lindstrom
+abstract: Sparse, irregular sampling is becoming a necessity for reconstructing large and high-dimensional signals. However, the analysis of this type of data remains a challenge. One issue is the robust selection of neighborhoods ??? a crucial part of analytic tools such as topological decomposition, clustering and gradient estimation. When extracting the topology of sparsely sampled data, common neighborhood strategies such as knearest neighbors may lead to inaccurate results, either due to missing neighborhood connections, which introduce false extrema, or due to spurious connections, which conceal true extrema. Other neighborhoods, such as the Delaunay triangulation, are costly to compute and store even in relatively low dimensions. In this paper, we address these issues. We present two new types of neighborhood graphs: a variation on and a generalization of empty region graphs, which considerably improve the robustness of neighborhood-based analysis tools, such as topological decomposition. Our findings suggest that these neighborhood graphs lead to more accurate topological representations of low and high dimensional data sets at relatively low cost, both in terms of storage and computation time. We describe the implications of our work in the analysis and visualization of scalar functions, and provide general strategies for computing and applying our neighborhood graphs towards robust data analysis.
+vis citations:
+correa1_vis_11
+gerber_vis_10
+gyulassy_vis_05
+oesterli_vast_10

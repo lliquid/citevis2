@@ -1,0 +1,4 @@
+title: Case Study: Visualizing Sets of Evolutionary Trees
+authors: Nina Amenta, Jeff Klingner
+abstract: We describe a visualization tool which allows a biologist to explore a large set of hypothetical evolutionary trees. Interacting with such a dataset allows the biologist to identify distinct hypotheses about how different species or organisms evolved, which would not have been clear from traditional analyses. Our system integrates a point-set visualization of the distribution of hypothetical trees with detail views of an individual tree, or of a consensus tree summarizing a subset of trees. Efficient algorithms were required for the key tasks of computing distances between trees, finding consensus trees, and laying out the point-set visualization.
+vis citations:

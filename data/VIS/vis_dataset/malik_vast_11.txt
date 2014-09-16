@@ -1,0 +1,10 @@
+title: A Visual Analytics Process for Maritime Resource Allocation and Risk Assessment
+authors: Abish Malik, Ross Maciejewski, Ben Maule, David S. Ebert
+abstract: In this paper, we present our collaborative work with the U.S. Coast Guard???s Ninth District and Atlantic Area Commands where we developed a visual analytics system to analyze historic response operations and assess the potential risks in the maritime environment associated with the hypothetical allocation of Coast Guard resources. The system includes linked views and interactive displays that enable the analysis of trends, patterns and anomalies among the U.S. Coast Guard search and rescue (SAR) operations and their associated sorties. Our system allows users to determine the potential change in risks associated with closing certain stations in terms of response time, potential lives and property lost and provides optimal direction as to the nearest available station. We provide maritime risk assessment tools that allow analysts to explore Coast Guard coverage for SAR operations and identify regions of high risk. The system also enables a thorough assessment of all SAR operations conducted by each Coast Guard station in the Great Lakes region. Our system demonstrates the effectiveness of visual analytics in analyzing risk within the maritime domain and is currently being used by analysts at the Coast Guard Atlantic Area.
+vis citations:
+correa_vast_09
+migut_vast_10
+rudolph_vast_09
+savikhin_vast_08
+stasko_vast_07
+vanwijk2_infovis_99

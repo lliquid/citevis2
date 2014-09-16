@@ -1,0 +1,14 @@
+title: A Visual Analysis Concept for the Validation of Geoscientific Simulation Models
+authors: Andrea Unger, Sven Schulte, Volker Klemann, Doris Dransch
+abstract: Geoscientific modeling and simulation helps to improve our understanding of the complex Earth system. During the modeling process, validation of the geoscientific model is an essential step. In validation, it is determined whether the model output shows sufficient agreement with observation data. Measures for this agreement are called goodness of fit. In the geosciences, analyzing the goodness of fit is challenging due to its manifold dependencies: 1) The goodness of fit depends on the model parameterization, whose precise values are not known. 2) The goodness of fit varies in space and time due to the spatio-temporal dimension of geoscientific models. 3) The significance of the goodness of fit is affected by resolution and preciseness of available observational data. 4) The correlation between goodness of fit and underlying modeled and observed values is ambiguous. In this paper, we introduce a visual analysis concept that targets these challenges in the validation of geoscientific models ??? specifically focusing on applications where observation data is sparse, unevenly distributed in space and time, and imprecise, which hinders a rigorous analytical approach. Our concept, developed in close cooperation with Earth system modelers, addresses the four challenges by four tailored visualization components. The tight linking of these components supports a twofold interactive drill-down in model parameter space and in the set of data samples, which facilitates the exploration of the numerous dependencies of the goodness of fit. We exemplify our visualization concept for geoscientific modeling of glacial isostatic adjustments in the last 100,000 years, validated against sea levels indicators ??? a prominent example for sparse and imprecise observation data. An initial use case and feedback from Earth system modelers indicate that our visualization concept is a valuable complement to the range of validation methods.
+vis citations:
+bruckner_vis_10
+kehrer_vis_08
+matkovic_vis_10
+matkovic_vis_08
+sanyal_vis_10
+tomaszew_vast_10
+torsneyweir_vis_11
+waser_vis_10
+waser_vis_11
+yuan_vis_10

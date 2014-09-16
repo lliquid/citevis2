@@ -1,0 +1,10 @@
+title: Visualization of Intricate Flow Structures for Vortex Breakdown Analysis
+authors: Xavier Tricoche, Christoph Garth, Gordon Kindlmann, Eduard Deines, Gerik Scheuermann, Markus Ruetten, Charles Hansen
+abstract: Vortex breakdowns and flow recirculation are essential phenomena in aeronautics where they appear as a limiting factor in the design of modern aircrafts. Because of the inherent intricacy of these features, standard flow visualization techniques typically yield cluttered depictions. The paper addresses the challenges raised by the visual exploration and validation of two CFD simulations involving vortex breakdown. To permit accurate and insightful visualization we propose a new approach that unfolds the geometry of the breakdown region by letting a plane travel through the structure along a curve. We track the continuous evolution of the associated projected vector field using the theoretical framework of parametric topology. To improve the understanding of the spatial relationship between the resulting curves and lines we use direct volume rendering and multi-dimensional transfer functions for the display of flow-derived scalar quantities. This enriches the visualization and provides an intuitive context for the extracted topological information. Our results offer clear, synthetic depictions that permit new insight into the structural properties of vortex breakdowns.
+vis citations:
+alexa_vis_01
+kindlman_vis_03
+kniss_vis_01
+peikert_vis_99
+roth_vis_98
+theisel_vis_03

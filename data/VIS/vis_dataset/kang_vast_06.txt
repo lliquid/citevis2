@@ -1,0 +1,6 @@
+title: NetLens: Iterative Exploration of Content-Actor Network Data
+authors: Hyunmo Kang, Catherine Plaisant, Bongshin Lee, Benjamin B. Bederson
+abstract: Networks have remained a challenge for information retrieval and visualization because of the rich set of tasks that users want to accomplish. This paper offers an abstract Content-Actor network data model, a classification of tasks, and a tool to support them. The NetLens interface was designed around the abstract ContentActor network data model to allow users to pose a series of elementary queries and iteratively refine visual overviews and sorted lists. This enables the support of complex queries that are traditionally hard to specify. NetLens is general and scalable in that it applies to any dataset that can be represented with our abstract data model. This paper describes NetLens applying a subset of the ACM Digital Library consisting of about 4,000 papers from the CHI conference written by about 6,000 authors. In addition, we are now working on a collection of half a million emails, and a dataset of legal cases.
+vis citations:
+amar_infovis_05
+ghoniem_infovis_04

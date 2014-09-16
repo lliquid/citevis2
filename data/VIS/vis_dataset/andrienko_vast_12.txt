@@ -1,0 +1,7 @@
+title: Visual Analytics Methodology for Eye Movement Studies
+authors: Gennady Andrienko, Natalia Andrienko, Michael Burch, Daniel Weiskopf
+abstract: Eye movement analysis is gaining popularity as a tool for evaluation of visual displays and interfaces. However, the existing methods and tools for analyzing eye movements and scanpaths are limited in terms of the tasks they can support and effectiveness for large data and data with high variation. We have performed an extensive empirical evaluation of a broad range of visual analytics methods used in analysis of geographic movement data. The methods have been tested for the applicability to eye tracking data and the capability to extract useful knowledge about users??? viewing behaviors. This allowed us to select the suitable methods and match them to possible analysis tasks they can support. The paper describes how the methods work in application to eye tracking data and provides guidelines for method selection depending on the analysis tasks.
+vis citations:
+burch2_infovis_11
+crnovrsa_vast_09
+phan_infovis_05

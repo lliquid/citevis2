@@ -1,0 +1,8 @@
+title: Visualizing Business Data with Generalized Treemaps
+authors: R.el Vliegen, Jarke J. van Wijk, Erik-Jan van der Linden
+abstract: Business data is often presented using simple business graphics. Thesefamiliar vis ualizations are effective for providing overviews, but fall short for the presentation of large amounts ofdetailed information. Treemaps can provide such detail, but are often not easy to understand. We present how standard treemap algorithms can be adapted such that the results mimic familiar business graphics.Specifically, we present the use of different layout algorithms per level, anumber of variations of the squarified algorithm, the use of variable borders, and the use of non-rectangular shapes. The combined useof these leads to histograms, pie charts and a variety of other styles.
+vis citations:
+lommerse_infovis_05
+wilson_infovis_99
+barlow01_infovis_01
+wijk_vis_05

@@ -1,0 +1,6 @@
+title: GeneaQuilts: A System for Exploring Large Genealogies
+authors: Anastasia Bezerianos, Pierre Dragicevic, Jean-Daniel Fekete, Juhee Bae, Ben Watson
+abstract: GeneaQuilts is a new visualization technique for representing large genealogies of up to several thousand individuals. The visualization takes the form of a diagonally-filled matrix, where rows are individuals and columns are nuclear families. After identifying the major tasks performed in genealogical research and the limits of current software, we present an interactive genealogy exploration system based on GeneaQuilts. The system includes an overview, a timeline, search and filtering components, and a new interaction technique called Bring & Slide that allows fluid navigation in very large genealogies. We report on preliminary feedback from domain experts and show how our system supports a number of their tasks.
+vis citations:
+fekete_infovis_02
+mcguffin_infovis_05

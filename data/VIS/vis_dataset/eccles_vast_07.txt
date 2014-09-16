@@ -1,0 +1,7 @@
+title: Stories in GeoTime
+authors: Ryan Eccles, Thomas Kapler, Robert Harper, William Wright
+abstract: A story is a powerful abstraction used by intelligence analysts to conceptualize threats and understand patterns as part of the analytical process. This paper demonstrates a system that detects geo-temporal patterns and integrates story narration to increase analytic sense-making cohesion in GeoTime. The GeoTime geotemporal event visualization tool was augmented with a story system that uses narratives, hypertext linked visualizations, visual annotations, and pattern detection to create an environment for analytic exploration and communication, thereby assisting the analyst in identifying, extracting, arranging and presenting stories within the data The story system lets analysts operate at the story level with higher-level abstractions of data, such as behaviors and events, while staying connected to the evidence. The story system was developed and evaluated in collaboration with analysts.
+vis citations:
+kapler_infovis_04
+kapler_infovis_04
+xiao_vast_06

@@ -1,0 +1,9 @@
+title: Physically Based Methods for Tensor Field Visualization
+authors: Ingrid Hotz, Louis Feng, Hans Hagen, Bernd Hamann, Kenneth Joy, Boris Jeremic
+abstract: The physical interpretation of mathematical features of tensor fields is highly application-specific. Existing visualization methods for tensor fields only cover a fraction of the broad application areas. We present a visualization method tailored specifically to the class of tensor field exhibiting properties similar to stress and strain tensors, which are commonly encountered in geomechanics.Our technique is a global method that represents the physical meaning of these tensor fields with their central features: regions of compression or expansion. The method is based on two steps: first, we define a positive definite metric, with the same topological structure as the tensor field; second, we visualize the resulting metric. The eigenvector fields are represented using a texture-based approach resembling line integral convolution (LIC) methods. The eigenvalues of the metric are encoded in free parameters of the texture definition. Our method supports an intuitive distinction between positive and negative eigenvalues.We have applied our method to synthetic and some standard data sets, and ???real??? data from Earth science and mechanical engineering application.
+vis citations:
+boring_vis_98
+hotz_vis_02
+weinstei_vis_99
+zheng_vis_02
+zhukov_vis_02

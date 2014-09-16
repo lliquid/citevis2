@@ -1,0 +1,5 @@
+title: Image Space Based Visualization of Unsteady Flow on Surfaces
+authors: Robert S. Laramee, Bruno Jobard, Helwig Hauser
+abstract: We present a novel technique for direct visualization of unsteady flow on surfaces from computational fluid dynamics. The method generates dense representations of time-dependent vector fields with high spatio-temporal correlation using both LagrangianEulerian Advection and Image Based Flow Visualization as its foundation. While the 3D vector fields are associated with arbitrary triangular surface meshes, the generation and advection of texture properties is confined to image space. Frame rates of up to 20 frames per second are realized by exploiting graphics card hardware. We apply this algorithm to unsteady flow on boundary surfaces of, large, complex meshes from computational fluid dynamics composed of more than 250,000 polygons, dynamic meshes with time-dependent geometry and topology, as well as medical data.
+vis citations:
+jobard_vis_01

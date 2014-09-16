@@ -1,0 +1,4 @@
+title: Local and Global Comparison of Continuous Functions
+authors: Herbert Edelsbrunner, John Harer, Vijay Natarajan, Valerio Pascucci
+abstract: We introduce local and global comparison measures for a collection of k < d real-valued smooth functions on a common ddimensional Riemannian manifold. For k = d = 2 we relate the measures to the set of critical points of one function restricted to the level sets of the other. The definition of the measures extends to piecewise linear functions for which they are easy to compute. The computation of the measures forms the centerpiece of a software tool which we use to study scientific datasets.
+vis citations:

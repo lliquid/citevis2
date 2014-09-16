@@ -1,0 +1,4 @@
+title: Visual Path Analysis
+authors: T. Alan Keahey, Stephen G. Eick
+abstract: This paper describes a system for analyzing the flow of traffic through web-sites. We decomposed the general path analysis problem into a set of distinct subproblems, and created a visual metaphorfor analyzing each of them. Our system works off of multiple representations of the clickstream, and exposes the path extraction algorithms and data to the visual metaphors as web services. We have combined the visual metaphors into a web-based ???path analysis portal??? that lets the user easily switch between the different modes of analysis.
+vis citations:

@@ -1,0 +1,6 @@
+title: Expand-Ahead: A Space-Filling Strategy for Browsing Trees
+authors: Michael J. McGuffin, Gord Davison, Ravin Balakrishnan
+abstract: Many tree browsers allow subtrees under a node to be collapsed or expanded, enabling the user to control screen space usage and selectively drill-down. However, explicit expansion of nodes can be tedious. Expand-ahead is a space-filling strategy by which some nodes are automatically expanded to fill available screen space, without expanding so far that nodes are shown at a reduced size or outside the viewport. This often allows a user exploring the tree to see further down the tree without the effort required in a traditional browser. It also means the user can sometimes drill-down a path faster, by skipping over levels of the tree that are automatically expanded for them. Expand-ahead differs from many detail-incontext techniques in that there is no scaling or distortion involved. We present 1D and 2D prototype implementations of expand-ahead, and identify various design issues and possible enhancements to our designs. Our prototypes support smooth, animated transitions between different views of a tree. We also present the results of a controlled experiment which show that, under certain conditions, users are able to drill-down faster with expand-ahead than without.
+vis citations:
+nguyen_infovis_02
+plaisant_infovis_02

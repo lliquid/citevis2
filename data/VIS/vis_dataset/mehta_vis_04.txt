@@ -1,0 +1,6 @@
+title: Detection and Visualization of Anomalous Structures in Molecular Dynamics Simulation Data
+authors: Sameep Mehta, Kaden Hazzard, Raghu Machiraju, Srinivasan
+Parthasarathy, John Wilkins
+abstract: In this article we explore techniques to detect and visualize features in data from molecular dynamics (MD) simulations. Although the techniques proposed are general, we focus on silicon (Si) atomic systems. The first set of methods use 3D location of atoms. Defects are detected and categorized using local operators and statistical modeling. Our second set of exploratory techniques employ electron density data. This data is visualized to glean the defects. We describe techniques to automatically detect the salient iso-values for iso-surface extraction and designing transfer functions.We compare and contrast the results obtained from both sources of data. Essentially, we find that the methods of defect (feature) detection are at least as robust as those based on the exploration of electron density for Si systems.
+vis citations:
+prohaska_vis_02

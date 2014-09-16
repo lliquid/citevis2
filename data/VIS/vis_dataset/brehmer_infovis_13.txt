@@ -1,0 +1,24 @@
+title: A Multi-Level Typology of Abstract Visualization Tasks
+authors: Matthew Brehmer, Tamara Munzner
+abstract: The considerable previous work characterizing visualization usage has focused on low-level tasks or interactions and high-level tasks, leaving a gap between them that is not addressed. This gap leads to a lack of distinction between the ends and means of a task, limiting the potential for rigorous analysis. We contribute a multi-level typology of visualization tasks to address this gap, distinguishing why and how a visualization task is performed, as well as what the task inputs and outputs are. Our typology allows complex tasks to be expressed as sequences of interdependent simpler tasks, resulting in concise and flexible descriptions for tasks of varying complexity and scope. It provides abstract rather than domain-specific descriptions of tasks, so that useful comparisons can be made between visualization systems targeted at different application domains. This descriptive power supports a level of analysis required for the generation of new designs, by guiding the translation of domain-specific problems into abstract tasks, and for the qualitative evaluation of visualization usage. We demonstrate the benefits of our approach in a detailed case study, comparing task descriptions from our typology to those derived from related work. We also discuss the similarities and differences between our typology and over two dozen extant classification systems and theoretical frameworks from the literatures of visualization, human-computer interaction, information retrieval, communications, and cartography.
+vis citations:
+amar_infovis_05
+amar_infovis_04
+chi_infovis_98
+doerk_infovis_12
+gotz_vast_08
+plaisant_infovis_02
+heer_infovis_08
+heer_infovis_07
+kandel_vast_12
+kang_vast_11
+lam_infovis_08
+lee_infovis_12
+liu_infovis_08
+liu_infovis_10
+munzner_infovis_09
+pohl_vast_12
+pousman_infovis_07
+sedlmair_infovis_12
+tory_infovis_04
+yi_infovis_07

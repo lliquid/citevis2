@@ -1,0 +1,14 @@
+title: Perception-Based Transparency Optimization for Direct Volume Rendering
+authors: Ming-Yuen Chan, Yingcai Wu, Wai-Ho Mak, Wei Chen, Huamin Qu
+abstract: The semi-transparent nature of direct volume rendered images is useful to depict layered structures in a volume. However, obtaining a semi-transparent result with the layers clearly revealed is difficult and may involve tedious adjustment on opacity and other rendering parameters. Furthermore, the visual quality of layers also depends on various perceptual factors. In this paper, we propose an auto-correction method for enhancing the perceived quality of the semi-transparent layers in direct volume rendered images. We introduce a suite of new measures based on psychological principles to evaluate the perceptual quality of transparent structures in the rendered images. By optimizing rendering parameters within an adaptive and intuitive user interaction process, the quality of the images is enhanced such that specific user requirements can be met. Experimental results on various datasets demonstrate the effectiveness and robustness of our method.
+vis citations:
+bair_vis_06
+chan_vis_08
+correa_vis_08
+fang_vis_98
+kindlman_vis_03
+lee_vis_04
+rautek_vis_07
+ebert_vis_00
+salama_vis_06
+wangluji_vis_08

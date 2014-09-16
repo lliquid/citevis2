@@ -1,0 +1,8 @@
+title: Interactive Visual Optimization and Analysis for RFID Benchmarking
+authors: Yingcai Wu, Ka-Kei Chung, Huamin Qu, Xiaoru Yuan, S.C. Cheung
+abstract: Radio frequency identification (RFID) is a powerful automatic remote identification technique that has wide applications. To facilitate RFID deployment, an RFID benchmarking instrument called aGate has been invented to identify the strengths and weaknesses of different RFID technologies in various environments. However, the data acquired by aGate are usually complex timevarying multidimensional 3D volumetric data, which are extremely challenging for engineers to analyze. In this paper, we introduce a set of visualization techniques, namely, parallel coordinate plots, orientation plots, a visual history mechanism, and a 3D spatial viewer, to help RFID engineers analyze benchmark data visually and intuitively. With the techniques, we further introduce two workflow procedures (a visual optimization procedure for finding the optimum reader antenna configuration and a visual analysis procedure for comparing the performance and identifying the flaws of RFID devices) for the RFID benchmarking, with focus on the performance analysis of the aGate system. The usefulness and usability of the system are demonstrated in the user evaluation.
+vis citations:
+blaas_vis_08
+ellis_infovis_07
+fanea_infovis_05
+kreusele_infovis_04

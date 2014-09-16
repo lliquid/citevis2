@@ -1,0 +1,16 @@
+title: DICON: Interactive Visual Analysis of Multidimensional Clusters
+authors: Nan Cao, David Gotz, Jimeng Sun, Huamin Qu
+abstract: Clustering as a fundamental data analysis technique has been widely used in many analytic applications. However, it is often difficult for users to understand and evaluate multidimensional clustering results, especially the quality of clusters and their semantics. For large and complex data, high-level statistical information about the clusters is often needed for users to evaluate cluster quality while a detailed display of multidimensional attributes of the data is necessary to understand the meaning of clusters. In this paper, we introduce DICON, an icon-based cluster visualization that embeds statistical information into a multi-attribute display to facilitate cluster interpretation, evaluation, and comparison. We design a treemap-like icon to represent a multidimensional cluster, and the quality of the cluster can be conveniently evaluated with the embedded statistical information. We further develop a novel layout algorithm which can generate similar icons for similar clusters, making comparisons of clusters easier. User interaction and clutter reduction are integrated into the system to help users more effectively analyze and refine clustering results for large datasets. We demonstrate the power of DICON through a user study and a case study in the healthcare domain. Our evaluation shows the benefits of the technique, especially in support of complex multidimensional cluster analysis.
+vis citations:
+ankerst_infovis_98
+balzer_infovis_05
+elmqvist_infovis_08
+fua_vis_99
+henry_infovis_07
+holten_infovis_06
+johansso_infovis_09
+pham_infovis_10
+wattenberg_infovis_01
+tatu_vast_09
+wood_infovis_08
+yuan_infovis_09

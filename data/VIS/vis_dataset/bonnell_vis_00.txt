@@ -1,0 +1,5 @@
+title: Constructing Material Interfaces From Data Sets With Volume-Fraction Information
+authors: Kathleen S. Bonnell, Daniel R. Schikore, Kenneth I. Joy, Mark
+Duchaineau, Bernd Hamann
+abstract: We present a new algorithm for material boundary interface reconstruction from data sets containing volume fractions. We transform the reconstruction problem to a problem that analyzes the dual data set, where each vertex in the dual mesh has an associated barycentric coordinate tuple that represents the fraction of each material present. After constructing the dual tetrahedral mesh from the original mesh, we construct material boundaries by mapping a tetrahedron into barycentric space and calculating the intersections with Voronoi cells in barycentric space. These intersections are mapped back to the original physical space and triangulated to form the boundary surface approximation. This algorithm can be applied to any grid structure and can treat any number of materials per element/vertex.
+vis citations:

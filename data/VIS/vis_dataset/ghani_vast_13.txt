@@ -1,0 +1,17 @@
+title: Visual Analytics for Multimodal Social Network Analysis: A Design Study with Social Scientists
+authors: Sohaib Ghani, Bum Chul Kwon, Seungyoon Lee, Ji Soo Yi, Niklas Elmqvist
+abstract: Social network analysis (SNA) is becoming increasingly concerned not only with actors and their relations, but also with distinguishing between different types of such entities. For example, social scientists may want to investigate asymmetric relations in organizations with strict chains of command, or incorporate non-actors such as conferences and projects when analyzing co-authorship patterns. Multimodal social networks are those where actors and relations belong to different types, or modes, and multimodal social network analysis (mSNA) is accordingly SNA for such networks. In this paper, we present a design study that we conducted with several social scientist collaborators on how to support mSNA using visual analytics tools. Based on an open-ended, formative design process, we devised a visual representation called parallel node-link bands (PNLBs) that splits modes into separate bands and renders connections between adjacent ones, similar to the list view in Jigsaw. We then used the tool in a qualitative evaluation involving five social scientists whose feedback informed a second design phase that incorporated additional network metrics. Finally, we conducted a second qualitative evaluation with our social scientist collaborators that provided further insights on the utility of the PNLBs representation and the potential of visual analytics for mSNA.
+vis citations:
+claessen_infovis_11
+collins_infovis_07
+ellis_infovis_07
+gotz_vast_06
+gou_infovis_11
+liu_vast_11
+lloyd_infovis_11
+sedlmair_infovis_12
+shneiderman_infovis_06
+stasko_vast_07
+vanham1_infovis_09
+wattenbe_infovis_02
+wilkinso_infovis_05

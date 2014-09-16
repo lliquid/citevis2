@@ -1,0 +1,11 @@
+title: Two-Phase Mapping for Projecting Massive Data Sets
+authors: Fernando V. Paulovich, Claudio T. Silva, L. Gustavo Nonato
+abstract: Most multidimensional projection techniques rely on distance (dissimilarity) information between data instances to embed high-dimensional data into a visual space. When data are endowed with Cartesian coordinates, an extra computational effort is necessary to compute the needed distances, making multidimensional projection prohibitive in applications dealing with interactivity and massive data. The novel multidimensional projection technique proposed in this work, called Part-Linear Multidimensional Projection (PLMP), has been tailored to handle multivariate data represented in Cartesian high-dimensional spaces, requiring only distance information between pairs of representative samples. This characteristic renders PLMP faster than previous methods when processing large data sets while still being competitive in terms of precision. Moreover, knowing the range of variation for data instances in the high-dimensional space, we can make PLMP a truly streaming data projection technique, a trait absent in previous methods.
+vis citations:
+elmqvist_infovis_08
+frishman_infovis_07
+heinrich_vis_09
+koren_infovis_02
+morrison_infovis_02
+paulovic_infovis_08
+williams_infovis_04

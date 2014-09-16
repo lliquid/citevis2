@@ -1,0 +1,6 @@
+title: Texture Hardware Assisted Rendering of Time-Varying Volume Data
+authors: Eric B. Lum, Kwan-Liu Ma, John Clynet
+abstract: In this paper we present a hardware-assisted rendering technique coupled with a compression scheme for the interactive visual exploration of time-varying scalar volume data. A palette-based decoding technique and an adaptive bit allocation scheme are developed to fully utilize the texturing capability of a commodity 3-D graphics card. Using a single PC equipped with a modest amount of memory, a texture capable graphics card, and an inexpensive disk array, we are able to render hundreds of time steps of regularly gridded volume data (up to 45 millions voxels each time step) at interactive rates, permitting the visual exploration of large scientific data sets in both the temporal and spatial domain.
+vis citations:
+shen_vis_99
+sutton_vis_99

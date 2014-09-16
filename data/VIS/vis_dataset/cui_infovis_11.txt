@@ -1,0 +1,15 @@
+title: TextFlow: Towards Better Understanding of Evolving Topics in Text
+authors: Weiwei Cui, Shixia Liu, Li Tan, Conglei Shi, Yangqiu Song, Zekai J. Gao, Xin Tong, Huamin Qu
+abstract: Understanding how topics evolve in text data is an important and challenging task. Although much work has been devoted to topic analysis, the study of topic evolution has largely been limited to individual topics. In this paper, we introduce TextFlow, a seamless integration of visualization and topic mining techniques, for analyzing various evolution patterns that emerge from multiple topics. We first extend an existing analysis technique to extract three-level features: the topic evolution trend, the critical event, and the keyword correlation. Then a coherent visualization that consists of three new visual components is designed to convey complex relationships between them. Through interaction, the topic mining model and visualization can communicate with each other to help users refine the analysis result and gain insights into the data progressively. Finally, two case studies are conducted to demonstrate the effectiveness and usefulness of TextFlow in helping users understand the major topic evolution patterns in time-varying text data.
+vis citations:
+byron_infovis_08
+collins_vast_09
+doerk_infovis_10
+dwyer_infovis_06
+fisher_vast_08
+havre_infovis_00
+riehmann_infovis_05
+rose_vast_09
+shi_vast_10
+viegas_infovis_09
+wattenba_infovis_05

@@ -1,0 +1,7 @@
+title: Turning the Bucket of Text into a Pipe
+authors: Elizabeth G. Hetzler, Vernon L. Crow, Deborah A. Payne, Alan E. Turner 
+abstract: Many visual analysis tools operate on a fixed set of data. However, professional information analysts follow issues over a period of time and need to be able to easily add new documents to an ongoing exploration. Some analysts handle documents in a moving window of time, with new documents constantly added and old ones aging out. This paper describes both the user interaction and the technical implementation approach for a visual analysis system designed to support constantly evolving text collections.
+vis citations:
+brandes_infovis_02
+chi_infovis_99
+nowell_infovis_01

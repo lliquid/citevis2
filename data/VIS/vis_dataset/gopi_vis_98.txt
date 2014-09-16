@@ -1,0 +1,5 @@
+title: A Unified Approach for Simplifying Polygonal and Spline Models *
+authors: M. Gopi, D. Manocha
+abstract: We present a new approach for simplifying models composed of polygons or spline patches. Given an input model, the algorithm computes a new representation of the model in terms of triangular B??ezier patches. It performs a series of geometric operations, consisting of patch merging and swapping diagonals, and makes use of patch connectivity information to generate C-LODs (curved levelsof-detail). Each C-LOD is represented using cubic triangular B??ezier patches. The C-LOD's provide a compact representation for storing the model. The algorithm tries to minimize the surface deviation error and maintains continuity at patch boundaries. Given the CLOD's, the algorithm can generate their polygonal approximations using static and dynamic tessellation schemes. It has been implemented and we highlight its performance on a number of polygonal and spline models.
+vis citations:
+gopi_vis_98

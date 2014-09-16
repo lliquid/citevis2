@@ -1,0 +1,7 @@
+title: New Quadric Metric for Simplifying Meshes with Appearance Attributes
+authors: Hugues Hoppe
+abstract: Complex triangle meshes arise naturally in many areas of computer graphics and visualization. Previous work has shown that a quadric error metric allows fast and accurate geometric simplification of meshes. This quadric approach was recently generalized to handle meshes with appearance attributes. In this paper we present an improved quadric error metric for simplifying meshes with attributes. The new metric, based on geometric correspondence in 3D, requires less storage, evaluates more quickly, and results in more accurate simplified meshes.Meshes often have attribute discontinuities, such as surface creases and material boundaries, which require multiple attribute vectors per vertex. We show that a wedge-based mesh data structure captures such discontinuities efficiently and permits simultaneous optimization of these multiple attribute vectors. In addition to the new quadric metric, we experiment with two techniques proposed in geometric simplification, memoryless simplification and volume preservation, and show that both of these are beneficial within the quadric framework. The new scheme is demonstrated on a variety of meshes with colors and normals.
+vis citations:
+cignoni_vis_98
+garland_vis_98
+lindstro_vis_98

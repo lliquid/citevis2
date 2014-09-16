@@ -1,0 +1,7 @@
+title: TetSplat: Real-time Rendering and Volume Clipping of Large Unstructured Tetrahedral Meshes
+authors: Ken Muset, Santiago Lombeyda
+abstract: We present a novel approach to interactive visualization and exploration of large unstructured tetrahedral meshes. These massive 3D meshes are used in mission-critical CFD and structural mechanics simulations, and typically sample multiple field values on several millions of unstructured grid points. Our method relies on the preprocessing of the tetrahedral mesh to partition it into non-convex boundaries and internal fragments that are subsequently encoded into compressed multi-resolution data representations. These compact hierarchical data structures are then adaptively rendered and probed in real-time on a commodity PC. Our point-based rendering algorithm, which is inspired by QSplat, employs a simple but highly efficient splatting technique that guarantees interactive frame-rates regardless of the size of the input mesh and the available rendering hardware. It furthermore allows for real-time probing of the volumetric data-set through constructive solid geometry operations as well as interactive editing of color transfer functions for an arbitrary number of field values. Thus, the presented visualization technique allows end-users for the first time to interactively render and explore very large unstructured tetrahedral meshes on relatively inexpensive hardware.
+vis citations:
+cignoni_vis_00
+gerstner_vis_00
+staadt_vis_98

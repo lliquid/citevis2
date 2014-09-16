@@ -1,0 +1,7 @@
+title: The ???Parallel Vectors??? Operator  A Vector Field Visualization Primitive
+authors: Ronald Peikert, Martin Roth
+abstract: In this paper we propose an elementary operation on a pair of vector fields as a building block for defining and computing global line???type features of vector or scalar fields. While usual feature definitions often are procedural and therefore implicit, our operator allows precise mathematical definitions. It can serve as a basis for comparing feature definitions and for reuse of algorithms and implementations. Applications focus on vortex core methods.
+vis citations:
+kenwrigh_vis_98
+roth_vis_98
+tang_vis_98

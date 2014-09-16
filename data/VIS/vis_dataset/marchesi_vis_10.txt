@@ -1,0 +1,13 @@
+title: View-Dependent Streamlines for 3D Vector Fields
+authors: Stephane Marchesin, Cheng-Kai Chen, Chris Ho, Kwan-Liu Ma
+abstract: This paper introduces a new streamline placement and selection algorithm for 3D vector fields. Instead of considering the problem as a simple feature search in data space, we base our work on the observation that most streamline fields generate a lot of self-occlusion which prevents proper visualization. In order to avoid this issue, we approach the problem in a view-dependent fashion and dynamically determine a set of streamlines which contributes to data understanding without cluttering the view. Since our technique couples flow characteristic criteria and view-dependent streamline selection we are able achieve the best of both worlds: relevant flow description and intelligible, uncluttered pictures. We detail an efficient GPU implementation of our algorithm, show comprehensive visual results on multiple datasets and compare our method with existing flow depiction techniques. Our results show that our technique greatly improves the readability of streamline visualizations on different datasets without requiring user intervention.
+vis citations:
+chen_vis_07
+demiralp_vis_09
+jiang_vis_02
+liuzhanp_vis_06
+mao_vis_98
+mebarki_vis_05
+takahash_vis_05
+verma_vis_00
+ye_vis_05

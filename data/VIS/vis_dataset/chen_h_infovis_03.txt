@@ -1,0 +1,6 @@
+title: Compound Brushing
+authors: Hong Chen
+abstract: This paper proposes a conceptual model called compound brushing for modeling the brushing techniques used in dynamic data visualization. In this approach brushing techniques are modeled as higraphs with five types of basic entities: data, selection, device, renderer, and transformation. Using this model, a flexible visual programming tool is designed not only to configure/control various common types of brushing techniques currently used in dynamic data visualization, but also to investigate new brushing techniques.
+vis citations:
+chi_infovis_00
+hauser_infovis_02

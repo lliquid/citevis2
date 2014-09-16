@@ -1,0 +1,5 @@
+title: On Histograms and Isosurface Statistics
+authors: Hamish Carr, Brian Duffy, Barry Denby
+abstract: In this paper, we show that histograms represent spatial function distributions with a nearest neighbour interpolation. We confirm that this results in systematic underrepresentation of transitional features of the data, and provide new insight why this occurs. We further show that isosurface statistics, which use higher quality interpolation, give better representations of the function distribution. We also use our experimentally collected isosurface statistics to resolve some questions as to the formal complexity of isosurfaces.
+vis citations:
+kniss_vis_01

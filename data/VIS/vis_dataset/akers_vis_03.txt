@@ -1,0 +1,5 @@
+title: Conveying Shape and Features with Image-Based Relighting
+authors: David Akers, Frank Losasso, Jeff Klingner, Maneesh Agrawala, John
+Rick, Pat Hanrahan
+abstract: Hand-crafted illustrations are often more effective than photographs for conveying the shape and important features of an object, but they require expertise and time to produce. We describe an image compositing system and user interface that allow an artist to quickly and easily create technical illustrations from a set of photographs of an object taken from the same point of view under variable lighting conditions. Our system uses a novel compositing process in which images are combined using spatially-varying light mattes, enabling the final lighting in each area of the composite to be manipulated independently. We describe an interface that provides for the painting of local lighting effects (e.g. shadows, highlights, and tangential lighting to reveal texture) directly onto the composite. We survey some of the techniques used in illustration and lighting design to convey the shape and features of objects and describe how our system can be used to apply these techniques.
+vis citations:

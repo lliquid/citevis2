@@ -1,0 +1,5 @@
+title: Seamster: Inconspicuous Low-Distortion Texture Seam Layout
+authors: Alla Sheffer, John C. Hart
+abstract: Surface texturing aids the visualization ofpolygonal meshes by providing additional surface orientation cues and feature annotations. Such texturing is usually implemented via texture mapping, which is easier and more effective when the distortion of the mapping from the surface to the texture map is kept small.We have previously shown that distortion occurs when areas of high surface curvature are flattened into the texture map. By cutting the surface in these areas one can reduce texture map distortion at the expense of additional seam artifacts.This paper describes a faster technique for guiding a texture map seam through high distortion regions, while restricting the seam to regions of low visibility. This results in distortion reducing seams that are less visually distracting and take less time to compute. We have also observed that visibility considerations improve the speed of a recent method that adds cuts to reduce a surface genus.
+vis citations:
+nooruddi_vis_00

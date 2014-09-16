@@ -1,0 +1,6 @@
+title: Opening the Black Box ??? Data Driven Visualization of Neural Networks
+authors: Fan-Yin Tzeng, Kwan-Liu Ma
+abstract: Artificial neural networks are computer software or hardware models inspired by the structure and behavior of neurons in the human nervous system. As a powerful learning tool, increasingly neural networks have been adopted by many large-scale information processing applications but there is no a set of well defined criteria for choosing a neural network. The user mostly treats a neural network as a black box and cannot explain how learning from input data was done nor how performance can be consistently ensured. We have experimented with several information visualization designs aiming to open the black box to possibly uncover underlying dependencies between the input data and the output data of a neural network. In this paper, we present our designs and show that the visualizations not only help us design more efficient neural networks, but also assist us in the process of using neural networks for problem solving such as performing a classification task.
+vis citations:
+fua_vis_99
+hauser_infovis_02

@@ -1,0 +1,11 @@
+title: VolumeExplorer: Roaming Large Volumes to Couple Visualization and Data Processing for Oil and Gas Exploration
+authors: Laurent Castanie, Bruno Levy, Fabien Bosquet
+abstract: In this paper, we present a volume roaming system dedicated to oil and gas exploration. Our system combines probebased volume rendering with data processing and computing. The daily oil production and the estimation of the world proven-reserves directly affect the barrel price and have a strong impact on the economy. Among others, production and correct estimation are linked to the accuracy of the subsurface model used for predicting oil reservoirs shape and size. Geoscientists build this model from the interpretation of seismic data, i.e. 3D images of the subsurface obtained from geophysical surveys. Our system couples visualization and data processing for the interpretation of seismic data. It is based on volume roaming along with efficient volume paging to manipulate the multi-gigabyte data sets commonly acquired during seismic surveys. Our volume rendering lenses implement high quality pre-integrated volume rendering with accurate lighting. They use a generic multimodal volume rendering system that blends several volumes in the spirit of the ???stencil??? paradigm used in 2D painting programs. In addition, our system can interactively display non-polygonal isosurfaces painted with an attribute. Beside the visualization algorithms, automatic extraction of local features of the subsurface model also take full advantage of the volume paging.
+vis citations:
+cavin_vis_05
+guthe_vis_02
+jen_vis_04
+krueger_vis_03
+lamar_vis_99
+meissner_vis_99
+roettger_vis_00

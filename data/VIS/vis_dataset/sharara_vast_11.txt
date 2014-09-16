@@ -1,0 +1,10 @@
+title: G-PARE*: A Visual Analytic Tool for Comparative Analysis of Uncertain Graphs
+authors: Hossam Sharara, Awalin Sopan, Galileo Namata, Lise Getoor
+abstract: There are a growing number of machine learning algorithms which operate on graphs. Example applications for these algorithms include predicting which customers will recommend products to their friends in a viral marketing campaign using a customer network, predicting the topics of publications in a citation network, or predicting the political affiliations of people in a social network. It is important for an analyst to have tools to help compare the output of these machine learning algorithms. In this work, we present GPARE, a visual analytic tool for comparing two uncertain graphs, where each uncertain graph is produced by a machine learning algorithm which outputs probabilities over node labels. G-PARE provides several different views which allow users to obtain a global overview of the algorithms output, as well as focused views that show subsets of nodes of interest. By providing an adaptive exploration environment, G-PARE guides the users to places in the graph where two algorithms predictions agree and places where they disagree. This enables the user to follow cascades of misclassifications by comparing the algorithms outcome with the ground truth. After describing the features of G-PARE, we illustrate its utility through several use cases based on networks from different domains.
+vis citations:
+bilgic_vast_06
+choo_vast_10
+henry_infovis_07
+liu_vast_10
+migut_vast_10
+perer_infovis_06

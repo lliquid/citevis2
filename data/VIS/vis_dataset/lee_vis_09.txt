@@ -1,0 +1,11 @@
+title: Visualization and Exploration of Temporal Trend Relationships in Multivariate Time-Varying Data
+authors: Teng-Yok Lee, Han-Wei Shen
+abstract: We present a new algorithm to explore and visualize multivariate time-varying data sets. We identify important trend relationships among the variables based on how the values of the variables change over time and how those changes are related to each other in different spatial regions and time intervals. The trend relationships can be used to describe the correlation and causal effects among the different variables. To identify the temporal trends from a local region, we design a new algorithm called SUBDTW to estimate when a trend appears and vanishes in a given time series. Based on the beginning and ending times of the trends, their temporal relationships can be modeled as a state machine representing the trend sequence. Since a scientific data set usually contains millions of data points, we propose an algorithm to extract important trend relationships in linear time complexity. We design novel user interfaces to explore the trend relationships, to visualize their temporal characteristics, and to display their spatial distributions. We use several scientific data sets to test our algorithm and demonstrate its utilities.
+vis citations:
+blaas_vis_08
+fails_vast_06
+gosink_vis_07
+mccormic_vis_04
+moran_vis_99
+wangchao_vis_08
+woodring_vis_03

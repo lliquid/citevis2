@@ -1,0 +1,7 @@
+title: QuadTIN: Quadtree based Triangulated Irregular Networks
+authors: Renato Pajarola, Marc Antonijuan, Roberto Lario
+abstract: Interactive visualization of large digital elevation models is of continuing interest in scientific visualization, GIS, and virtual reality applications. Taking advantage of the regular structure of grid digital elevation models, efficient hierarchical multiresolution triangulation and adaptive level-of-detail (LOD) rendering algorithms have been developed for interactive terrain visualization. Despite the higher triangle count, these approaches generally outperform mesh simplification methods that produce irregular triangulated network (TIN) based LOD representations. In this project we combine the advantage of a TIN based mesh simplification preprocess with high-performance quadtree based LOD triangulation and rendering at run-time. This approach, called QuadTIN, generates an efficient quadtree triangulation hierarchy over any irregular point set that may originate from irregular terrain sampling or from reducing oversampling in high-resolution grid digital elevation models.
+vis citations:
+hoppe_vis_98
+lindstrom02_vis_01
+pajarola_vis_98

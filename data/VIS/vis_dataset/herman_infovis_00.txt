@@ -1,0 +1,6 @@
+title: Density Functions for Visual Attributes and Effective Partitioning in Graph Visualization
+authors: Ivan Herman, M. Scott Marshall, Guy Melan??on
+abstract: Two tasks in Graph Visualization require partitioning: the assignment of visual attributes and divisive clustering. Often, we would like to assign a color or other visual attributes to a node or edge that indicates an associated value. In an application involving divisive clustering, we would like to partition the graph into subsets of graph elements based on metric values in such a way that all subsets are evenly populated. Assuming a uniform distribution of metric values during either partitioning or coloring can have undesired effects such as empty clusters or only one level of emphasis for the entire graph. Probability density functions derived from statistics about a metric can help systems succeed at these tasks.
+vis citations:
+fua_infovis_99
+wilson_infovis_99

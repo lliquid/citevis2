@@ -1,0 +1,4 @@
+title: MC*: Star Functions for Marching Cubes
+authors: Gregory M. Nielson
+abstract: We describe a modification of the widely used marching cubes method that leads to the useful property that the resulting isosurfaces are locally single valued functions. This implies that conventional interpolation and approximation methods can be used to locally represent the surface. These representations can be used for computing approximations of local surface properties. We utilize this possibility in order to develop algorithms for locally approximating Gaussian and mean curvature, methods for constrained smoothing of isosurface, and techniques for the parameterization of isosurfaces.
+vis citations:

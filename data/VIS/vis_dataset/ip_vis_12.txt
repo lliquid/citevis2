@@ -1,0 +1,18 @@
+title: Hierarchical Exploration of Volumes Using Multilevel Segmentation of the Intensity-Gradient Histograms
+authors: Cheuk Yiu Ip, Amitabh Varshney, Joseph JaJa
+abstract: Visual exploration of volumetric datasets to discover the embedded features and spatial structures is a challenging and tedious task. In this paper we present a semi-automatic approach to this problem that works by visually segmenting the intensity-gradient 2D histogram of a volumetric dataset into an exploration hierarchy. Our approach mimics user exploration behavior by analyzing the histogram with the normalized-cut multilevel segmentation technique. Unlike previous work in this area, our technique segments the histogram into a reasonable set of intuitive components that are mutually exclusive and collectively exhaustive. We use information-theoretic measures of the volumetric data segments to guide the exploration. This provides a data-driven coarse-to-fine hierarchy for a user to interactively navigate the volume in a meaningful manner.
+vis citations:
+bartz_vis_03
+chen_vis_10
+childs_vis_05
+correa_vis_08
+fuller_vis_07
+janicke_vis_09
+kimyoung_vis_06
+maciejew_vis_09
+prassni_vis_10
+ruiz_vis_11
+salama_vis_06
+sherbond_vis_03
+torsneyweir_vis_11
+zhou_vis_09

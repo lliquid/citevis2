@@ -1,0 +1,7 @@
+title: Interactive Deformation and Visualization of Level Set Surfaces Using Graphics Hardware
+authors: Aaron E. Lefohn, Joe M. Kniss, Charles D. Hansen, Ross T. Whitaker
+abstract: Deformable isosurfaces, implemented with level-set methods, have demonstrated a great potential in visualization for applications such as segmentation, surface processing, and surface reconstruction. Their usefulness has been limited, however, by their high computational cost and and reliance on significant parameter tuning. This paper presents a solution to these challenges by describing graphics processor (GPU) based algorithms for solving and visualizing levelset solutions at interactive rates. Our efficient GPU-based solution relies on packing the level-set isosurface data into a dynamic, sparse texture format. As the level set moves, this sparse data structure is updated via a novel GPU to CPU message passing scheme. When the level-set solver is integrated with a real-time volume renderer operating on the same packed format, a user can visualize and steer the deformable level-set surface as it evolves. In addition, the resulting isosurface can serve as a region-of-interest specifier for the volume renderer. This paper demonstrates the capabilities of this technology for interactive volume visualization
+vis citations:
+kniss_vis_03
+sherbond_vis_03
+tasdizen_vis_02

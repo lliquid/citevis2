@@ -1,0 +1,5 @@
+title: Visibility-driven Mesh Analysis and Visualization through Graph Cuts
+authors: Kaichi Zhou, Eugene Zhang, Jir Bittner, Peter Wonka
+abstract: In this paper we present an algorithm that operates on a triangular mesh and classifies each face of a triangle as either inside or outside. We present three example applications of this core algorithm: normal orientation, inside removal, and layer-based visualization. The distinguishing feature of our algorithm is its robustness even if a difficult input model that includes holes, coplanar triangles, intersecting triangles, and lost connectivity is given. Our algorithm works with the original triangles of the input model and uses sampling to construct a visibility graph that is then segmented using graph cut.
+vis citations:
+zhang9_3_vis_02

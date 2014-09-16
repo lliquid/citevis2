@@ -1,0 +1,8 @@
+title: An Effective Illustrative Visualization Framework Based on Photic Extremum Lines (PELs)
+authors: Xuexiang Xie, Ying He, Feng Tian, Hock-Soon Seah, Xianfeng Gu, Hong Qin
+abstract: Conveying shape using feature lines is an important visualization tool in visual computing. The existing feature lines (e.g., ridges, valleys, silhouettes, suggestive contours, etc.) are solely determined by local geometry properties (e.g., normals and curvatures) as well as the view position. This paper is strongly inspired by the observation in human vision and perception that a sudden change in the luminance plays a critical role to faithfully represent and recover the 3D information. In particular, we adopt the edge detection techniques in image processing for 3D shape visualization and present Photic Extremum Lines (PELs) which emphasize significant variations of illumination over 3D surfaces. Comparing with the existing feature lines, PELs are more flexible and offer users more freedom to achieve desirable visualization effects. In addition, the user can easily control the shape visualization by changing the light position, the number of light sources, and choosing various light models. We compare PELs with the existing approaches and demonstrate that PEL is a flexible and effective tool to illustrate 3D surface and volume for visual computing.
+vis citations:
+bruckner_vis_05
+kindlman_vis_03
+lu_vis_02
+ebert_vis_00

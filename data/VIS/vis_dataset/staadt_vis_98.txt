@@ -1,0 +1,4 @@
+title: Progressive Tetrahedralizations
+authors: Oliver G. Staadt, Markus H. Gross
+abstract: This paper describes some fundamental issues for robust implementations of progressively refined tetrahedralizations generated through sequences of edge collapses. We address the definition of appropriate cost functions and explain on various tests which are necessary to preserve the consistency of the mesh when collapsing edges. Although being considered a special case of progressive simplicial complexes [10], the results of our method are of high practical importance and can be used in many different applications, such as finite element meshing, scattered data interpolation, or rendering of unstructured volume data.
+vis citations:

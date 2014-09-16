@@ -1,0 +1,6 @@
+title: Multiresolution Feature Extraction for Unstructured Meshes
+authors: Andreas Hubeli, Markus Gross
+abstract: We present a framework to extract mesh features from unstructured two-manifold surfaces. Our method computes a collection of piecewise linear curves describing the salient features of surfaces, such as edges and ridge lines. We extend these basic techniques to a multiresolution setting which improves the quality of the results and accelerates the extraction process. The extraction process is semi-automatic, that is, the user is required to input a few control parameters and to select the operators to be applied to the input surface. Our mesh feature extraction algorithm can be used as a preprocessor for a variety of applications in geometric modeling including mesh fairing, subdivision and simplification.
+vis citations:
+clarenz_vis_00
+hubeli_vis_00

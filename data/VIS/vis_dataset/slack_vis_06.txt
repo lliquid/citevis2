@@ -1,0 +1,8 @@
+title: Composite Rectilinear Deformation for Stretch and Squish Navigation
+authors: James Slack, Tamara Munzner
+abstract: We present the first scalable algorithm that supports the composition of successive rectilinear deformations. Earlier systems that provided stretch and squish navigation could only handle small datasets. More recent work featuring rubber sheet navigation for large datasets has focused on rendering and on application-specific issues. However, no algorithm has yet been presented for carrying out such navigation methods; our paper addresses this problem. For maximum flexibility with large datasets, a stretch and squish navigation algorithm should allow for millions of potentially deformable regions. However, typical usage only changes the extents of a small subset k of these n regions at a time. The challenge is to avoid computations that are linear in n, because a single deformation can affect the absolute screen-space location of every deformable region. We provide an O(klogn) algorithm that supports any application that can lay out a dataset on a generic grid, and show an implementation that allows navigation of trees and gene sequences with millions of items in sub-millisecond time.
+vis citations:
+fekete_infovis_02
+jankun_k_vis_02
+slack_infovis_05
+slack_infovis_05

@@ -1,0 +1,9 @@
+title: VisTrails: Enabling Interactive Multiple-View Visualizations
+authors: Louis Bavoil, Steven P. Callahan, Patricia J. Crossno, Juliana
+Freire, Carlos E. Scheidegger, Claudio T. Silva, Huy T. Vo
+abstract: VisTrails is a new system that enables interactive multiple-view visualizations by simplifying the creation and maintenance of visualization pipelines, and by optimizing their execution. It provides a general infrastructure that can be combined with existing visualization systems and libraries. A key component of VisTrails is the visualization trail (vistrail), a formal specification of a pipeline. Unlike existing dataflow-based systems, in VisTrails there is a clear separation between the specification of a pipeline and its execution instances. This separation enables powerful scripting capabilities and provides a scalable mechanism for generating a large number of visualizations. VisTrails also leverages the vistrail specification to identify and avoid redundant operations. This optimization is especially useful while exploring multiple visualizations. When variations of the same pipeline need to be executed, substantial speedups can be obtained by caching the results of overlapping subsequences of the pipelines. In this paper, we describe the design and implementation of VisTrails, and show its effectiveness in different application scenarios.
+vis citations:
+brodlie_vis_04
+chiang_vis_98
+jankun_k_vis_02
+kreusele_infovis_04

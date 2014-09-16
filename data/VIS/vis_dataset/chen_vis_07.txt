@@ -1,0 +1,10 @@
+title: Similarity-Guided Streamline Placement with Error Evaluation
+authors: Yuan Chen, Jonathan D. Cohen, Julian H. Krolik
+abstract: Most streamline generation algorithms either provide a particular density of streamlines across the domain or explicitly detect features, such as critical points, and follow customized rules to emphasize those features. However, the former generally includes many redundant streamlines, and the latter requires Boolean decisions on which points are features (and may thus suffer from robustness problems for real-world data).We take a new approach to adaptive streamline placement for steady vector fields in 2D and 3D. We define a metric for local similarity among streamlines and use this metric to grow streamlines from a dense set of candidate seed points. The metric considers not only Euclidean distance, but also a simple statistical measure of shape and directional similarity. Without explicit feature detection, our method produces streamlines that naturally accentuate regions of geometric interest.In conjunction with this method, we also propose a quantitative error metric for evaluating a streamline representation based on how well it preserves the information from the original vector field. This error metric reconstructs a vector field from points on the streamline representation and computes a difference of the reconstruction from the original vector field.
+vis citations:
+haber_vis_01
+mebarki_vis_05
+nielson1_vis_04
+verma_vis_00
+ye_vis_05
+liuzhanp_vis_06

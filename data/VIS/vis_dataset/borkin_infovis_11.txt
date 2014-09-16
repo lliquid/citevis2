@@ -1,0 +1,15 @@
+title: Evaluation of Artery Visualizations for Heart Disease Diagnosis
+authors: Michelle A. Borkin, Krzysztof Z. Gajos, Amanda Peters, Dimitrios Mitsouras, Simone Melchionna, Frank J. Rybicki, Charles L. Feldman, Hanspeter Pfister
+abstract: Heart disease is the number one killer in the United States, and finding indicators of the disease at an early stage is critical for treatment and prevention. In this paper we evaluate visualization techniques that enable the diagnosis of coronary artery disease. A key physical quantity of medical interest is endothelial shear stress (ESS). Low ESS has been associated with sites of lesion formation and rapid progression of disease in the coronary arteries. Having effective visualizations of a patient???s ESS data is vital for the quick and thorough non-invasive evaluation by a cardiologist. We present a task taxonomy for hemodynamics based on a formative user study with domain experts. Based on the results of this study we developed HemoVis, an interactive visualization application for heart disease diagnosis that uses a novel 2D tree diagram representation of coronary artery trees. We present the results of a formal quantitative user study with domain experts that evaluates the effect of 2D versus 3D artery representations and of color maps on identifying regions of low ESS. We show statistically significant results demonstrating that our 2D visualizations are more accurate and efficient than 3D representations, and that a perceptually appropriate color map leads to fewer diagnostic mistakes than a rainbow color map.
+vis citations:
+amar_infovis_05
+forsberg_vis_09
+hahn_vis_01
+kanitsar_vis_02
+kindlman_vis_02
+ritter_vis_06
+rogowitz_vis_01
+ropinski_vis_09
+straka_vis_04
+termeer_vis_07
+tory_infovis_07

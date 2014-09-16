@@ -1,0 +1,6 @@
+title: Uncertainty Visualization in Medical Volume Rendering Using Probabilistic Animation
+authors: Claes Lundstr??m, Patric Ljung, Anders Persson, Anders Ynnerman
+abstract: Direct Volume Rendering has proved to be an effective visualization method for medical data sets and has reached wide-spread clinical use. The diagnostic exploration, in essence, corresponds to a tissue classification task, which is often complex and time-consuming. Moreover, a major problem is the lack of information on the uncertainty of the classification, which can have dramatic consequences for the diagnosis. In this paper this problem is addressed by proposing animation methods to convey uncertainty in the rendering. The foundation is a probabilistic Transfer Function model which allows for direct user interaction with the classification. The rendering is animated by sampling the probability domain over time, which results in varying appearance for uncertain regions. A particularly promising application of this technique is a ???sensitivity lens??? applied to focus regions in the data set. The methods have been evaluated by radiologists in a study simulating the clinical task of stenosis assessment, in which the animation technique is shown to outperform traditional rendering in terms of assessment accuracy.
+vis citations:
+kindlman_vis_03
+kniss_vis_05

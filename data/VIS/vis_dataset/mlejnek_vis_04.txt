@@ -1,0 +1,7 @@
+title: Interactive Thickness Visualization of Articular Cartilage
+authors: Matej Mlejnek, Anna Vilanova, Meister Eduard Gr??ller
+abstract: This paper describes a method to visualize the thickness of curved thin objects. Given the MRI volume data of articular cartilage, medical doctors investigate pathological changes of the thickness. Since the tissue is very thin, it is impossible to reliably map the thickness information by direct volume rendering. Our idea is based on unfolding of such structures preserving their thickness. This allows to perform anisotropic geometrical operations (e.g., scaling the thickness). However, flattening of a curved structure implies a distortion of its surface. The distortion problem is alleviated through a focusand-context minimization approach. Distortion is smallest close to a focal point which can be interactively selected by the user.
+vis citations:
+bartoli_vis_01
+kanitsar_vis_02
+sorkine_vis_02

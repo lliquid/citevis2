@@ -1,0 +1,10 @@
+title: Visualizing the Intellectual Structure with Paper-Reference Matrices
+authors: Jian Zhang, Chaomei Chen, Jiexun Li
+abstract: Visualizing the intellectual structure of scientific domains using co-cited units such as references or authors has become a routine for domain analysis. In previous studies, paper-reference matrices are usually transformed into reference-reference matrices to obtain co-citation relationships, which are then visualized in different representations, typically as node-link networks, to represent the intellectual structures of scientific domains. Such network visualizations sometimes contain tightly knit components, which make visual analysis of the intellectual structure a challenging task. In this study, we propose a new approach to reveal cocitation relationships. Instead of using a reference-reference matrix, we directly use the original paper-reference matrix as the information source, and transform the paper-reference matrix into an FP-tree and visualize it in a Java-based prototype system. We demonstrate the usefulness of our approach through visual analyses of the intellectual structure of two domains: Information Visualization and Sloan Digital Sky Survey (SDSS). The results show that our visualization not only retains the major information of co-citation relationships, but also reveals more detailed sub-structures of tightly knit clusters than a conventional node-link network visualization.
+vis citations:
+cui_infovis_08
+dwyer_infovis_08
+liu_infovis_08
+stasko_infovis_00
+vanham_infovis_04
+wattenbe_infovis_08

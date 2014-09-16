@@ -1,0 +1,6 @@
+title: Narratives: A Visualization to Track Narrative Events as they Develop
+authors: Danyel Fisher, Aaron Hoff, George Robertson, Matthew Hurst
+abstract: Analyzing unstructured text streams can be challenging. One popular approach is to isolate specific themes in the text, and to visualize the connections between them. Some existing systems, like ThemeRiver, provide a temporal view of changes in themes; other systems, like In-Spire, use clustering techniques to help an analyst identify the themes at a single point in time. Narratives combines both of these techniques; it uses a temporal axis to visualize ways that concepts have changed over time, and introduces several methods to explore how those concepts relate to each other. Narratives is designed to help the user place news stories in their historical and social context by understanding how the major topics associated with them have changed over time. Users can relate articles through time by examining the topical keywords that summarize a specific news event. By tracking the attention to a news article in the form of references in social media (such as weblogs), a user discovers both important events and measures the social relevance of these stories.
+vis citations:
+vanwijk2_infovis_99
+wattenba_infovis_05

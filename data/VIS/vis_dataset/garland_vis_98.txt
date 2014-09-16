@@ -1,0 +1,4 @@
+title: Simplifying Surfaces with Color and Texture using Quadric Error Metrics
+authors: Michael Garland, Paul S. Heckbert
+abstract: There are a variety of application areas in which there is a need for simplifying complex polygonal surface models. These models often have material properties such as colors, textures, and surface normals. Our surface simplification algorithm, based on iterative edge contraction and quadric error metrics, can rapidly produce high quality approximations of such models. We present a natural extension of our original error metric that can account for a wide range of vertex attributes.
+vis citations:

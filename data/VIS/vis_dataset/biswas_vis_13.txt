@@ -1,0 +1,18 @@
+title: An Information-Aware Framework for Exploring Multivariate Data Sets
+authors: Ayan Biswas, Soumya Dutta, Han-Wei Shen, Jonathan Woodring
+abstract: Information theory provides a theoretical framework for measuring information content for an observed variable, and has attracted much attention from visualization researchers for its ability to quantify saliency and similarity among variables. In this paper, we present a new approach towards building an exploration framework based on information theory to guide the users through the multivariate data exploration process. In our framework, we compute the total entropy of the multivariate data set and identify the contribution of individual variables to the total entropy. The variables are classified into groups based on a novel graph model where a node represents a variable and the links encode the mutual information shared between the variables. The variables inside the groups are analyzed for their representativeness and an information based importance is assigned. We exploit specific information metrics to analyze the relationship between the variables and use the metrics to choose isocontours of selected variables. For a chosen group of points, parallel coordinates plots (PCP) are used to show the states of the variables and provide an interface for the user to select values of interest. Experiments with different data sets reveal the effectiveness of our proposed framework in depicting the interesting regions of the data sets taking into account the interaction among the variables.
+vis citations:
+bordoloi_vis_05
+chen_vis_10
+claessen_infovis_11
+dasgupta_infovis_10
+gumhold_vis_02
+janicke_vis_08
+khoury_vis_10
+peng_infovis_04
+scheideg_vis_08
+viola_vis_06
+wangchao_vis_08
+xu_vis_10
+yang_vast_07
+zhou_vis_09

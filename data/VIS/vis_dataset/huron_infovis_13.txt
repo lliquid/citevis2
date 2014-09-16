@@ -1,0 +1,13 @@
+title: Visual Sedimentation
+authors: Samuel Huron, Romain Vuillemot, Jean-Daniel Fekete
+abstract: We introduce Visual Sedimentation, a novel design metaphor for visualizing data streams directly inspired by the physical process of sedimentation. Visualizing data streams (e. g., Tweets, RSS, Emails) is challenging as incoming data arrive at unpredictable rates and have to remain readable. For data streams, clearly expressing chronological order while avoiding clutter, and keeping aging data visible, are important. The metaphor is drawn from the real-world sedimentation processes: objects fall due to gravity, and aggregate into strata over time. Inspired by this metaphor, data is visually depicted as falling objects using a force model to land on a surface, aggregating into strata over time. In this paper, we discuss how this metaphor addresses the specific challenge of smoothing the transition between incoming and aging data. We describe the metaphor???s design space, a toolkit developed to facilitate its implementation, and example applications to a range of case studies. We then explore the generative capabilities of the design space through our toolkit. We finally illustrate creative extensions of the metaphor when applied to real streams of data.
+vis citations:
+bostock_infovis_11
+cao_infovis_12
+cottam_vast_12
+heer_infovis_07
+huron_infovis_13
+krstajic_infovis_11
+moere_infovis_04
+wong_p_infovis_03
+ziemkiew_infovis_08

@@ -1,0 +1,7 @@
+title: Overview Use in Multiple Visual Information Resolution Interfaces
+authors: Heidi Lam, Tamara Munzner, Robert Kincaid
+abstract: In interfaces that provide multiple visual information resolutions (VIR), low-VIR overviews typically sacrifice visual details for display capacity, with the assumption that users can select regions of interest to examine at higher VIRs. Designers can create low VIRs based on multi-level structure inherent in the data, but have little guidance with single-level data. To better guide design tradeoff between display capacity and visual target perceivability, we looked at overview use in two multiple-VIR interfaces with highVIR displays either embedded within, or separate from, the overviews. We studied two visual requirements for effective overview and found that participants would reliably use the low-VIR overviews only when the visual targets were simple and had small visual spans. Otherwise, at least 20% chose to use the high-VIR view exclusively. Surprisingly, neither of the multiple-VIR interfaces provided performance benefits when compared to using the high-VIR view alone. However, we did observe benefits in providing side-by-side comparisons for target matching. We conjecture that the high cognitive load of multiple-VIR interface interactions, whether real or perceived, is a more considerable barrier to their effective use than was previously considered.
+vis citations:
+amar_infovis_05
+healey_vis_05
+tory_infovis_04

@@ -1,0 +1,14 @@
+title: Protovis: A Graphical Toolkit for Visualization
+authors: Michael Bostock, Jeffrey Heer
+abstract: Despite myriad tools for visualizing data, there remains a gap between the notational efficiency of high-level visualization systems and the expressiveness and accessibility of low-level graphical systems. Powerful visualization systems may be inflexible or impose abstractions foreign to visual thinking, while graphical systems such as rendering APIs and vector-based drawing programs are tedious for complex work. We argue that an easy-to-use graphical system tailored for visualization is needed. In response, we contribute Protovis, an extensible toolkit for constructing visualizations by composing simple graphical primitives. In Protovis, designers specify visualizations as a hierarchy of marks with visual properties defined as functions of data. This representation achieves a level of expressiveness comparable to low-level graphics systems, while improving efficiency???the effort required to specify a visualization???and accessibility???the effort required to learn and modify the representation. We substantiate this claim through a diverse collection of examples and comparative analysis with popular visualization tools.
+vis citations:
+byron_infovis_08
+chi_infovis_98
+eick_vast_07
+fekete_infovis_04
+heer2_infovis_06
+heer_vast_07
+moran_vis_99
+stolte_infovis_00
+viegas_infovis_07
+weaver_infovis_04

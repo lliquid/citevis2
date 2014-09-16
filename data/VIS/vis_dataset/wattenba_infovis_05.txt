@@ -1,0 +1,6 @@
+title: Baby Names, Visualization, and Social Data Analysis
+authors: Martin Wattenberg 
+abstract: The NameVoyager, a web-based visualization of historical trends in baby naming, has proven remarkably popular. This paper discusses the interaction techniques it uses for smooth visual exploration of thousands of time series. We also describe design decisions behind the application and lessons learned in creating an application that makes do-it-yourself data mining popular. The prime lesson, it is hypothesized, is that an information visualization tool may be fruitfully viewed not as a tool but as part of an online social environment. In other words, to design a successful exploratory data analysis tool, one good strategy is to create a system that enables ???social??? data analysis.
+vis citations:
+havre_infovis_00
+viegas_infovis_04

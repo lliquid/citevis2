@@ -1,0 +1,5 @@
+title: Isometric embedding by surface reconstruction from distances
+authors: Ingrid Hotz
+abstract: To display the intuitive meaning of an abstract metric it is helpful to look on an embedded surface with the same inner geometry as the given metric. The resulting partial differential equations have no standard solution. Only for some special cases satisfactory methods are known. I present a new algorithmic approach which is not based on differential equations. In contrast to other methods this technique also works if the embedding exists only locally. The fundamental idea is to estimate Euclidean distances, from which the surface is built up. In this paper I focus on the reconstruction of a surface from these estimated distances. Particular the influence of a perturbation of the distances on the shape of the resulting surface is investigated.
+vis citations:
+boring_vis_98

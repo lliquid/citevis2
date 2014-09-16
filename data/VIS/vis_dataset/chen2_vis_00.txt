@@ -1,0 +1,5 @@
+title: Automatic Alignment Of High-Resolution Multi-Projector Displays Using An Un-Calibrated Camera
+authors: Yuqun Chen, Douglas W. Clark, Adam Finkelstein, Timothy C. Housel, Kai Li
+abstract: A scalable, high-resolution display may be constructed by tiling many projected images over a single display surface. One fundamental challenge for such a display is to avoid visible seams due to misalignment among the projectors. Traditional methods for avoiding seams involve sophisticated mechanical devices and expensive CRT projectors, coupled with extensive human effort for fine-tuning the projectors. This paper describes an automatic alignment method that relies on an inexpensive, uncalibrated camera to measure the relative mismatches between neighboring projectors, and then correct the projected imagery to avoid seams without significant human effort.
+vis citations:
+raskar_vis_99

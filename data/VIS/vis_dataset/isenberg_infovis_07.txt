@@ -1,0 +1,6 @@
+title: Interactive Tree Comparison for Co-located Collaborative Information Visualization
+authors: Petra Isenberg, Sheelagh Carpendale
+abstract: In many domains, increased collaboration has lead to more innovation by fostering the sharing of knowledge, skills, and ideas. Shared analysis of information visualizations does not only lead to increased information processing power, but team members can also share, negotiate, and discuss their views and interpretations on a dataset and contribute unique perspectives on a given problem. Designing technologies to support collaboration around information visualizations poses special challenges and relatively few systems have been designed. We focus on supporting small groups collaborating around information visualizations in a co-located setting, using a shared interactive tabletop display. We introduce an analysis of challenges and requirements for the design of colocated collaborative information visualization systems. We then present a new system that facilitates hierarchical data comparison tasks for this type of collaborative work. Our system supports multi-user input, shared and individual views on the hierarchical data visualization, flexible use of representations, and flexible workspace organization to facilitate group work around visualizations.
+vis citations:
+stasko_infovis_00
+yost_infovis_06

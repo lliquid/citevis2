@@ -1,0 +1,14 @@
+title: Structuring Feature Space: A Non-Parametric Method for Volumetric Transfer Function Generation
+authors: Ross Maciejewski, Insoo Woo, Wei Chen, David S. Ebert
+abstract: The use of multi-dimensional transfer functions for direct volume rendering has been shown to be an effective means of extracting materials and their boundaries for both scalar and multivariate data. The most common multi-dimensional transfer function consists of a two-dimensional (2D) histogram with axes representing a subset of the feature space (e.g., value vs. value gradient magnitude), with each entry in the 2D histogram being the number of voxels at a given feature space pair. Users then assign color and opacity to the voxel distributions within the given feature space through the use of interactive widgets (e.g., box, circular, triangular selection). Unfortunately, such tools lead users through a trial-and-error approach as they assess which data values within the feature space map to a given area of interest within the volumetric space. In this work, we propose the addition of non-parametric clustering within the transfer function feature space in order to extract patterns and guide transfer function generation. We apply a non-parametric kernel density estimation to group voxels of similar features within the 2D histogram. These groups are then binned and colored based on their estimated density, and the user may interactively grow and shrink the binned regions to explore feature boundaries and extract regions of interest. We also extend this scheme to temporal volumetric data in which time steps of 2D histograms are composited into a histogram volume. A three-dimensional (3D) density estimation is then applied, and users can explore regions within the feature space across time without adjusting the transfer function at each time step. Our work enables users to effectively explore the structures found within a feature space of the volume and provide a context in which the user can understand how these structures relate to their volumetric data. We provide tools for enhanced exploration and manipulation of the transfer function, and we show that the initial transfer function generation serves as a reasonable base for volumetric rendering, reducing the trial-and-error overhead typically found in transfer function design.
+vis citations:
+bachthal_vis_08
+correa_vis_08
+fang_vis_98
+kindlman_vis_03
+kniss_vis_01
+kniss_vis_05
+salama_vis_06
+shamir_vis_03
+svakhine_vis_05
+tzeng_vis_03

@@ -1,0 +1,12 @@
+title: Detecting Symmetry in Scalar Fields Using Augmented Extremum Graphs
+authors: Dilip Mathew Thomas, Vijay Natarajan
+abstract: Visualizing symmetric patterns in the data often helps the domain scientists make important observations and gain insights about the underlying experiment. Detecting symmetry in scalar fields is a nascent area of research and existing methods that detect symmetry are either not robust in the presence of noise or computationally costly. We propose a data structure called the augmented extremum graph and use it to design a novel symmetry detection method based on robust estimation of distances. The augmented extremum graph captures both topological and geometric information of the scalar field and enables robust and computationally efficient detection of symmetry. We apply the proposed method to detect symmetries in cryo-electron microscopy datasets and the experiments demonstrate that the algorithm is capable of detecting symmetry even in the presence of significant noise. We describe novel applications that use the detected symmetry to enhance visualization of scalar field data and facilitate their exploration.
+vis citations:
+correa1_vis_11
+edelsbru_vis_04
+gyulassy1_vis_07
+laney_vis_06
+schneide_vis_08
+thomas_vis_11
+ushizima_vis_12
+zhou_vis_09

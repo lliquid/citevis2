@@ -1,0 +1,17 @@
+title: iView: A Feature Clustering Framework for Suggesting Informative Views in Volume Visualization
+authors: Ziyi Zheng, Nafees Ahmed, Klaus Mueller
+abstract: The unguided visual exploration of volumetric data can be both a challenging and a time-consuming undertaking. Identifying a set of favorable vantage points at which to start exploratory expeditions can greatly reduce this effort and can also ensure that no important structures are being missed. Recent research efforts have focused on entropy???based viewpoint selection criteria that depend on scalar values describing the structures of interest. In contrast, we propose a viewpoint suggestion pipeline that is based on feature-clustering in high-dimensional space. We use gradient/normal variation as a metric to identify interesting local events and then cluster these via k-means to detect important salient composite features. Next, we compute the maximum possible exposure of these composite feature for different viewpoints and calculate a 2D entropy map parameterized in longitude and latitude to point out promising view orientations. Superimposed onto an interactive track-ball interface, users can then directly use this entropy map to quickly navigate to potentially interesting viewpoints where visibility-based transfer functions can be employed to generate volume renderings that minimize occlusions. To give full exploration freedom to the user, the entropy map is updated on the fly whenever a view has been selected, pointing to new and promising but so far unseen view directions. Alternatively, our system can also use a set-cover optimization algorithm to provide a minimal set of views needed to observe all features. The views so generated could then be saved into a list for further inspection or into a gallery for a summary presentation.
+vis citations:
+amirkhan_vis_10
+bordoloi_vis_05
+chan_vis_08
+chan_vis_09
+correa_vis_08
+correa_vis_09
+kindlman_vis_03
+kohlmann_vis_07
+krueger_vis_06
+maciejew_vis_09
+takahash_vis_05
+wangl_vis_05
+wu_vis_09

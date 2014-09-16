@@ -1,0 +1,9 @@
+title: NetClinic: Interactive Visualization to Enhance Automated Fault Diagnosis in Enterprise Networks
+authors: Zhicheng Liu, Bongshin Lee, Srikanth Kandula, Ratul Mahajan
+abstract: Diagnosing faults in an operational computer network is a frustrating, time-consuming exercise. Despite advances, automatic diagnostic tools are far from perfect: they occasionally miss the true culprit and are mostly only good at narrowing down the search to a few potential culprits. This uncertainty and the inability to extract useful sense from tool output renders most tools not usable to administrators. To bridge this gap, we present NetClinic, a visual analytics system that couples interactive visualization with an automated diagnostic tool for enterprise networks. It enables administrators to verify the output of the automatic analysis at different levels of detail and to move seamlessly across levels while retaining appropriate context. A qualitative user study shows that NetClinic users can accurately identify the culprit, even when it is not present in the suggestions made by the automated component. We also find that supporting a variety of sensemaking strategies is a key to the success of systems that enhance automated diagnosis.
+vis citations:
+bilgic_vast_06
+kang_vast_09
+mansmann_infovis_07
+perer_infovis_06
+stasko_vast_07

@@ -1,0 +1,6 @@
+title: ImageSurfer: A Tool for Visualizing Correlations between Two Volume Scalar Fields
+authors: Dennis Jen, Peter Parente, Jonathan Robbins, Christopher Weigle,
+Alain Burette, Russell M. Taylor, Richard Weinberg
+abstract: ImageSurfer is a tool designed to explore correlations between two 3D scalar fields. Our scientific goal was to determine where a protein is located, and how much its concentration varies along the membrane of a neuronal dendrite. The 3D scalar field data sets fall into two categories: dendritic plasma membranes (defining the structure) and immunofluorescent staining (defining protein concentration along the structure). ImageSurfer enables scientists to analyze relationships between multiple data sets obtained with confocal microscopy by providing 3D surface view, height field, and graphing tools. Each tool reduces the complexity of the problem by extracting a restricted subset of data: finding a region of interest in 3D; getting a sense of relative concentrations in 2D, and getting exact concentration values in 1D. The current design is presented, along with the rationale for each design decision. The tool is already proving useful for data exploration, analysis, and presentation.
+vis citations:
+kniss_vis_01

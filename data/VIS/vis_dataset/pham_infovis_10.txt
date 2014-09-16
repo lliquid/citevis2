@@ -1,0 +1,8 @@
+title: Visualization of Diversity in Large Multivariate Data Sets
+authors: Tuan Pham, Rob Hess, Crystal Ju, Eugene Zhang, Ronald Metoyer
+abstract: Understanding the diversity of a set of multivariate objects is an important problem in many domains, including ecology, college admissions, investing, machine learning, and others. However, to date, very little work has been done to help users achieve this kind of understanding. Visual representation is especially appealing for this task because it offers the potential to allow users to efficiently observe the objects of interest in a direct and holistic way. Thus, in this paper, we attempt to formalize the problem of visualizing the diversity of a large (more than 1000 objects), multivariate (more than 5 attributes) data set as one worth deeper investigation by the information visualization community. In doing so, we contribute a precise definition of diversity, a set of requirements for diversity visualizations based on this definition, and a formal user study design intended to evaluate the capacity of a visual representation for communicating diversity information. Our primary contribution, however, is a visual representation, called the Diversity Map, for visualizing diversity. An evaluation of the Diversity Map using our study design shows that users can judge elements of diversity consistently and as or more accurately than when using the only other representation specifically designed to visualize diversity.
+vis citations:
+artero_infovis_04
+fua_vis_99
+hauser_infovis_02
+peng_infovis_04

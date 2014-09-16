@@ -1,0 +1,6 @@
+title: A Model for the Visualization Exploration Process
+authors: T.J. Jankun-Kelly, Kwan-Liu Ma, Michael Gertz
+abstract: The current state of the art in visualization research places a strong emphasis on different techniques to derive insight from disparate types of data. However, little work has investigated the visualization process itself. The information content of the visualization process???the results, history, and relationships between those results???is addressed by this work. A characterization of the visualization process is discussed, leading to a general model of the visualization exploration process. The model, based upon a new parameter derivation calculus, can be used for automated reporting, analysis, or visualized directly. An XML-based language for expressing visualization sessions using the model is also described. These sessions can then be shared and reused by collaborators. The model, along with the XML representation, provides an effective means to utilize the information within the visualization process to further data exploration.
+vis citations:
+chi_infovis_98
+ma_vis_99

@@ -1,0 +1,7 @@
+title: SpiralView: Towards Security Policies Assessment through Visual Correlation of Network Resources with Evolution of Alarms
+authors: Enrico Bertini, Patrick Hertzog, Denis Lalanne
+abstract: This article presents SpiralView, a visualization tool for helping system administrators to assess network policies. The tool is meant to be a complementary support to the routine activity of network monitoring, enabling a retrospective view on the alarms generated during and extended period of time. The tool permits to reason about how alarms distribute over time and how they correlate with network resources (e.g., users, IPs, applications, etc.), supporting the analysts in understanding how the network evolves and thus in devising new security policies for the future. The spiral visualization plots alarms in time, and, coupled with interactive bar charts and a users/applications graph view, is used to present network data and perform queries. The user is able to segment the data in meaningful subsets, zoom on specific related information, and inspect for relationships between alarms, users, and applications. In designing the visualizations and their interaction, and through tests with security experts, several ameliorations over the standard techniques have been provided.
+vis citations:
+li_infovis_03
+alexa_infovis_01
+yee_infovis_01

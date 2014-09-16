@@ -1,0 +1,8 @@
+title: Visual Market Sector Analysis for Financial Time Series Data
+authors: Hartmut Ziegler, Marco Jenny, Tino Gruse, Daniel A. Keim
+abstract: The massive amount of financial time series data that originates from the stock market generates large amounts of complex data of high interest. However, adequate solutions that can effectively handle the information in order to gain insight and to understand the market mechanisms are rare. In this paper, we present two techniques and applications that enable the user to interactively analyze large amounts of time series data in real-time in order to get insight into the development of assets, market sectors, countries, and the financial market as a whole. The first technique allows users to quickly analyze combinations of single assets, market sectors as well as countries, compare them to each other, and to visually discover the periods of time where market sectors and countries get into turbulence. The second application clusters a selection of large amounts of financial time series data according to their similarity, and analyzes the distribution of the assets among market sectors. This allows users to identify the characteristic graphs which are representative for the development of a particular market sector, and also to identify the assets which behave considerably differently compared to other assets in the same sector. Both applications allow the user to perform investigative exploration techniques and interactive visual analysis in real-time.
+vis citations:
+csallner_infovis_03
+keim_infovis_01
+vanwijk2_infovis_99
+alexa_infovis_01

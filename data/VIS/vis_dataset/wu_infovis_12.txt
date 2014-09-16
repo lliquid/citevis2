@@ -1,0 +1,13 @@
+title: Visualizing Flow of Uncertainty through Analytical Processes
+authors: Yingcai Wu, Guo-Xun Yuan, Kwan-Liu Ma
+abstract: Uncertainty can arise in any stage of a visual analytics process, especially in data-intensive applications with a sequence of data transformations. Additionally, throughout the process of multidimensional, multivariate data analysis, uncertainty due to data transformation and integration may split, merge, increase, or decrease. This dynamic characteristic along with other features of uncertainty pose a great challenge to effective uncertainty-aware visualization. This paper presents a new framework for modeling uncertainty and characterizing the evolution of the uncertainty information through analytical processes. Based on the framework, we have designed a visual metaphor called uncertainty flow to visually and intuitively summarize how uncertainty information propagates over the whole analysis pipeline. Our system allows analysts to interact with and analyze the uncertainty information at different levels of detail. Three experiments were conducted to demonstrate the effectiveness and intuitiveness of our design.
+vis citations:
+correa_vast_09
+feng_infovis_10
+heer_infovis_08
+kreusele_infovis_04
+olston_infovis_02
+sanyal_vis_09
+slingsby_infovis_11
+turkay_infovis_11
+wu_infovis_10

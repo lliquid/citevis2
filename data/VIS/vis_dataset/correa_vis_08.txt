@@ -1,0 +1,11 @@
+title: Size-based Transfer Functions: A New Volume Exploration Technique
+authors: Carlos D. Correa, Kwan-Liu Ma
+abstract: The visualization of complex 3D images remains a challenge, a fact that is magnified by the difficulty to classify or segment volume data. In this paper, we introduce size-based transfer functions, which map the local scale of features to color and opacity. Features in a data set with similar or identical scalar values can be classified based on their relative size. We achieve this with the use of scale fields, which are 3D fields that represent the relative size of the local feature at each voxel. We present a mechanism for obtaining these scale fields at interactive rates, through a continuous scale-space analysis and a set of detection filters. Through a number of examples, we show that size-based transfer functions can improve classification and enhance volume rendering techniques, such as maximum intensity projection. The ability to classify objects based on local size at interactive rates proves to be a powerful method for complex data exploration.
+vis citations:
+correa_vis_05
+kindlman_vis_03
+kniss_vis_01
+lum_vis_04
+ebert_vis_00
+sherbond_vis_03
+tzeng_vis_03

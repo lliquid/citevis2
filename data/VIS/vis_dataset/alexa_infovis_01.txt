@@ -1,0 +1,5 @@
+title: Visualizing Time-Series on Spirals
+authors: Marc Weber, Marc Alexa, Wolfgang M??ller
+abstract: In this paper, we present a new approach for the visualization of time-series data based on spirals. Different to classical bar charts and line graphs, the spiral is suited to visualize large data sets and supports much better the identification of periodic structures in the data. Moreover, it supports both the visualization of nominal and quantitative data based on a similar visualization metaphor. The extension of the spiral visualization to 3D gives access to concepts for zooming and focusing and linking in the data set. As such, spirals complement other visualization techniques for time series and specifically enhance the identication of periodic patterns.
+vis citations:
+havre_infovis_00

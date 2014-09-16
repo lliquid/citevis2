@@ -1,0 +1,8 @@
+title: XFastMesh: Fast View-dependent Meshing from External Memory
+authors: Christopher DeCoro, Renato Pajarola
+abstract: We present a novel disk-based multiresolution triangle mesh data structure that supports paging and view-dependent rendering of very large meshes at interactive frame rates from external memory. Our approach, called XFastMesh, is based on a view-dependent mesh simplification framework that represents half-edge collapse operations in a binary hierarchy known as a merge-tree forest. The proposed technique partitions the merge-tree forest into so-called detail blocks, which consist of binary subtrees, that are stored on disk. We present an efficient external memory data structure and file format that stores all detail information of the multiresolution triangulation method using significantly less storage then previously reported approaches. Furthermore, we present a paging algorithm that provides efficient loading and interactive rendering of large meshes from external memory at varying and view-dependent level-of-detail. The presented approach is highly efficient both in terms of space cost and paging performance.
+vis citations:
+defloria_vis_98
+hoppe_vis_98
+lindstrom01_vis_01
+shaffer_vis_01

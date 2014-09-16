@@ -1,0 +1,11 @@
+title: Topological Landscapes: A Terrain Metaphor for Scientific Data
+authors: Gunther H. Weber, Peer-Timo Bremer, Valerio Pascucci
+abstract: Scientific visualization and illustration tools are designed to help people understand the structure and complexity of scientific data with images that are as informative and intuitive as possible. In this context the use of metaphors plays an important role since they make complex information easily accessible by using commonly known concepts. In this paper we propose a new metaphor, called ???Topological Landscapes,??? which facilitates understanding the topological structure of scalar functions. The basic idea is to construct a terrain with the same topology as a given dataset and to display the terrain as an easily understood representation of the actual input data. In this projection from an ndimensional scalar function to a two-dimensional (2D) model we preserve function values of critical points, the persistence (function span) of topological features, and one possible additional metric property (in our examples volume). By displaying this topologically equivalent landscape together with the original data we harness the natural human proficiency in understanding terrain topography and make complex topological information easily accessible.
+vis citations:
+carr_vis_04
+weber_vis_02
+gyulassy_vis_05
+theisel_vis_03
+kocmoud_vis_98
+heilmann_infovis_04
+koren_infovis_02

@@ -1,0 +1,7 @@
+title: Visualizing Gyrokinetic Simulations
+authors: David Crawford, Kwan-Liu Ma, Min-Yu Huang, Scott Klasky, Stephane Ethier
+abstract: The continuing advancement of plasma science is central to realizing fusion as an inexpensive and safe energy source. Gryokinetic simulations of plasmas are fundamental to the understanding of turbulent transport in fusion plasma. This paper discusses the visualization challenges presented by gyrokinetic simulations using magnetic field line following coordinates, and presents an effective solution exploiting programmable graphics hardware to enable interactive volume visualization of 3D plasma flow on a toroidal coordinate system. The new visualization capability can help scientists better understand three-dimensional structures of the modeled phenomena. Both the limitations and future promise of the hardware-accelerated approach are also discussed.
+vis citations:
+lum_vis_01
+schneide_vis_03
+woodring_vis_03

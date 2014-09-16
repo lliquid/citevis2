@@ -1,0 +1,11 @@
+title: LoD Volume Rendering of FEA Data
+authors: Shyh-Kuang Ueng, Yan-Jen Su, Chi-Tang Chang
+abstract: In this article, a new multiple resolution volume rendering method for Finite Element Analysis (FEA) data is presented. Our method is composed of three stages: At the first stage, the Gauss points of the FEA cells are calculated. The function values, gradients, diffusions, and influence scopes of the Gauss points are computed. By representing the Gauss points as graph vertices and connecting adjacent Gauss points with edges, an adjacency graph is created. The adjacency graph is used to represent the FEA data in the subsequent computation. At the second stage, a hierarchical structure is established upon the adjacency graph. Any two neighboring vertices with similar function values are merged into a new vertex. The similarity is measured by using a user-defined threshold. Consequently a new adjacency graph is constructed. Then the threshold is increased, and the graph reduction is triggered again to generate another adjacency graph. By repeating the processing, multiple adjacency graphs are computed, and a Level of Detail(LoD) representation of the FEA data is established. At the third stage, the LoD structure is rendered by using a splatting method. At first, a level of adjacency graph is selected by users. The graph vertices are sorted based on their visibility orders and projected onto the image plane in back-to-front order. Billboards are used to render the vertices in the projection. The function values, gradients, and influence scopes of the vertices are utilized to decide the colors, opacities, orientations, and shapes of the billboards. The billboards are then modulated with texture maps to generate the footprints of the vertices. Finally, these footprints are composited to produce the volume rendering image.
+vis citations:
+chopra_vis_02
+cignoni_vis_00
+lamar_vis_99
+mueller_vis_98
+mueller_vis_99
+yang_vis_00
+zwicker_vis_01

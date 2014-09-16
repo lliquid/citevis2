@@ -1,0 +1,5 @@
+title: Dynamic Drawing of Clustered Graphs
+authors: Yaniv Frishman, Ayellet Tal
+abstract: This paper presents an algorithm for drawing a sequence of graphs that contain an inherent grouping of their vertex set into clusters. It differs from previous work on dynamic graph drawing in the emphasis that is put on maintaining the clustered structure of the graph during incremental layout. The algorithm works online and allows arbitrary modifications to the graph. It is generic and can be implemented using a wide range of static force-directed graph layout tools. The paper introduces several metrics for measuring layout quality of dynamic clustered graphs. The performance of our algorithm is analyzed using these metrics. The algorithm has been successfully applied to visualizing mobile object software.
+vis citations:
+wilson_infovis_99

@@ -1,0 +1,13 @@
+title: Stochastic DT-MRI Connectivity Mapping on the GPU
+authors: Tim McGraw, Mariappan Nadar
+abstract: We present a method for stochastic fiber tract mapping from diffusion tensor MRI (DT-MRI) implemented on graphics hardware. From the simulated fibers we compute a connectivity map that gives an indication of the probability that two points in the dataset are connected by a neuronal fiber path. A Bayesian formulation of the fiber model is given and it is shown that the inversion method can be used to construct plausible connectivity. An implementation of this fiber model on the graphics processing unit (GPU) is presented. Since the fiber paths can be stochastically generated independently of one another, the algorithm is highly parallelizable. This allows us to exploit the data-parallel nature of the GPU fragment processors. We also present a framework for the connectivity computation on the GPU. Our implementation allows the user to interactively select regions of interest and observe the evolving connectivity results during computation. Results are presented from the stochastic generation of over 250,000 fiber steps per iteration at interactive frame rates on consumer-grade graphics hardware.
+vis citations:
+enders_vis_05
+kindlman_vis_06
+kindlman_vis_99
+kondrati_vis_05
+krueger_vis_03
+laidlaw_vis_98
+merhof_vis_06
+moberts_vis_05
+preusser_vis_99

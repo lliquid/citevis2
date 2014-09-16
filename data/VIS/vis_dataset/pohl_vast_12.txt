@@ -1,0 +1,9 @@
+title: The User Puzzle???Explaining the Interaction with Visual Analytics Systems
+authors: Margit Pohl, Michael Smuc, Eva Mayr
+abstract: Visual analytics emphasizes the interplay between visualization, analytical procedures performed by computers and human perceptual and cognitive activities. Human reasoning is an important element in this context. There are several theories in psychology and HCI explaining open-ended and exploratory reasoning. Five of these theories (sensemaking theories, gestalt theories, distributed cognition, graph comprehension theories and skill-rule-knowledge models) are described in this paper. We discuss their relevance for visual analytics. In order to do this more systematically, we developed a schema of categories relevant for visual analytics research and evaluation. All these theories have strengths but also weaknesses in explaining interaction with visual analytics systems. A possibility to overcome the weaknesses would be to combine two or more of these theories.
+vis citations:
+green_vast_08
+lipford_vast_10
+liu_infovis_08
+yi_infovis_07
+ziemkiew_vast_11

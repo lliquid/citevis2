@@ -1,0 +1,5 @@
+title: A Comparison of 2-D Visualizations of Hierarchies
+authors: Todd Barlow, Padraic Neville
+abstract: This paper describes two experiments that compare fourtwo-dimensional visualizations of hierarchies: organizationchart, icicle plot, treemap, and tree ring.Thevisualizations are evaluated in the context of decision tree analyses prevalent in data mining applications. The results suggest that either the tree ring or icicle plot is equivalent to the organization chart.
+vis citations:
+chuah_infovis_98

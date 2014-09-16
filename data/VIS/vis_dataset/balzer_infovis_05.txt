@@ -1,0 +1,8 @@
+title: Voronoi Treemaps
+authors: Michael Balzer, Oliver Deussen
+abstract: Treemaps are a well-known method for the visualization of attributed hierarchical data. Previously proposed Treemap layout algorithms are limited to rectangular shapes, which causes problems with the aspect ratio of the rectangles as well as with identifying the visualized hierarchical structure. The approach of Voronoi Treemaps presented in this paper eliminates these problems through enabling subdivisions of and in polygons. Additionally, this allows for creating Treemap visualizations within areas of arbitrary shape, such as triangles and circles, thereby enabling a more flexible adaptation of Treemaps for a wider range of applications.
+vis citations:
+du_vis_04
+granitze_infovis_04
+wattenberg_infovis_01
+vanwijk1_infovis_99

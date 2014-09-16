@@ -1,0 +1,12 @@
+title: Exploring Uncertainty in Geodemographics with Interactive Graphics
+authors: Aidan Slingsby, Jason Dykes, Jo Wood
+abstract: Geodemographic classifiers characterise populations by categorising geographical areas according to the demographic and lifestyle characteristics of those who live within them. The dimension-reducing quality of such classifiers provides a simple and effective means of characterising population through a manageable set of categories, but inevitably hides heterogeneity, which varies within and between the demographic categories and geographical areas, sometimes systematically. This may have implications for their use, which is widespread in government and commerce for planning, marketing and related activities. We use novel interactive graphics to delve into OAC  a free and open geodemographic classifier that classifies the UK population in over 200,000 small geographical areas into 7 super-groups, 21 groups and 52 sub-groups. Our graphics provide access to the original 41 demographic variables used in the classification and the uncertainty associated with the classification of each geographical area on-demand. It also supports comparison geographically and by category. This serves the dual purpose of helping understand the classifier itself leading to its more informed use and providing a more comprehensive view of population in a comprehensible manner. We assess the impact of these interactive graphics on experienced OAC users who explored the details of the classification, its uncertainty and the nature of between  and within  class variation and then reflect on their experiences. Visualization of the complexities and subtleties of the classification proved to be a thought-provoking exercise both confirming and challenging users??? understanding of population, the OAC classifier and the way it is used in their organisations. Users identified three contexts for which the techniques were deemed useful in the context of local government, confirming the validity of the proposed methods.
+vis citations:
+chang_infovis_07
+dorling_infovis_06
+dykes_infovis_10
+fua_vis_99
+kong_infovis_10
+weaver_infovis_04
+wood_infovis_08
+yi_infovis_07

@@ -1,0 +1,10 @@
+title: Visualizing Whole-Brain DTI Tractography with GPU-based Tuboids and LoD Management
+authors: Vid Petrovic, James Fallon, Falko Kuester
+abstract: Diffusion Tensor Imaging (DTI) of the human brain, coupled with tractography techniques, enable the extraction of largecollections of three-dimensional tract pathways per subject. These pathways and pathway bundles represent the connectivity between different brain regions and are critical for the understanding of brain related diseases. A flexible and efficient GPU-based rendering technique for DTI tractography data is presented that addresses common performance bottlenecks and image-quality issues, allowing interactive render rates to be achieved on commodity hardware. An occlusion query-based pathway LoD management system for streamlines/streamtubes/tuboids is introduced that optimizes input geometry, vertex processing, and fragment processing loads, and helps reduce overdraw. The tuboid, a fully-shaded streamtube impostor constructed entirely on the GPU from streamline vertices, is also introduced. Unlike full streamtubes and other impostor constructs, tuboids require little to no preprocessing or extra space over the original streamline data. The supported fragment processing levels of detail range from texture-based draft shading to full raycast normal computation, Phong shading, environment mapping, and curvature-correct text labeling. The presented text labeling technique for tuboids provides adaptive, aesthetically pleasing labels that appear attached to the surface of the tubes. Furthermore, an occlusion query aggregating and scheduling scheme for tuboids is described that reduces the query overhead. Results for a tractography dataset are presented, and demonstrate that LoD-managed tuboids offer benefits over traditional streamtubes both in performance and appearance.
+vis citations:
+akers_vis_04
+melek_vis_06
+merhof_vis_06
+stoll_vis_05
+yoon_vis_03
+zhukov_vis_02

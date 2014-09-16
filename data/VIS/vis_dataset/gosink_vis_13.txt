@@ -1,0 +1,8 @@
+title: Characterizing and Visualizing Predictive Uncertainty in Numerical Ensembles Through Bayesian Model Averaging
+authors: Luke Gosink, Kevin Bensema, Trenton Pulsipher, Harald Obermaier, Michael Henry, Hank Childs, Kenneth Joy
+abstract: Numerical ensemble forecasting is a powerful tool that drives many risk analysis efforts and decision making tasks. These ensembles are composed of individual simulations that each uniquely model a possible outcome for a common event of interest: e.g., the direction and force of a hurricane, or the path of travel and mortality rate of a pandemic. This paper presents a new visual strategy to help quantify and characterize a numerical ensemble???s predictive uncertainty: i.e., the ability for ensemble constituents to accurately and consistently predict an event of interest based on ground truth observations. Our strategy employs a Bayesian framework to first construct a statistical aggregate from the ensemble. We extend the information obtained from the aggregate with a visualization strategy that characterizes predictive uncertainty at two levels: at a global level, which assesses the ensemble as a whole, as well as a local level, which examines each of the ensemble???s constituents. Through this approach, modelers are able to better assess the predictive strengths and weaknesses of the ensemble as a whole, as well as individual models. We apply our method to two datasets to demonstrate its broad applicability.
+vis citations:
+botchen_vis_05
+grigorya_vis_02
+prassni_vis_10
+sanyal_vis_10

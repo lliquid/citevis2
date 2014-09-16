@@ -1,0 +1,5 @@
+title: Two-stage Framework for Visualization of Clustered High Dimensional Data
+authors: Jaegul Choo, Shawn Bohn, Haesun Park
+abstract: In this paper, we discuss dimension reduction methods for 2D visualization of high dimensional clustered data. We propose a twostage framework for visualizing such data based on dimension reduction methods. In the first stage, we obtain the reduced dimensional data by applying a supervised dimension reduction method such as linear discriminant analysis which preserves the original cluster structure in terms of its criteria. The resulting optimal reduced dimension depends on the optimization criteria and is often larger than 2. In the second stage, the dimension is further reduced to 2 for visualization purposes by another dimension reduction method such as principal component analysis. The role of the second-stage is to minimize the loss of information due to reducing the dimension all the way to 2. Using this framework, we propose several two-stage methods, and present their theoretical characteristics as well as experimental comparisons on both artificial and real-world text data sets.
+vis citations:
+koren_infovis_03

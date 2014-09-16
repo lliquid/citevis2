@@ -1,0 +1,6 @@
+title: Lagrangian-Eulerian Advection for Unsteady Flow Visualization
+authors: Bruno Jobard, Gordon Erlebacher, M. Yousuff Hussaini
+abstract: In this paper, we propose a new technique to visualize dense representations of time-dependent vector fields based on a Lagrangian-Eulerian Advection (LEA) scheme. The algorithm produces animations with high spatio-temporal correlation at interactive rates. With this technique, every still frame depicts the instantaneous structure of the flow, whereas an animated sequence of frames reveals the motion a dense collection of particles would take when released into the flow. The simplicity of both the resulting data structures and the implementation suggest that LEA could become a useful component of any scientific visualization toolkit concerned with the display of unsteady flows.
+vis citations:
+jobard_vis_00
+jobard_vis_00

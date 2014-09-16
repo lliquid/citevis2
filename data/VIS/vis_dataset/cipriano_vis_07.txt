@@ -1,0 +1,9 @@
+title: Molecular Surface Abstraction
+authors: Gregory Cipriano, Michael Gleicher
+abstract: In this paper we introduce a visualization technique that provides an abstracted view of the shape and spatio-physico-chemical properties of complex molecules. Unlike existing molecular viewing methods, our approach suppresses small details to facilitate rapid comprehension, yet marks the location of significant features so they remain visible. Our approach uses a combination of filters and mesh restructuring to generate a simplified representation that conveys the overall shape and spatio-physico-chemical properties (e.g. electrostatic charge). Surface markings are then used in the place of important removed details, as well as to supply additional information. These simplified representations are amenable to display using stylized rendering algorithms to further enhance comprehension. Our initial experience suggests that our approach is particularly useful in browsing collections of large molecules and in readily making comparisons between them.
+vis citations:
+cheng_vis_05
+grigorya_vis_02
+lee_vis_04
+schmidte_vis_02
+tarini_vis_06

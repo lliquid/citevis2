@@ -1,0 +1,6 @@
+title: Vicinity Shading for Enhanced Perception of Volumetric Data
+authors: A. James Stewart
+abstract: This paper presents a shading model for volumetric data which enhances the perception of surfaces within the volume. The model incorporates uniform diffuse illumination, which arrives equally from all directions at each surface point in the volume. This illumination is attenuated by occlusions in the local vicinity of the surface point, resulting in shadows in depressions and crevices. Experiments by other authors have shown that perception of a surface is superior under uniform diffuse lighting, compared to illumination from point source lighting.
+vis citations:
+kniss_vis_02
+zhang3_1_vis_02

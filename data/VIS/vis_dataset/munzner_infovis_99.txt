@@ -1,0 +1,4 @@
+title: Constellation: A Visualization Tool for Linguistic Queries from MindNet
+authors: Tamara Munzner, Francois Guimbreti??re, George Robertson
+abstract: Constellation is a visualization system for the results of queries from the MindNet natural language semantic network. Constellation is targeted at helping MindNet???s creators and users refine their algorithms, as opposed to understanding the structure of language. We designed a special-purpose graph layout algorithm which exploits higher-level structure in addition to the basic node and edge connectivity. Our layout prioritizes the creation of a semantic space to encode plausibility instead of traditional graph drawing metrics like minimizing edge crossings. We make careful use of several perceptual channels both to minimize the visual impact of edge crossings and to emphasize highlighted constellations of nodes and edges.
+vis citations:

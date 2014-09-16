@@ -1,0 +1,13 @@
+title: Hub-based Simulation and Graphics Hardware Accelerated Visualization for Nanotechnology Applications
+authors: Wei Qiao, Michael McLennan, Rick Kennell, David S. Ebert, Gerhard Klimeck
+abstract: The Network for Computational Nanotechnology (NCN) has developed a science gateway at nanoHUB.org for nanotechnology education and research. Remote users can browse through online seminars and courses, and launch sophisticated nanotechnology simulation tools, all within their web browser. Simulations are supported by a middleware that can route complex jobs to grid supercomputing resources. But what is truly unique about the middleware is the way that it uses hardware accelerated graphics to support both problem setup and result visualization. This paper describes the design and integration of a remote visualization framework into the nanoHUB for interactive visual analytics of nanotechnology simulations. Our services flexibly handle a variety of nanoscience simulations, render them utilizing graphics hardware acceleration in a scalable manner, and deliver them seamlessly through the middleware to the user. Rendering is done only on-demand, as needed, so each graphics hardware unit can simultaneously support many user sessions. Additionally, a novel node distribution scheme further improves our system???s scalability. Our approach is not only efficient but also cost-effective. Only a half-dozen render nodes are anticipated to support hundreds of active tool sessions on the nanoHUB. Moreover, this architecture and visual analytics environment provides capabilities that can serve many areas of scientific simulation and analysis beyond nanotechnology with its ability to interactively analyze and visualize multivariate scalar and vector fields.
+vis citations:
+childs_vis_05
+gao_vis_05
+jobard_vis_00
+kaehler_vis_05
+luke_vis_02
+qiao_vis_05
+roettger_vis_00
+telea_vis_03
+weiskopf_vis_03

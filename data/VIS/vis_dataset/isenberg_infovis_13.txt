@@ -1,0 +1,11 @@
+title: Hybrid-Image Visualization for Large Viewing Environments
+authors: Petra Isenberg, Pierre Dragicevic, Wesley Willett, Anastasia Bezerianos, Jean-Daniel Fekete
+abstract: We present a first investigation into hybrid-image visualization for data analysis in large-scale viewing environments. Hybrid-image visualizations blend two different visual representations into a single static view, such that each representation can be perceived at a different viewing distance. Our work is motivated by data analysis scenarios that incorporate one or more displays with sufficiently large size and resolution to be comfortably viewed by different people from various distances. Hybrid-image visualizations can be used, in particular, to enhance overview tasks from a distance and detail-in-context tasks when standing close to the display. By using a perception-based blending approach, hybrid-image visualizations make two full-screen visualizations accessible without tracking viewers in front of a display. We contribute a design space, discuss the perceptual rationale for our work, provide examples, and introduce a set of techniques and tools to aid the design of hybrid-image visualizations.
+vis citations:
+afzal_infovis_12
+bezerianos_infovis_12
+henry_infovis_07
+keim_infovis_01
+lam_infovis_07
+wong_infovis_05
+yost_infovis_06

@@ -1,0 +1,9 @@
+title: Hierarchical Event Selection for Video Storyboards with a Case Study on Snooker Video Visualization
+authors: Matthew L. Parry, Philip A. Legg, David H.S. Chung, Iwan W. Griffiths, Min Chen
+abstract: Video storyboard, which is a form of video visualization, summarizes the major events in a video using illustrative visualization. There are three main technical challenges in creating a video storyboard, (a) event classification, (b) event selection and (c) event illustration. Among these challenges, (a) is highly application-dependent and requires a significant amount of applicationspecific semantics to be encoded in a system or manually specified by users. This paper focuses on challenges (b) and (c). In particular, we present a framework for hierarchical event representation, and an importance-based selection algorithm for supporting the creation of a video storyboard from a video. We consider the storyboard to be an event summarization for the whole video, whilst each individual illustration on the board is also an event summarization but for a smaller time window. We utilized a 3D visualization template for depicting and annotating events in illustrations. To demonstrate the concepts and algorithms developed, we use Snooker video visualization as a case study, because it has a concrete and agreeable set of semantic definitions for events and can make use of existing techniques of event detection and 3D reconstruction in a reliable manner. Nevertheless, most of our concepts and algorithms developed for challenges (b) and (c) can be applied to other application areas.
+vis citations:
+chen_vis_06
+daniel_vis_03
+kapler_infovis_04
+romero_infovis_08
+wang_vis_07

@@ -1,0 +1,10 @@
+title: OpinionSeer: Interactive Visualization of Hotel Customer Feedback
+authors: Yingcai Wu, Furu Wei, Shixia Liu, Norman Au, Weiwei Cui, Hong Zhou, Huamin Qu
+abstract: The rapid development of Web technology has resulted in an increasing number of hotel customers sharing their opinions on the hotel services. Effective visual analysis of online customer opinions is needed, as it has a significant impact on building a successful business. In this paper, we present OpinionSeer, an interactive visualization system that could visually analyze a large collection of online hotel customer reviews. The system is built on a new visualization-centric opinion mining technique that considers uncertainty for faithfully modeling and analyzing customer opinions. A new visual representation is developed to convey customer opinions by augmenting well-established scatterplots and radial visualization. To provide multiple-level exploration, we introduce subjective logic to handle and organize subjective opinions with degrees of uncertainty. Several case studies illustrate the effectiveness and usefulness of OpinionSeer on analyzing relationships among multiple data dimensions and comparing opinions of different groups. Aside from data on hotel customer feedback, OpinionSeer could also be applied to visually analyze customer opinions on other products or services.
+vis citations:
+chen_vast_06
+correa_vast_09
+draper_infovis_08
+oelke_vast_09
+viegas_infovis_09
+yang_infovis_02

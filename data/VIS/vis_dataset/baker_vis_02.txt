@@ -1,0 +1,4 @@
+title: GeneVis: Visualization Tools for Genetic Regulatory Network Dynamics
+authors: C.A.H Baker, M.S.T Carpendale, P. Prusinkiewicz, M.G. Surette
+abstract: GeneVis provides a visual environment for exploring the dynamics of genetic regulatory networks. At present time, genetic regulation is the focus of intensive research worldwide, and computational aids are being called for to help in the research of factors that are difficult to observe directly. GeneVis provides a particle-based simulation of genetic networks and visualizes the process of this simulation as it occurs. Two dynamic visualization techniques are provided, a visualization of the movement of the regulatory proteins and a visualization of the relative concentrations of these proteins. Several interactive tools relate the dynamic visualizations to the underlying genetic network structure.
+vis citations:

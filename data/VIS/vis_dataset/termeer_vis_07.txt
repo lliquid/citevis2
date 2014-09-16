@@ -1,0 +1,8 @@
+title: CoViCAD: Comprehensive Visualization of Coronary Artery Disease
+authors: Maurice Termeer, Javier Olivan Bescos, Marcel Breeuwer, Anna Vilanova, Frans Gerritsen, M. Eduard Gr??ller
+abstract: We present novel, comprehensive visualization techniques for the diagnosis of patients with Coronary Artery Disease using segmented cardiac MRI data. We extent an accepted medical visualization technique called the bull???s eye plot by removing discontinuities, preserving the volumetric nature of the left ventricular wall and adding anatomical context. The resulting volumetric bull???s eye plot can be used for the assessment of transmurality. We link these visualizations to a 3D view that presents viability information in a detailed anatomical context. We combine multiple MRI scans (whole heart anatomical data, late enhancement data) and multiple segmentations (polygonal heart model, late enhancement contours, coronary artery tree). By selectively combining different rendering techniques we obtain comprehensive yet intuitive visualizations of the various data sources.
+vis citations:
+hadwiger_vis_03
+kanitsar_vis_02
+straka_vis_04
+viola_vis_06

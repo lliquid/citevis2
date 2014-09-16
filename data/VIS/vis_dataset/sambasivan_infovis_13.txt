@@ -1,0 +1,8 @@
+title: Visualizing Request-Flow Comparison to Aid Performance Diagnosis in Distributed Systems
+authors: Raja R. Sambasivan, Ilari Shafer, Michelle L. Mazurek, Gregory R. Ganger
+abstract: Distributed systems are complex to develop and administer, and performance problem diagnosis is particularly challenging. When performance degrades, the problem might be in any of the system???s many components or could be a result of poor interactions among them. Recent research efforts have created tools that automatically localize the problem to a small number of potential culprits, but research is needed to understand what visualization techniques work best for helping distributed systems developers understand and explore their results. This paper compares the relative merits of three well-known visualization approaches (side-by-side, diff, and animation) in the context of presenting the results of one proven automated localization technique called request-flow comparison. Via a 26-person user study, which included real distributed systems developers, we identify the unique benefits that each approach provides for different problem types and usage modes.
+vis citations:
+heer_infovis_07
+liu_vast_10
+robertso_infovis_08
+sharara_vast_11

@@ -1,0 +1,15 @@
+title: Stress Tensor Field Visualization for Implant Planning in Orthopedics
+authors: Christian Dick, Joachim Georgii, Rainer Burgkart, R??diger Westermann
+abstract: We demonstrate the application of advanced 3D visualization techniques to determine the optimal implant design and position in hip joint replacement planning. Our methods take as input the physiological stress distribution inside a patient???s bone under load and the stress distribution inside this bone under the same load after a simulated replacement surgery. The visualization aims at showing principal stress directions and magnitudes, as well as differences in both distributions. By visualizing changes of normal and shear stresses with respect to the principal stress directions of the physiological state, a comparative analysis of the physiological stress distribution and the stress distribution with implant is provided, and the implant parameters that most closely replicate the physiological stress state in order to avoid stress shielding can be determined. Our method combines volume rendering for the visualization of stress magnitudes with the tracing of short line segments for the visualization of stress directions. To improve depth perception, transparent, shaded, and antialiased lines are rendered in correct visibility order, and they are attenuated by the volume rendering. We use a focus+context approach to visually guide the user to relevant regions in the data, and to support a detailed stress analysis in these regions while preserving spatial context information. Since all of our techniques have been realized on the GPU, they can immediately react to changes in the simulated stress tensor field and thus provide an effective means for optimal implant selection and positioning in a computational steering environment.
+vis citations:
+boring_vis_98
+hotz_vis_04
+kondrati_vis_05
+krueger_vis_06
+laidlaw_vis_98
+merhof_vis_06
+petrovic_vis_07
+sigfrids_vis_02
+wilson_vis_05
+zheng_vis_02
+zhukov_vis_02

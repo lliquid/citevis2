@@ -1,0 +1,9 @@
+title: Pixnostics: Towards Measuring the Value of Visualization
+authors: J??rn Schneidewind, Mike Sips, Daniel A. Keim
+abstract: During the last two decades a wide variety of advanced methods for the Visual Exploration of large data sets have been proposed. For most of these techniques user interaction has become a crucial element, since there are many situations in which an user or an analyst has to select the right parameter settings from among many or select a subset of the available attribute space for the visualization process, in order to construct valuable visualizations that provide insight into the data and reveal interesting patterns. The right choice of input parameters is often essential, since suboptimal parameter settings or the investigation of irrelevant data dimensions make the exploration process more time consuming and may result in wrong conclusions. In this paper we propose a novel method for automatically determining meaningful parameter and attribute settings based on the Information content of the resulting visualizations.Our technique called Pixnostics, in analogy to Scagnostics[1] automatically analyses pixel images resulting from diverse parameter mappings and ranks them according to the potential value for the user. This allows a more effective and more efficient visual data analysis process, since the attribute/parameter space is reduced to meaningful selections and thus the analyst obtains faster insight into the data. Real world applications are provided to show the benefit of the proposed approach.
+vis citations:
+wilkinso_infovis_05
+wijk_vis_05
+wattensp_infovis_05
+house_vis_05
+chi_infovis_00

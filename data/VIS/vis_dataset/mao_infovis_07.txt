@@ -1,0 +1,8 @@
+title: Sequential Document Visualization
+authors: Yi Mao, Joshua V. Dillon, Guy Lebanon
+abstract: Documents and other categorical valued time series are often characterized by the frequencies of short range sequential patterns such as ngrams. This representation converts sequential data of varying lengths to high dimensional histogram vectors which are easily modeled by standard statistical models. Unfortunately, the histogram representation ignores most of the medium and long range sequential dependencies making it unsuitable for visualizing sequential data. We present a novel framework for sequential visualization of discrete categorical time series based on the idea of local statistical modeling. The framework embeds categorical time series as smooth curves in the multinomial simplex summarizing the progression of sequential trends. We discuss several visualization techniques based on the above framework and demonstrate their usefulness for document visualization.
+vis citations:
+havre_infovis_01
+miller_vis_98
+alexa_infovis_01
+wong_infovis_00

@@ -1,0 +1,8 @@
+title: Empty Space Skipping and Occlusion Clipping for Texture-based Volume Rendering
+authors: Wei Li, Klaus Mueller, Arie Kaufman
+abstract: We propose methods to accelerate texture-based volume rendering by skipping invisible voxels. We partition the volume into sub-volumes, each containing voxels with similar properties. Subvolumes composed of only voxels mapped to empty by the transfer function are skipped. To render the adaptively partitioned subvolumes in visibility order, we reorganize them into an orthogonal BSP tree. We also present an algorithm that computes incrementally the intersection of the volume with the slicing planes, which avoids the overhead of the intersection and texture coordinates computation introduced by the partitioning. Rendering with empty space skipping is 2 to 5 times faster than without it. To skip occluded voxels, we introduce the concept of orthogonal opacity map, that simplifies the transformation between the volume coordinates and the opacity map coordinates, which is intensively used for occlusion detection. The map is updated efficiently by the GPU. The sub-volumes are then culled and clipped against the opacity map. We also present a method that adaptively adjusts the optimal number of the opacity map updates. With occlusion clipping, about 60% of non-empty voxels can be skipped and an additional 80% speedup on average is gained for iso-surface-like rendering.
+vis citations:
+kniss_vis_01
+krueger_vis_03
+lamar_vis_99
+mora_vis_02

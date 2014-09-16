@@ -1,0 +1,5 @@
+title: Complex Logarithmic Views for Small Details in Large Contexts
+authors: Joachim B??ttger, Michael Balzer, Oliver Deussen
+abstract: Commonly known detail in context techniques for the two-dimensional Euclidean space enlarge details and shrink their context using mapping functions that introduce geometrical compression. This makes it difficult or even impossible to recognize shapes for large differences in magnification factors. In this paper we propose to use the complex logarithm and the complex root functions to show very small details even in very large contexts. These mappings are conformal, which means they only locally rotate and scale, thus keeping shapes intact and recognizable. They allow showing details that are orders of magnitude smaller than their surroundings in combination with their context in one seamless visualization. We address the utilization of this universal technique for the interaction with complex two-dimensional data considering the exploration of large graphs and other examples.
+vis citations:
+balzer_infovis_05

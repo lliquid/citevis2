@@ -1,0 +1,8 @@
+title: High-Quality Two-Level Volume Rendering of Segmented Data Sets on Consumer Graphics Hardware
+authors: Markus Hadwiger, Christoph Berger, Helwig Hauser
+abstract: One of the most important goals in volume rendering is to be able to visually separate and selectively enable specific objects of interest contained in a single volumetric data set, which can be approached by using explicit segmentation information. We show how segmented data sets can be rendered interactively on current consumer graphics hardware with high image quality and pixel-resolution filtering of object boundaries. In order to enhance object perception, we employ different levels of object distinction. First, each object can be assigned an individual transfer function, multiple of which can be applied in a single rendering pass. Second, different rendering modes such as direct volume rendering, iso-surfacing, and nonphotorealistic techniques can be selected for each object. A minimal number of rendering passes is achieved by processing sets of objects that share the same rendering mode in a single pass. Third, local compositing modes such as alpha blending and MIP can be selected for each object in addition to a single global mode, thus enabling high-quality two-level volume rendering on GPUs.
+vis citations:
+ebert_vis_00
+krueger_vis_03
+lu_vis_02
+tiede_vis_98

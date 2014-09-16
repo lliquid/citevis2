@@ -1,0 +1,12 @@
+title: Exploiting Frame-to-Frame Coherence for Accelerating High-Quality Volume Raycasting on Graphics Hardware
+authors: Thomas Klein, Magnus Strengert, Simon Stegmaier, Thomas Ertl
+abstract: GPU-based raycasting offers an interesting alternative to conventional slice-based volume rendering due to the inherent flexibility and the high quality of the generated images. Recent advances in graphics hardware allow for the ray traversal and volume sampling to be executed on a per-fragment level completely on the GPU leading to interactive framerates. In this work we present optimization techniques that improve the performance and quality of GPU-based volume raycasting. We apply a hybrid image/object space approach to accelerate the ray traversal in animation sequences that works for both isosurface rendering and semi-transparent volume rendering. An empty-space???leaping technique that exploits the spatial coherence between consecutively rendered images is used to estimate the optimal initial ray sampling point for each image pixel. This can double the rendering performance for typical volumetric data sets without sacrificing image quality. The achieved speed-up allows for further improvements of image quality. We demonstrate an object space antialiasing technique based on selective super-sampling at sharp creases and silhouette edges which also benefits from exploiting frame-to-frame coherence.
+vis citations:
+kniss_vis_02
+krueger_vis_03
+lakare_vis_04
+li_w_vis_03
+mora_vis_02
+wan_vis_02
+weiler_vis_03
+westermann_vis_01

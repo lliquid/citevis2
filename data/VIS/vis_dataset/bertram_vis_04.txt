@@ -1,0 +1,7 @@
+title: Volume Refinement Fairing Isosurfaces
+authors: Martin Bertram
+abstract: We propose an interpolating refinement method for two and three-dimensional scalar fields defined on hexahedral grids. Iterative fairing of the underlying contours (isosurfaces) provides the function values of new grid points. Our method can be considered as a non-linear variational subdivision scheme for volumes. It can be applied locally for adaptive mesh refinement in regions of high geometric complexity. We use our scheme to increase the quality of low-resolution data sets and to reduce interpolation artifacts in texture-based volume rendering.
+vis citations:
+bertram_vis_03
+kindlman_vis_03
+roessl_vis_03

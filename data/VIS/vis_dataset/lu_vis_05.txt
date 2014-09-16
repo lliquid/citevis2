@@ -1,0 +1,8 @@
+title: Example-based Volume Illustrations
+authors: Aidong Lu, David S. Ebert
+abstract: Scientific illustrations use accepted conventions and methodologies to effectively convey object properties and improve our understanding. We present a method to illustrate volume datasets by emulating example illustrations. As with technical illustrations, our volume illustrations more clearly delineate objects, enrich details, and artistically visualize volume datasets. For both color and scalar 3D volumes, we have developed an automatic color transfer method based on the clustering and similarities in the example illustrations and volume sources. As an extension to 2D Wang Tiles, we provide a new, general texture synthesis method for Wang Cubes that solves the edge discontinuity problem. We have developed a 2D illustrative slice viewer and a GPU-based direct volume rendering system that uses these non-periodic 3D textures to generate illustrative results similar to the 2D examples. Both applications simulate scientific illustrations to provide more information than the original data and visualize objects more effectively, while only requiring simple user interaction.
+vis citations:
+ebert_vis_00
+hadwiger_vis_03
+kirby_vis_99
+wang_vis_04

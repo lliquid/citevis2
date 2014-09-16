@@ -1,0 +1,5 @@
+title: THREAD ARCS: An Email Thread Visualization
+authors: Bernard Kerr
+abstract: This paper describes Thread Arcs, a novel interactive visualization technique designed to help people use threads found in email. Thread Arcs combine the chronology of messages with the branching tree structure of a conversational thread in a mixed-model visualization [Venolia and Neustaedter 2003] that is stable and compact. By quickly scanning and interacting with Thread Arcs, people can see various attributes of conversations and find relevant messages in them easily. We tested this technique against other visualization techniques with users??? own email in a functional prototype email client. Thread Arcs proved an excellent match for the types of threads found in users??? email and for the qualities users wanted in small-scale visualizations.
+vis citations:
+wattenbe_infovis_02

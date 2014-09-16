@@ -1,0 +1,8 @@
+title: Volumetric Shadows Using Splatting
+authors: Caixia Zhang, Roger Crawfis
+abstract: This paper describes an efficient algorithm to model the light attenuation due to a participating media with low albedo. The light attenuation is modeled using splatting volume renderer for both the viewer and the light source. During the rendering, a 2D shadow buffer attenuates the light for each pixel. When the contribution of a footprint is added to the image buffer, as seen from the eye, we add the contribution to the shadow buffer, as seen from the light source. We have generated shadows for point lights and parallel lights using this algorithm. The shadow algorithm has been extended to deal with multiple light sources and projective textured lights.
+vis citations:
+huang_vis_00
+kniss_vis_02
+mueller_vis_99
+mueller_vis_98

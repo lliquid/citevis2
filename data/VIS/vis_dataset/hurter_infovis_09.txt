@@ -1,0 +1,7 @@
+title: FromDaDy: Spreading Aircraft Trajectories Across Views to Support Iterative Queries
+authors: Christophe Hurter, Benjamin Tissoires, St??phane Conversy
+abstract: When displaying thousands of aircraft trajectories on a screen, the visualization is spoiled by a tangle of trails. The visual analysis is therefore difficult, especially if a specific class of trajectories in an erroneous dataset has to be studied. We designed FromDaDy, a trajectory visualization tool that tackles the difficulties of exploring the visualization of multiple trails. This multidimensional data exploration is based on scatterplots, brushing, pick and drop, juxtaposed views and rapid visual design. Users can organize the workspace composed of multiple juxtaposed views. They can define the visual configuration of the views by connecting data dimensions from the dataset to Bertin???s visual variables. They can then brush trajectories, and with a pick and drop operation they can spread the brushed information across views. They can then repeat these interactions, until they extract a set of relevant data, thus formulating complex queries. Through two real-world scenarios, we show how FromDaDy supports iterative queries and the extraction of trajectories in a dataset that contains up to 5 million data.
+vis citations:
+elmqvist_infovis_08
+fekete_infovis_04
+stolte_infovis_00

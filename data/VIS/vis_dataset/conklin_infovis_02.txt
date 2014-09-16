@@ -1,0 +1,5 @@
+title: Multiple Foci Drill-Down through Tuple and Attribute Aggregation Polyarchies in Tabular Data
+authors: Nathan Conklin, Sandeep Prabhakar, Chris North
+abstract: Information analysis often involves decomposing data into sub-groups to allow for comparison and identification of relationships. Breakdown Visualization provides a mechanism to support this analysis through user guided drill-down of polyarchical metadata. This metadata describes multiple hierarchical structures for organizing tuple aggregations and table attributes. This structure is seen in financial data, organizationalstructures, sport statistics, and other domains.A spreadsheet format enables comparison of visualizations at any level of the hierarchy. Breakdown Visualization allows users to drill-down a single hierarchy then pivot into another hierarchy within the same view. It utilizes a fix and move technique that allows users to select multiple foci for drill-down.
+vis citations:
+stolte_infovis_00

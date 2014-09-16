@@ -1,0 +1,12 @@
+title: ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data
+authors: Johanna Beyer, Ali Al-Awami, Narayanan Kasthuri, Jeff W. Lichtman, Hanspeter Pfister, Markus Hadwiger
+abstract: This paper presents ConnectomeExplorer, an application for the interactive exploration and query-guided visual analysis of large volumetric electron microscopy (EM) data sets in connectomics research. Our system incorporates a knowledge-based query algebra that supports the interactive specification of dynamically evaluated queries, which enable neuroscientists to pose and answer domain-specific questions in an intuitive manner. Queries are built step by step in a visual query builder, building more complex queries from combinations of simpler queries. Our application is based on a scalable volume visualization framework that scales to multiple volumes of several teravoxels each, enabling the concurrent visualization and querying of the original EM volume, additional segmentation volumes, neuronal connectivity, and additional meta data comprising a variety of neuronal data attributes. We evaluate our application on a data set of roughly one terabyte of EM data and 750 GB of segmentation data, containing over 4,000 segmented structures and 1,000 synapses. We demonstrate typical use-case scenarios of our collaborators in neuroscience, where our system has enabled them to answer specific scientific questions using interactive querying and analysis on the full-size data for the first time.
+vis citations:
+beyer_vis_07
+bruckner_vis_09
+leeuw_vis_06
+hadwiger_vis_12
+jeong_vis_09
+stocking_vis_05
+stolte_infovis_00
+wan_vis_09

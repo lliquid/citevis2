@@ -1,0 +1,5 @@
+title: Demystifying Venture Capital Investing
+authors: Mei Chuah
+abstract: Since the crash of the dot.coms, investors have gotten a lot more careful with where they place their money [3]. Now more than ever it becomes really important for venture capitalists (VCs) to monitor the state of the startups market and continually update their investment strategy to suit the rapidly changing market conditions. This paper presents three new visualization metaphors (Spiral Map, TimeTicker, and Double Histogram) for monitoring the startups market. While we are focusing on the VC domain, the visual metaphors developed are general and can be easily applied to other domains.
+vis citations:
+alexa_infovis_01

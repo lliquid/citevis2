@@ -1,0 +1,6 @@
+title: Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing
+authors: Luana Micallef, Pierre Dragicevic, Jean-Daniel Fekete
+abstract: People have difficulty understanding statistical information and are unaware of their wrong judgments, particularly in Bayesian reasoning. Psychology studies suggest that the way Bayesian problems are represented can impact comprehension, but few visual designs have been evaluated and only populations with a specific background have been involved. In this study, a textual and six visual representations for three classic problems were compared using a diverse subject pool through crowdsourcing. Visualizations included area-proportional Euler diagrams, glyph representations, and hybrid diagrams combining both. Our study failed to replicate previous findings in that subjects??? accuracy was remarkably lower and visualizations exhibited no measurable benefit. A second experiment confirmed that simply adding a visualization to a textual Bayesian problem is of little help, even when the text refers to the visualization, but suggests that visualizations are more effective when the text is given without numerical values. We discuss our findings and the need for more such experiments to be carried out on heterogeneous populations of non-experts.
+vis citations:
+collins_infovis_09
+riche_infovis_10

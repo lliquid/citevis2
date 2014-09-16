@@ -1,0 +1,14 @@
+title: Interaction Support for Visual Comparison Inspired by Natural Behavior
+authors: Christian Tominski, Camilla Forsell, Jimmy Johansson
+abstract: Visual comparison is an intrinsic part of interactive data exploration and analysis. The literature provides a large body of existing solutions that help users accomplish comparison tasks. These solutions are mostly of visual nature and custom-made for specific data. We ask the question if a more general support is possible by focusing on the interaction aspect of comparison tasks. As an answer to this question, we propose a novel interaction concept that is inspired by real-world behavior of people comparing information printed on paper. In line with real-world interaction, our approach supports users (1) in interactively specifying pieces of graphical information to be compared, (2) in flexibly arranging these pieces on the screen, and (3) in performing the actual comparison of side-by-side and overlapping arrangements of the graphical information. Complementary visual cues and add-ons further assist users in carrying out comparison tasks. Our concept and the integrated interaction techniques are generally applicable and can be coupled with different visualization techniques. We implemented an interactive prototype and conducted a qualitative user study to assess the concept???s usefulness in the context of three different visualization techniques. The obtained feedback indicates that our interaction techniques mimic the natural behavior quite well, can be learned quickly, and are easy to apply to visual comparison tasks.
+vis citations:
+claessen_infovis_11
+elmqvist_infovis_08
+shenas_infovis_07
+hauser_infovis_02
+henry_infovis_07
+hurter_infovis_11
+isenberg_infovis_07
+lam_infovis_08
+mcguf_infovis_09
+yi_infovis_07

@@ -1,0 +1,4 @@
+title: Shape Simplification Based on the Medial Axis Transform
+authors: Roger Tam, Wolfgang Heidrich
+abstract: We present a new algorithm for simplifying the shape of 3D objects by manipulating their medial axis transform (MAT). From an unorganized set of boundary points, our algorithm computes the MAT, decomposes the axis into parts, then selectively removes a subset of these parts in order to reduce the complexity of the overall shape. The result is a simplified MAT that can be used for a variety of shape operations. In addition, a polygonal surface of the resulting shape can be directly generated from the filtered MAT using a robust surface reconstruction method. The algorithm presented is shown to have a number of advantages over other existing approaches.
+vis citations:

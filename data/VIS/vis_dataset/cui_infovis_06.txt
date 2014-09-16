@@ -1,0 +1,8 @@
+title: Measuring Data Abstraction Quality in Multiresolution Visualizations
+authors: Qingguang Cui, Matthew O. Ward, Elke A. Rundensteiner, Jing Yang
+abstract: Data abstraction techniques are widely used in multiresolution visualization systems to reduce visual clutter and facilitate analysis from overview to detail. However, analysts are usually unaware of how well the abstracted data represent the original dataset, which can impact the reliability of results gleaned from the abstractions. In this paper, we define two data abstraction quality measures for computing the degree to which the abstraction conveys the original dataset: the Histogram Difference Measure and the Nearest Neighbor Measure. They have been integrated within XmdvTool, a public-domain multiresolution visualization system for multivariate data analysis that supports sampling as well as clustering to simplify data. Several interactive operations are provided, including adjusting the data abstraction level, changing selected regions, and setting the acceptable data abstraction quality level. Conducting these operations, analysts can select an optimal data abstraction level. Also, analysts can compare different abstraction methods using the measures to see how well relative data density and outliers are maintained, and then select an abstraction method that meets the requirement of their analytic tasks.
+vis citations:
+granitze_infovis_04
+kreusele_infovis_00
+peng_infovis_04
+rafiei_vis_05

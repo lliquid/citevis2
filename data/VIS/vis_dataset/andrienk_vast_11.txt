@@ -1,0 +1,6 @@
+title: From Movement Tracks through Events to Places: Extracting and Characterizing Significant Places from Mobility Data
+authors: Gennady Andrienko, Natalia Andrienko, Christophe Hurter, Salvatore Rinzivillo, Stefan Wrobel
+abstract: We propose a visual analytics procedure for analyzing movement data, i.e., recorded tracks of moving objects. It is oriented to a class of problems where it is required to determine significant places on the basis of certain types of events occurring repeatedly in movement data. The procedure consists of four major steps: (1) event extraction from trajectories; (2) event clustering and extraction of relevant places; (3) spatio-temporal aggregation of events or trajectories; (4) analysis of the aggregated data. All steps are scalable with respect to the amount of the data under analysis. We demonstrate the use of the procedure by example of two realworld problems requiring analysis at different spatial scales.
+vis citations:
+crnovrsa_vast_09
+hurter_infovis_09

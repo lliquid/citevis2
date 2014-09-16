@@ -1,0 +1,5 @@
+title: Haptic Display of Interaction between Textured Models
+authors: Miguel A. Otaduy, Nitin Jain, Avneesh Sud, Ming C. Lin
+abstract: Surface texture is among the most salient haptic characteristics of objects; it can induce vibratory contact forces that lead to perception of roughness. In this paper, we present a new algorithm to display haptic texture information resulting from the interaction between two textured objects. We compute contact forces and torques using low-resolution geometric representations along with texture images that encode surface details. We also introduce a novel force model based on directional penetration depth and describe an efficient implementation on programmable graphics hardware that enables interactive haptic texture rendering of complex models. Our force model takes into account important factors identified by psychophysics studies and is able to haptically display interaction due to fine surface textures that previous algorithms do not capture.
+vis citations:
+wan_vis_03

@@ -1,0 +1,11 @@
+title: Image Plane Sweep Volume Illumination
+authors: Erik Sunden, Anders Ynnerman, Timo Ropinski
+abstract: In recent years, many volumetric illumination models have been proposed, which have the potential to simulate advanced lighting effects and thus support improved image comprehension. Although volume ray-casting is widely accepted as the volume rendering technique which achieves the highest image quality, so far no volumetric illumination algorithm has been designed to be directly incorporated into the ray-casting process. In this paper we propose image plane sweep volume illumination (IPSVI), which allows the integration of advanced illumination effects into a GPU-based volume ray-caster by exploiting the plane sweep paradigm. Thus, we are able to reduce the problem complexity and achieve interactive frame rates, while supporting scattering as well as shadowing. Since all illumination computations are performed directly within a single rendering pass, IPSVI does not require any preprocessing nor does it need to store intermediate results within an illumination volume. It therefore has a significantly lower memory footprint than other techniques. This makes IPSVI directly applicable to large data sets. Furthermore, the integration into a GPU-based ray-caster allows for high image quality as well as improved rendering performance by exploiting early ray termination. This paper discusses the theory behind IPSVI, describes its implementation, demonstrates its visual results and provides performance measurements.
+vis citations:
+kniss_vis_02
+krueger_vis_03
+lindemann_vis_11
+qiu_vis_07
+smelyans_vis_09
+stewart_vis_03
+zhang3_1_vis_02

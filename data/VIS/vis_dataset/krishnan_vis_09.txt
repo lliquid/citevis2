@@ -1,0 +1,9 @@
+title: Time and Streak Surfaces for Flow Visualization in Large Time-Varying Data Sets
+authors: Hari Krishnan, Christoph Garth, Kenneth I. Joy
+abstract: Time and streak surfaces are ideal tools to illustrate time-varying vector fields since they directly appeal to the intuition about coherently moving particles. However, efficient generation of high-quality time and streak surfaces for complex, large and time-varying vector field data has been elusive due to the computational effort involved. In this work, we propose a novel algorithm for computing such surfaces. Our approach is based on a decoupling of surface advection and surface adaptation and yields improved efficiency over other surface tracking methods, and allows us to leverage inherent parallelization opportunities in the surface advection, resulting in more rapid parallel computation. Moreover, we obtain as a result of our algorithm the entire evolution of a time or streak surface in a compact representation, allowing for interactive, high-quality rendering, visualization and exploration of the evolving surface. Finally, we discuss a number of ways to improve surface depiction through advanced rendering and texturing, while preserving interactivity, and provide a number of examples for real-world datasets and analyze the behavior of our algorithm on them.
+vis citations:
+garth_vis_08
+scheuermann_vis_01
+vonfunck_vis_08
+westerma_vis_00
+wiebel_vis_07

@@ -1,0 +1,13 @@
+title: NodeTrix: A Hybrid Visualization of Social Networks
+authors: Nathalie Henry, Jean-Daniel Fekete, Michael J. McGuffin
+abstract: The need to visualize large social networks is growing as hardware capabilities make analyzing large networks feasible and many new data sets become available. Unfortunately, the visualizations in existing systems do not satisfactorily resolve the basic dilemma of being readable both for the global structure of the network and also for detailed analysis of local communities. To address this problem, we present NodeTrix, a hybrid representation for networks that combines the advantages of two traditional representations: node-link diagrams are used to show the global structure of a network, while arbitrary portions of the network can be shown as adjacency matrices to better support the analysis of communities. A key contribution is a set of interaction techniques. These allow analysts to create a NodeTrix visualization by dragging selections to and from node-link and matrix forms, and to flexibly manipulate the NodeTrix representation to explore the dataset and create meaningful summary visualizations of their findings. Finally, we present a case study applying NodeTrix to the analysis of the InfoVis 2004 coauthorship dataset to illustrate the capabilities of NodeTrix as both an exploration tool and an effective means of communicating results.
+vis citations:
+abello_infovis_04
+auber_infovis_03
+fekete_infovis_04
+heer_infovis_05
+henry_infovis_06
+holten_infovis_06
+kang_vast_06
+shneiderman_infovis_06
+zhao_infovis_05

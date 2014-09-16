@@ -1,0 +1,9 @@
+title: Dataset Traversal with Motion-Controlled Transfer Functions
+authors: Carlos D. Correa, Deborah Silver
+abstract: In this paper, we describe a methodology and implementation for interactive dataset traversal using motion-controlled transfer functions. Dataset traversal here refers to the process of translating a transfer function along a specific path. In scientific visualization, it is often necessary to manipulate transfer functions in order to visualize datasets more effectively. This manipulation of transfer functions is usually performed globally, i.e., a new transfer function is applied to the entire dataset. Our approach allows one to locally manipulate transfer functions while controling its movement along a traversal path. The method we propose allows the user to select a traversal path within the dataset, based on the shape of the volumetric model and manipulate a transfer function along this path. Examples of dataset traversal include the animation of transfer functions along a pre-defined path, the simulation of flow in vascular structures, and the visualization of convoluted shapes. For example, this type of traversal is often used in medical illustration to highlight flow in blood vessels. We present an interactive implementation of our method using graphics hardware, based on the decomposition of the volume. We show examples of our approach using a variety of volumetric datasets, and we also demonstrate that with our novel decomposition, the rendering process is faster.
+vis citations:
+hadwiger_vis_03
+li_w_vis_03
+lu_vis_02
+viola_vis_04
+wan_vis_01

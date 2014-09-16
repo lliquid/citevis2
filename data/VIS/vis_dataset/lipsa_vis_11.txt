@@ -1,0 +1,5 @@
+title: FoamVis: Visualization of 2D Foam Simulation Data
+authors: Dan R. Lipsa, Robert S. Laramee, Simon J. Cox, I. Tudur Davies
+abstract: Research in the field of complex fluids such as polymer solutions, particulate suspensions and foams studies how the flow of fluids with different material parameters changes as a result of various constraints. Surface Evolver, the standard solver software used to generate foam simulations, provides large, complex, time-dependent data sets with hundreds or thousands of individual bubbles and thousands of time steps. However this software has limited visualization capabilities, and no foam specific visualization software exists. We describe the foam research application area where, we believe, visualization has an important role to play. We present a novel application that provides various techniques for visualization, exploration and analysis of time-dependent 2D foam simulation data. We show new features in foam simulation data and new insights into foam behavior discovered using our application.
+vis citations:
+hadwiger_vis_08

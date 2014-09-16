@@ -1,0 +1,8 @@
+title: Intelligent Graph Layout Using Many Users??? Input
+authors: Xiaoru Yuan, Limei Che, Yifan Hu, Xin Zhang
+abstract: In this paper, we propose a new strategy for graph drawing utilizing layouts of many sub-graphs supplied by a large group of people in a crowd sourcing manner. We developed an algorithm based on Laplacian constrained distance embedding to merge sub-graphs submitted by different users, while attempting to maintain the topological information of the individual input layouts. To facilitate collection of layouts from many people, a light-weight interactive system has been designed to enable convenient dynamic viewing, modification and traversing between layouts. Compared with other existing graph layout algorithms, our approach can achieve more aesthetic and meaningful layouts with high user preference.
+vis citations:
+dwyer_infovis_09
+dwyer_infovis_05
+frishman_infovis_07
+vanham_infovis_08

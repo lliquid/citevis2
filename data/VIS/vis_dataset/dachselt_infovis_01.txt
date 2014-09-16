@@ -1,0 +1,4 @@
+title: Collapsible Cylindrical Trees: A Fast Hierarchical Navigation Technique
+authors: Raimund Dachselt, J??rgen Ebert
+abstract: This paper proposes a new visualization and interaction technique for medium-sized trees, called Collapsible Cylindrical Trees (CCT). Child nodes are mapped on rotating cylinders, which will be dynamically displayed or hidden to achieve a useful balance of detail and context. Besides a comprehensible threedimensional visualization of trees, the main feature of CCT is a very fast and intuitive interaction with the displayed nodes. Only a single click is needed to reach every node and perform an action on it, such as displaying a web page. The CCT browsing technique was developed for interaction with web hierarchies but is not limited to this domain. We also present sample implementations of CCT using VRML, which show the usefulness of this intuitive tree navigation technique.
+vis citations:

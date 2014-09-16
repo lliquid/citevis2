@@ -1,0 +1,9 @@
+title: SensePlace2: GeoTwitter Analytics Support for Situational Awareness
+authors: Alan M. MacEachren, Anuj Jaiswal, Anthony C. Robinson, Scott Pezanowski, Alexander Savelyev, Prasenjit Mitra, Xiao Zhang, Justine Blanford
+abstract: Geographically-grounded situational awareness (SA) is critical to crisis management and is essential in many other decision making domains that range from infectious disease monitoring, through regional planning, to political campaigning. Social media are becoming an important information input to support situational assessment (to produce awareness) in all domains. Here, we present a geovisual analytics approach to supporting SA for crisis events using one source of social media, Twitter. Specifically, we focus on leveraging explicit and implicit geographic information for tweets, on developing place-time-theme indexing schemes that support overview+detail methods and that scale analytical capabilities to relatively large tweet volumes, and on providing visual interface methods to enable understanding of place, time, and theme components of evolving situations. Our approach is user-centered, using scenario-based design methods that include formal scenarios to guide design and validate implementation as well as a systematic claims analysis to justify design choices and provide a framework for future testing. The work is informed by a structured survey of practitioners and the end product of Phase-I development is demonstrated / validated through implementation in SensePlace2, a map-based, web application initially focused on tweets but extensible to other media.
+vis citations:
+livnat_infovis_05
+kim_vast_07
+doerk_infovis_10
+diakopou_vast_10
+andrienk_vast_10

@@ -1,0 +1,5 @@
+title: Visual Analytics on Mobile Devices for Emergency Response
+authors: SungYe Kim, Yun Jang, Angela Mellema, David S. Ebert, Timothy Collins
+abstract: Using mobile devices for visualization provides a ubiquitous environment for accessing information and effective decision making. These visualizations are critical in satisfying the knowledge needs of operators in areas as diverse as education, business, law enforcement, protective services, medical services, scientific discovery, and homeland security.In this paper, we present an efficient and interactive mobile visual analytic system for increased situational awareness and decision making in emergency response and training situations. Our system provides visual analytics with locational scene data within a simple interface tailored to mobile device capabilities. In particular, we focus on processing and displaying sensor network data for first responders. To verify our system, we have used simulated data of The Station nightclub fire evacuation.
+vis citations:
+pattath_vast_06

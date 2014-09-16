@@ -1,0 +1,9 @@
+title: TetFusion: An Algorithm For Rapid Tetrahedral Mesh Simplification
+authors: Prashant Chopra, Joerg Meyer
+abstract: This paper introduces an algorithm for rapid progressive simplification of tetrahedral meshes: TetFusion. We describe how a simple geometry decimation operation steers a rapid and controlled progressive simplification of tetrahedral meshes, while also taking care of complex mesh-inconsistency problems. The algorithm features a high decimation ratio per step, and inherently discourages any cases of self-intersection of boundary, elementboundary intersection at concave boundary-regions, and negative volume tetrahedra (flipping). We achieved rigorous reduction ratios of up to 98% for meshes consisting of 827,904 elements in less than 2 minutes, progressing through a series of level-ofdetails (LoDs) of the mesh in a controlled manner. We describe how the approach supports a balanced re-distribution of space between tetrahedral elements, and explain some useful control parameters that make it faster and more intuitive than ???edge collapse???-based decimation methods for volumetric meshes [3, 19, 21, 22]. Finally, we discuss how this approach can be employed for rapid LoD prototyping of large time-varying datasets as an aid to interactive visualization.
+vis citations:
+cignoni_vis_00
+gumhold_vis_99
+pajarola_vis_99
+staadt_vis_98
+trotts_vis_98

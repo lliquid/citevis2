@@ -1,0 +1,14 @@
+title: D3: Data-Driven Documents
+authors: Michael Bostock, Vadim Ogievetsky, Jeffrey Heer
+abstract: Data-Driven Documents (D3) is a novel representation-transparent approach to visualization for the web. Rather than hide the underlying scenegraph within a toolkit-specific abstraction, D3 enables direct inspection and manipulation of a native representation: the standard document object model (DOM). With D3, designers selectively bind input data to arbitrary document elements, applying dynamic transforms to both generate and modify content. We show how representational transparency improves expressiveness and better integrates with developer tools than prior approaches, while offering comparable notational efficiency and retaining powerful declarative components. Immediate evaluation of operators further simplifies debugging and allows iterative development. Additionally, we demonstrate how D3 transforms naturally enable animation and interaction with dramatic performance improvements over intermediate representations.
+vis citations:
+bostock_infovis_09
+byron_infovis_08
+fekete_infovis_04
+havre_infovis_00
+heer2_infovis_06
+heer_infovis_10
+heer_infovis_07
+stasko_infovis_00
+wattenba_infovis_05
+weaver_infovis_04

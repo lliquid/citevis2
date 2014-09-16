@@ -1,0 +1,10 @@
+title: Towards Utilizing GPUs in Information Visualization: A Model and Implementation of Image-Space Operations
+authors: Bryan McDonnel, Niklas Elmqvist
+abstract: Modern programmable GPUs represent a vast potential in terms of performance and visual flexibility for information visualization research, but surprisingly few applications even begin to utilize this potential. In this paper, we conjecture that this may be due to the mismatch between the high-level abstract data types commonly visualized in our field, and the low-level floating-point model supported by current GPU shader languages. To help remedy this situation, we present a refinement of the traditional information visualization pipeline that is amenable to implementation using GPU shaders. The refinement consists of a final image-space step in the pipeline where the multivariate data of the visualization is sampled in the resolution of the current view. To concretize the theoretical aspects of this work, we also present a visual programming environment for constructing visualization shaders using a simple drag-and-drop interface. Finally, we give some examples of the use of shaders for well-known visualization techniques.
+vis citations:
+chi_infovis_98
+elmqvist_vast_07
+fekete_infovis_02
+frishman_infovis_07
+mccormic_vis_04
+weaver_infovis_04

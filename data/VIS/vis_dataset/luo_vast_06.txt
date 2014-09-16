@@ -1,0 +1,6 @@
+title: Exploring Large-Scale Video News via Interactive Visualization
+authors: Hangzai Luo, Jianping Fan, Jing Yang, William Ribarsky, Shinichi Satoh
+abstract: In this paper, we have developed a novel visualization framework to enable more effective visual analysis of large-scale news videos, where keyframes and keywords are automatically extracted from news video clips and visually represented according to their interestingness measurement to help audiences find news stories of interest at first glance. A computational approach is also developed to quantify the interestingness measurement of video clips. Our experimental results have shown that our techniques for intelligent news video analysis have the capacity to enable more effective visualization of large-scale news videos. Our news video visualization system is very useful for security applications and for general audiences to quickly find news topics of interest from among many channels.
+vis citations:
+derthick_infovis_03
+hetzler_infovis_98

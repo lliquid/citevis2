@@ -1,0 +1,6 @@
+title: Visualization of Large-Scale Customer Satisfaction Surveys Using a Parallel Coordinate Tree
+authors: Dominique Brodbeck, Luc Girardin
+abstract: Satisfaction surveys are an important measurement tool in fields such as market research or human resources management. Serious studies consist of numerous questions and contain answers from large population samples. Aggregation on both sides, the questions asked as well as the answers received, turns the multidimensional problem into a complex system of interleaved hierarchies. Traditional ways of presenting the results are limited to onedimensional charts and cross-tables. We developed a visualization method called the Parallel Coordinate Tree that combines multidimensional analysis with a tree structure representation. Distortion-oriented focus+context techniques are used to facilitate interaction with the visualization. In this paper we present a design study of a commercial application that we built, using this method to analyze and communicate results from large-scale customer satisfaction surveys.
+vis citations:
+vandewetering_infovis_01
+nowell_infovis_01

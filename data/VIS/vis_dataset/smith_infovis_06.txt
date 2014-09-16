@@ -1,0 +1,7 @@
+title: FacetMap: A Scalable Search and Browse Visualization
+authors: Greg Smith, Mary Czerwinski, Brian Meyers, Daniel Robbins, George Robertson, Desney S. Tan
+abstract: The dominant paradigm for searching and browsing large data stores is text-based: presenting a scrollable list of search results in response to textual search term input. While this works well for the Web, there is opportunity for improvement in the domain of personal information stores, which tend to have more heterogeneous data and richer metadata. In this paper, we introduce FacetMap, an interactive, query-driven visualization, generalizable to a wide range of metadata-rich data stores. FacetMap uses a visual metaphor for both input (selection of metadata facets as filters) and output. Results of a user study provide insight into tradeoffs between FacetMap???s graphical approach and the traditional text-oriented approach.
+vis citations:
+fekete_infovis_02
+hetzler_infovis_98
+stolte_infovis_00

@@ -1,0 +1,13 @@
+title: An Interactive 3D Integration of Parallel Coordinates and Star Glyphs
+authors: Elena Fanea, Sheelagh Carpendale, Tobias Isenberg
+abstract: Parallel Coordinates are a powerful method for visualizing multidimensional data but, when applied to large data sets, they become cluttered and difficult to read. Star Glyphs, on the other hand, can be used to display either the attributes of a data item or the values across all items for a single attribute. Star Glyphs may readily provide a quick impression; however, since the full data set will require multiple glyphs, overall readings are more difficult. We present Parallel Glyphs, an interactive integration of the visual representations of Parallel Coordinates and Star Glyphs that utilizes the advantages of both representations to offset the disadvantages they have separately. We discuss the role of uniform and stepped colour scales in the visual comparison of non-adjacent items and Star Glyphs. Parallel Glyphs provide capabilities for focus-in-context exploration using two types of lenses and interactions specific to the 3D space.
+vis citations:
+artero_infovis_04
+chen_h_infovis_03
+fua_vis_99
+hauser_infovis_02
+peng_infovis_04
+wong_n_infovis_03
+yang_infovis_04
+yang_infovis_03
+yang_infovis_02

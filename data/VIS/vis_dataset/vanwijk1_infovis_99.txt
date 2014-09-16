@@ -1,0 +1,4 @@
+title: Cushion Treemaps: Visualization of Hierarchical Information
+authors: Jarke J. van Wijk, Huub van de Wetering
+abstract: A new method is presented for the visualization of hierarchical information, such as directory structures and organization structures. Cushion treemaps inherit the elegance of standard treemaps: compact, space-filling displays of hierarchical information, based on recursive subdivision of a rectangular image space. Intuitive shading is used to provide insight in the hierarchical structure. During the subdivision ridges are added per rectangle, which are rendered with a simple shading model. The result is a surface that consists of recursive cushions. The method is efficient, effective, easy to use and implement, and has a wide applicability.
+vis citations:

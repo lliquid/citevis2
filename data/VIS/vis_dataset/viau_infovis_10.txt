@@ -1,0 +1,15 @@
+title: The FlowVizMenu and Parallel Scatterplot Matrix: Hybrid Multidimensional Visualizations for Network Exploration
+authors: Christophe Viau, Michael J. McGuffin, Yves Chiricota, Igor Jurisica
+abstract: A standard approach for visualizing multivariate networks is to use one or more multidimensional views (for example, scatterplots) for selecting nodes by various metrics, possibly coordinated with a node-link view of the network. In this paper, we present three novel approaches for achieving a tighter integration of these views through hybrid techniques for multidimensional visualization, graph selection and layout. First, we present the FlowVizMenu, a radial menu containing a scatterplot that can be popped up transiently and manipulated with rapid, fluid gestures to select and modify the axes of its scatterplot. Second, the FlowVizMenu can be used to steer an attribute-driven layout of the network, causing certain nodes of a node-link diagram to move toward their corresponding positions in a scatterplot while others can be positioned manually or by force-directed layout. Third, we describe a novel hybrid approach that combines a scatterplot matrix (SPLOM) and parallel coordinates called the Parallel Scatterplot Matrix (PSPLOM), which can be used to visualize and select features within the network. We also describe a novel arrangement of scatterplots called the Scatterplot Staircase (SPLOS) that requires less space than a traditional scatterplot matrix. Initial user feedback is reported.
+vis citations:
+auber_infovis_03
+buering_infovis_06
+chiricot_infovis_04
+collins_infovis_07
+elmqvist_infovis_08
+fanea_infovis_05
+mcguf_infovis_09
+qu_vis_07
+steed_vast_09
+wilkinso_infovis_05
+yuan_infovis_09

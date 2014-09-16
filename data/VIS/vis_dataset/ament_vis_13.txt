@@ -1,0 +1,18 @@
+title: Ambient Volume Scattering
+authors: Marco Ament, Filip Sadlo, Daniel Weiskopf
+abstract: We present ambient scattering as a preintegration method for scattering on mesoscopic scales in direct volume rendering. Far-range scattering effects usually provide negligible contributions to a given location due to the exponential attenuation with increasing distance. This motivates our approach to preintegrating multiple scattering within a finite spherical region around any given sample point. To this end, we solve the full light transport with a Monte-Carlo simulation within a set of spherical regions, where each region may have different material parameters regarding anisotropy and extinction. This precomputation is independent of the data set and the transfer function, and results in a small preintegration table. During rendering, the look-up table is accessed for each ray sample point with respect to the viewing direction, phase function, and material properties in the spherical neighborhood of the sample. Our rendering technique is efficient and versatile because it readily fits in existing ray marching algorithms and can be combined with local illumination and volumetric ambient occlusion. It provides interactive volumetric scattering and soft shadows, with interactive control of the transfer function, anisotropy parameter of the phase function, lighting conditions, and viewpoint. A GPU implementation demonstrates the benefits of ambient scattering for the visualization of different types of data sets, with respect to spatial perception, high-quality illumination, translucency, and rendering speed.
+vis citations:
+ament_vis_10
+bruckner_vis_07
+csebfalv_vis_03
+guetat_vis_10
+joensson_vis_12
+kniss_vis_02
+knoll_vis_09
+lindemann_vis_11
+lum_vis_04
+magnor_vis_05
+roettger_vis_00
+schlegel_vis_11
+stewart_vis_03
+sunden_vis_11

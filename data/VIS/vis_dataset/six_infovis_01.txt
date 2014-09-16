@@ -1,0 +1,4 @@
+title: Effective Graph Visualization Via Node Grouping
+authors: Janet M. Six, Ioannis G. Tollis
+abstract: We discuss four methodologies for the application of node grouping in graph visualization. In addition, we introduce techniques for force-directed and orthogonal drawing which use node grouping information and have been shown in experiments to perform better than previous techniques. Not only do these techniques have significantly improved performance with respect to standard aesthetic measures, but they also attain qualitative improvement.
+vis citations:

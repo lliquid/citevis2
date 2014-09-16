@@ -1,0 +1,4 @@
+title: Angular Brushing of Extended Parallel Coordinates
+authors: Helwig Hauser, Florian Ledermann, Helmut Doleisch
+abstract: In this paper we present angular brushing for parallel coordinates (PC) as a new approach to highlighting rational data-properties, i.e., features which  in a non-separable way  depend on two data dimensions. We also demonstrate smooth brushing as an intuitive tool for specifying nonbinary degree-of-interestfunctions (forfocus+context visualization). We also briefly describe our implementation as well as its application to the visualization of CFD data.
+vis citations:

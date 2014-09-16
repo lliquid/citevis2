@@ -1,0 +1,10 @@
+title: Conjoint Analysis to Measure the Perceived Quality in Volume Rendering
+authors: Joachim Giesen, Eva Schuberth, Lujin Wang, Peter Zolliker
+abstract: Visualization algorithms can have a large number of parameters, making the space of possible rendering results rather high-dimensional. Only a systematic analysis of the perceived quality can truly reveal the optimal setting for each such parameter. However, an exhaustive search in which all possible parameter permutations are presented to each user within a study group would be infeasible to conduct. Additional complications may result from possible parameter co-dependencies. Here, we will introduce an efficient user study design and analysis strategy that is geared to cope with this problem. The user feedback is fast and easy to obtain and does not require exhaustive parameter testing. To enable such a framework we have modified a preference measuring methodology, conjoint analysis, that originated in psychology and is now also widely used in market research. We demonstrate our framework by a study that measures the perceived quality in volume rendering within the context of large parameter spaces.
+vis citations:
+bergner_vis_06
+jiguangf_vis_06
+kimyoung_vis_06
+kniss_vis_03
+shanbhag_infovis_05
+takahash_vis_05

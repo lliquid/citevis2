@@ -1,0 +1,5 @@
+title: Multiscale Visualization Using Data Cubes
+authors: Chris Stolte, Diane Tang, Pat Hanrahan
+abstract: Most analysts start with an overview of the data before gradually refining their view to be more focused and detailed. Multiscale panand-zoom systems are effective because they directly support this approach. However, generating abstract overviews of large data sets is difficult, and most systems take advantage of only one type of abstraction: visual abstraction. Furthermore, these existing systems limit the analyst to a single zooming path on their data and thus a single set of abstract views.This paper presents: (1) a formalism for describing multiscale visualizations of data cubes with both data and visual abstraction, and (2) a method for independently zooming along one or more dimensions by traversing a zoom graph with nodes at different levels of detail. As an example of how to design multiscale visualizations using our system, we describe four design patterns using our formalism. These design patterns show the effectiveness of multiscale visualization of general relational databases.
+vis citations:
+stolte_infovis_00

@@ -1,0 +1,5 @@
+title: Vizster: Visualizing Online Social Networks
+authors: Jeffrey Heer, Danah Boyd
+abstract: Recent years have witnessed the dramatic popularity of online social networking services, in which millions of members publicly articulate mutual "friendship" relations. Guided by ethnographic research of these online communities, we have designed and implemented a visualization system for playful end-user exploration and navigation of large-scale online social networks. Our design builds upon familiar node-link network layouts to contribute customized techniques for exploring connectivity in large graph structures, supporting visual search and analysis, and automatically identifying and visualizing community structures. Both public installation and controlled studies of the system provide evidence of the system's usability, capacity for facilitating discovery, and potential for fun and engaged social activity.
+vis citations:
+ghoniem_infovis_04

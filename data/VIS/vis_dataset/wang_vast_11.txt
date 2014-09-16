@@ -1,0 +1,19 @@
+title: A Two-Stage Framework for Designing Visual Analytics System in Organizational Environments
+authors: Xiaoyu Wang, Wenwen Dou, Thomas Butkiewicz, Eric A. Bier, William Ribarsky
+abstract: A perennially interesting research topic in the field of visual analytics is how to effectively develop systems that support organizational users' decision-making and reasoning processes. The problem is, however, most domain analytical practices generally vary from organization to organization. This leads to diverse designs of visual analytics systems in incorporating domain analytical processes, making it difficult to generalize the success from one domain to another. Exacerbating this problem is the dearth of general models of analytical workflows available to enable such timely and effective designs.To alleviate these problems, we present a two-stage framework for informing the design of a visual analytics system. This design framework builds upon and extends current practices pertaining to analytical workflow and focuses, in particular, on incorporating both general domain analysis processes as well as individual's analytical activities. We illustrate both stages and their design components through examples, and hope this framework will be useful for designing future visual analytics systems. We validate the soundness of our framework with two visual analytics systems, namely Entity Workspace [8] and PatViz [37].
+vis citations:
+bier_vast_08
+chang_vast_07
+garg_vast_08
+gotz_vast_08
+green_vast_08
+heer_infovis_08
+jeong_vast_08
+kadivar_vast_09
+koch_vast_09
+lam_infovis_08
+munzner_infovis_09
+scholtz_vast_06
+strobelt_infovis_09
+wijk_vis_05
+yi_infovis_07

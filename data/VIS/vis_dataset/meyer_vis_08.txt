@@ -1,0 +1,9 @@
+title: Particle-based Sampling and Meshing of Surfaces in Multimaterial Volumes
+authors: Miriah Meyer, Ross Whitaker, Robert M. Kirby, Christian Ledergerber, Hanspeter Pfister
+abstract: Methods that faithfully and robustly capture the geometry of complex material interfaces in labeled volume data are important for generating realistic and accurate visualizations and simulations of real-world objects. The generation of such multimaterial models from measured data poses two unique challenges: first, the surfaces must be well-sampled with regular, efficient tessellations that are consistent across material boundaries; and second, the resulting meshes must respect the nonmanifold geometry of the multimaterial interfaces. This paper proposes a strategy for sampling and meshing multimaterial volumes using dynamic particle systems, including a novel, differentiable representation of the material junctions that allows the particle system to explicitly sample corners, edges, and surfaces of material intersections. The distributions of particles are controlled by fundamental sampling constraints, allowing Delaunay-based meshing algorithms to reliably extract watertight meshes of consistently high-quality.
+vis citations:
+dillard_vis_07
+kniss_vis_07
+meyer_vis_07
+nielson_vis_02
+schreine_vis_06

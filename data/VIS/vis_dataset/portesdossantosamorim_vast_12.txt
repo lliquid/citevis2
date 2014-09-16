@@ -1,0 +1,20 @@
+title: iLAMP: Exploring High-Dimensional Spacing through Backward Multidimensional Projection
+authors: Elisa Portes dos Santos Amorim, Emilio Vital Brazil, Joel Daniels, Paulo Joia, Luis Gustavo Nonato, Mario Costa Sousa
+abstract: Ever improving computing power and technological advances are greatly augmenting data collection and scientific observation. This has directly contributed to increased data complexity and dimensionality, motivating research of exploration techniques for multidimensional data. Consequently, a recent influx of work dedicated to techniques and tools that aid in understanding multidimensional datasets can be observed in many research fields, including biology, engineering, physics and scientific computing. While the effectiveness of existing techniques to analyze the structure and relationships of multidimensional data varies greatly, few techniques provide flexible mechanisms to simultaneously visualize and actively explore high-dimensional spaces. In this paper, we present an inverse linear affine multidimensional projection, coined iLAMP, that enables a novel interactive exploration technique for multidimensional data. iLAMP operates in reverse to traditional projection methods by mapping low-dimensional information into a high-dimensional space. This allows users to extrapolate instances of a multidimensional dataset while exploring a projection of the data to the planar domain. We present experimental results that validate iLAMP, measuring the quality and coherence of the extrapolated data; as well as demonstrate the utility of iLAMP to hypothesize the unexplored regions of a high-dimensional space.
+vis citations:
+chenyanh_infovis_09
+elmqvist_infovis_08
+frishman_infovis_07
+fua_vis_99
+gerber_vis_10
+daniels_vis_10
+janicke_vis_08
+johansso_infovis_05
+joia_infovis_11
+koren_infovis_02
+morrison_infovis_02
+novotny_vis_06
+paulovic_vis_10
+peng_infovis_04
+stolte_infovis_00
+yang_infovis_03

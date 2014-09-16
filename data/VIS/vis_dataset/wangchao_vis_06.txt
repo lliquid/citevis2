@@ -1,0 +1,13 @@
+title: LOD Map: A Visual Interface for Navigating Multiresolution Volume Visualization
+authors: Chaoli Wang, Han-Wei Shen
+abstract: In multiresolution volume visualization, a visual representation of level-of-detail (LOD) quality is important for us to examine, compare, and validate different LOD selection algorithms. While traditional methods rely on ultimate images for quality measurement, we introduce the LOD map  an alternative representation of LOD quality and a visual interface for navigating multiresolution data exploration. Our measure for LOD quality is based on the formulation of entropy from information theory. The measure takes into account the distortion and contribution of multiresolution data blocks. A LOD map is generated through the mapping of key LOD ingredients to a treemap representation. The ordered treemap layout is used for relative stable update of the LOD map when the view or LOD changes. This visual interface not only indicates the quality of LODs in an intuitive way, but also provides immediate suggestions for possible LOD improvement through visually-striking features. It also allows us to compare different views and perform rendering budget control. A set of interactive techniques is proposed to make the LOD adjustment a simple and easy task. We demonstrate the effectiveness and efficiency of our approach on large scientific and medical data sets.
+vis citations:
+bordoloi_vis_05
+guthe_vis_02
+jankun_k_vis_02
+kniss_vis_01
+lamar_vis_99
+ma_vis_99
+wattenberg_infovis_01
+takahash_vis_05
+wijk_vis_05

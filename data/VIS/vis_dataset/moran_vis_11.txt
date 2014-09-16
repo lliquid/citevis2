@@ -1,0 +1,5 @@
+title: Visualization of AMR Data With Multi-Level Dual-Mesh Interpolation
+authors: Patrick J. Moran, David Ellsworth
+abstract: We present a new technique for providing interpolation within cell-centered Adaptive Mesh Refinement (AMR) data that achieves C0 continuity throughout the 3D domain. Our technique improves on earlier work in that it does not require that adjacent patches differ by at most one refinement level. Our approach takes the dual of each mesh patch and generates ???stitching cells??? on the fly to fill the gaps between dual meshes. We demonstrate applications of our technique with data from Enzo, an AMR cosmological structure formation simulation code. We show ray-cast visualizations that include contributions from particle data (dark matter and stars, also output by Enzo) and gridded hydrodynamic data. We also show results from isosurface studies, including surfaces in regions where adjacent patches differ by more than one refinement level.
+vis citations:
+marchesi_vis_09

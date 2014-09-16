@@ -1,0 +1,4 @@
+title: Tracking Scalar Features in Unstructured Datasets
+authors: Deborah Silver, Xin Wang
+abstract: 3D time-varying unstructured and structured datasets are difficult to visualize and analyze because of the immense amount of data involved. These datasets contain many evolving amorphous regions, and standard visualization techniques provide no facilities to aid the scientist to follow regions of interest. In this paper, we present a basic framework for the visualization of time-varying datasets, and a new algorithm and data structure to track volume features in unstructured scalar datasets. The algorithm and data structure are general and can be used for structured, curvilinear, adaptive and hybrid grids as well. The features tracked can be any type of connected regions. Examples are shown from ongoing research.
+vis citations:

@@ -1,0 +1,9 @@
+title: Visualizations Everywhere: A Multiplatform Infrastructure for Linked Visualizations
+authors: Danyel Fisher, Steven M. Drucker, Roland Fernandez, Scott Ruble
+abstract: In order to use new visualizations, most toolkits require application developers to rebuild their applications and distribute new versions to users. The WebCharts Framework take a different approach by hosting Javascript from within an application and providing a standard data and events interchange.. In this way, applications can be extended dynamically, with a wide variety of visualizations. We discuss the benefits of this architectural approach, contrast it to existing techniques, and give a variety of examples and extensions of the basic system.
+vis citations:
+doerk_infovis_08
+mckeon_infovis_09
+stolte_infovis_00
+viegas_infovis_07
+weaver_infovis_04

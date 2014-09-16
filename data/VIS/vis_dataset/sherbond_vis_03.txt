@@ -1,0 +1,5 @@
+title: Fast Volume Segmentation With Simultaneous Visualization Using Programmable Graphics Hardware
+authors: Anthony Sherbondy, Mike Houston, Sandy Napel
+abstract: Segmentation of structures from measured volume data, such as anatomy in medical imaging, is a challenging data-dependent task. In this paper, we present a segmentation method that leverages the parallel processing capabilities of modern programmable graphics hardware in order to run significantly faster than previous methods. In addition, collocating the algorithm computation with the visualization on the graphics hardware circumvents the need to transfer data across the system bus, allowing for faster visualization and interaction. This algorithm is unique in that it utilizes sophisticated graphics hardware functionality (i.e., floating point precision, render to texture, computational masking, and fragment programs) to enable fast segmentation and interactive visualization.
+vis citations:
+lefohn_vis_03

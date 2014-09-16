@@ -1,0 +1,6 @@
+title: Geometric Verification of Swirling Features in Flow Fields
+authors: Ming Jiang, Raghu Machiraju, David Thompson
+abstract: In this paper, we present a verification algorithm for swirling features in flow fields, based on the geometry of streamlines. The features of interest in this case are vortices. Without a formal definition, existing detection algorithms lack the ability to accurately identify these features, and the current method for verifying the accuracy of their results is by human visual inspection. Our verification algorithm addresses this issue by automating the visual inspection process. It is based on identifying the swirling streamlines that surround the candidate vortex cores. We apply our algorithm to both numerically simulated and procedurally generated datasets to illustrate the efficacy of our approach.
+vis citations:
+peikert_vis_99
+roth_vis_98

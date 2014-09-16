@@ -1,0 +1,7 @@
+title: Vispedia: Interactive Visual Exploration of Wikipedia Data via Search-Based Integration
+authors: Bryan Chan, Leslie Wu, Justin Talbot, Mike Cammarano, Pat Hanrahan
+abstract: Wikipedia is an example of the collaborative, semi-structured data sets emerging on the Web. These data sets have large, non-uniform schema that require costly data integration into structured tables before visualization can begin. We present Vispedia, a Web-based visualization system that reduces the cost of this data integration. Users can browse Wikipedia, select an interesting data table, then use a search interface to discover, integrate, and visualize additional columns of data drawn from multiple Wikipedia articles. This interaction is supported by a fast path search algorithm over DBpedia, a semantic graph extracted from Wikipedia???s hyperlink structure. Vispedia can also export the augmented data tables produced for use in traditional visualization systems. We believe that these techniques begin to address the ???long tail??? of visualization by allowing a wider audience to visualize a broader class of data. We evaluated this system in a first-use formative lab study. Study participants were able to quickly create effective visualizations for a diverse set of domains, performing data integration as needed.
+vis citations:
+cammarano_infovis_07
+suh_vast_07
+viegas_infovis_07

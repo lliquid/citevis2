@@ -1,0 +1,5 @@
+title: 3D IBFV: Hardware-Accelerated 3D Flow Visualization
+authors: Alexandru Telea, Jarke J. van Wijk
+abstract: We present a hardware-accelerated method for visualizing 3D flow fields. The method is based on insertion, advection, and decay of dye. To this aim, we extend the texture-based IBFV technique presented in [van Wijk 2001] for 2D flow visualization in two main directions. First, we decompose the 3D flow visualization problem in a series of 2D instances of the mentioned IBFV technique. This makes our method benefit from the hardware acceleration the original IBFV technique introduced. Secondly, we extend the concept of advected gray value (or color) noise by introducing opacity (or matter) noise. This allows us to produce sparse 3D noise pattern advections, thus address the occlusion problem inherent to 3D flow visualization. Overall, the presented method delivers interactively animated 3D flow, uses only standard OpenGL 1.1 calls and 2D textures, and is simple to understand and implement.
+vis citations:
+rezk_vis_99

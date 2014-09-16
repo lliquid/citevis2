@@ -1,0 +1,8 @@
+title: iVisClassifier: An Interactive Visual Analytics System for Classification Based on Supervised Dimension Reduction
+authors: Jaegul Choo, Hanseung Lee, Jaeyeon Kihm, Haesun Park
+abstract: We present an interactive visual analytics system for classification, iVisClassifier, based on a supervised dimension reduction method, linear discriminant analysis (LDA). Given high-dimensional data and associated cluster labels, LDA gives their reduced dimensional representation, which provides a good overview about the cluster structure. Instead of a single two or three-dimensional scatter plot, iVisClassifier fully interacts with all the reduced dimensions obtained by LDA through parallel coordinates and a scatter plot. Furthermore, it significantly improves the interactivity and interpretability of LDA. LDA enables users to understand each of the reduced dimensions and how they influence the data by reconstructing the basis vector into the original data domain. By using heat maps, iVisClassifier gives an overview about the cluster relationship in terms of pairwise distances between cluster centroids both in the original space and in the reduced dimensional space. Equipped with these functionalities, iVisClassifier supports users??? classification tasks in an efficient way. Using several facial image data, we show how the above analysis is performed.
+vis citations:
+choo_vast_09
+johansso_infovis_09
+williams_infovis_04
+yang_infovis_03

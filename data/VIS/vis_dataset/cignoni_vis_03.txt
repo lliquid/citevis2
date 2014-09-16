@@ -1,0 +1,11 @@
+title: Planet-Sized Batched Dynamic Adaptive Meshes (P-BDAM)
+authors: Paolo Cignoni, Fabio Ganovelli, Enrico Gobbetti, Fabio Marton,
+Federico Ponchio, Roberto Scopigno
+abstract: We describe an efficient technique for out-of-core management and interactive rendering of planet sized textured terrain surfaces. The technique, called P-Batched Dynamic Adaptive Meshes (PBDAM), extends the BDAM approach by using as basic primitive a general triangulation of points on a displaced triangle. The proposed framework introduces several advances with respect to the state of the art: thanks to a batched host-to-graphics communication model, we outperform current adaptive tessellation solutions in terms of rendering speed; we guarantee overall geometric continuity, exploiting programmable graphics hardware to cope with the accuracy issues introduced by single precision floating points; we exploit a compressed out of core representation and speculative prefetching for hiding disk latency during rendering of out-of-core data; we efficiently construct high quality simplified representations with a novel distributed out of core simplification algorithm working on a standard PC network.
+vis citations:
+bajaj_vis_99
+doellner_vis_00
+hoppe_vis_98
+levenber_vis_02
+pajarola_vis_02
+pajarola_vis_98

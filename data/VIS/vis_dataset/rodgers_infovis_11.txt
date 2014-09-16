@@ -1,0 +1,6 @@
+title: Exploring Ambient and Artistic Visualization for Residential Energy Use Feedback
+authors: Johnny Rodgers, Lyn Bartram
+abstract: Providing effective feedback on resource consumption in the home is a key challenge of environmental conservation efforts. One promising approach for providing feedback about residential energy consumption is the use of ambient and artistic visualizations. Pervasive computing technologies enable the integration of such feedback into the home in the form of distributed point-of-consumption feedback devices to support decision-making in everyday activities. However, introducing these devices into the home requires sensitivity to the domestic context. In this paper we describe three abstract visualizations and suggest four design requirements that this type of device must meet to be effective: pragmatic, aesthetic, ambient, and ecological. We report on the findings from a mixed methods user study that explores the viability of using ambient and artistic feedback in the home based on these requirements. Our findings suggest that this approach is a viable way to provide resource use feedback and that both the aesthetics of the representation and the context of use are important elements that must be considered in this design space.
+vis citations:
+pousman_infovis_07
+skog_infovis_03

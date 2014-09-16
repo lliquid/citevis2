@@ -1,0 +1,8 @@
+title: Invariant Crease Lines for Topological and Structural Analysis of Tensor Fields
+authors: Xavier Tricoche, Gordon Kindlmann, Carl-Fredrik Westin
+abstract: We introduce a versatile framework for characterizing and extracting salient structures in three-dimensional symmetric second-order tensor fields. The key insight is that degenerate lines in tensor fields, as defined by the standard topological approach, are exactly crease (ridge and valley) lines of a particular tensor invariant called mode. This reformulation allows us to apply wellstudied approaches from scientific visualization or computer vision to the extraction of topological lines in tensor fields. More generally, this main result suggests that other tensor invariants, such as anisotropy measures like fractional anisotropy (FA), can be used in the same framework in lieu of mode to identify important structural properties in tensor fields. Our implementation addresses the specific challenge posed by the non-linearity of the considered scalar measures and by the smoothness requirement of the crease manifold computation. We use a combination of smooth reconstruction kernels and adaptive refinement strategy that automatically adjust the resolution of the analysis to the spatial variation of the considered quantities. Together, these improvements allow for the robust application of existing ridge line extraction algorithms in the tensor context of our problem. Results are proposed for a diffusion tensor MRI dataset, and for a benchmark stress tensor field used in engineering research.
+vis citations:
+peikert_vis_99
+sadlo_vis_07
+schultz_vis_07
+zheng_vis_04

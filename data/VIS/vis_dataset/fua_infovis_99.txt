@@ -1,0 +1,6 @@
+title: Navigating Hierarchies with Structure-Based Brushes
+authors: Ying-Huey Fua, Matthew O. Ward, Elke A. Rundensteiner
+abstract: Interactive selection is a critical component in exploratory visualization, allowing users to isolate subsets of the displayed information for highlighting, deleting, analysis, or focussed investigation. Brushing, a popular method for implementing the selection process, has traditionally been performed in either screen space or data space. In this paper, we introduce the concept of a structure-based brush, which can be used to perform selection in hierarchically structured data sets. Our structure-based brush allows users to navigate hierarchies by specifying focal extents and level-of-detail on a visual representation of the structure. Proximity-based coloring, which maps similar colors to data that are closely related within the structure, helps convey both structural relationships and anomalies. We describe the design and implementation of our structure-based brushing tool. We also validate its usefulness using two distinct hierarchical visualization techniques, namely hierarchical parallel coordinates and tree-maps.
+vis citations:
+fua_vis_99
+jeong_infovis_98

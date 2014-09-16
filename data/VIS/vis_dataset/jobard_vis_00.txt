@@ -1,0 +1,5 @@
+title: Hardware-Accelerated Texture Advection For Unsteady Flow Visualization
+authors: Bruno Jobard, Gordon Erlebacher, M. Yousuff Hussaini
+abstract: We present a novel hardware-accelerated texture advection algorithm to visualize the motion of two-dimensional unsteady flows. Making use of several proposed extensions to the OpenGL-1.2 specification, we demonstrate animations of over 65,000 particles at 2 frames/sec on an SGI Octane with EMXI graphics. High image quality is achieved by careful attention to edge effects, noise frequency, and image enhancement. We provide a detailed description of the hardware implementation, including temporal and spatial coherence techniques, dye advection techniques, and feature extraction.
+vis citations:
+deleeuw_vis_98

@@ -1,0 +1,13 @@
+title: Visibility Culling for Time-Varying Volume Rendering Using Temporal Occlusion Coherence
+authors: Jinzhu Gao, Han-Wei Shen, Jian Huang, James Arthur Kohl
+abstract: Typically there is a high coherence in data values between neighboring time steps in an iterative scientific software simulation; this characteristic similarly contributes to a corresponding coherence in the visibility of volume blocks when these consecutive time steps are rendered. Yet traditional visibility culling algorithms were mainly designed for static data, without consideration of such potential temporal coherency. In this paper, we explore the use of Temporal Occlusion Coherence (TOC) to accelerate visibility culling for time-varying volume rendering. In our algorithm, the opacity of volume blocks is encoded by means of Plenoptic Opacity Functions (POFs). A coherence-based block fusion technique is employed to coalesce time-coherent data blocks over a span of time steps into a single, representative block. Then POFs need only be computed for these representative blocks. To quickly determine the subvolumes that do not require updates in their visibility status for each subsequent time step, a hierarchical ???TOC tree??? data structure is constructed to store the spans of coherent time steps. To achieve maximal culling potential, while remaining conservative, we have extended our previous POF into an Optimized POF (OPOF) encoding scheme for this specific scenario. To test our general TOC and OPOF approach, we have designed a parallel time-varying volume rendering algorithm accelerated by visibility culling. Results from experimental runs on a 32-processor cluster confirm both the effectiveness and scalability of our approach.
+vis citations:
+guthe_vis_01
+guthe_vis_02
+huang_vis_00
+livnat_vis_98
+lum_vis_01
+parker_vis_98
+shen_vis_99
+sutton_vis_99
+woodring_vis_03

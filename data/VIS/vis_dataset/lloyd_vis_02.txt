@@ -1,0 +1,7 @@
+title: Horizon Occlusion Culling for Real-time Rendering of Hierarchical Terrains
+authors: Brandon Lloyd, Parris Egbert
+abstract: We present a technique to perform occlusion culling for hierarchical terrains at run-time. The algorithm is simple to implement and requires minimal pre-processing and additional storage, yet leads to 2-4 times improvement in framerate for views with high degrees of occlusion. Our method is based on the well-known occlusion horizon algorithm. We show how to adapt the algorithm for use with hierarchical terrains. The occlusion horizon is constructed as the terrain is traversed in an approximate front to back ordering. Regions of the terrain are compared to the horizon to determine when they are completely occluded from the viewpoint. Culling these regions leads to significant savings in rendering.
+vis citations:
+cline_vis_98
+hoppe_vis_98
+pajarola_vis_98

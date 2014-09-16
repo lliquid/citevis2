@@ -1,0 +1,6 @@
+title: Extraction of Topologically Simple Isosurfaces from Volume Datasets
+authors: Andrzej Szymczak, James Vanderhyde
+abstract: There are numerous algorithms in graphics and visualization whose performance is known to decay as the topological complexity of the input increases. On the other hand, the standard pipeline for 3D geometry acquisition often produces 3D models that are topologically more complex than their real forms. We present a simple and efficient algorithm that allows us to simplify the topology of an isosurface by altering the values of some number of voxels. Its utility and performance are demonstrated on several examples, including signed distance functions from polygonal models and CT scans.
+vis citations:
+gerstner_vis_00
+pascucci_vis_02

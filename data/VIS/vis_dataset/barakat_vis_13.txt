@@ -1,0 +1,8 @@
+title: Adaptive Refinement of the Flow Map Using Sparse Samples
+authors: Samer S. Barakat, Xavier Tricoche
+abstract: We present a new efficient and scalable method for the high quality reconstruction of the flow map from sparse samples. The flow map describes the transport of massless particles along the flow. As such, it is a fundamental concept in the analysis of transient flow phenomena and all so-called Lagrangian flow visualization techniques require its approximation. The flow map is generally obtained by integrating a dense 1D, 2D, or 3D set of particles across the domain of definition of the flow. Despite its embarrassingly parallel nature, this computation creates a performance bottleneck in the analysis of large-scale datasets that existing adaptive techniques alleviate only partially. Our iterative approximation method significantly improves upon the state of the art by precisely modeling the flow behavior around automatically detected geometric structures embedded in the flow, thus effectively restricting the sampling effort to interesting regions. Our data reconstruction is based on a modified version of Sibson???s scattered data interpolation and allows us at each step to offer an intermediate dense approximation of the flow map and to seamlessly integrate regions that will be further refined in subsequent steps. We present a quantitative and qualitative evaluation of our method on different types of flow datasets and offer a detailed comparison with existing techniques.
+vis citations:
+garth_vis_07
+garth_vis_08
+krishnan_vis_09
+sadlo_vis_07

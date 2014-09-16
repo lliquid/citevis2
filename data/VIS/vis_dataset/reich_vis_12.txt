@@ -1,0 +1,5 @@
+title: Analysis of Streamline Separation at Infinity Using Time-Discrete Markov Chains
+authors: Wieland Reich, Gerik Scheuermann
+abstract: Existing methods for analyzing separation of streamlines are often restricted to a finite time or a local area. In our paper we introduce a new method that complements them by allowing an infinite-time-evaluation of steady planar vector fields. Our algorithm unifies combinatorial and probabilistic methods and introduces the concept of separation in time-discrete Markov-Chains. We compute particle distributions instead of the streamlines of single particles. We encode the flow into a map and then into a transition matrix for each time direction. Finally, we compare the results of our grid-independent algorithm to the popular Finite-Time-Lyapunov-Exponents and discuss the discrepancies.
+vis citations:
+peikert_vis_99

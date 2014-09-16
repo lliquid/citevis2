@@ -1,0 +1,5 @@
+title: Navigating in a Shape Space of Registered Models
+authors: Randall C. Smith, Richard Pawlicki, Istv??n K??kai, J??rg Finger, Thomas Vetter
+abstract: New product development involves people with different backgrounds. Designers, engineers, and consumers all have different design criteria, and these criteria interact. Early concepts evolve in this kind of collaborative context, and there is a need for dynamic visualization of the interaction between design shape and other shape-related design criteria. In this paper, a Morphable Model is defined from simplified representations of suitably chosen real cars, providing a continuous shape space to navigate, manipulate and visualize. Physical properties and consumer-provided scores for the real cars (such as ???weight??? and ???sportiness???) are estimated for new designs across the shape space. This coupling allows one to manipulate the shape directly while reviewing the impact on estimated criteria, or conversely, to manipulate the criterial values of the current design to produce a new shape with more desirable attributes.
+vis citations:
+wiley_vis_05

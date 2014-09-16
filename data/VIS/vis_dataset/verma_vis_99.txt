@@ -1,0 +1,5 @@
+title: PLIC: Bridging the Gap Between Streamlines and LIC
+authors: Vivek Verma, David Kao, Alex Pang
+abstract: This paper explores mapping strategies for generating LIC-like images from streamlines and streamline-like images from LIC. The main contribution of this paper is a technique which we call pseudoLIC or PLIC. By adjusting a small set of key parameters, PLIC can generate flow visualizations that span the spectrum of streamlinelike to LIC-like images. Among the advantages of PLIC are: image quality comparable with LIC, performance speedup over LIC, use of a template texture that is independent of the size of the flow field, handles the problem of multiple streamlines occupying the same pixel in image space, reduced aliasing, applicability to time varying data sets, and variable speed animation.
+vis citations:
+deleeuw_vis_98

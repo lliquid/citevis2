@@ -1,0 +1,15 @@
+title: AlVis: Situation Awareness in the Surveillance of Road Tunnels
+authors: Harald Piringer, Matthias Buchetics, Rudolf Benedik
+abstract: In the surveillance of road tunnels, video data plays an important role for a detailed inspection and as an input to systems for an automated detection of incidents. In disaster scenarios like major accidents, however, the increased amount of detected incidents may lead to situations where human operators lose a sense of the overall meaning of that data, a problem commonly known as a lack of situation awareness. The primary contribution of this paper is a design study of AlVis, a system designed to increase situation awareness in the surveillance of road tunnels. The design of AlVis is based on a simplified tunnel model which enables an overview of the spatiotemporal development of scenarios in real-time. The visualization explicitly represents the present state, the history, and predictions of potential future developments. Concepts for situation-sensitive prioritization of information ensure scalability from normal operation to major disaster scenarios. The visualization enables an intuitive access to live and historic video for any point in time and space. We illustrate AlVis by means of a scenario and report qualitative feedback by tunnel experts and operators. This feedback suggests that AlVis is suitable to save time in recognizing dangerous situations and helps to maintain an overview in complex disaster scenarios.
+vis citations:
+aragon_vast_08
+collins_infovis_07
+ivanov_infovis_07
+kapler_infovis_04
+kim_vast_07
+livnat_infovis_05
+maceachr_vast_11
+matkovic_infovis_02
+romero_infovis_08
+tesone_vast_07
+wang_vis_07

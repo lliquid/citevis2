@@ -1,0 +1,10 @@
+title: CloudLines: Compact Display of Event Episodes in Multiple Time-Series
+authors: Milos Krstajic, Enrico Bertini, Daniel A. Keim
+abstract: We propose incremental time-series visualization technique with interactive distortion as a way to deal with time-based representations of large and dynamic event data sets in limited space. Modern data analysis challenges in the domains of news publishing, network security and financial services require scalable solutions that will help the users to analyze the event data on atomic level while retaining the temporal context. The incremental nature of the data implies that visualizations have to necessarily change their content and still provide comprehensible representations. In this paper, we deal with the need to keep an eye on recent events together with providing a context on the past and making relevant patterns accessible at any scale. Our method adapts to the incoming data by using a decay function to let the items fade away according to their relevance. Since access to details is also important, we also provide a magnifying lens technique which takes into account the distortions introduced by the logarithmic time scale to enhance readability in selected areas of interest. We demonstrate the validity of our techniques by applying them on incremental data coming from online news streams in different time frames.
+vis citations:
+heer_infovis_07
+hetzler_infovis_05
+javed_infovis_10
+kerr_infovis_03
+kincaid_infovis_10
+kincaid_infovis_10

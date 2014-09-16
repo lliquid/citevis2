@@ -1,0 +1,12 @@
+title: Exploring Flow, Factors, and Outcomes of Temporal Event Sequences with the Outflow Visualization
+authors: Krist Wongsuphasawat, David Gotz
+abstract: Event sequence data is common in many domains, ranging from electronic medical records (EMRs) to sports events. Moreover, such sequences often result in measurable outcomes (e.g., life or death, win or loss). Collections of event sequences can be aggregated together to form event progression pathways. These pathways can then be connected with outcomes to model how alternative chains of events may lead to different results. This paper describes the Outflow visualization technique, designed to (1) aggregate multiple event sequences, (2) display the aggregate pathways through different event states with timing and cardinality, (3) summarize the pathways??? corresponding outcomes, and (4) allow users to explore external factors that correlate with specific pathway state transitions. Results from a user study with twelve participants show that users were able to learn how to use Outflow easily with limited training and perform a range of tasks both accurately and rapidly.
+vis citations:
+blaas_infovis_09
+fails_vast_06
+phan_infovis_05
+pretorius_infovis_06
+riehmann_infovis_05
+elzen_vast_11
+vrotsou_infovis_09
+wongsuph_vast_09

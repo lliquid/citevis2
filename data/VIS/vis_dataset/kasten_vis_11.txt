@@ -1,0 +1,8 @@
+title: Two-Dimensional Time-Dependent Vortex Regions Based on the Acceleration Magnitude
+authors: Jens Kasten, Jan Reininghaus, Ingrid Hotz, Hans-Christian Hege
+abstract: Acceleration is a fundamental quantity of flow fields that captures Galilean invariant properties of particle motion. Considering the magnitude of this field, minima represent characteristic structures of the flow that can be classified as saddle or vortex-like. We made the interesting observation that vortex-like minima are enclosed by particularly pronounced ridges. This makes it possible to define boundaries of vortex regions in a parameter-free way. Utilizing scalar field topology, a robust algorithm can be designed to extract such boundaries. They can be arbitrarily shaped. An efficient tracking algorithm allows us to display the temporal evolution of vortices. Various vortex models are used to evaluate the method. We apply our method to two-dimensional model systems from computational fluid dynamics and compare the results to those arising from existing definitions.
+vis citations:
+garth_vis_04
+jankunke_vis_06
+schneide_vis_08
+stegmaie_vis_05

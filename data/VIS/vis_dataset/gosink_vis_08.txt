@@ -1,0 +1,10 @@
+title: Query-Driven Visualization of Time-Varying Adaptive Mesh Refinement Data
+authors: Luke J. Gosink, John C. Anderson, E. Wes Bethel, Kenneth I. Joy
+abstract: The visualization and analysis of AMR-based simulations is integral to the process of obtaining new insight in scientific research. We present a new method for performing query-driven visualization and analysis on AMR data, with specific emphasis on time-varying AMR data. Our work introduces a new method that directly addresses the dynamic spatial and temporal properties of AMR grids that challenge many existing visualization techniques. Further, we present the first implementation of query-driven visualization on the GPU that uses a GPU-based indexing structure to both answer queries and efficiently utilize GPU memory. We apply our method to two different science domains to demonstrate its broad applicability.
+vis citations:
+bethel_vast_06
+bhaniram_vis_00
+gosink_vis_07
+kaehler_vis_05
+stocking_vis_05
+woodring_vis_03

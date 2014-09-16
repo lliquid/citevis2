@@ -1,0 +1,16 @@
+title: Understanding Text Corpora with Multiple Facets
+authors: Lei Shi, Furu Wei, Shixia Liu, Li Tan, Xiaoxiao Lian, Michelle X. Zhou
+abstract: Text visualization becomes an increasingly more important research topic as the need to understand massive-scale textual information is proven to be imperative for many people and businesses. However, it is still very challenging to design effective visual metaphors to represent large corpora of text due to the unstructured and high-dimensional nature of text. In this paper, we propose a data model that can be used to represent most of the text corpora. Such a data model contains four basic types of facets: time, category, content (unstructured), and structured facet. To understand the corpus with such a data model, we develop a hybrid visualization by combining the trend graph with tag-clouds. We encode the four types of data facets with four separate visual dimensions. To help people discover evolutionary and correlation patterns, we also develop several visual interaction methods that allow people to interactively analyze text by one or more facets. Finally, we present two case studies to demonstrate the effectiveness of our solution in support of multi-faceted visual analysis of text corpora.
+vis citations:
+byron_infovis_08
+collins_vast_09
+ghoniem_vast_07
+havre_infovis_00
+stasko_vast_07
+vanham2_infovis_09
+viegas_infovis_09
+wattenbe_infovis_02
+wattenba_infovis_05
+wattenbe_infovis_08
+wong_infovis_00
+wong_infovis_99

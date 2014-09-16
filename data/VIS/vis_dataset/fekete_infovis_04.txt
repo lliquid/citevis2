@@ -1,0 +1,8 @@
+title: The InfoVis Toolkit
+authors: Jean-Daniel Fekete
+abstract: This article presents the InfoVis Toolkit, designed to support the creation, extension and integration of advanced 2D Information Visualization components into interactive Java Swing applications.The InfoVis Toolkit provides specific datastructures to achieve a fast action/feedback loop required by dynamic queries. It comes with a large set of components such as range sliders and tailored control panels required to control and configure the visualizations. These components are integrated into a coherent framework that simplifies the management of rich data structures and the design and extension of visualizations. Supported data structures currently include tables, trees and graphs. Supported visualizations include scatter plots, time series, parallel coordinates, treemaps, icicle trees, node-link diagrams for trees and graphs and adjacency matrices for graphs. All visualizations can use fisheye lenses and dynamic labeling. The InfoVis Toolkit supports hardware acceleration when available through Agile2D, an implementation of the Java Graphics API based on OpenGL, achieving speedups of 10 to 200 times.The article also shows how new visualizations can be added and extended to become components, enriching visualizations as well as general applications.
+vis citations:
+fekete_infovis_02
+plaisant_infovis_02
+stolte_infovis_00
+wong_n_infovis_03

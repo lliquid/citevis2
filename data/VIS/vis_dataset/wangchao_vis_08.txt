@@ -1,0 +1,10 @@
+title: Importance-Driven Time-Varying Data Visualization
+authors: Chaoli Wang, Hongfeng Yu, Kwan-Liu Ma
+abstract: The ability to identify and present the most essential aspects of time-varying data is critically important in many areas of science and engineering. This paper introduces an importance-driven approach to time-varying volume data visualization for enhancing that ability. By conducting a block-wise analysis of the data in the joint feature-temporal space, we derive an importance curve for each data block based on the formulation of conditional entropy from information theory. Each curve characterizes the local temporal behavior of the respective block, and clustering the importance curves of all the volume blocks effectively classifies the underlying data. Based on different temporal trends exhibited by importance curves and their clustering results, we suggest several interesting and effective visualization techniques to reveal the important aspects of time-varying data.
+vis citations:
+guthe_vis_01
+jaenicke_vis_07
+shen_vis_99
+viola_vis_06
+viola_vis_04
+woodring_vis_03

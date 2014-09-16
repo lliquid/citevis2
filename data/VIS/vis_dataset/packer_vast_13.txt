@@ -1,0 +1,10 @@
+title: Visual Analytics for Spatial Clustering: Using a Heuristic Approach for Guided Exploration
+authors: Eli Packer, Peter Bak, Mikko Nikkila, Valentin Polishchuk, Harold J. Ship
+abstract: We propose a novel approach of distance-based spatial clustering and contribute a heuristic computation of input parameters for guiding users in the search of interesting cluster constellations. We thereby combine computational geometry with interactive visualization into one coherent framework. Our approach entails displaying the results of the heuristics to users, as shown in Figure 1, providing a setting from which to start the exploration and data analysis. Addition interaction capabilities are available containing visual feedback for exploring further clustering options and is able to cope with noise in the data. We evaluate, and show the benefits of our approach on a sophisticated artificial dataset and demonstrate its usefulness on real-world data.
+vis citations:
+alper_infovis_11
+brown_vast_12
+choo_vast_10
+collins_infovis_09
+endert_vast_11
+yang_infovis_03

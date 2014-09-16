@@ -1,0 +1,8 @@
+title: Organizing Search Results with a Reference Map
+authors: Arlind Nocaj, Ulrik Brandes
+abstract: We propose a method to highlight query hits in hierarchically clustered collections of interrelated items such as digital libraries or knowledge bases. The method is based on the idea that organizing search results similarly to their arrangement on a fixed reference map facilitates orientation and assessment by preserving a user???s mental map. Here, the reference map is built from an MDS layout of the items in a Voronoi treemap representing their hierarchical clustering, and we use techniques from dynamic graph layout to align query results with the map. The approach is illustrated on an archive of newspaper articles.
+vis citations:
+balzer_infovis_05
+cao_infovis_10
+clarkson_infovis_09
+holten_infovis_06

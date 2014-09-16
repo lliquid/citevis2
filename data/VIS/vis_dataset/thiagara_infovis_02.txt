@@ -1,0 +1,6 @@
+title: Visualizing Biosequence data using Texture Mapping
+authors: Praveen R. Thiagarajan, Guang R. Gao
+abstract: Data-mining of information by the process of pattern discovery in protein sequences has been predominantly algorithm based. In this paper we discuss a visualization approach, which uses texture mapping and blending techniques to perform visual data-mining on text data obtained from discovering patterns in protein sequences. This visual approach, investigates the possibilities of representing text data in three dimensions and provides new possibilities of representing more dimensions of information in text data visualization and analysis. We also present a generic framework derived from this visualization approach to visualize text in biosequence data.
+vis citations:
+cline_vis_98
+keahey_infovis_01

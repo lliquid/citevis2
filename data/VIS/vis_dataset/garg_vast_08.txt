@@ -1,0 +1,12 @@
+title: Model-Driven Visual Analytics
+authors: Supriya Garg, Julia Eunju Nam, I.V. Ramakrishnan, Klaus Mueller
+abstract: We describe a Visual Analytics (VA) infrastructure, rooted on techniques in machine learning and logic-based deductive reasoning that will assist analysts to make sense of large, complex data sets by facilitating the generation and validation of models representing relationships in the data. We use Logic Programming (LP) as the underlying computing machinery to encode the relations as rules and facts and compute with them. A unique aspect of our approach is that the LP rules are automatically learned, using Inductive Logic Programming, from examples of data that the analyst deems interesting when viewing the data in the highdimensional visualization interface. Using this system, analysts will be able to construct models of arbitrary relationships in the data, explore the data for scenarios that fit the model, refine the model if necessary, and query the model to automatically analyze incoming (future) data exhibiting the encoded relationships. In other words it will support both model-driven data exploration, as well as data-driven model evolution. More importantly, by basing the construction of models on techniques from machine learning and logic-based deduction, the VA process will be both flexible in terms of modeling arbitrary, user-driven relationships in the data as well as readily scale across different data domains.
+vis citations:
+bethel_vast_06
+luo_vast_07
+nam_vast_07
+smith_vis_07
+tesone_vast_07
+xiao_vast_06
+yang_vast_06
+yang_vast_07

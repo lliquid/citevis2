@@ -1,0 +1,10 @@
+title: Sketchy Rendering for Information Visualization
+authors: Jo Wood, Petra Isenberg, Tobias Isenberg, Jason Dykes, Nadia Boukhelifa, Aidan Slingsby
+abstract: We present and evaluate a framework for constructing sketchy style information visualizations that mimic data graphics drawn by hand. We provide an alternative renderer for the Processing graphics environment that redefines core drawing primitives including line, polygon and ellipse rendering. These primitives allow higher-level graphical features such as bar charts, line charts, treemaps and node-link diagrams to be drawn in a sketchy style with a specified degree of sketchiness. The framework is designed to be easily integrated into existing visualization implementations with minimal programming modification or design effort. We show examples of use for statistical graphics, conveying spatial imprecision and for enhancing aesthetic and narrative qualities of visualization. We evaluate user perception of sketchiness of areal features through a series of stimulus-response tests in order to assess users??? ability to place sketchiness on a ratio scale, and to estimate area. Results suggest relative area judgment is compromised by sketchy rendering and that its influence is dependent on the shape being rendered. They show that degree of sketchiness may be judged on an ordinal scale but that its judgement varies strongly between individuals. We evaluate higher-level impacts of sketchiness through user testing of scenarios that encourage user engagement with data visualization and willingness to critique visualization design. Results suggest that where a visualization is clearly sketchy, engagement may be increased and that attitudes to participating in visualization annotation are more positive. The results of our work have implications for effective information visualization design that go beyond the traditional role of sketching as a tool for prototyping or its use for an indication of general uncertainty.
+vis citations:
+boukhelifa_infovis_12
+hullman1_infovis_11
+hullman2_infovis_11
+kong_infovis_10
+lloyd_infovis_11
+walny_infovis_11

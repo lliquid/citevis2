@@ -1,0 +1,8 @@
+title: Volume Illustration: Non-Photorealistic Rendering of Volume Models
+authors: David Ebert, Penny Rheingans
+abstract: Accurately and automatically conveying the structure of a volume model is a problem not fully solved by existing volume rendering approaches. Physics-based volume rendering approaches create images which may match the appearance of translucent materials in nature, but may not embody important structural details. Transfer function approaches allow flexible design of the volume appearance, but generally require substantial hand tuning for each new data set in order to be effective. We introduce the volume illustration approach, combining the familiarity of a physicsbased illumination model with the ability to enhance important features using non-photorealistic rendering techniques. Since features to be enhanced are defined on the basis of local volume characteristics rather than volume sample value, the application of volume illustration techniques requires less manual tuning than the design of a good transfer function. Volume illustration provides a flexible unified framework for enhancing structural perception of volume models through the amplification of features and the addition of illumination effects.
+vis citations:
+fang_vis_98
+kirby_vis_99
+laidlaw_vis_98
+treavett_vis_00

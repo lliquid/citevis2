@@ -1,0 +1,5 @@
+title: Shock and Vortex Visualization Using a Combined Visual/Haptic Interface
+authors: Dale A. Lawrence, Christopher D. Lee, Lucy Y. Pao, Roman Y. Novoselov
+abstract: Specific rendering modes are developed for a combined visual/haptic interface to allow exploration and understanding of fluid dynamics data. The focus is on visualization of shock surfaces and vortex cores. Advantages provided by augmenting traditional graphical rendering modes with haptic rendering modes are discussed. Particular emphasis is placed on synergistic combinations of visual and haptic modes which enable rapid, exploratory interaction with the data. Implementation issues are also discussed.
+vis citations:
+roth_vis_98

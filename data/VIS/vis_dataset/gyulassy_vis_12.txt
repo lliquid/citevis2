@@ -1,0 +1,10 @@
+title: Computing Morse-Smale Complexes with Accurate Geometry
+authors: Attila Gyulassy, Peer-Timo Bremer, Valerio Pascucci
+abstract: Topological techniques have proven highly successful in analyzing and visualizing scientific data. As a result, significant efforts have been made to compute structures like the Morse-Smale complex as robustly and efficiently as possible. However, the resulting algorithms, while topologically consistent, often produce incorrect connectivity as well as poor geometry. These problems may compromise or even invalidate any subsequent analysis. Moreover, such techniques may fail to improve even when the resolution of the domain mesh is increased, thus producing potentially incorrect results even for highly resolved functions. To address these problems we introduce two new algorithms: (i) a randomized algorithm to compute the discrete gradient of a scalar field that converges under refinement; and (ii) a deterministic variant which directly computes accurate geometry and thus correct connectivity of the MS complex. The first algorithm converges in the sense that on average it produces the correct result and its standard deviation approaches zero with increasing mesh resolution. The second algorithm uses two ordered traversals of the function to integrate the probabilities of the first to extract correct (near optimal) geometry and connectivity. We present an extensive empirical study using both synthetic and real-world data and demonstrates the advantages of our algorithms in comparison with several popular approaches.
+vis citations:
+bennett_vis_11
+gyulassy_vis_08
+gyulassy1_vis_07
+gyulassy_vis_05
+kasten_vis_11
+laney_vis_06

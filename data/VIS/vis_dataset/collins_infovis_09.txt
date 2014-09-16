@@ -1,0 +1,11 @@
+title: Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations
+authors: Christopher Collins, Gerald Penn, Sheelagh Carpendale
+abstract: While many data sets contain multiple relationships, depicting more than one data relationship within a single visualization is challenging. We introduce Bubble Sets as a visualization technique for data that has both a primary data relation with a semantically significant spatial organization and a significant set membership relation in which members of the same set are not necessarily adjacent in the primary layout. In order to maintain the spatial rights of the primary data relation, we avoid layout adjustment techniques that improve set cluster continuity and density. Instead, we use a continuous, possibly concave, isocontour to delineate set membership, without disrupting the primary layout. Optimizations minimize cluster overlap and provide for calculation of the isocontours at interactive speeds. Case studies show how this technique can be used to indicate multiple sets on a variety of common visualizations.
+vis citations:
+collins_infovis_07
+dwyer_infovis_08
+elmqvist_infovis_08
+freiler_infovis_08
+heer_infovis_05
+perer_infovis_06
+phan_infovis_05

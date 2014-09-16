@@ -1,0 +1,8 @@
+title: An Advanced Evenly-Spaced Streamline Placement Algorithm
+authors: Zhanping Liu, Robert J. Moorhead, Joe Groner
+abstract: This paper presents an advanced evenly-spaced streamline placement algorithm for fast, high-quality, and robust layout of flow lines. A fourth-order Runge-Kutta integrator with adaptive step size and error control is employed for rapid accurate streamline advection. Cubic Hermite polynomial interpolation with large sample-spacing is adopted to create fewer evenly-spaced samples along each streamline to reduce the amount of distance checking. We propose two methods to enhance placement quality. Double queues are used to prioritize topological seeding and to favor long streamlines to minimize discontinuities. Adaptive distance control based on the local flow variance is explored to reduce cavities. Furthermore, we propose a universal, effective, fast, and robust loop detection strategy to address closed and spiraling streamlines. Our algorithm is an order-ofmagnitude faster than Jobard and Lefer???s algorithm [8] with better placement quality and over 5 times faster than Mebarki et al.???s algorithm [9] with comparable placement quality, but with a more robust solution to loop detection.
+vis citations:
+mebarki_vis_05
+mao_vis_98
+verma_vis_00
+ye_vis_05

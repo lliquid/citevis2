@@ -1,0 +1,11 @@
+title: Visual Analysis and Exploration of Fluid Flow in a Cooling Jacket
+authors: Robert S. Laramee, Christoph Garth, Helmut Doleisch, J??rgen
+Schneider, Helwig Hauser, Hans Hagen
+abstract: We present a visual analysis and exploration of fluid flow through a cooling jacket. Engineers invest a large amount of time and serious effort to optimize the flow through this engine component because of its important role in transferring heat away from the engine block. In this study we examine the design goals that engineers apply in order to construct an ideal-as-possible cooling jacket geometry and use a broad range of visualization tools in order to analyze, explore, and present the results. We systematically employ direct, geometric, and texture-based flow visualization techniques as well as automatic feature extraction and interactive feature-based methodology. And we discuss the relative advantages and disadvantages of these approaches as well as the challenges, both technical and perceptual with this application. The result is a feature-rich state-of-the-art flow visualization analysis applied to an important and complex data set from real-world computational fluid dynamics simulations.
+vis citations:
+garth_vis_04
+laramee_vis_04
+sadlo_vis_04
+scheuer1_vis_99
+theisel_vis_03
+tricoche_vis_04

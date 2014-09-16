@@ -1,0 +1,4 @@
+title: Collaborative Geographic Visualization: Enabling shared understanding of environmental processes
+authors: Isaac Brewer, Alan M. MacEachren, Hadi Abdo, Jack Gundrum, George Otto
+abstract: Most work with geospatial data, whether for scientific analysis, urban and environmental planning, or business decision making is carried out by groups. In contrast, geographic visualization environments and related geographic information technologies have been built and assessed only for use by individuals. In this paper, we describe a prototype same-time/different-place collaborative geovisualization environment. Next, we outline an approach to understanding use and usability and present results of interviews with domain experts about the ways in which collaborative geovisualization might enable group work at a distance. Finally, we present goals for futher research.
+vis citations:

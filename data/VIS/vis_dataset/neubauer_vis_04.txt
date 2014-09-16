@@ -1,0 +1,7 @@
+title: STEPS  an Application for Simulation of Transsphenoidal Endonasal Pituitary Surgery
+authors: Andr?? Neubauer, Stefan Wolfsberger, Marie-Th??r??se Forster, Lukas
+Mroz, Rainer Wegenkittl, Katja B??hler
+abstract: Endonasal transsphenoidal pituitary surgery is a minimally invasive endoscopic procedure, applied to remove various kinds of pituitary tumors. To reduce the risk associated with this treatment, the surgeon must be skilled and well-prepared. Virtual endoscopy can be beneficial as a tool for training, preoperative planning and intraoperative support. This paper introduces STEPS, a virtual endoscopy system designed to aid surgeons in getting acquainted with the endoscopic view, the handling of instruments, the transsphenoidal approach and challenges associated with the procedure. STEPS also assists experienced surgeons in planning a real endoscopic intervention by getting familiar with the individual patient anatomy, identifying landmarks, planning the approach and deciding upon the ideal target position of the actual surgical activity.Besides interactive visualization using two different first-hit ray casting techniques, the application provides navigation and perception aids and the possibility to simulate the procedure, including haptic feedback and simulation of surgical instruments.
+vis citations:
+hietala_vis_00
+qu_vis_00

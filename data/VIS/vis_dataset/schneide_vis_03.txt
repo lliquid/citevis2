@@ -1,0 +1,11 @@
+title: Compression Domain Volume Rendering
+authors: Jens Schneider, R??diger Westermann
+abstract: A survey of graphics developers on the issue of texture mapping hardware for volume rendering would most likely find that the vast majority of them view limited texture memory as one of the most serious drawbacks of an otherwise fine technology. In this paper, we propose a compression scheme for static and time-varying volumetric data sets based on vector quantization that allows us to circumvent this limitation.We describe a hierarchical quantization scheme that is based on a multiresolution covariance analysis of the original field. This allows for the efficient encoding of large-scale data sets, yet providing a mechanism to exploit temporal coherence in non-stationary fields. We show, that decoding and rendering the compressed data stream can be done on the graphics chip using programmable hardware. In this way, data transfer between the CPU and the graphics processing unit (GPU) can be minimized thus enabling flexible and memory efficient real-time rendering options. We demonstrate the effectiveness of our approach by demonstrating interactive renditions of Gigabyte data sets at reasonable fidelity on commodity graphics hardware.
+vis citations:
+guthe_vis_02
+kniss_vis_01
+kniss_vis_02
+lum_vis_01
+pauly_vis_02
+shen_vis_99
+schneide_vis_03

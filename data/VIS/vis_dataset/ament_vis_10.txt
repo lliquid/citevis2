@@ -1,0 +1,15 @@
+title: Direct Interval Volume Visualization
+authors: Marco Ament, Daniel Weiskopf, Hamish Carr
+abstract: We extend direct volume rendering with a unified model for generalized isosurfaces, also called interval volumes, allowing a wider spectrum of visual classification. We generalize the concept of scale-invariant opacity???typical for isosurface rendering to semi-transparent interval volumes. Scale-invariant rendering is independent of physical space dimensions and therefore directly facilitates the analysis of data characteristics. Our model represents sharp isosurfaces as limits of interval volumes and combines them with features of direct volume rendering. Our objective is accurate rendering, guaranteeing that all isosurfaces and interval volumes are visualized in a crack-free way with correct spatial ordering. We achieve simultaneous direct and interval volume rendering by extending preintegration and explicit peak finding with data-driven splitting of ray integration and hybrid computation in physical and data domains. Our algorithm is suitable for efficient parallel processing for interactive applications as demonstrated by our CUDA implementation.
+vis citations:
+bergner_vis_06
+knoll_vis_09
+kraus_vis_05
+kraus_vis_04
+krueger_vis_03
+lederger_vis_08
+marchesi_vis_09
+parker_vis_98
+roettger_vis_00
+scheideg_vis_08
+weiskopf_vis_02

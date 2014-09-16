@@ -1,0 +1,11 @@
+title: Capturing the Design Space of Sequential Space-Filling Layouts
+authors: Thomas Baudel, Bertjan Broeksema
+abstract: We characterize the design space of the algorithms that sequentially tile a rectangular area with smaller, fixed-surface, rectangles. This space consist of five independent dimensions: Order, Size, Score, Recurse and Phrase. Each of these dimensions describe a particular aspect of such layout tasks. This class of layouts is interesting, because, beyond encompassing simple grids, tables and trees, it also includes all kinds of treemaps involving the placement of rectangles. For instance, Slice and dice, Squarified, Strip and Pivot layouts are various points in this five dimensional space. Many classic statistics visualizations, such as 100% stacked bar charts, mosaic plots and dimensional stacking, are also instances of this class. A few new and potentially interesting points in this space are introduced, such as spiral treemaps and variations on the strip layout. The core algorithm is implemented as a JavaScript prototype that can be used as a layout component in a variety of InfoViz toolkits.
+vis citations:
+chi_infovis_98
+heer2_infovis_06
+kong_infovis_10
+slingsby_infovis_09
+vliegen_infovis_06
+wickham_infovis_11
+wood_infovis_08

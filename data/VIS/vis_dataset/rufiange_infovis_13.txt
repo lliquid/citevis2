@@ -1,0 +1,16 @@
+title: DiffAni: Visualizing Dynamic Graphs with a Hybrid of Difference Maps and Animation
+authors: S??bastien Rufiange, Michael J. McGuffin
+abstract: Visualization of dynamically changing networks (graphs) is a significant challenge for researchers. Previous work has experimentally compared animation, small multiples, and other techniques, and found trade-offs between these. One potential way to avoid such trade-offs is to combine previous techniques in a hybrid visualization. We present two taxonomies of visualizations of dynamic graphs: one of non-hybrid techniques, and one of hybrid techniques. We also describe a prototype, called DiffAni, that allows a graph to be visualized as a sequence of three kinds of tiles: diff tiles that show difference maps over some time interval, animation tiles that show the evolution of the graph over some time interval, and small multiple tiles that show the graph state at an individual time slice. This sequence of tiles is ordered by time and covers all time slices in the data. An experimental evaluation of DiffAni shows that our hybrid approach has advantages over non-hybrid techniques in certain cases.
+vis citations:
+brandes_infovis_02
+brandes_infovis_11
+burch_infovis_11
+cottam_vast_12
+hadlak_infovis_11
+heer_infovis_07
+henry_infovis_08
+henry_infovis_07
+plaisant_infovis_02
+saraiya_infovis_05
+wattenbe_infovis_02
+zhao_infovis_05

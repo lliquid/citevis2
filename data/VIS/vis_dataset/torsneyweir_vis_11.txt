@@ -1,0 +1,12 @@
+title: Tuner: Principled Parameter Finding for Image Segmentation Algorithms Using Visual Response Surface Exploration
+authors: Thomas Torsney-Weir, Ahmed Saad, Torsten M??ller, Britta Weber, Hans-Christian Hege, Jean-Marc Verbavatz, Steven Bergner
+abstract: In this paper we address the difficult problem of parameter-finding in image segmentation. We replace a tedious manual process that is often based on guess-work and luck by a principled approach that systematically explores the parameter space. Our core idea is the following two-stage technique: We start with a sparse sampling of the parameter space and apply a statistical model to estimate the response of the segmentation algorithm. The statistical model incorporates a model of uncertainty of the estimation which we use in conjunction with the actual estimate in (visually) guiding the user towards areas that need refinement by placing additional sample points. In the second stage the user navigates through the parameter space in order to determine areas where the response value (goodness of segmentation) is high. In our exploration we rely on existing ground-truth images in order to evaluate the ???goodness??? of an image segmentation technique. We evaluate its usefulness by demonstrating this technique on two image segmentation algorithms: a three parameter model to detect microtubules in electron tomograms and an eight parameter model to identify functional regions in dynamic Positron Emission Tomography scans.
+vis citations:
+bachthal_vis_08
+bruckner_vis_10
+jankun_vis_00
+ma_vis_99
+pretorius_infovis_11
+scheidegger_vis_07
+talbot_infovis_10
+waser_vis_10

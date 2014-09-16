@@ -1,0 +1,7 @@
+title: Spatialization Design: Comparing Points and Landscapes
+authors: Melanie Tory, David W. Sprague, Fuqu Wu, Wing Yan So, Tamara Munzner
+abstract: Spatializations represent non-spatial data using a spatial layout similar to a map. We present an experiment comparing different visual representations of spatialized data, to determine which representations are best for a non-trivial search and point estimation task. Primarily, we compare point-based displays to 2D and 3D information landscapes. We also compare a colour (hue) scale to a grey (lightness) scale. For the task we studied, point-based spatializations were far superior to landscapes, and 2D landscapes were superior to 3D landscapes. Little or no benefit was found for redundantly encoding data using colour or greyscale combined with landscape height. 3D landscapes with no colour scale (height-only) were particularly slow and inaccurate. A colour scale was found to be better than a greyscale for all display types, but a greyscale was helpful compared to height-only. These results suggest that point-based spatializations should be chosen over landscape representations, at least for tasks involving only 
+vis citations:
+granitze_infovis_04
+nowell_infovis_02
+williams_infovis_04

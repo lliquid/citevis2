@@ -1,0 +1,8 @@
+title: Design Choices when Architecting Visualizations
+authors: Diane Tang, Chris Stolte, Robert Bosch
+abstract: In this paper, we focus on some of the key design decisions we faced during the process of architecting a visualization system and present some possible choices, with their associated advantages and disadvantages. We frame this discussion within the context of Rivet, our general visualization environment designed for rapidly prototyping interactive, exploratory visualization tools for analysis. As we designed increasingly sophisticated visualizations, we needed to refine Rivet in order to be able to create these richer displays for larger and more complex data sets.The design decisions we discuss in this paper include: the internal data model, data access, semantic meta-data information the visualization can use to create effective visual encodings, the need for data transformations in a visualization tool, modular objects for flexibility, and the tradeoff between simplicity and expressiveness when providing methods for creating visualizations.
+vis citations:
+chi_infovis_98
+fekete_infovis_02
+stolte_infovis_00
+stolte_infovis_02

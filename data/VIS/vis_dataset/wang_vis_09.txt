@@ -1,0 +1,14 @@
+title: Isosurface Extraction and View-Dependent Filtering from Time-Varying Fields Using Persistent Time-Octree (PTOT)
+authors: Cong Wang, Yi-Jen Chiang
+abstract: We develop a new algorithm for isosurface extraction and view-dependent filtering from large time-varying fields, by using a novel Persistent Time-Octree (PTOT) indexing structure. Previously, the Persistent Octree (POT) was proposed to perform isosurface extraction and view-dependent filtering, which combines the advantages of the interval tree (for optimal searches of active cells) and of the Branch-On-Need Octree (BONO, for view-dependent filtering), but it only works for steady-state (i.e., single time step) data. For time-varying fields, a 4D version of POT, 4D-POT, was proposed for 4D isocontour slicing, where slicing on the time domain gives all active cells in the queried time step and isovalue. However, such slicing is not output sensitive and thus the searching is sub-optimal. Moreover, it was not known how to support view-dependent filtering in addition to time-domain slicing.In this paper, we develop a novel Persistent Time-Octree (PTOT) indexing structure, which has the advantages of POT and performs 4D isocontour slicing on the time domain with an output-sensitive and optimal searching. In addition, when we query the same isovalue q over m consecutive time steps, there is no additional searching overhead (except for reporting the additional active cells) compared to querying just the first time step. Such searching performance for finding active cells is asymptotically optimal, with asymptotically optimal space and preprocessing time as well. Moreover, our PTOT supports view-dependent filtering in addition to time-domain slicing. We propose a simple and effective out-of-core scheme, where we integrate our PTOT with implicit occluders, batched occlusion queries and batched CUDA computing tasks, so that we can greatly reduce the I/O cost as well as increase the amount of data being concurrently computed in GPU. This results in an efficient algorithm for isosurface extraction with viewdependent filtering utilizing a state-of-the-art programmable GPU for time-varying fields larger than main memory. Our experiments on datasets as large as 192GB (with 4GB per time step) having no more than 870MB of memory footprint in both preprocessing and run-time phases demonstrate the efficacy of our new technique.
+vis citations:
+bordoloi_vis_03
+chiang_vis_03
+chiang_vis_98
+livnat_vis_98
+parker_vis_98
+shen_vis_98
+shi_vis_06
+stocking_vis_05
+wald_vis_07
+waters_vis_06

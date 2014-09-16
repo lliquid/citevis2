@@ -1,0 +1,23 @@
+title: An Extensible Framework for Provenance in Human Terrain Visual Analytics
+authors: Rick Walker, Aidan Slingsby, Jason Dykes, Kai Xu, Jo Wood, Phong H. Nguyen, Derek Stephens, B.L. William Wong, Yongjun Zheng
+abstract: We describe and demonstrate an extensible framework that supports data exploration and provenance in the context of Human Terrain Analysis (HTA). Working closely with defence analysts we extract requirements and a list of features that characterise data analysed at the end of the HTA chain. From these, we select an appropriate non-classified data source with analogous features, and model it as a set of facets. We develop ProveML, an XML-based extension of the Open Provenance Model, using these facets and augment it with the structures necessary to record the provenance of data, analytical process and interpretations. Through an iterative process, we develop and refine a prototype system for Human Terrain Visual Analytics (HTVA), and demonstrate means of storing, browsing and recalling analytical provenance and process through analytic bookmarks in ProveML. We show how these bookmarks can be combined to form narratives that link back to the live data. Throughout the process, we demonstrate that through structured workshops, rapid prototyping and structured communication with intelligence analysts we are able to establish requirements, and design schema, techniques and tools that meet the requirements of the intelligence community. We use the needs and reactions of defence analysts in defining and steering the methods to validate the framework.
+vis citations:
+cao_infovis_10
+chen_vast_06
+correa_vast_09
+doerk_infovis_08
+doerk_infovis_12
+dykes_infovis_10
+eccles_vast_07
+gotz_vast_08
+lloyd_infovis_11
+munzner_infovis_09
+oelke_vast_09
+pike_vast_08
+sedlmair_infovis_12
+slingsby_infovis_09
+smith_infovis_06
+stolte_infovis_00
+strobelt_infovis_09
+viegas_infovis_07
+wu_infovis_10

@@ -1,0 +1,9 @@
+title: DimStiller: Workflows for Dimensional Analysis and Reduction
+authors: Stephen Ingram, Tamara Munzner, Veronika Irvine, Melanie Tory, Steven Bergner, Torsten M??ller
+abstract: DimStiller is a system for dimensionality reduction and analysis. It frames the task of understanding and transforming input dimensions as a series of analysis steps where users transform data tables by chaining together different techniques, called operators, into pipelines of expressions. The individual operators have controls and views that are linked together based on the structure of the expression. Users interact with the operator controls to tune parameter choices, with immediate visual feedback guiding the exploration of local neighborhoods of the space of possible data tables. DimStiller also provides global guidance for navigating data-table space through expression templates called workflows, which permit re-use of common patterns of analysis.
+vis citations:
+heer2_infovis_06
+johansso_infovis_09
+ross_infovis_03
+yang_infovis_04
+yang_infovis_03

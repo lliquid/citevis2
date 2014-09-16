@@ -1,0 +1,4 @@
+title: Interactive Deformations from Tensor Fields
+authors: Ed Boring, Alex Pang
+abstract: This paper presents techniques for interactively visualizing tensor fields using deformations. The conceptual idea behind this approach is to allow the tensor field to manifest its influence on idealized objects placed within the tensor field. This is similar, though not exactly the same, to surfaces deforming under load in order to relieve built up stress and strain. We illustrate the effectiveness of the Deviator-Isotropic tensor decomposition in deformation visualizations of CFD strain rate. We also investigate how directional flow techniques can be extended to distinguish between regions of tensile versus compressive forces.
+vis citations:

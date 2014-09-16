@@ -1,0 +1,11 @@
+title: Strategy for Seeding 3D Streamlines
+authors: Xiaohong Ye, David Kao, Alex Pang
+abstract: This paper presents a strategy for seeding streamlines in 3D flow fields. Its main goal is to capture the essential flow patterns and to provide sufficient coverage in the field while reducing clutter. First, critical points of the flow field are extracted to identify regions with important flow patterns that need to be presented. Different seeding templates are then used around the vicinity of the different critical points. Because there is significant variability in the flow pattern even for the same type of critical point, our template can change shape depending on how far the critical point is from transitioning into another type of critical point. To accomplish this, we introduce the a???,Q map of 3D critical points. Next, we use Poisson seeding to populate the empty regions. Finally, we filter the streamlines based on their geometric and spatial properties. Altogether, this multistep strategy reduces clutter and yet captures the important 3D flow features.
+vis citations:
+laramee_vis_04
+lavin_vis_98
+sadlo_vis_04
+telea_vis_99
+theisel_vis_03
+verma_vis_00
+westerma_vis_00

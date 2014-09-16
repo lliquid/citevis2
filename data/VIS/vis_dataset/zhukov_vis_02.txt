@@ -1,0 +1,7 @@
+title: Oriented Tensor Reconstruction: Tracing Neural Pathways from Diffusion Tensor MRI
+authors: Leonid Zhukov, Alan H. Barr
+abstract: In this paper we develop a new technique for tracing anatomical fibers from 3D tensor fields. The technique extracts salient tensor features using a local regularization technique that allows the algorithm to cross noisy regions and bridge gaps in the data. We applied the method to human brain DT-MRI data and recovered identifiable anatomical structures that correspond to the white matter brain-fiber pathways. The images in this paper are derived from a dataset having 121x88x60 resolution. We were able to recover fibers with less than the voxel size resolution by applying the regularization technique, i.e., using a priori assumptions about fiber smoothness. The regularization procedure is done through a moving least squares filter directly incorporated in the tracing algorithm.
+vis citations:
+kindlman_vis_99
+laidlaw_vis_98
+weinstei_vis_99

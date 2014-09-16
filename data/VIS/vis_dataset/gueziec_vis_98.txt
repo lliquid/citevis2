@@ -1,0 +1,4 @@
+title: Converting Sets of Polygons to Manifold Surfaces by Cutting and Stitching
+authors: Andr?? G??eziec, Gabriel Taubin, Francis Lazarus, William Horn
+abstract: Many real-world polygonal surfaces contain topological singularies that represent a challenge for processes such as simplification, compression, smoothing, etc. We present an algorithm for removing such singularities, thus converting non-manifold sets of polygons to manifold polygonal surfaces (orientable if necessary).We identify singular vertices and edges, multiply singular vertices, and cut through singular edges. In an optional stitching phase, we join surface boundary edges that were cut, or whose endpoints are sufficiently close, while guaranteeing that the surface is a manifold. We study two different stitching strategies called ???edge pinching??? and ???edge snapping???; when snapping, special care is required to avoid re-creating singularities.
+vis citations:

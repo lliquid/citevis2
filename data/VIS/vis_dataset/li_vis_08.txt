@@ -1,0 +1,13 @@
+title: Visualizing Multiwavelength Astrophysical Data
+authors: Hongwei Li, Chi-Wing Fu, Andrew J. Hanson
+abstract: With recent advances in the measurement technology for allsky astrophysical imaging, our view of the sky is no longer limited to the tiny visible spectral range over the 2D Celestial sphere. We now can access a third dimension corresponding to a broad electromagnetic spectrum with a wide range of allsky surveys; these surveys span frequency bands including long wavelength radio, microwaves, very short X-rays, and gamma rays. These advances motivate us to study and examine multiwavelength visualization techniques to maximize our capabilities to visualize and exploit these informative image data sets. In this work, we begin with the processing of the data themselves, uniformizing the representations and units of raw data obtained from varied detector sources. Then we apply tools to map, convert, color-code, and format the multiwavelength data in forms useful for applications. We explore different visual representations for displaying the data, including such methods as textured image stacks, the horseshoe representation, and GPU-based volume visualization. A family of visual tools and analysis methods is introduced to explore the data, including interactive data mapping on the graphics processing unit (GPU), the mini-map explorer, and GPU-based interactive feature analysis.
+vis citations:
+daniel_vis_03
+hopf_vis_03
+li_vis_07
+liyingga_vis_06
+magnor_vis_05
+magnor_vis_04
+millerja_vis_06
+navratil_vis_07
+navratil_vis_07

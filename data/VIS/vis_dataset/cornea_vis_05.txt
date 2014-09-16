@@ -1,0 +1,9 @@
+title: Curve-Skeleton Applications
+authors: Nicu D. Cornea, Deborah Silver, Patrick Min
+abstract: Curve-skeletons are a 1D subset of the medial surface of a 3D object and are useful for many visualization tasks including virtual navigation, reduced-model formulation, visualization improvement, mesh repair, animation, etc. There are many algorithms in the literature describing extraction methodologies for different applications; however, it is unclear how general and robust they are. In this paper, we provide an overview of many curve-skeleton applications and compile a set of desired properties of such representations. We also give a taxonomy of methods and analyze the advantages and drawbacks of each class of algorithms.
+vis citations:
+kanitsar_vis_02
+kanitsar_vis_03
+santilli_vis_04
+straka_vis_04
+wan_vis_01

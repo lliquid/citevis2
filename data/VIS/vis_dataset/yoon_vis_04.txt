@@ -1,0 +1,12 @@
+title: Quick-VDR: Interactive View-Dependent Rendering of Massive Models
+authors: Sung-Eui Yoon, Brian Salomon, Russell Gayle, Dinesh Manocha
+abstract: We present a novel approach for interactive view-dependent rendering of massive models. Our algorithm combines view-dependent simplification, occlusion culling, and out-of-core rendering. We represent the model as a clustered hierarchy of progressive meshes (CHPM). We use the cluster hierarchy for coarse-grained selective refinement and progressive meshes for fine-grained local refinement. We present an out-of-core algorithm for computation of a CHPM that includes cluster decomposition, hierarchy generation, and simplification. We make use of novel cluster dependencies in the preprocess to generate crack-free, drastic simplifications at runtime. The clusters are used for occlusion culling and out-of-core rendering. We add a frame of latency to the rendering pipeline to fetch newly visible clusters from the disk and to avoid stalls. The CHPM reduces the refinement cost for view-dependent rendering by more than an order of magnitude as compared to a vertex hierarchy. We have implemented our algorithm on a desktop PC. We can render massive CAD, isosurface, and scanned models, consisting of tens or a few hundreds of millions of triangles at 10???35 frames per second with little loss in image quality.
+vis citations:
+cignoni_vis_03
+decoro_vis_02
+elsana_vis_02
+elsana_vis_01
+hoppe_vis_98
+lindstrom01_vis_01
+shaffer_vis_01
+yoon_vis_03

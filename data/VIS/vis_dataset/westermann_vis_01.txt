@@ -1,0 +1,6 @@
+title: Accelerated Volume Ray-Casting using Texture Mapping
+authors: R??diger Westermann, Bernd Sevenich
+abstract: Acceleration techniques for volume ray-casting are primarily based on pre-computed data structures that allow one to efficiently traverse empty or homogeneous regions. In order to display volume data that successively undergoes color lookups, however, the data structures have to be re-built continuously. In this paper we propose a technique that circumvents this drawback using hardware accelerated texture mapping. In a first rendering pass we employ graphics hardware to interactively determine for each ray where the material is hit. In a second pass ray-casting is performed, but ray traversal starts right in front of the previously determined regions. The algorithm enables interactive classification and it considerably accelerates the view dependent display of selected materials and surfaces from volume data. In contrast to other techniques that are solely based on texture mapping our approach requires less memory and accurately performs the composition of material contributions along the ray.
+vis citations:
+parker_vis_98
+wan_vis_99

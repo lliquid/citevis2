@@ -1,0 +1,9 @@
+title: BrainGazer: Visual Queries for Neurobiology Research
+authors: Stefan Bruckner, Veronika Solteszova, M. Eduard Gr??ller, Jir Hladuvka, Katja B??hler, Jai Y. Yu, Barry J. Dickson
+abstract: Neurobiology investigates how anatomical and physiological relationships in the nervous system mediate behavior. Molecular genetic techniques, applied to species such as the common fruit fly Drosophila melanogaster, have proven to be an important tool in this research. Large databases of transgenic specimens are being built and need to be analyzed to establish models of neural information processing. In this paper we present an approach for the exploration and analysis of neural circuits based on such a database. We have designed and implemented BrainGazer, a system which integrates visualization techniques for volume data acquired through confocal microscopy as well as annotated anatomical structures with an intuitive approach for accessing the available information. We focus on the ability to visually query the data based on semantic as well as spatial relationships. Additionally, we present visualization techniques for the concurrent depiction of neurobiological volume data and geometric objects which aim to reduce visual clutter. The described system is the result of an ongoing interdisciplinary collaboration between neurobiologists and visualization researchers.
+vis citations:
+leeuw_vis_06
+kniss_vis_03
+maciejew_vast_08
+melek_vis_06
+straka_vis_04

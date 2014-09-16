@@ -1,0 +1,15 @@
+title: Interactive Exploration of Implicit and Explicit Relations in Faceted Datasets
+authors: Jian Zhao, Christopher Collins, Fanny Chevalier,  Ravin Balakrishnan
+abstract: Many datasets, such as scientific literature collections, contain multiple heterogeneous facets which derive implicit relations, as well as explicit relational references between data items. The exploration of this data is challenging not only because of large data scales but also the complexity of resource structures and semantics. In this paper, we present PivotSlice, an interactive visualization technique which provides efficient faceted browsing as well as flexible capabilities to discover data relationships. With the metaphor of direct manipulation, PivotSlice allows the user to visually and logically construct a series of dynamic queries over the data, based on a multi-focus and multi-scale tabular view that subdivides the entire dataset into several meaningful parts with customized semantics. PivotSlice further facilitates the visual exploration and sensemaking process through features including live search and integration of online data, graphical interaction histories and smoothly animated visual state transitions. We evaluated PivotSlice through a qualitative lab study with university researchers and report the findings from our observations and interviews. We also demonstrate the effectiveness of PivotSlice using a scenario of exploring a repository of information visualization literature.
+vis citations:
+amar_infovis_05
+cao_infovis_10
+doerk_infovis_12
+hadlak_infovis_11
+heer_infovis_08
+kang_vast_06
+liu_vast_11
+shneiderman_infovis_06
+stolte_infovis_00
+vanham1_infovis_09
+viau_infovis_10

@@ -1,0 +1,7 @@
+title: Exploded View Diagrams of Mathematical Surfaces
+authors: Olga Karpenko, Wilmot Li, Niloy J. Mitra, Maneesh Agrawala
+abstract: We present a technique for visualizing complicated mathematical surfaces that is inspired by hand-designed topological illustrations. Our approach generates exploded views that expose the internal structure of such a surface by partitioning it into parallel slices, which are separated from each other along a single linear explosion axis. Our contributions include a set of simple, prescriptive design rules for choosing an explosion axis and placing cutting planes, as well as automatic algorithms for applying these rules. First we analyze the input shape to select the explosion axis based on the detected rotational and reflective symmetries of the input model. We then partition the shape into slices that are designed to help viewers better understand how the shape of the surface and its cross-sections vary along the explosion axis. Our algorithms work directly on triangle meshes, and do not depend on any specific parameterization of the surface. We generate exploded views for a variety of mathematical surfaces using our system.
+vis citations:
+bruckner_vis_05
+bruckner_vis_06
+mcguffin_vis_03

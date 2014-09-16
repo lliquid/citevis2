@@ -1,0 +1,4 @@
+title: Animated Exploration of Dynamic Graphs with Radial Layout
+authors: Ka-Ping Yee, Danyel Fisher, Rachna Dhamija, Marti Hearst
+abstract: We describe a new animation technique for supporting interactive exploration of a graph. We use the wellknown radial tree layout method, in which the view is determined by the selection of a focus node. Our main contribution is a method for animating the transition to a new layout when a new focus node is selected. In order to keep the transition easy to follow, the animation linearly interpolates the polar coordinates of the nodes, while enforcing ordering and orientation constraints. We apply this technique to visualizations of social networks and of the Gnutella file-sharing network, and discuss the results from our informal usability tests.
+vis citations:

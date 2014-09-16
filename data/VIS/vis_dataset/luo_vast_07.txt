@@ -1,0 +1,8 @@
+title: Analyzing Large-Scale News Video Databases to Support Knowledge Visualization and Intuitive Retrieval
+authors: Hangzai Luo, Jianping Fan, Jing Yang, William Ribarsky, Shinichi Satoh
+abstract: In this paper, we have developed a novel framework to enable more effective investigation of large-scale news video database via knowledge visualization. To relieve users from the burdensome exploration of well-known and uninteresting knowledge of news reports, a novel interestingness measurement for video news reports is presented to enable users to find news stories of interest at first glance and capture the relevant knowledge in large-scale video news databases efficiently. Our framework takes advantage of both automatic semantic video analysis and human intelligence by integrating with visualization techniques on semantic video retrieval systems. Our techniques on intelligent news video analysis and knowledge discovery have the capacity to enable more effective visualization and exploration of large-scale news video collections. In addition, news video visualization and exploration can provide valuable feedback to improve our techniques for intelligent news video analysis and knowledge discovery.
+vis citations:
+havre_infovis_00
+hetzler_infovis_98
+luo_vast_06
+mehler_infovis_06

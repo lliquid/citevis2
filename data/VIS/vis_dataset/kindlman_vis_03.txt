@@ -1,0 +1,8 @@
+title: Curvature-Based Transfer Functions for Direct Volume Rendering: Methods and Applications
+authors: Gordon Kindlmann, Ross Whitaker, Tolga Tasdizen, Torsten M??ller
+abstract: Direct volume rendering of scalar fields uses a transfer function to map locally measured data properties to opacities and colors. The domain of the transfer function is typically the one-dimensional space of scalar data values. This paper advances the use of curvature information in multi-dimensional transfer functions, with a methodology for computing high-quality curvature measurements. The proposed methodology combines an implicit formulation of curvature with convolution-based reconstruction of the field. We give concrete guidelines for implementing the methodology, and illustrate the importance of choosing accurate filters for computing derivatives with convolution. Curvature-based transfer functions are shown to extend the expressivity and utility of volume rendering through contributions in three different application areas: nonphotorealistic volume rendering, surface smoothing via anisotropic diffusion, and visualization of isosurface uncertainty.
+vis citations:
+lu_vis_02
+ebert_vis_00
+tasdizen_vis_02
+treavett_vis_00

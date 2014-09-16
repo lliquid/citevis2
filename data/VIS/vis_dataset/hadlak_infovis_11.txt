@@ -1,0 +1,16 @@
+title: In Situ Exploration of Large Dynamic Networks
+authors: Steffen Hadlak, Hans-J??rg Schulz, Heidrun Schumann
+abstract: The analysis of large dynamic networks poses a challenge in many fields, ranging from large bot-nets to social networks. As dynamic networks exhibit different characteristics, e.g., being of sparse or dense structure, or having a continuous or discrete time line, a variety of visualization techniques have been specifically designed to handle these different aspects of network structure and time. This wide range of existing techniques is well justified, as rarely a single visualization is suitable to cover the entire visual analysis. Instead, visual representations are often switched in the course of the exploration of dynamic graphs as the focus of analysis shifts between the temporal and the structural aspects of the data. To support such a switching in a seamless and intuitive manner, we introduce the concept of in situ visualization  a novel strategy that tightly integrates existing visualization techniques for dynamic networks. It does so by allowing the user to interactively select in a base visualization a region for which a different visualization technique is then applied and embedded in the selection made. This permits to change the way a locally selected group of data items, such as nodes or time points, are shown  right in the place where they are positioned, thus supporting the user???s overall mental map. Using this approach, a user can switch seamlessly between different visual representations to adapt a region of a base visualization to the specifics of the data within it or to the current analysis focus. This paper presents and discusses the in situ visualization strategy and its implications for dynamic graph visualization. Furthermore, it illustrates its usefulness by employing it for the visual exploration of dynamic networks from two different fields: model versioning and wireless mesh networks.
+vis citations:
+brandes_infovis_02
+frishman_infovis_04
+gansner_infovis_04
+henry_infovis_07
+maceachr_infovis_03
+mcguf_infovis_09
+olston_infovis_00
+saraiya_infovis_05
+shneiderman_infovis_06
+tu_infovis_07
+tu_infovis_08
+van_ham_infovis_02

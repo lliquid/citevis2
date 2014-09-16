@@ -1,0 +1,10 @@
+title: Visualizing Coordination In Situ
+authors: Chris Weaver
+abstract: Exploratory visualization environments allow users to build and browse coordinated multiview visualizations interactively. As the number of views and amount of coordination increases, conceptualizing coordination structure becomes more and more important for successful data exploration.Integrated metavisualization is exploratory visualization of coordination and other interactive structure directly inside a visualization???s own user interface. This paper presents a model of integrated metavisualization, describes the problem of capturing dynamic interface structure as visualizable data, and outlines three general approaches to integration. Metavisualization has been implemented in Improvise, using views, lenses, and embedding to reveal the dynamic structure of its own highly-coordinated visualizations.
+vis citations:
+chi_infovis_00
+fekete_infovis_04
+keahey_infovis_02
+north_infovis_02
+stolte_infovis_02
+weaver_infovis_04

@@ -1,0 +1,5 @@
+title: Generating Realistic Images from Hydrothermal Plume Data
+authors: K. Santilli, K. Bemis, D. Silver, J. Dastur, P. Rona
+abstract: Most data used in the study of seafloor hydrothermal plumes consists of sonar (acoustic) scans and sensor readings. Visual data captures only a portion of the sonar data range due to the prohibitive cost and physical infeasibility of taking sufficient lighting and video equipment to such extreme depths. However, visual images are available from research dives and from the recent IMAX movie, Volcanoes of the Deep Sea. In this application paper, we apply existing lighting models with forward scattering and light attenuation to the 3D sonar data in order to mimic the visual images available. These generated images are compared to existing visual images. This can help the geoscientists understand the relationship between these different data modalities and elucidate some of the mechanisms used to capture the data.
+vis citations:
+riley_vis_03

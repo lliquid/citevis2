@@ -1,0 +1,5 @@
+title: Hardware-Accelerated 3D Visualization of Mass Spectrometry Data
+authors: Jose de Corral, Hanspeter Pfister
+abstract: We present a system for three-dimensional visualization of complex Liquid Chromatography  Mass Spectrometry (LCMS) data. Every LCMS data point has three attributes: time, mass, and intensity. Instead of the traditional visualization of two-dimensional subsets of the data, we visualize it as a height field or terrain in 3D. Unlike traditional terrains, LCMS data has non-linear sampling and consists mainly of tall needle-like features. We adapt the level-of-detail techniques of geometry clipmaps for hardware-accelerated rendering of LCMS data. The data is cached in video memory as a set of nested rectilinear grids centered about the view frustum. We introduce a simple compression scheme and dynamically stream data from the CPU to the GPU as the viewpoint moves. Our system allows interactive investigation of complex LCMS data with close to one billion data points at up to 130 frames per second, depending on the view conditions.
+vis citations:
+hoppe_vis_98

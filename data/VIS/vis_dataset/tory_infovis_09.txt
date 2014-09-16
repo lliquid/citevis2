@@ -1,0 +1,10 @@
+title: Comparing Dot and Landscape Spatializations for Visual Memory Differences
+authors: Melanie Tory, Colin Swindells, Rebecca Dreezer
+abstract: Spatialization displays use a geographic metaphor to arrange non-spatial data. For example, spatializations are commonly applied to document collections so that document themes appear as geographic features such as hills. Many common spatialization interfaces use a 3-D landscape metaphor to present data. However, it is not clear whether 3-D spatializations afford improved speed and accuracy for user tasks compared to similar 2-D spatializations. We describe a user study comparing users??? ability to remember dot displays, 2-D landscapes, and 3-D landscapes for two different data densities (500 vs. 1000 points). Participants??? visual memory was statistically more accurate when viewing dot displays and 3-D landscapes compared to 2-D landscapes. Furthermore, accuracy remembering a spatialization was significantly better overall for denser spatializations. These results are of benefit to visualization designers who are contemplating the best ways to present data using spatialization techniques.
+vis citations:
+granitze_infovis_04
+nowell_infovis_01
+nowell_infovis_02
+tavanti_infovis_01
+tory_infovis_07
+williams_infovis_04

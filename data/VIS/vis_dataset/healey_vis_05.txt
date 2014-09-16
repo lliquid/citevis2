@@ -1,0 +1,4 @@
+title: Visualizing Data with Motion
+authors: Daniel E. Huber, Christopher G. Healey
+abstract: This paper describes an experimental study of three perceptual properties of motion: flicker, direction, and velocity. Our goal is to understand how to apply these properties to represent data in a visualization environment. Results from our experiments show that all three properties can encode multiple data values, but that minimum visual differences are needed to ensure rapid and accurate target detection: flicker must be coherent and must have a cycle length of 120 milliseconds or greater, direction must differ by at least 20???, and velocity must differ by at least 0.43??? of subtended visual angle. We conclude with an overview of how we are applying our results to real-world data, then discuss future work we plan to pursue.
+vis citations:

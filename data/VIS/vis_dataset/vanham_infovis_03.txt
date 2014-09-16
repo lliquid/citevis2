@@ -1,0 +1,6 @@
+title: Using Multilevel Call Matrices in Large Software Projects
+authors: Frank van Ham
+abstract: Traditionally, node link diagrams are the prime choice when it comes to visualizing software architectures. However, node link diagrams often fall short when used to visualize large graph structures. In this paper we investigate the use of call matrices as visual aids in the management of large software projects. We argue that call matrices have a number of advantages over traditional node link diagrams when the main object of interest is the link instead of the node. Matrix visualizations can provide stable and crisp layouts of large graphs and are inherently well suited for large multilevel visualizations because of their recursive structure. We discuss a number of visualization issues, using a very large software project currently under development at Philips Medical Systems as a running example.
+vis citations:
+stolte_infovis_02
+vanwijk_infovis_03

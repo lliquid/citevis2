@@ -1,0 +1,15 @@
+title: Analyst???s Workspace: An Embodied Sensemaking Environment For Large, High-Resolution Displays
+authors: Christopher Andrews, Chris North
+abstract: Distributed cognition and embodiment provide compelling models for how humans think and interact with the environment. Our examination of the use of large, high-resolution displays from an embodied perspective has lead directly to the development of a new sensemaking environment called Analyst???s Workspace (AW). AW leverages the embodied resources made more accessible through the physical nature of the display to create a spatial workspace. By combining spatial layout of documents and other artifacts with an entity-centric, explorative investigative approach, AW aims to allow the analyst to externalize elements of the sensemaking process as a part of the investigation, integrated into the visual representations of the data itself. In this paper, we describe the various capabilities of AW and discuss the key principles and concepts underlying its design, emphasizing unique design principles for designing visual analytic tools for large, high-resolution displays.
+vis citations:
+bier_vast_08
+eccles_vast_07
+endert_vast_11
+isenberg_vast_10
+kang_vast_09
+kang_vast_11
+kapler_infovis_04
+liu_infovis_08
+robinson_vast_08
+stasko_vast_07
+yost_infovis_06

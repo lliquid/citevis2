@@ -1,0 +1,11 @@
+title: Stacking-Based Visualization of Trajectory Attribute Data
+authors: Christian Tominski, Heidrun Schumann, Gennady Andrienko, Natalia Andrienko
+abstract: Visualizing trajectory attribute data is challenging because it involves showing the trajectories in their spatio-temporal context as well as the attribute values associated with the individual points of trajectories. Previous work on trajectory visualization addresses selected aspects of this problem, but not all of them. We present a novel approach to visualizing trajectory attribute data. Our solution covers space, time, and attribute values. Based on an analysis of relevant visualization tasks, we designed the visualization solution around the principle of stacking trajectory bands. The core of our approach is a hybrid 2D/3D display. A 2D map serves as a reference for the spatial context, and the trajectories are visualized as stacked 3D trajectory bands along which attribute values are encoded by color. Time is integrated through appropriate ordering of bands and through a dynamic query mechanism that feeds temporally aggregated information to a circular time display. An additional 2D time graph shows temporal information in full detail by stacking 2D trajectory bands. Our solution is equipped with analytical and interactive mechanisms for selecting and ordering of trajectories, and adjusting the color mapping, as well as coordinated highlighting and dedicated 3D navigation. We demonstrate the usefulness of our novel visualization by three examples related to radiation surveillance, traffic analysis, and maritime navigation. User feedback obtained in a small experiment indicates that our hybrid 2D/3D solution can be operated quite well.
+vis citations:
+andrienk_vast_11
+crnovrsa_vast_09
+kapler_infovis_04
+liu2_vast_11
+dang_infovis_10
+saito_infovis_05
+tominski_infovis_12

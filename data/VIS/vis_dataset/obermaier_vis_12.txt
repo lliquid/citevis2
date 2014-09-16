@@ -1,0 +1,15 @@
+title: Derived Metric Tensors for Flow Surface Visualization
+authors: Harald Obermaier, Kenneth I. Joy
+abstract: Integral flow surfaces constitute a widely used flow visualization tool due to their capability to convey important flow information such as fluid transport, mixing, and domain segmentation. Current flow surface rendering techniques limit their expressiveness, however, by focusing virtually exclusively on displacement visualization, visually neglecting the more complex notion of deformation such as shearing and stretching that is central to the field of continuum mechanics. To incorporate this information into the flow surface visualization and analysis process, we derive a metric tensor field that encodes local surface deformations as induced by the velocity gradient of the underlying flow field. We demonstrate how properties of the resulting metric tensor field are capable of enhancing present surface visualization and generation methods and develop novel surface querying, sampling, and visualization techniques. The provided results show how this step towards unifying classic flow visualization and more advanced concepts from continuum mechanics enables more detailed and improved flow analysis.
+vis citations:
+born_vis_10
+burger_vis_09
+palke_vis_11
+garth_vis_07
+garth_vis_08
+hotz_vis_04
+hummel_vis_10
+kindlman_vis_06
+krishnan_vis_09
+sadlo_vis_07
+vonfunck_vis_08

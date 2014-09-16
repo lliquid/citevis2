@@ -1,0 +1,5 @@
+title: Smoke Surfaces: An Interactive Flow Visualization Technique Inspired by Real-World Flow Experiments
+authors: Wolfram von Funck, Tino Weinkauf, Holger Theisel, Hans-Peter Seidel
+abstract: Smoke rendering is a standard technique for flow visualization. Most approaches are based on a volumetric, particle based, or image based representation of the smoke. This paper introduces an alternative representation of smoke structures: as semi-transparent streak surfaces. In order to make streak surface integration fast enough for interactive applications, we avoid expensive adaptive retriangulations by coupling the opacity of the triangles to their shapes. This way, the surface shows a smoke-like look even in rather turbulent areas. Furthermore, we show modifications of the approach to mimic smoke nozzles, wool tufts, and time surfaces. The technique is applied to a number of test data sets.
+vis citations:
+scheuermann_vis_01

@@ -1,0 +1,4 @@
+title: Visualizing the Performance of Computational Linguistics Algorithms
+authors: Stephen G. Eick, Justin Mauger, Alan Ratner
+abstract: We have built a visualization system and analysis portal for evaluating the performance of computational linguistics algorithms. Our system focuses on algorithms that classify and cluster documents by assigning weights to words and scoring each document against high dimensional reference concept vectors. The visualization and algorithm analysis techniques include Confusion Matrices, ROC Curves, Document Visualizations showing word importance, and Interactive Reports. One of the unique aspects of our system is that the visualizations are thinclient web-based components built using SVG visualization components.
+vis citations:

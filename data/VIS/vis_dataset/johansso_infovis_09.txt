@@ -1,0 +1,12 @@
+title: Interactive Dimensionality Reduction Through User-defined Combinations of Quality Metrics
+authors: Sara Johansson, Jimmy Johansson
+abstract: Multivariate data sets including hundreds of variables are increasingly common in many application areas. Most multivariate visualization techniques are unable to display such data effectively, and a common approach is to employ dimensionality reduction prior to visualization. Most existing dimensionality reduction systems focus on preserving one or a few significant structures in data. For many analysis tasks, however, several types of structures can be of high significance and the importance of a certain structure compared to the importance of another is often task-dependent. This paper introduces a system for dimensionality reduction by combining user-defined quality metrics using weight functions to preserve as many important structures as possible. The system aims at effective visualization and exploration of structures within large multivariate data sets and provides enhancement of diverse structures by supplying a range of automatic variable orderings. Furthermore it enables a quality-guided reduction of variables through an interactive display facilitating investigation of trade-offs between loss of structure and the number of variables to keep. The generality and interactivity of the system is demonstrated through a case scenario.
+vis citations:
+cui_infovis_06
+paulovic_infovis_08
+peng_infovis_04
+seo_infovis_04
+wilkinso_infovis_05
+williams_infovis_04
+yang_infovis_04
+yang_infovis_03

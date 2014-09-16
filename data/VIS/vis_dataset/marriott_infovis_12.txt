@@ -1,0 +1,6 @@
+title: Memorability of Visual Features in Network Diagrams
+auhors: Kim Marriott, Helen Purchase, Michael Wybrow, Cagatay Goncu
+abstract: We investigate the cognitive impact of various layout features???symmetry, alignment, collinearity, axis alignment and orthogonality???on the recall of network diagrams (graphs). This provides insight into how people internalize these diagrams and what features should or shouldn???t be utilised when designing static and interactive network-based visualisations. Participants were asked to study, remember, and draw a series of small network diagrams, each drawn to emphasise a particular visual feature. The visual features were based on existing theories of perception, and the task enabled visual processing at the visceral level only. Our results strongly support the importance of visual features such as symmetry, collinearity and orthogonality, while not showing any significant impact for node-alignment or parallel edges.
+vis citations:
+dwyer_infovis_09
+vanham_infovis_08

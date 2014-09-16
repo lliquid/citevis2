@@ -1,0 +1,6 @@
+title: Mapping High-Fidelity Volume Rendering for Medical Imaging to CPU, GPU and Many-Core Architectures
+authors: Mikhail Smelyanskiy, David Holmes, Jatin Chhugani, Alan Larson, Douglas M. Carmean, Dennis Hanson, Pradeep Dubey, Kurt Augustine, Daehyun Kim, Alan Kyker, Victor W. Lee, Anthony D. Nguyen, Larry Seiler, Richard Robb
+abstract: Medical volumetric imaging requires high fidelity, high performance rendering algorithms. We motivate and analyze new volumetric rendering algorithms that are suited to modern parallel processing architectures. First, we describe the three major categories of volume rendering algorithms and confirm through an imaging scientist-guided evaluation that ray-casting is the most acceptable. We describe a thread and data-parallel implementation of ray-casting that makes it amenable to key architectural trends of three modern commodity parallel architectures: multi-core, GPU, and an upcoming many-core Intel ?? architecture code-named Larrabee. We achieve more than an order of magnitude performance improvement on a number of large 3D medical datasets. We further describe a data compression scheme that significantly reduces data-transfer overhead. This allows our approach to scale well to large numbers of Larrabee cores.
+vis citations:
+krueger_vis_03
+mueller_vis_98

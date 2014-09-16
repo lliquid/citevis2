@@ -1,0 +1,8 @@
+title: Topological Visualization of Brain Diffusion MRI Data
+authors: Thomas Schultz, Holger Theisel, Hans-Peter Seidel
+abstract: Topological methods give concise and expressive visual representations of flow fields. The present work suggests a comparable method for the visualization of human brain diffusion MRI data. We explore existing techniques for the topological analysis of generic tensor fields, but find them inappropriate for diffusion MRI data. Thus, we propose a novel approach that considers the asymptotic behavior of a probabilistic fiber tracking method and define analogs of the basic concepts of flow topology, like critical points, basins, and faces, with interpretations in terms of brain anatomy. The resulting features are fuzzy, reflecting the uncertainty inherent in any connectivity estimate from diffusion imaging. We describe an algorithm to extract the new type of features, demonstrate its robustness under noise, and present results for two regions in a diffusion MRI dataset to illustrate that the method allows a meaningful visual analysis of probabilistic fiber tracking results.
+vis citations:
+blaas_vis_05
+enders_vis_05
+weinstei_vis_99
+zhengtop_vis_05

@@ -1,0 +1,13 @@
+title: Evaluation of Filesystem Provenance Visualization Tools
+authors: Michelle A. Borkin, Chelsea S. Yeh, Madelaine Boyd, Peter Macko, Krzysztof Z. Gajos, Margo Seltzer, Hanspeter Pfister
+abstract: Having effective visualizations of filesystem provenance data is valuable for understanding its complex hierarchical structure. The most common visual representation of provenance data is the node-link diagram. While effective for understanding local activity, the node-link diagram fails to offer a high-level summary of activity and inter-relationships within the data. We present a new tool, InProv, which displays filesystem provenance with an interactive radial-based tree layout. The tool also utilizes a new time-based hierarchical node grouping method for filesystem provenance data we developed to match the user???s mental model and make data exploration more intuitive. We compared InProv to a conventional node-link based tool, Orbiter, in a quantitative evaluation with real users of filesystem provenance data including provenance data experts, IT professionals, and computational scientists. We also compared in the evaluation our new node grouping method to a conventional method. The results demonstrate that InProv results in higher accuracy in identifying system activity than Orbiter with large complex data sets. The results also show that our new time-based hierarchical node grouping method improves performance in both tools, and participants found both tools significantly easier to use with the new time-based node grouping method. Subjective measures show that participants found InProv to require less mental activity, less physical activity, less work, and is less stressful to use. Our study also reveals one of the first cases of gender differences in visualization; both genders had comparable performance with InProv, but women had a significantly lower average accuracy (56%) compared to men (70%) with Orbiter.
+vis citations:
+abello_infovis_06
+amar_infovis_05
+bavoil_vis_05
+gansner_infovis_04
+ghoniem_infovis_04
+gou_infovis_11
+kumar_infovis_06
+livnat_infovis_05
+meyer_infovis_09

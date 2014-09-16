@@ -1,0 +1,6 @@
+title: Extensions of the Zwart-Powell Box Spline for Volumetric Data Reconstruction on the Cartesian Lattice
+authors: Alireza Entezari, Torsten M??ller
+abstract: In this article we propose a box spline and its variants for reconstructing volumetric data sampled on the Cartesian lattice. In particular we present a tri-variate box spline reconstruction kernel that is superior to tensor product reconstruction schemes in terms of recovering the proper Cartesian spectrum of the underlying function. This box spline produces a C2 reconstruction that can be considered as a three dimensional extension of the well known Zwart-Powell element in 2D. While its smoothness and approximation power are equivalent to those of the tri-cubic B-spline, we illustrate the superiority of this reconstruction on functions sampled on the Cartesian lattice and contrast it to tensor product B-splines. Our construction is validated through a Fourier domain analysis of the reconstruction behavior of this box spline. Moreover, we present a stable method for evaluation of this box spline by means of a decomposition. Through a convolution, this decomposition reduces the problem to evaluation of a four directional box spline that we previously published in its explicit closed form [8].
+vis citations:
+entezari_vis_04
+qiao_vis_05

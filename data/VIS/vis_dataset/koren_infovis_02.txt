@@ -1,0 +1,5 @@
+title: ACE: A Fast Multiscale Eigenvectors Computation for Drawing Huge Graphs
+authors: Yehuda Koren, Liran Carmel, David Harel
+abstract: We present an extremely fast graph drawing algorithm for very large graphs, which we term ACE (for Algebraic multigrid Computation of Eigenvectors). ACE exhibits an improvement of something like two orders of magnitude over the fastest algorithms we are aware of; it draws graphs of millions of nodes in less than a minute. ACE finds an optimal drawing by minimizing a quadratic energy function. The minimization problem is expressed as a generalized eigenvalue problem, which is rapidly solved using a novel algebraic multigrid technique. The same generalized eigenvalue problem seems to come up also in other fields, hence ACE appears to be applicable outside of graph drawing too.
+vis citations:
+koren_infovis_02

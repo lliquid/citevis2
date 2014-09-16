@@ -1,0 +1,4 @@
+title: An Interactive View for Hierarchical Clustering
+authors: Graham J Wills
+abstract: This paper describes a visualization of a general hierarchical clustering algorithm that allows the user to manipulate the number of classes produced by the clustering method without requiring a radical re-drawing of the clustering tree. The visual method used, a space-filling recursive division of a rectangular area, keeps the items under consideration at the same screen position even while the number of classes is under interactive control. As well as presenting a compact representation of the clustering with different cluster numbers, this method is particularly useful in a linked views environment where additional information can be added to a display to encode other information, without this added level of detail being perturbed when changes are made to the number of clusters.
+vis citations:

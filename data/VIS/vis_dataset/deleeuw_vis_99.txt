@@ -1,0 +1,4 @@
+title: Collapsing Flow Topology Using Area Metrics
+authors: Wim de Leeuw, Robert van Liere
+abstract: Visualization of topological information of a vector field can provide useful information on the structure of the field. However, in turbulent flows standard critical point visualization will result in a cluttered image which is difficult to interpret. This paper presents a technique for collapsing topologies. The governing idea is to classify the importance of the critical points in the topology. By only displaying the more important critical points, a simplified depiction of the topology can be provided. Flow consistency is maintained when collapsing the topology, resulting in a visualization which is consistent with the original topology. We apply the collapsing topology technique to a turbulent flow field.
+vis citations:

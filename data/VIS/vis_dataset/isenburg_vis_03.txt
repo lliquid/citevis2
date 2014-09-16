@@ -1,0 +1,9 @@
+title: Large Mesh Simplification using Processing Sequences
+authors: Martin Isenburg, Peter Lindstrom, Stefan Gumhold, Jack Snoeyink, Lawrence Livermore
+abstract: In this paper we show how out-of-core mesh processing techniques can be adapted to perform their computations based on the new processing sequence paradigm [Isenburg and Gumhold 2003; Isenburg et al. 2003], using mesh simplification as an example. We believe that this processing concept will also prove useful for other tasks, such as parameterization, remeshing, or smoothing, for which currently only in-core solutions exist.A processing sequence represents a mesh as a particular interleaved ordering of indexed triangles and vertices. This representation allows streaming very large meshes through main memory while maintaining information about the visitation status of edges and vertices. At any time, only a small portion of the mesh is kept in-core, with the bulk of the mesh data residing on disk. Mesh access is restricted to a fixed traversal order, but full connectivity and geometry information is available for the active elements of the traversal. This provides seamless and highly efficient out-ofcore access to very large meshes for algorithms that can adapt their computations to this fixed ordering.The two abstractions that are naturally supported by this representation are boundary-based and buffer-based processing. We illustrate both abstractions by adapting two different simplification methods to perform their computation using a prototype of our mesh processing sequence API. Both algorithms benefit from using processing sequences in terms of improved quality, more efficient execution, and smaller memory footprints.
+vis citations:
+garland_vis_02
+ho_vis_01
+hoppe_vis_98
+lindstrom01_vis_01
+shaffer_vis_01

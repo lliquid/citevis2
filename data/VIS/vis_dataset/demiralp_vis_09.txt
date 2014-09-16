@@ -1,0 +1,4 @@
+title: Coloring 3D Line Fields Using Boy???s Real Projective Plane Immersion
+authors: Cagatay Demiralp, John F. Hughes, David H. Laidlaw
+abstract: We introduce a new method for coloring 3D line fields and show results from its application in visualizing orientation in DTI brain data sets. The method uses Boy???s surface, an immersion of RP2 in 3D. This coloring method is smooth and one-to-one except on a set of measure zero, the double curve of Boy???s surface.
+vis citations:

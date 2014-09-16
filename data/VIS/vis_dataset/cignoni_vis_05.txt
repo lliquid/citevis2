@@ -1,0 +1,8 @@
+title: Batched Multi Triangulation
+authors: Paolo Cignoni, Fabio Ganovelli, Enrico Gobbetti, Fabio Marton
+abstract: The Multi Triangulation framework (MT) is a very general approach for managing adaptive resolution in triangle meshes. The key idea is arranging mesh fragments at different resolution in a Directed Acyclic Graph (DAG) which encodes the dependencies between fragments, thereby encompassing a wide class of multiresolution approaches that use hierarchies or DAGs with predefined topology. On current architectures, the classic MT is however unfit for real-time rendering, since DAG traversal costs vastly dominate raw rendering costs. In this paper, we redesign the MT framework in a GPU friendly fashion, moving its granularity from triangles to precomputed optimized triangle patches. The patches can be conveniently tri-stripped and stored in secondary memory to be loaded on demand, ready to be sent to the GPU using preferential paths. In this manner, central memory only contains the DAG structure and CPU workload becomes negligible. The major contributions of this work are: a new out-of-core multiresolution framework, that, just like the MT, encompasses a wide class of multiresolution structures; a robust and elegant way to build a well conditioned MT DAG by introducing the concept of V partitions, that can encompass various state of the art multiresolution algorithms; an efficient multithreaded rendering engine and a general subsystem for the external memory processing and simplification of huge meshes.
+vis citations:
+decoro_vis_02
+hoppe_vis_98
+levenber_vis_02
+yoon_vis_04

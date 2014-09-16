@@ -1,0 +1,7 @@
+title: MoireGraphs: Radial Focus+Context Visualization and Interaction for Graphs with Visual Nodes
+authors: T.J. Jankun-Kelly, Kwan-Liu Ma
+abstract: Graph and tree visualization techniques enable interactive exploration of complex relations while communicating topology. However, most existing techniques have not been designed for situations where visual information such as images is also present at each node and must be displayed. This paper presents MoireGraphs to address this need. MoireGraphs combine a new focus+context radial graph layout with a suite of interaction techniques (focus strength changing, radial rotation, level highlighting, secondary foci, animated transitions and node information) to assist in the exploration of graphs with visual nodes. The method is scalable to hundreds of displayed visual nodes.
+vis citations:
+stasko_infovis_00
+yang_infovis_02
+yee_infovis_01

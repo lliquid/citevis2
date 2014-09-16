@@ -1,0 +1,11 @@
+title: Visual Pattern Discovery using Random Projections
+authors: Anushka Anand, Leland Wilkinson, Tuan Nhon Dang
+abstract: An essential element of exploratory data analysis is the use of revealing low-dimensional projections of high-dimensional data. Projection Pursuit has been an effective method for finding interesting low-dimensional projections of multidimensional spaces by optimizing a score function called a projection pursuit index. However, the technique is not scalable to high-dimensional spaces. Here, we introduce a novel method for discovering noteworthy views of high-dimensional data spaces by using binning and random projections. We define score functions, akin to projection pursuit indices, that characterize visual patterns of the low-dimensional projections that constitute feature subspaces. We also describe an analytic, multivariate visualization platform based on this algorithm that is scalable to extremely large problems.
+vis citations:
+albuquer_vast_10
+albuquer_vast_11
+choo_vast_09
+ingram_vast_10
+stasko_vast_07
+turkay_infovis_11
+wilkinso_infovis_05

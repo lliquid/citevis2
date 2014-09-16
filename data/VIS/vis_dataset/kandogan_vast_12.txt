@@ -1,0 +1,15 @@
+title: Just-in-Time Annotation of Clusters, Outliers, and Trends in Point-based Data Visualizations
+authors: Eser Kandogan
+abstract: We introduce the concept of just-in-time descriptive analytics as a novel application of computational and statistical techniques performed at interaction-time to help users easily understand the structure of data as seen in visualizations. Fundamental to just-intime descriptive analytics is (a) identifying visual features, such as clusters, outliers, and trends, user might observe in visualizations automatically, (b) determining the semantics of such features by performing statistical analysis as the user is interacting, and (c) enriching visualizations with annotations that not only describe semantics of visual features but also facilitate interaction to support high-level understanding of data. In this paper, we demonstrate just-in-time descriptive analytics applied to a point-based multi-dimensional visualization technique to identify and describe clusters, outliers, and trends. We argue that it provides a novel user experience of computational techniques working alongside of users allowing them to build faster qualitative mental models of data by demonstrating its application on a few use-cases. Techniques used to facilitate just-in-time descriptive analytics are described in detail along with their runtime performance characteristics. We believe this is just a starting point and much remains to be researched, as we discuss open issues and opportunities in improving accessibility and collaboration.
+vis citations:
+peng_infovis_04
+seo_infovis_04
+joia_infovis_11
+bertini_infovis_11
+johansso_infovis_09
+yang_infovis_03
+schneidewind_vast_06
+tatu_vast_09
+ankerst_infovis_98
+wilkinso_infovis_05
+chen_vast_10

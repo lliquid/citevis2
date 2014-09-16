@@ -1,0 +1,6 @@
+title: Parallel Sets: Visual Analysis of Categorical Data
+authors: Fabian Bendix, Robert Kosara, Helwig Hauser
+abstract: The discrete nature of categorical data makes it a particular challenge for visualization. Methods that work very well for continuous data are often hardly usable with categorical dimensions. Only few methods deal properly with such data, mostly because of the discrete nature of categorical data, which does not translate well into the continuous domains of space and color.Parallel Sets is a new visualization method that adopts the layout of parallel coordinates, but substitutes the individual data points by a frequency-based representation. This abstracted view, combined with a set of carefully designed interactions, supports visual data analysis of large and complex data sets. The technique allows efficient work with meta data, which is particularly important when dealing with categorical datasets. By creating new dimensions from existing ones, for example, the user can filter the data according to his or her current needs.We also present the results from an interactive analysis of CRM data using Parallel Sets. We demonstrate how the flexible layout eases the process of knowledge crystallization, especially when combined with a sophisticated interaction scheme.
+vis citations:
+hauser_infovis_02
+rosario_infovis_03

@@ -1,0 +1,4 @@
+title: Technical Note: Visually Encoding Program Test Information to Find Faults in Software
+authors: James Eagan, Mary Jean Harrold, James A. Jones, John Stasko
+abstract: Large test suites are frequently used to evaluate software systems and to locate errors. Unfortunately, this process can generate a huge amount of data that is difficult to interpret manually. We have created a system, TARANTULA, that visually encodes test data to help find program errors. The system uses a principled color mapping to represent how source lines act in passed and failed tests. It also provides a flexible user interface for examining different perspectives that show the behavior of the source code on test sets, rangingfrom individual tests, to important subsets such as the set offailed tests, to the entire test suite.
+vis citations:

@@ -1,0 +1,14 @@
+title: Product Plots
+authors: Hadley Wickham, Heike Hofmann
+abstract: We propose a new framework for visualising tables of counts, proportions and probabilities. We call our framework product plots, alluding to the computation of area as a product of height and width, and the statistical concept of generating a joint distribution from the product of conditional and marginal distributions. The framework, with extensions, is sufficient to encompass over 20 visualisations previously described in fields of statistical graphics and infovis, including bar charts, mosaic plots, treemaps, equal area plots and fluctuation diagrams.
+vis citations:
+wilkinso_infovis_05
+mackinlay_infovis_07
+slingsby_infovis_09
+stolte_infovis_02
+vliegen_infovis_06
+kong_infovis_10
+diehl_infovis_10
+stasko_infovis_00
+wattensp_infovis_05
+balzer_infovis_05

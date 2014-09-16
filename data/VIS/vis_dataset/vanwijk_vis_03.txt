@@ -1,0 +1,9 @@
+title: Image Based Flow Visualization for Curved Surfaces
+authors: Jarke J. van Wijk
+abstract: A new method for the synthesis of dense, vectorfield aligned textures on curved surfaces is presented, called IBFVS. The method is based on Image Based Flow Visualization (IBFV). In IBFV twodimensional animated textures are produced by defining each frame of a flow animation as a blend between a warped version of the previous image and a number of filtered white noise images. We produce flow aligned texture on arbitrary three-dimensional triangle meshes in the same spirit as the original method: Texture is generated directly in image space. We show that IBFVS is efficient and effective. High performance (typically fifty frames or more per second) is achieved by exploiting graphics hardware. Also, IBFVS can easily be implemented and a variety of effects can be achieved. Applications are flow visualization and surface rendering. Specifically, we show how to visualize the wind field on the earth and how to render a dirty bronze bunny.
+vis citations:
+jobard_vis_00
+jobard_vis_01
+lum_vis_02
+peikert_vis_99
+telea_vis_03

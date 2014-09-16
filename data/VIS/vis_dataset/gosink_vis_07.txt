@@ -1,0 +1,9 @@
+title: Variable Interactions in Query-Driven Visualization
+authors: Luke J. Gosink, John C. Anderson, E. Wes Bethel, Kenneth I. Joy
+abstract: Our ability to generate ever-larger, increasingly-complex data, has established the need for scalable methods that identify, and provide insight into, important variable trends and interactions. Query-driven methods are among the small subset of techniques that are able to address both large and highly complex datasets. This paper presents a new method that increases the utility of querydriven techniques by visually conveying statistical information about the trends that exist between variables in a query. In this method, correlation fields, created between pairs of variables, are used with the cumulative distribution functions of variables expressed in a user???s query. This integrated use of cumulative distribution functions and correlation fields visually reveals, with respect to the solution space of the query, statistically important interactions between any three variables, and allows for trends between these variables to be readily identified. We demonstrate our method by analyzing interactions between variables in two flame-front simulations.
+vis citations:
+edelsbru_vis_04
+fua_vis_99
+sauber_vis_06
+stocking_vis_05
+urness_vis_03

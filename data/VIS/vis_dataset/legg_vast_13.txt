@@ -1,0 +1,13 @@
+title: Transformation of an Uncertain Video Search Pipeline to a Sketch-Based Visual Analytics Loop
+authors: Philip A. Legg, David H.S. Chung, Matthew L. Parry, Rhodri Bown, Mark W. Jones, Iwan W. Griffiths, Min Chen
+abstract: Traditional sketch-based image or video search systems rely on machine learning concepts as their core technology. However, in many applications, machine learning alone is impractical since videos may not be semantically annotated sufficiently, there may be a lack of suitable training data, and the search requirements of the user may frequently change for different tasks. In this work, we develop a visual analytics systems that overcomes the shortcomings of the traditional approach. We make use of a sketch-based interface to enable users to specify search requirement in a flexible manner without depending on semantic annotation. We employ active machine learning to train different analytical models for different types of search requirements. We use visualization to facilitate knowledge discovery at the different stages of visual analytics. This includes visualizing the parameter space of the trained model, visualizing the search space to support interactive browsing, visualizing candidature search results to support rapid interaction for active learning while minimizing watching videos, and visualizing aggregated information of the search results. We demonstrate the system for searching spatiotemporal attributes from sports video to identify key instances of the team and player performance.
+vis citations:
+ankerst_infovis_98
+blaas_vis_08
+chen_vis_06
+daniel_vis_03
+dasgupta_infovis_10
+ellis_infovis_06
+hao_vast_07
+parry_vis_11
+tatu_vast_09

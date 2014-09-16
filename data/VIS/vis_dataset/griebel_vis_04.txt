@@ -1,0 +1,10 @@
+title: Flow Field Clustering via Algebraic Multigrid
+authors: M. Griebel, T. Preusser, M. Rumpf, M. A. Schweitzer, A. Telea
+abstract: We present a novel multiscale approach for flow visualization. We define a local alignment tensor that encodes a measure for alignment to the direction of a given flow field. This tensor induces an anisotropic differential operator on the flow domain, which is discretized with a standard finite element technique. The entries of the corresponding stiffness matrix represent the anisotropically weighted couplings of adjacent nodes of the domain mesh. We use an algebraic multigrid algorithm to generate a hierarchy of fine to coarse descriptions for the above coupling data. This hierarchy comprises a set of coarse grid nodes, a multiscale of basis functions and their corresponding supports. We use these supports to obtain a multilevel decomposition of the flow structure. Standard streamline icons are used to visualize this decomposition at any user-selected level of detail. The method provides a single framework for vector field decomposition independent on the domain dimension or mesh type. Applications are shown in 2D, for flow fields on curved surfaces, and for 3D volumetric flow fields.
+vis citations:
+ebling_vis_03
+heckel_vis_99
+telea_vis_03
+telea_vis_99
+tricoche_vis_01
+vanwijk_vis_03

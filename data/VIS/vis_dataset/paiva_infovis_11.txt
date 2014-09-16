@@ -1,0 +1,11 @@
+title: Improved Similarity Trees and their Application to Visual Data Classification
+authors: Jose Gustavo S. Paiva, Laura Florian-Cruz, Helio Pedrini, Guilherme P. Telles, Rosane Minghim
+abstract: An alternative form to multidimensional projections for the visual analysis of data represented in multidimensional spaces is the deployment of similarity trees, such as Neighbor Joining trees. They organize data objects on the visual plane emphasizing their levels of similarity with high capability of detecting and separating groups and subgroups of objects. Besides this similarity-based hierarchical data organization, some of their advantages include the ability to decrease point clutter; high precision; and a consistent view of the data set during focusing, offering a very intuitive way to view the general structure of the data set as well as to drill down to groups and subgroups of interest. Disadvantages of similarity trees based on neighbor joining strategies include their computational cost and the presence of virtual nodes that utilize too much of the visual space. This paper presents a highly improved version of the similarity tree technique. The improvements in the technique are given by two procedures. The first is a strategy that replaces virtual nodes by promoting real leaf nodes to their place, saving large portions of space in the display and maintaining the expressiveness and precision of the technique. The second improvement is an implementation that significantly accelerates the algorithm, impacting its use for larger data sets. We also illustrate the applicability of the technique in visual data mining, showing its advantages to support visual classification of data sets, with special attention to the case of image classification. We demonstrate the capabilities of the tree for analysis and iterative manipulation and employ those capabilities to support evolving to a satisfactory data organization and classification.
+vis citations:
+chenyanh_infovis_09
+cuadros_vast_07
+daniels_vis_10
+paulovic_infovis_08
+paulovic_vis_10
+plaisant_infovis_02
+rodden_infovis_99

@@ -1,0 +1,10 @@
+title: Stacking Graphic Elements to Avoid Over-Plotting
+authors: Tuan Nhon Dang, Leland Wilkinson, Anushka Anand
+abstract: An ongoing challenge for information visualization is how to deal with over-plotting forced by ties or the relatively limited visual field of display devices. A popular solution is to represent local data density with area (bubble plots, treemaps), color (heatmaps), or aggregation (histograms, kernel densities, pixel displays). All of these methods have at least one of three deficiencies: 1) magnitude judgments are biased because area and color have convex downward perceptual functions, 2) area, hue, and brightness have relatively restricted ranges of perceptual intensity compared to length representations, and/or 3) it is difficult to brush or link to individual cases when viewing aggregations. In this paper, we introduce a new technique for visualizing and interacting with datasets that preserves density information by stacking overlapping cases. The overlapping data can be points or lines or other geometric elements, depending on the type of plot. We show real-dataset applications of this stacking paradigm and compare them to other techniques that deal with over-plotting in high-dimensional displays.
+vis citations:
+artero_infovis_04
+bendix_infovis_05
+havre_infovis_00
+heinrich_vis_09
+johansso_infovis_05
+wattenba_infovis_05

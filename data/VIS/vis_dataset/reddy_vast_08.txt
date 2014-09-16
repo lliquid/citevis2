@@ -1,0 +1,5 @@
+title: Generating Hypotheses of Trends in High-Dimensional Data Skeletons
+authors: Chandan K. Reddy, Snehal Pokharkar, Tin Kam Ho
+abstract: We seek an information-revealing representation for highdimensional data distributions that may contain local trends in certain subspaces. Examples are data that have continuous support in simple shapes with identifiable branches. Such data can be represented by a graph that consists of segments of locally fit principal curves or surfaces summarizing each identifiable branch. We describe a new algorithm to find the optimal paths through such a principal graph. The paths are optimal in the sense that they represent the longest smooth trends through the data set, and jointly they cover the data set entirely with minimum overlap. The algorithm is suitable for hypothesizing trends in high-dimensional data, and can assist exploratory data analysis and visualization.
+vis citations:
+nam_vast_07

@@ -1,0 +1,4 @@
+title: Thin Client Visualization
+authors: Stephen G. Eick, M. Andrew Eick, Jesse Fugitt, Brian Horst, Maxim Khailo, Russell A. Lankenau
+abstract: We have developed a Web 2.0 thin client visualization framework called GeoBoostTM. Our framework focuses on geospatial visualization and using Scalable Vector Graphics (SVG), AJAX, RSS and GeoRSS we have built a complete thin client component set. Our component set provides a rich user experience that is completely browser based. It includes maps, standard business charts, graphs, and time-oriented components. The components are live, interactive, linked, and support real time collaboration.
+vis citations:

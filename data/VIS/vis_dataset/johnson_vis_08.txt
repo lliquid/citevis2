@@ -1,0 +1,7 @@
+title: Interactive Visualization and Analysis of Transitional Flow
+authors: Gregory P. Johnson, Victor M. Calo, Kelly P. Gaither
+abstract: A stand-alone visualization application has been developed by a multi-disciplinary, collaborative team with the sole purpose of creating an interactive exploration environment allowing turbulent flow researchers to experiment and validate hypotheses using visualization. This system has specific optimizations made in data management, caching computations, and visualization allowing for the interactive exploration of datasets on the order of 1TB in size. Using this application, the user (co-author Calo) is able to interactively visualize and analyze all regions of a transitional flow volume, including the laminar, transitional and fully turbulent regions. The underlying goal of the visualizations produced from these transitional flow simulations is to localize turbulent spots in the laminar region of the boundary layer, determine under which conditions they form, and follow their evolution. The initiation of turbulent spots, which ultimately lead to full turbulence, was located via a proposed feature detection condition and verified by experimental results. The conditions under which these turbulent spots form and coalesce are validated and presented.
+vis citations:
+ellswort_vis_04
+gao_vis_05
+stocking_vis_05

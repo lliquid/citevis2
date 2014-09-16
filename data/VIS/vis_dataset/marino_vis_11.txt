@@ -1,0 +1,7 @@
+title: Context Preserving Maps of Tubular Structures
+authors: Joseph Marino, Wei Zeng, Xianfeng Gu, Arie Kaufman
+abstract: When visualizing tubular 3D structures, external representations are often used for guidance and display, and such views in 2D can often contain occlusions. Virtual dissection methods have been proposed where the entire 3D structure can be mapped to the 2D plane, though these will lose context by straightening curved sections. We present a new method of creating maps of 3D tubular structures that yield a succinct view while preserving the overall geometric structure. Given a dominant view plane for the structure, its curve skeleton is first projected to a 2D skeleton. This 2D skeleton is adjusted to account for distortions in length, modified to remove intersections, and optimized to preserve the shape of the original 3D skeleton. Based on this shaped 2D skeleton, a boundary for the map of the object is obtained based on a slicing path through the structure and the radius around the skeleton. The sliced structure is conformally mapped to a rectangle and then deformed via harmonic mapping to match the boundary placement. This flattened map preserves the general geometric context of a 3D object in a 2D display, and rendering of this flattened map can be accomplished using volumetric ray casting. We have evaluated our method on real datasets of human colon models.
+vis citations:
+bartoli_vis_01
+hong_vis_06
+zeng_vis_10

@@ -1,0 +1,9 @@
+title: Scatter/Gather Clustering: Flexibly Incorporating User Feedback to Steer Clustering Results
+authors: M. Shahriar Hossain, Praveen Kumar Reddy Ojili, Cindy Grimm, Rolf M??ller, Layne T. Watson, Naren Ramakrishnan
+abstract: Significant effort has been devoted to designing clustering algorithms that are responsive to user feedback or that incorporate prior domain knowledge in the form of constraints. However, users desire more expressive forms of interaction to influence clustering outcomes. In our experiences working with diverse application scientists, we have identified an interaction style scatter/gather clustering that helps users iteratively restructure clustering results to meet their expectations. As the names indicate, scatter and gather are dual primitives that describe whether clusters in a current segmentation should be broken up further or, alternatively, brought back together. By combining scatter and gather operations in a single step, we support very expressive dynamic restructurings of data. Scatter/gather clustering is implemented using a nonlinear optimization framework that achieves both locality of clusters and satisfaction of user-supplied constraints. We illustrate the use of our scatter/gather clustering approach in a visual analytic application to study baffle shapes in the bat biosonar (ears and nose) system. We demonstrate how domain experts are adept at supplying scatter/gather constraints, and how our framework incorporates these constraints effectively without requiring numerous instance-level constraints.
+vis citations:
+andrienk_vast_09
+ankerst_infovis_98
+choo_vast_09
+nam_vast_07
+schreck_vast_08

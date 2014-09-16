@@ -1,0 +1,12 @@
+title: Obvious: A Meta-Toolkit to Encapsulate Information Visualization Toolkits 
+authors: Jean-Daniel Fekete, Pierre-Luc Hemery, Thomas Baudel, Jo Wood
+abstract: This article describes ???Obvious???: a meta-toolkit that abstracts and encapsulates information visualization toolkits implemented in the Java language. It intends to unify their use and postpone the choice of which concrete toolkit(s) to use later-on in the development of visual analytics applications. We also report on the lessons we have learned when wrapping popular toolkits with Obvious, namely Prefuse, the InfoVis Toolkit, partly Improvise, JUNG and other data management libraries. We show several examples on the uses of Obvious, how the different toolkits can be combined, for instance sharing their data models. We also show how Weka and RapidMiner, two popular machine-learning toolkits, have been wrapped with Obvious and can be used directly with all the other wrapped toolkits.We expect Obvious to start a co-evolution process: Obvious is meant to evolve when more components of Information Visualization systems will become consensual. It is also designed to help information visualization systems adhere to the best practices to provide a higher level of interoperability and leverage the domain of visual analytics.
+vis citations:
+bezerian_infovis_10
+bostock_infovis_09
+chi_infovis_98
+fekete_infovis_04
+heer2_infovis_06
+keefe_vis_09
+plaisant_infovis_02
+weaver_infovis_04

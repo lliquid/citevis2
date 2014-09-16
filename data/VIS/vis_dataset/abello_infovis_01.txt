@@ -1,0 +1,5 @@
+title: Graph Sketches
+authors: James Abello, Irene Finocchi, Jeffrey Korn
+abstract: We introduce the notion of Graph Sketches. They can be thought of as visual indices that guide the navigation of a multi-graph too large to fit on the available display. We adhere to the Visual InformationSeeking Mantra: Overview first, zoom and filter, then details on demand. Graph Sketches are incorporated into MGV, an integrated visualization and exploration system for massive multi-digraph navigation. We highlight the main algorithmic and visualization tasks behind the computation of Graph Sketches and illustrate several application scenarios. Graph Sketches will be used to guide the navigation of multi-digraphs defined on vertex sets with sizes ranging from 100 to 250 million vertices.
+vis citations:
+abello_infovis_00

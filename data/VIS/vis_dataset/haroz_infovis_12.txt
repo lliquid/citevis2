@@ -1,0 +1,7 @@
+title: How Capacity Limits of Attention Influence Information Visualization Effectiveness
+authors: Steve Haroz, David Whitney
+abstract: In this paper, we explore how the capacity limits of attention influence the effectiveness of information visualizations. We conducted a series of experiments to test how visual feature type (color vs. motion), layout, and variety of visual elements impacted user performance. The experiments tested users??? abilities to (1) determine if a specified target is on the screen, (2) detect an oddball, deviant target, different from the other visible objects, and (3) gain a qualitative overview by judging the number of unique categories on the screen. Our results show that the severe capacity limits of attention strongly modulate the effectiveness of information visualizations, particularly the ability to detect unexpected information. Keeping in mind these capacity limits, we conclude with a set of design guidelines which depend on a visualization???s intended use.
+vis citations:
+healey_vis_05
+kong_infovis_10
+nowell_infovis_01

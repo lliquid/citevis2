@@ -1,0 +1,10 @@
+title: Color Seamlessness in Multi-Projector Displays Using Constrained Gamut Morphing
+authors: Behzad Sajadi, Maxim Lazarov, Aditi Majumder, M. Gopi
+abstract: Multi-projector displays show significant spatial variation in 3D color gamut due to variation in the chromaticity gamuts across the projectors, vignetting effect of each projector and also overlap across adjacent projectors. In this paper we present a new constrained gamut morphing algorithm that removes all these variations and results in true color seamlessness across tiled multiprojector displays. Our color morphing algorithm adjusts the intensities of light from each pixel of each projector precisely to achieve a smooth morphing from one projector???s gamut to the other???s through the overlap region. This morphing is achieved by imposing precise constraints on the perceptual difference between the gamuts of two adjacent pixels. In addition, our gamut morphing assures a C1 continuity yielding visually pleasing appearance across the entire display.We demonstrate our method successfully on a planar and a curved display using both low and high-end projectors. Our approach is completely scalable, efficient and automatic. We also demonstrate the real-time performance of our image correction algorithm on GPUs for interactive applications. To the best of our knowledge, this is the first work that presents a scalable method with a strong foundation in perception and realizes, for the first time, a truly seamless display where the number of projectors cannot be deciphered.
+vis citations:
+bhasker_vis_07
+bhasker_vis_06
+chen_vis_02
+majumder_vis_00
+raskar_vis_99
+yang_vis_01

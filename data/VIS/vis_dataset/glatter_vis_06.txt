@@ -1,0 +1,11 @@
+title: Scalable Data Servers for Large Multivariate Volume Visualization
+authors: Markus Glatter, Colin Mollenhour, Jian Huang, Jinzhu Gao
+abstract: Volumetric datasets with multiple variables on each voxel over multiple time steps are often complex, especially when considering the exponentially large attribute space formed by the variables in combination with the spatial and temporal dimensions. It is intuitive, practical, and thus often desirable, to interactively select a subset of the data from within that high-dimensional value space for efficient visualization. This approach is straightforward to implement if the dataset is small enough to be stored entirely in-core. However, to handle datasets sized at hundreds of gigabytes and beyond, this simplistic approach becomes infeasible and thus, more sophisticated solutions are needed. In this work, we developed a system that supports efficient visualization of an arbitrary subset, selected by range-queries, of a large multivariate time-varying dataset. By employing specialized data structures and schemes of data distribution, our system can leverage a large number of networked computers as parallel data servers, and guarantees a near optimal load-balance. We demonstrate our system of scalable data servers using two large time-varying simulation datasets.
+vis citations:
+gao_vis_05
+huang_vis_00
+kniss_vis_01
+kniss_vis_03
+shen_vis_99
+stocking_vis_05
+tiede_vis_98

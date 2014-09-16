@@ -1,0 +1,10 @@
+title: Importance-Driven Volume Rendering
+authors: Ivan Viola, Armin Kanitsar, Meister Eduard Gr??ller
+abstract: This paper introduces importance-driven volume rendering as a novel technique for automatic focus and context display of volumetric data. Our technique is a generalization of cut-away views, which  depending on the viewpoint  remove or suppress less important parts of a scene to reveal more important underlying information. We automatize and apply this idea to volumetric data.Each part of the volumetric data is assigned an object importance which encodes visibility priority. This property determines which structures should be readily discernible and which structures are less important. In those image regions, where an object occludes more important structures it is displayed more sparsely than in those areas where no occlusion occurs. Thus the objects of interest are clearly visible. For each object several representations, i.e., levels of sparseness, are specified. The display of an individual object may incorporate different levels of sparseness. The goal is to emphasize important structures and to maximize the information content in the final image.This paper also discusses several possible schemes for level of sparseness specification and different ways how object importance can be composited to determine the final appearance of a particular object.
+vis citations:
+csebfalv_vis_03
+hauser_vis_00
+caban_vis_08
+kniss_vis_01
+ebert_vis_00
+treavett_vis_00

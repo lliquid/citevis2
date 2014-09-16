@@ -1,0 +1,17 @@
+title: Who Votes For What? A Visual Query Language for Opinion Data
+authors: Geoffrey M. Draper, Richard F. Riesenfeld
+abstract: Surveys and opinion polls are extremely popular in the media, especially in the months preceding a general election. However, the available tools for analyzing poll results often require specialized training. Hence, data analysis remains out of reach for many casual computer users. Moreover, the visualizations used to communicate the results of surveys are typically limited to traditional statistical graphics like bar graphs and pie charts, both of which are fundamentally noninteractive. We present a simple interactive visualization that allows users to construct queries on large tabular data sets, and view the results in real time. The results of two separate user studies suggest that our interface lowers the learning curve for naive users, while still providing enough analytical power to discover interesting correlations in the data.
+vis citations:
+cammarano_infovis_07
+elmqvist_vast_07
+havre_infovis_01
+heer_infovis_07
+hetzler_infovis_98
+holten_infovis_06
+keim_vast_06
+livnat_infovis_05
+scheidegger_vis_07
+stasko_infovis_00
+stolte_infovis_00
+viegas_infovis_07
+yee_infovis_01

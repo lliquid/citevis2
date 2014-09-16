@@ -1,0 +1,7 @@
+title: Visual Optimality and Stability Analysis of 3DCT Scan Positions
+authors: Artem Amirkhanov, Christoph Heinzl, Michael Reiter, Eduard Gr??ller
+abstract: Industrial cone-beam X-Ray computed tomography (CT) systems often face problems due to artifacts caused by a bad placement of the specimen on the rotary plate. This paper presents a visual-analysis tool for CT systems, which provides a simulationbased preview and estimates artifacts and deviations of a specimen???s placement using the corresponding 3D geometrical surface model as input. The presented tool identifies potentially good or bad placements of a specimen and regions of a specimen, which cause the major portion of artefacts. The tool can be used for a preliminary analysis of the specimen before CT scanning, in order to determine the optimal way of placing the object. The analysis includes: penetration lengths, placement stability and an investigation in Radon space. Novel visualization techniques are applied to the simulation data. A stability widget is presented for determining the placement parameters??? robustness. The performance and the comparison of results provided by the tool compared with real world data is demonstrated using two specimens.
+vis citations:
+bordoloi_vis_05
+takahash_vis_05
+viola_vis_06

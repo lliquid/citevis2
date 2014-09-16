@@ -1,0 +1,9 @@
+title: What???s Being Said Near ???Martha???? Exploring Name Entities in Literary Text Collections
+authors: Romain Vuillemot, Tanya Clement, Catherine Plaisant, Amit Kumar
+abstract: A common task in literary analysis is to study characters in a novel or collection. Automatic entity extraction, text analysis and effective user interfaces facilitate character analysis. Using our interface, called POSvis, the scholar uses word clouds and selforganizing graphs to review vocabulary, to filter by part of speech, and to explore the network of characters located near characters under review. Further, visualizations show word usages within an analysis window (i.e. a book chapter), which can be compared with a reference window (i.e. the whole book). We describe the interface and report on an early case study with a humanities scholar.
+vis citations:
+keim_vast_07
+oelke_vast_08
+stasko_vast_07
+viegas_infovis_07
+wattenbe_infovis_08

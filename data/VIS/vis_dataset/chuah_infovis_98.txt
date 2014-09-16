@@ -1,0 +1,4 @@
+title: Dynamic Aggregation with Circular Visual Designs
+authors: Mei Chuah
+abstract: One very effective method for managing large data sets is aggregation or binning. In this paper we consider methods for making data aggregation more simple and intuitive so that general users may benefit from this powerful technique. We present two interactive visual displays, each of which is tightly coupled with data aggregation. Both visualizations support: 1) automatic aggregation, 2) continuous change and control of the aggregation level, 3) spatially based aggregates, 4) context maintenance across different aggregate levels, and S) feedback on the level of aggregation.
+vis citations:

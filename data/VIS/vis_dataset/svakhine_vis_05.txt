@@ -1,0 +1,11 @@
+title: Illustration and Photography Inspired Visualization of Flows and Volumes
+authors: Nikolai A. Svakhine, Yun Jang, David Ebert, Kelly Gaither
+abstract: Understanding and analyzing complex volumetrically varying data is a difficult problem. Many computational visualization techniques have had only limited success in succinctly portraying the structure of three-dimensional turbulent flow. Motivated by both the extensive history and success of illustration and photographic flow visualization techniques, we have developed a new interactive volume rendering and visualization system for flows and volumes that simulates and enhances traditional illustration, experimental advection, and photographic flow visualization techniques. Our system uses a combination of varying focal and contextual illustrative styles, new advanced two-dimensional transfer functions, enhanced Schlieren and shadowgraphy shaders, and novel oriented structure enhancement techniques to allow interactive visualization, exploration, and comparative analysis of scalar, vector, and time-varying volume datasets. Both traditional illustration techniques and photographic flow visualization techniques effectively reduce visual clutter by using compact oriented structure information to convey threedimensional structures. Therefore, a key to the effectiveness of our system is using one-dimensional (Schlieren and shadowgraphy) and two-dimensional (silhouette) oriented structural information to reduce visual clutter, while still providing enough three-dimensional structural information for the user???s visual system to understand complex three-dimensional flow data. By combining these oriented feature visualization techniques with flexible transfer function controls, we can visualize scalar and vector data, allow comparative visualization of flow properties in a succinct, informative manner, and provide continuity for visualizing time-varying datasets.
+vis citations:
+ebert_vis_00
+jobard_vis_00
+joshi_vis_05
+kirby_vis_99
+li_gs_vis_03
+treavett_vis_00
+weiskopf_vis_03

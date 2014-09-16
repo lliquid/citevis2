@@ -1,0 +1,8 @@
+title: Volume Rendering of Fine Details Within Medical Data
+authors: Feng Dong, Gordon J. Clapworthy, Mel Krokos
+abstract: This paper presents a method concerning the volume rendering of fine details, such as blood vessels and nerves, from medical data. The realistic and efficient visualization of such structures is often of great medical interest, and conventional rendering techniques do not always deal with them adequately. Our method uses preprocessing to reconstruct fine details that are difficult to segment and label. It detects the presence of fine geometrical structures, such as cracks or cylinders that suggest the existence of, for example, blood vessels or nerves; the subsequent volume rendering then displays fine geometrical objects that lie on a surface. The method can also show structures within the volume, using a special ???integration sampling??? scheme to portray reconstructed volume texture, such as that exhibited by muscle fibers. By combining the surface structure and volume texture in the rendering, realistic results can be produced; examples are provided.
+vis citations:
+mueller_vis_98
+mueller_vis_99
+tiede_vis_98
+wan_vis_99

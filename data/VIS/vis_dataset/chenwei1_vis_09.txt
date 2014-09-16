@@ -1,0 +1,10 @@
+title: Volume Illustration of Muscle from Diffusion Tensor Images
+authors: Wei Chen, Zhicheng Yan, Song Zhang, John Allen Crow, David S. Ebert, Ronald M. McLaughlin, Katie B. Mullins, Robert Cooper, Ziang Ding, Lun Liao
+abstract: Medical illustration has demonstrated its effectiveness to depict salient anatomical features while hiding the irrelevant details. Current solutions are ineffective for visualizing fibrous structures such as muscle, because typical datasets (CT or MRI) do not contain directional details. In this paper, we introduce a new muscle illustration approach that leverages diffusion tensor imaging (DTI) data and example-based texture synthesis techniques. Beginning with a volumetric diffusion tensor image, we reformulate it into a scalar field and an auxiliary guidance vector field to represent the structure and orientation of a muscle bundle. A muscle mask derived from the input diffusion tensor image is used to classify the muscle structure. The guidance vector field is further refined to remove noise and clarify structure. To simulate the internal appearance of the muscle, we propose a new two-dimensional examplebased solid texture synthesis algorithm that builds a solid texture constrained by the guidance vector field. Illustrating the constructed scalar field and solid texture efficiently highlights the global appearance of the muscle as well as the local shape and structure of the muscle fibers in an illustrative fashion. We have applied the proposed approach to five example datasets (four pig hearts and a pig leg), demonstrating plausible illustration and expressiveness.
+vis citations:
+bruckner_vis_05
+correa_vis_06
+ebert_vis_00
+enders_vis_05
+kindlman_vis_06
+lu_vis_05

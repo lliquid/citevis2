@@ -1,0 +1,4 @@
+title: Enhancing Visual Analysis of Network Traffic Using a Knowledge Representation
+authors: Ling Xiao, John Gerth, Pat Hanrahan
+abstract: This paper presents a network traffic analysis system that couples visual analysis with a declarative knowledge representation. The system supports multiple iterations of the sense-making loop of analytic reasoning by allowing users to save discoveries as they are found and to reuse them in future iterations. We will show how the knowledge representation can be used to improve both the visual representations and the basic analytical tasks of filtering and changing level of detail. We will describe how the system can be used to produce models of network patterns, and show results from classifying one day of network traffic in our laboratory.
+vis citations:

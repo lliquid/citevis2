@@ -1,0 +1,11 @@
+title: Visualizing Temporal Patterns in Large Multivariate Data using Textual Pattern Matching
+authors: Markus Glatter, Jian Huang, Sean Ahern, Jamison Daniel, Aidong Lu
+abstract: Extracting and visualizing temporal patterns in large scientific data is an open problem in visualization research. First, there are few proven methods to flexibly and concisely define general temporal patterns for visualization. Second, with large timedependent data sets, as typical with today???s large-scale simulations, scalable and general solutions for handling the data are still not widely available. In this work, we have developed a textual pattern matching approach for specifying and identifying general temporal patterns. Besides defining the formalism of the language, we also provide a working implementation with sufficient efficiency and scalability to handle large data sets. Using recent large-scale simulation data from multiple application domains, we demonstrate that our visualization approach is one of the first to empower a concept driven exploration of large-scale time-varying multivariate data.
+vis citations:
+biddiscombe_vis_07
+glatter_vis_06
+gosink_vis_07
+kniss_vis_01
+mccormic_vis_04
+stocking_vis_05
+woodring_vis_03

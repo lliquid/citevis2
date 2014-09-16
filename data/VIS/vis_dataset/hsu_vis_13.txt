@@ -1,0 +1,12 @@
+title: A Multi-Criteria Approach to Camera Motion Design for Volume Data Animation
+authors: Wei-Hsien Hsu, Yubo Zhang, Kwan-Liu Ma
+abstract: We present an integrated camera motion design and path generation system for building volume data animations. Creating animations is an essential task in presenting complex scientific visualizations. Existing visualization systems use an established animation function based on keyframes selected by the user. This approach is limited in providing the optimal in-between views of the data. Alternatively, computer graphics and virtual reality camera motion planning is frequently focused on collision free movement in a virtual walkthrough. For semi-transparent, fuzzy, or blobby volume data the collision free objective becomes insufficient. Here, we provide a set of essential criteria focused on computing camera paths to establish effective animations of volume data. Our dynamic multi-criteria solver coupled with a force-directed routing algorithm enables rapid generation of camera paths. Once users review the resulting animation and evaluate the camera motion, they are able to determine how each criterion impacts path generation. In this paper, we demonstrate how incorporating this animation approach with an interactive volume visualization system reduces the effort in creating context-aware and coherent animations. This frees the user to focus on visualization tasks with the objective of gaining additional insight from the volume data.
+vis citations:
+bordoloi_vis_05
+bruckner_vis_06
+correa_vis_09
+takahash_vis_05
+vanwijk_infovis_03
+viola_vis_06
+wan_vis_01
+wiebel_vis_12

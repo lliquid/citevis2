@@ -1,0 +1,9 @@
+title: Exploring 2D Tensor Fields Using Stress Nets
+authors: Andrew Wilson, Rebecca Brannon
+abstract: In this article we describe stress nets, a technique for exploring 2D tensor fields. Our method allows a user to examine simultaneously the tensors' eigenvectors (both major and minor) as well as scalar-valued tensor invariants. By avoiding noiseadvection techniques, we are able to display both principal directions of the tensor field as well as the derived scalars without cluttering the display. We present a GPU-only implementation of stress nets as well as a hybrid CPU/GPU approach and discuss the relative strengths and weaknesses of each.Stress nets have been used as part of an investigation into crack propagation. They were used to display the directions of maximum shear in a slab of material under tension as well as the magnitude of the shear forces acting on each point. Our methods allowed users to find new features in the data that were not visible on standard plots of tensor invariants. These features disagree with commonly accepted analytical crack propagation solutions and have sparked renewed investigation. Though developed for a materials mechanics problem, our method applies equally well to any 2D tensor field having unique characteristic directions.
+vis citations:
+boring_vis_98
+verma_vis_00
+weinstei_vis_99
+zheng_vis_03
+zhukov_vis_02

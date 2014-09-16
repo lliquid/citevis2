@@ -1,0 +1,4 @@
+title: Polyhedral modeling
+authors: Georges-Pierre Bonneau, Stefanie Hahmann
+abstract: Polyhedral meshes are used for visualization, computer graphics or geometric modeling purposes and result from many applications like iso-surface extraction, surface reconstruction or CAD/CAM. The present paper introduces a method for constructing smooth surfaces from a triangulated polyhedral mesh of arbitrary topology. It presents a new algorithm which generalizes and improves the triangle 4-split method [7] in the crucial point of boundary curve network construction. This network is then filled-in by a visual smooth surface from which an explicit closed form parametrization is given. Furthermore, the method becomes now completely local and can interpolate normal vector input at the mesh vertices.
+vis citations:

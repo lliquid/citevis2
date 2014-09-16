@@ -1,0 +1,14 @@
+title: Declarative Language Design for Interactive Visualization
+authors: Jeffrey Heer, Michael Bostock
+abstract: We investigate the design of declarative, domain-specific languages for constructing interactive visualizations. By separating specification from execution, declarative languages can simplify development, enable unobtrusive optimization, and support retargeting across platforms. We describe the design of the Protovis specification language and its implementation within an object-oriented, statically-typed programming language (Java). We demonstrate how to support rich visualizations without requiring a toolkit-specific data model and extend Protovis to enable declarative specification of animated transitions. To support cross-platform deployment, we introduce rendering and event-handling infrastructures decoupled from the runtime platform, letting designers retarget visualization specifications (e.g., from desktop to mobile phone) with reduced effort. We also explore optimizations such as runtime compilation of visualization specifications, parallelized execution, and hardware-accelerated rendering. We present benchmark studies measuring the performance gains provided by these optimizations and compare performance to existing Java-based visualization tools, demonstrating scalability improvements exceeding an order of magnitude.
+vis citations:
+bostock_infovis_09
+fekete_infovis_04
+heer2_infovis_06
+heer_infovis_07
+mcdonnel_infovis_09
+piringer_infovis_09
+slingsby_infovis_09
+stolte_infovis_00
+viegas_infovis_07
+weaver_infovis_04

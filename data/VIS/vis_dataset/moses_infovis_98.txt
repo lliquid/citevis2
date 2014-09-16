@@ -1,0 +1,4 @@
+title: Algorithm Visualization For Distributed Environments
+authors: Yoram Moses, Zvi Polunsky, Ayellet Tall
+abstract: This paper investigates the visualization of distributed algorithms. We present a conceptual model and a system, VADE, that realizes this model. Since in asynchronous distributed systems there is no way of knowing (let alone, visualizing) the ???real??? execution, we show how to generate a visualization which is consistent with the execution of the distributed algorithm. We also present the design and implementation of our system. VADE is designed so that the algorithm runs on the server???s machines while the visualization is executed on a web page on the client???s machine. Programmers can write animations quickly and easily with the assistant of the VADE???s libraries.
+vis citations:

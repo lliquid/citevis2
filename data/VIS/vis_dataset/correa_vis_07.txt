@@ -1,0 +1,17 @@
+title: Illustrative Deformation for Data Exploration
+authors: Carlos D. Correa, Deborah Silver, Min Chen
+abstract: Much of the visualization research has focused on improving the rendering quality and speed, and enhancing the perceptibility of features in the data. Recently, significant emphasis has been placed on focus+context (F+C) techniques (e.g., fisheye views and magnification lens) for data exploration in addition to viewing transformation and hierarchical navigation. However, most of the existing data exploration techniques rely on the manipulation of viewing attributes of the rendering system or optical attributes of the data objects, with users being passive viewers. In this paper, we propose a more active approach to data exploration, which attempts to mimic how we would explore data if we were able to hold it and interact with it in our hands. This involves allowing the users to physically or actively manipulate the geometry of a data object. While this approach has been traditionally used in applications, such as surgical simulation, where the original geometry of the data objects is well understood by the users, there are several challenges when this approach is generalized for applications, such as flow and information visualization, where there is no common perception as to the normal or natural geometry of a data object. We introduce a taxonomy and a set of transformations especially for illustrative deformation of general data exploration. We present combined geometric or optical illustration operators for focus+context visualization, and examine the best means for preventing the deformed context from being misperceived. We demonstrated the feasibility of this generalization with examples of flow, information and video visualization.
+vis citations:
+bruckner_vis_05
+bruckner_vis_06
+correa_vis_06
+daniel_vis_03
+ebert_vis_00
+kniss_vis_01
+lu_vis_02
+mcguffin_vis_03
+tory_infovis_04
+treavett_vis_00
+viola_vis_06
+viola_vis_04
+wangl_vis_05

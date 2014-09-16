@@ -1,0 +1,9 @@
+title: Two-stage Framework for a Topology-Based Projection and Visualization of Classified Document Collections
+authors: Patrick Oesterling, Gerik Scheuermann, Sven Teresniak, Gerhard Heyer,
+Steffen Koch, Thomas Ertl, Gunther H. Weber
+abstract: During the last decades, electronic textual information has become the world???s largest and most important information source. Daily newspapers, books, scientific and governmental publications, blogs and private messages have grown into a wellspring of endless information and knowledge. Since neither existing nor new information can be read in its entirety, we rely increasingly on computers to extract and visualize meaningful or interesting topics and documents from this huge information reservoir.In this paper, we extend, improve and combine existing individual approaches into an overall framework that supports topological analysis of high dimensional document point clouds given by the well-known tf-idf document-term weighting method. We show that traditional distance-based approaches fail in very high dimensional spaces, and we describe an improved two-stage method for topology-based projections from the original high dimensional information space to both two dimensional (2-D) and three dimensional (3-D) visualizations. To demonstrate the accuracy and usability of this framework, we compare it to methods introduced recently and apply it to complex document and patent collections.
+vis citations:
+choo_vast_09
+koch_vast_09
+takahash_vis_09
+weber_vis_07

@@ -1,0 +1,4 @@
+title: Lighthouse: Showing the Way to Relevant Information
+authors: Anton Leuski, James Allan
+abstract: Lighthouse is an on-line interface for a Web-based information retrieval system. It accepts queries from a user, collects the retrieved documentsfrom the search engine, organizes and presents them to the user. The system integrates two known presentations of the retrieved results  the ranked list and clustering visualization  in a novel and effective way. It accepts the user???s input and adjusts the document visualization accordingly. We give a brief overview of the system.
+vis citations:

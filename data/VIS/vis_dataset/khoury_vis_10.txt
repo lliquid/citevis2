@@ -1,0 +1,8 @@
+title: On the Fractal Dimension of Isosurfaces
+authors: Marc Khoury, Rephael Wenger
+abstract: A (3D) scalar grid is a regular n1 ?? n2 ?? n3 grid of vertices where each vertex v is associated with some scalar value s,,. Applying trilinear interpolation, the scalar grid determines a scalar function g where g(v) = s??? for each grid vertex v. An isosurface with isovalue 6 is a triangular mesh which approximates the level set g???1(6). The fractal dimension of an isosurface represents the growth in the isosurface as the number of grid cubes increases. We define and discuss the fractal isosurface dimension. Plotting the fractal dimension as a function of the isovalues in a data set provides information about the isosurfaces determined by the data set. We present statistics on the average fractal dimension of 60 publicly available benchmark data sets. We also show the fractal dimension is highly correlated with topological noise in the benchmark data sets, measuring the topological noise by the number of connected components in the isosurface. Lastly, we present a formula predicting the fractal dimension as a function of noise and validate the formula with experimental results.
+vis citations:
+carr_vis_06
+nielson2_vis_04
+pekar_vis_01
+scheideg_vis_08

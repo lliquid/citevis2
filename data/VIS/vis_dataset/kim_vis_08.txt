@@ -1,0 +1,9 @@
+title: Box Spline Reconstruction On The Face-Centered Cubic Lattice
+authors: Minho Kim, Alireza Entezari, J??rg Peters
+abstract: We introduce and analyze an efficient reconstruction algorithm for FCC-sampled data. The reconstruction is based on the 6-direction box spline that is naturally associated with the FCC lattice and shares the continuity and approximation order of the triquadratic B-spline. We observe less aliasing for generic level sets and derive special techniques to attain the higher evaluation efficiency promised by the lower degree and smaller stencil-size of the C1 6-direction box spline over the triquadratic B-spline.
+vis citations:
+csebfalv_vis_05
+entezari_vis_04
+qiao_vis_05
+qiu_vis_07
+theussl_vis_01

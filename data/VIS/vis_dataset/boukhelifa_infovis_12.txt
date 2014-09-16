@@ -1,0 +1,12 @@
+title: Evaluating Sketchiness as a Visual Variable for the Depiction of Qualitative Uncertainty
+authors: Nadia Boukhelifa, Anastasia Bezerianos, Tobias Isenberg, Jean-Daniel Fekete
+abstract: We report on results of a series of user studies on the perception of four visual variables that are commonly used in the literature to depict uncertainty. To the best of our knowledge, we provide the first formal evaluation of the use of these variables to facilitate an easier reading of uncertainty in visualizations that rely on line graphical primitives. In addition to blur, dashing and grayscale, we investigate the use of ???sketchiness??? as a visual variable because it conveys visual impreciseness that may be associated with data quality. Inspired by work in non-photorealistic rendering and by the features of hand-drawn lines, we generate line trajectories that resemble hand-drawn strokes of various levels of proficiency???ranging from child to adult strokes???where the amount of perturbations in the line corresponds to the level of uncertainty in the data. Our results show that sketchiness is a viable alternative for the visualization of uncertainty in lines and is as intuitive as blur; although people subjectively prefer dashing style over blur, grayscale and sketchiness. We discuss advantages and limitations of each technique and conclude with design considerations on how to deploy these visual variables to effectively depict various levels of uncertainty for line marks.
+vis citations:
+botchen_vis_05
+cedilnik_vis_00
+correa_vast_09
+li_vis_07
+sanyal_vis_09
+willett_infovis_07
+wood_infovis_12
+xie_vast_06

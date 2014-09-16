@@ -1,0 +1,6 @@
+title: Entity-Based Collaboration Tools for Intelligence Analysis
+authors: Eric A. Bier, Stuart K. Card, John W. Bodnar
+abstract: Software tools that make it easier for analysts to collaborate as a natural part of their work will lead to better analysis that is informed by more perspectives. We are interested to know if software tools can be designed that support collaboration even as they allow analysts to find documents and organize information (including evidence, schemas, and hypotheses). We have modified the Entity Workspace system, described previously, to test such designs. We have evaluated the resulting design in both a laboratory study and a study where it is situated with an analysis team. In both cases, effects on collaboration appear to be positive. Key aspects of the design include an evidence notebook optimized for organizing entities (rather than text characters), information structures that can be collapsed and expanded, visualization of evidence that emphasizes events and documents (rather than emphasizing the entity graph), and a notification system that finds entities of mutual interest to multiple analysts.
+vis citations:
+proulx_vast_06
+stasko_vast_07

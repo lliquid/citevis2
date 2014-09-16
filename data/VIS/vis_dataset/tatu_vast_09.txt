@@ -1,0 +1,8 @@
+title: Combining automated analysis and visualization techniques for effective exploration of high-dimensional data
+authors: Andrada Tatu, Georgia Albuquerque, Martin Eisemann, J??rn Schneidewind, Holger Theisel, Marcus Magnor, Daniel Keim
+abstract: Visual exploration of multivariate data typically requires projection onto lower-dimensional representations. The number of possible representations grows rapidly with the number of dimensions, and manual exploration quickly becomes ineffective or even unfeasible. This paper proposes automatic analysis methods to extract potentially relevant visual structures from a set of candidate visualizations. Based on features, the visualizations are ranked in accordance with a specified user task. The user is provided with a manageable number of potentially useful candidate visualizations, which can be used as a starting point for interactive data analysis. This can effectively ease the task of finding truly useful visualizations and potentially speed up the data exploration task. In this paper, we present ranking measures for class-based as well as non class-based Scatterplots and Parallel Coordinates visualizations. The proposed analysis methods are evaluated on different datasets.
+vis citations:
+ankerst_infovis_98
+koren_infovis_03
+schneidewind_vast_06
+wilkinso_infovis_05

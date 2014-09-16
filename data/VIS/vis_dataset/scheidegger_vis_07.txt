@@ -1,0 +1,9 @@
+title: Querying and Creating Visualizations by Analogy
+authors: Carlos E. Scheidegger, Huy T. Vo, David Koop, Juliana Freire, Claudio T. Silva
+abstract: While there have been advances in visualization systems, particularly in multi-view visualizations and visual exploration, the process of building visualizations remains a major bottleneck in data exploration. We show that provenance metadata collected during the creation of pipelines can be reused to suggest similar content in related visualizations and guide semi-automated changes. We introduce the idea of query-by-example in the context of an ensemble of visualizations, and the use of analogies as first-class operations in a system to guide scalable interactions. We describe an implementation of these techniques in VisTrails, a publicly-available, open-source system.
+vis citations:
+bavoil_vis_05
+brodlie_vis_04
+childs_vis_05
+kreusele_infovis_04
+wijk_vis_05

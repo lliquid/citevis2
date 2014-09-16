@@ -1,0 +1,7 @@
+title: Mapping Text with Phrase Nets
+authors: Frank van Ham, Martin Wattenberg, Fernanda B. Vi??gas
+abstract: We present a new technique, the phrase net, for generating visual overviews of unstructured text. A phrase net displays a graph whose nodes are words and whose edges indicate that two words are linked by a user-specified relation. These relations may be defined either at the syntactic or lexical level; different relations often produce very different perspectives on the same text. Taken together, these perspectives often provide an illuminating visual overview of the key concepts and relations in a document or set of documents.
+vis citations:
+viegas_infovis_07
+wattenbe_infovis_08
+wijk_vis_05

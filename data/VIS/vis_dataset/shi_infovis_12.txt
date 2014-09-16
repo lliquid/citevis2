@@ -1,0 +1,23 @@
+title: RankExplorer: Visualization of Ranking Changes in Large Time Series Data
+authors: Conglei Shi, Weiwei Cui, Shixia Liu, Panpan Xu, Wei Chen, Huamin Qu
+abstract: For many applications involving time series data, people are often interested in the changes of item values over time as well as their ranking changes. For example, people search many words via search engines like Google and Bing every day. Analysts are interested in both the absolute searching number for each word as well as their relative rankings. Both sets of statistics may change over time. For very large time series data with thousands of items, how to visually present ranking changes is an interesting challenge. In this paper, we propose RankExplorer, a novel visualization method based on ThemeRiver to reveal the ranking changes. Our method consists of four major components: 1) a segmentation method which partitions a large set of time series curves into a manageable number of ranking categories; 2) an extended ThemeRiver view with embedded color bars and changing glyphs to show the evolution of aggregation values related to each ranking category over time as well as the content changes in each ranking category; 3) a trend curve to show the degree of ranking changes over time; 4) rich user interactions to support interactive exploration of ranking changes. We have applied our method to some real time series data and the case studies demonstrate that our method can reveal the underlying patterns related to ranking changes which might otherwise be obscured in traditional visualizations.
+vis citations:
+byron_infovis_08
+cui_infovis_11
+doerk_infovis_10
+ellis_infovis_07
+hao_infovis_05
+havre_infovis_00
+javed_infovis_10
+kidwell_infovis_08
+kincaid_infovis_10
+krstajic_infovis_11
+lee_infovis_10
+liu_infovis_09
+shi_vast_10
+vanwijk2_infovis_99
+wangchao_vis_08
+wang_infovis_09
+wattenba_infovis_05
+zhao_infovis_11
+ziegler_vast_10

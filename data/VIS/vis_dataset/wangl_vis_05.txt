@@ -1,0 +1,9 @@
+title: The Magic Volume Lens: An Interactive Focus+Context Technique for Volume Rendering
+authors: Lujin Wang, Ye Zhao, Klaus Mueller, Arie Kaufman
+abstract: The size and resolution of volume datasets in science and medicine are increasing at a rate much greater than the resolution of the screens used to view them. This limits the amount of data that can be viewed simultaneously, potentially leading to a loss of overall context of the data when the user views or zooms into a particular area of interest. We propose a focus+context framework that uses various standard and advanced magnification lens rendering techniques to magnify the features of interest, while compressing the remaining volume regions without clipping them away completely. Some of these lenses can be interactively configured by the user to specify the desired magnification patterns, while others are featureadaptive. All our lenses are accelerated on the GPU. They allow the user to interactively manage the available screen area, dedicating more area to the more resolution-important features.
+vis citations:
+hadwiger_vis_03
+hauser_vis_00
+krueger_vis_03
+mcguffin_vis_03
+viola_vis_04

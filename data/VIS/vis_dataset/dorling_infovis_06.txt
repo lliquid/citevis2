@@ -1,0 +1,4 @@
+title: WORLDMAPPER: the world as you've never seen it before
+authors: Danny Dorling, Anna Barford, Mark Newman
+abstract: This paper describes the Worldmapper Project, which makes use of novel visualization techniques to represent a broad variety of social and economic data about the countries of the world. The goal of the project is to use the map projections known as cartograms to depict comparisons and relations between different territories, and its execution raises many interesting design challenges that were not all apparent at the outset. We discuss the approaches taken towards these challenges, some of which may have considerably broad application. We conclude by commenting on the positive initial response to the worldmapper images published on the web, which we believe is due, at least in part, to the particular effectiveness of the cartogram as a tool for communicating quantitative geographic data.
+vis citations:

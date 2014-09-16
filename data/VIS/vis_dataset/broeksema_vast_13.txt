@@ -1,0 +1,10 @@
+title: Decision Exploration Lab: A Visual Analytics Solution for Decision Management
+authors: Bertjan Broeksema, Thomas Baudel, Alex Telea, Paolo Crisafulli
+abstract: We present a visual analytics solution designed to address prevalent issues in the area of Operational Decision Management (ODM). In ODM, which has its roots in Artificial Intelligence (Expert Systems) and Management Science, it is increasingly important to align business decisions with business goals. In our work, we consider decision models (executable models of the business domain) as ontologies that describe the business domain, and production rules that describe the business logic of decisions to be made over this ontology. Executing a decision model produces an accumulation of decisions made over time for individual cases. We are interested, first, to get insight in the decision logic and the accumulated facts by themselves. Secondly and more importantly, we want to see how the accumulated facts reveal potential divergences between the reality as captured by the decision model, and the reality as captured by the executed decisions. We illustrate the motivation, added value for visual analytics, and our proposed solution and tooling through a business case from the car insurance industry.
+vis citations:
+afzal_vast_11
+bostock_infovis_11
+green_vast_08
+migut_vast_10
+savikhin_vast_08
+wang_vast_11

@@ -1,0 +1,9 @@
+title: PixelFlex: A Reconfigurable Multi-Projector Display System
+authors: Ruigang Yang, David Gotz, Justin Hensley, Herman Towles, Michael S. Brown
+abstract: This paper presents PixelFlex  a spatially reconfigurable multi-projector display system. The PixelFlex system is composed of ceiling-mounted projectors, each with computer-controlled pan, tilt, zoom and focus; and a camera for closed-loop calibration. Working collectively, these controllable projectors function as a single logical display capable of being easily modified into a variety of spatial formats of differing pixel density, size and shape. New layouts are automatically calibrated within minutes to generate the accurate warping and blending functions needed to produce seamless imagery across planar display surfaces, thus giving the user the flexibility to quickly create, save and restore multiple screen configurations.Overall, PixelFlex provides a new level of automatic reconfigurability and usage, departing from the static, onesize-fits-all design of traditional large format displays. As a front-projection system, PixelFlex can be installed in most environments with space constraints and requires little or no post-installation mechanical maintenance because of the closed-loop calibration.
+vis citations:
+chen1_vis_00
+chen2_vis_00
+yang_vis_01
+humphrey_vis_99
+raskar_vis_99

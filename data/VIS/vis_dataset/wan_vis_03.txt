@@ -1,0 +1,5 @@
+title: Quasi-Static Approximation for 6 Degrees-of-Freedom Haptic Rendering
+authors: Ming Wan, William A. McNeely
+abstract: In this paper, we propose a quasi-static approximation (QSA) approach to simulate the movement of the movable object in 6 degrees-of-freedom (DOF) haptic rendering. In our QSA approach, we solve for static equilibrium during each haptic time step, ignoring any dynamical properties such as inertia. The major contribution of this approach is to overcome the computational instability problem in overly stiff systems arising from numerical integration of second-order differential equations in previous dynamic models. Our primary experimental results on both simulated aircraft geometry and a large-scale real-world aircraft engine showed that our QSA approach was capable of maintaining the 1000Hz haptic refresh rate with more robust collision avoidance and more reliable force and torque feedback.
+vis citations:
+gregory_vis_00

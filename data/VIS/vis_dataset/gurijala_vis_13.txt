@@ -1,0 +1,7 @@
+title: Colon Flattening Using Heat Diffusion Riemannian Metric
+authors: Krishna Chaitanya Gurijala, Rui Shi, Wei Zeng, Xianfeng Gu, Arie Kaufman
+abstract: We propose a new colon flattening algorithm that is efficient, shape-preserving, and robust to topological noise. Unlike previous approaches, which require a mandatory topological denoising to remove fake handles, our algorithm directly flattens the colon surface without any denoising. In our method, we replace the original Euclidean metric of the colon surface with a heat diffusion metric that is insensitive to topological noise. Using this heat diffusion metric, we then solve a Laplacian equation followed by an integration step to compute the final flattening. We demonstrate that our method is shape-preserving and the shape of the polyps are well preserved. The flattened colon also provides an efficient way to enhance the navigation and inspection in virtual colonoscopy. We further show how the existing colon registration pipeline is made more robust by using our colon flattening. We have tested our method on several colon wall surfaces and the experimental results demonstrate the robustness and the efficiency of our method.
+vis citations:
+bartoli_vis_01
+hong_vis_06
+zeng_vis_10

@@ -1,0 +1,7 @@
+title: Isosurfacing In Higher Dimensions
+authors: Praveen Bhaniramka, Rephael Wenger, Roger Crawfis
+abstract: Visualization algorithms have seen substantial improvements in the past several years. However, very few algorithms have been developed for directly studying data in dimensions higher than three. Most algorithms require a sampling in three-dimensions before applying any visualization algorithms. This sampling typically ignores vital features that may be present when examined in oblique cross-sections, and places an undo burden on system resources when animation through additional dimensions is desired. For time-varying data of large data sets, smooth animation is desired at interactive rates. This paper provides a fast Marching Cubes like algorithm for hypercubes of any dimension. To support this, we have developed a new algorithm to automatically generate the isosurface and triangulation tables for any dimension. This allows the efficient calculation of 4D isosurfaces, which can be interactively sliced to provide smooth animation or slicing through oblique hyperplanes. The former allows for smooth animation in a very compressed format. The latter provide better tools to study time-evolving features as they move downstream. We also provide examples in using this technique to show interval volumes or the sensitivity of a particular isovalue threshold.
+vis citations:
+shen_vis_98
+sutton_vis_99
+trotts_vis_98

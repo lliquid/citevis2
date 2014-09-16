@@ -1,0 +1,6 @@
+title: Revealing Structure within Clustered Parallel Coordinates Displays
+authors: Jimmy Johansson, Patric Ljung, Mikael Jern, Matthew Cooper
+abstract: In order to gain insight into multivariate data, complex structures must be analysed and understood. Parallel coordinates is an excellent tool for visualizing this type of data but has its limitations. This paper deals with one of its main limitations ??? how to visualize a large number of data items without hiding the inherent structure they constitute. We solve this problem by constructing clusters and using high-precision textures to represent them. We also use transfer functions that operate on the high-precision textures in order to highlight different aspects of the cluster characteristics. Providing pre-defined transfer functions as well as the support to draw customized transfer functions makes it possible to extract different aspects of the data. We also show how feature animation can be used as guidance when simultaneously analysing several clusters. This technique makes it possible to visually represent statistical information about clusters and thus guides the user, making the analysis process more efficient.
+vis citations:
+artero_infovis_04
+fua_vis_99

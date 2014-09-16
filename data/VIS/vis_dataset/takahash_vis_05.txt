@@ -1,0 +1,8 @@
+title: A Feature-Driven Approach to Locating Optimal Viewpoints for Volume Visualization
+authors: Issei Fujishiro, Yuriko Takeshima, Tomoyuki Nishita, Shigeo Takahashi
+abstract: Optimal viewpoint selection is an important task because it considerably influences the amount of information contained in the 2D projected images of 3D objects, and thus dominates their first impressions from a psychological point of view. Although several methods have been proposed that calculate the optimal positions of viewpoints especially for 3D surface meshes, none has been done for solid objects such as volumes. This paper presents a new method of locating such optimal viewpoints when visualizing volumes using direct volume rendering. The major idea behind our method is to decompose an entire volume into a set of feature components, and then find a globally optimal viewpoint by finding a compromise between locally optimal viewpoints for the components. As the feature components, the method employs interval volumes and their combinations that characterize the topological transitions of isosurfaces according to the scalar field. Furthermore, opacity transfer functions are also utilized to assign different weights to the decomposed components so that users can emphasize features of specific interest in the volumes. Several examples of volume datasets together with their optimal positions of viewpoints are exhibited in order to demonstrate that the method can effectively guide naive users to find optimal projections of volumes.
+vis citations:
+bordoloi_vis_05
+carr_vis_04
+gumhold_vis_02
+pascucci_vis_02

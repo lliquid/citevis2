@@ -1,0 +1,5 @@
+title: A Space-Optimized Tree Visualization
+authors: Quang Vinh Nguyen, Mao Lin Huang
+abstract: This paper describes a new method for the visualization of tree structured relational data. It can be used especially for the display of very large hierarchies in a 2 dimensional space. We discuss the advantages and limitations of current techniques of tree visualization. Our strategy is to optimize the drawing of trees in a geometrical plane and maximize the utilization of display space by allowing more nodes and links to be displayed at a limit screen resolution. We use the concept of enclosure to partition the entire display space into a collection of local regions that are assigned to all nodes in tree T for the display of their sub-trees and themselves. To enable the exploration of large hierarchies, we use a modified semantic zooming technique to view the detail of a particular part of the hierarchy at a time based on user???s interest. Layout animation is also provided to preserve the mental map while the user is exploring the hierarchy by changing zoomed views.
+vis citations:
+jeong_infovis_98

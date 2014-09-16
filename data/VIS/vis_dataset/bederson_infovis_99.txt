@@ -1,0 +1,4 @@
+title: Does Animation Help Users Build Mental Maps of Spatial Information?
+authors: Benjamin B. Bederson
+abstract: We examine how animating a viewpoint change in a spatial information system affects a user???s ability to build a mental map of the information in the space. We found that animation improves users' ability to reconstruct the information space, with no penalty on task performance time. We believe that this study provides strong evidence for adding animated transitions in many applications with fixed spatial data where the user navigates around the data space.
+vis citations:

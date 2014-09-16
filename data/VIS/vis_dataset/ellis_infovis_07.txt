@@ -1,0 +1,16 @@
+title: A Taxonomy of Clutter Reduction for Information Visualisation
+authors: Geoffrey Ellis, Alan Dix
+abstract: Information visualisation is about gaining insight into data through a visual representation. This data is often multivariate and increasingly, the datasets are very large. To help us explore all this data, numerous visualisation applications, both commercial and research prototypes, have been designed using a variety of techniques and algorithms. Whether they are dedicated to geo-spatial data or skewed hierarchical data, most of the visualisations need to adopt strategies for dealing with overcrowded displays, brought about by too much data to fit in too small a display space. This paper analyses a large number of these clutter reduction methods, classifying them both in terms of how they deal with clutter reduction and more importantly, in terms of the benefits and losses. The aim of the resulting taxonomy is to act as a guide to match techniques to problems where different criteria may have different importance, and more importantly as a means to critique and hence develop existing and new techniques.
+vis citations:
+chi_infovis_00
+derthick_infovis_03
+ellis_infovis_06
+fekete_infovis_02
+fua_vis_99
+keim_vis_98
+novotny_vis_06
+peng_infovis_04
+rafiei_vis_05
+stasko_infovis_00
+trutschl_infovis_03
+wong_n_infovis_03

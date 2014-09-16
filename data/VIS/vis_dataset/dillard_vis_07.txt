@@ -1,0 +1,6 @@
+title: Construction of Simplified Boundary Surfaces from Serial-sectioned Metal Micrographs
+authors: Scott E. Dillard, John F. Bingert, Dan Thoma, Bernd Hamann
+abstract: We present a method for extracting boundary surfaces from segmented cross-section image data. We use a constrained Potts model to interpolate an arbitrary number of region boundaries between segmented images. This produces a segmented volume from which we extract a triangulated boundary surface using well-known marching tetrahedra methods. This surface contains staircase-like artifacts and an abundance of unnecessary triangles. We describe an approach that addresses these problems with a voxel-accurate simplification algorithm that reduces surface complexity by an order of magnitude. Our boundary interpolation and simplification methods are novel contributions to the study of surface extraction from segmented cross-sections. We have applied our method to construct polycrystal grain boundary surfaces from micrographs of a sample of the metal tantalum.
+vis citations:
+nilsson_vis_05
+weinstei_vis_00

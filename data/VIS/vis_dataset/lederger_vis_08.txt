@@ -1,0 +1,9 @@
+title: Volume MLS Ray Casting
+authors: Christian Ledergerber, Gael Guennebaud, Miriah Meyer, Moritz B??cher, Hanspeter Pfister
+abstract: The method of Moving Least Squares (MLS) is a popular framework for reconstructing continuous functions from scattered data due to its rich mathematical properties and well-understood theoretical foundations. This paper applies MLS to volume rendering, providing a unified mathematical framework for ray casting of scalar data stored over regular as well as irregular grids. We use the MLS reconstruction to render smooth isosurfaces and to compute accurate derivatives for high-quality shading effects. We also present a novel, adaptive preintegration scheme to improve the efficiency of the ray casting algorithm by reducing the overall number of function evaluations, and an efficient implementation of our framework exploiting modern graphics hardware. The resulting system enables high-quality volume integration and shaded isosurface rendering for regular and irregular volume data.
+vis citations:
+entezari_vis_06
+kindlman_vis_03
+roettger_vis_00
+weiler_vis_03
+zwicker_vis_01

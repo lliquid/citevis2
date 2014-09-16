@@ -1,0 +1,4 @@
+title: Rendering Planar Cuts Through Quadratic and Cubic Finite Elements
+authors: Michael Brasher, Robert Haimes
+abstract: Coloring higher order scientific data is problematic using standard linear methods as found in OpenGL. The visual results are inaccurate when there is a large scalar gradient over an element or when the scalar field is nonlinear. In addition to shading nonlinear data, fast and accurate rendering of planar cuts through parametric elements can be implemented using programmable shaders on current graphics hardware. The intersection of a planar cut with geometrically curved volume elements can be rendered using a combination of selective refinement and programmable shaders. This hybrid algorithm also handles curved 2D planar triangles.
+vis citations:

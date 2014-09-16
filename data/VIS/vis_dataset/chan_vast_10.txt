@@ -1,0 +1,10 @@
+title: Flow-based Scatterplots for Sensitivity Analysis
+authors: Yu-Hsuan Chan, Carlos D. Correa, Kwan-Liu Ma
+abstract: Visualization of multi-dimensional data is challenging due to the number of complex correlations that may be present in the data but that are difficult to be visually identified. One of the main causes for this problem is the inherent loss of information that occurs when high-dimensional data is projected into 2D or 3D. Although 2D scatterplots are ubiquitous due to their simplicity and familiarity, there are not a lot of variations on their basic metaphor.In this paper, we present a new way of visualizing multidimensional data using scatterplots. We extend 2D scatterplots using sensitivity coefficients to highlight local variation of one variable with respect to another. When applied to a scatterplot, these sensitivities can be understood as velocities, and the resulting visualization resembles a flow field. We also present a number of operations, based on flow-field analysis, that help users navigate, select and cluster points in an efficient manner. We show the flexibility and generality of this approach using a number of multidimensional data sets across different domains.
+vis citations:
+bachthal_vis_08
+barlowe_vast_08
+correa_vast_09
+elmqvist_infovis_08
+shneiderman_infovis_06
+yang_vast_07

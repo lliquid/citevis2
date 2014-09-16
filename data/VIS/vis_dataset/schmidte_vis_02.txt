@@ -1,0 +1,4 @@
+title: Visualizing Dynamic Molecular Conformations
+authors: Johannes Schmidt-Ehrenberg, Daniel Baum, Hans-Christian Hege
+abstract: The bioactivity of a molecule strongly depends on its metastable conformational shapes and the transitions between these. Therefore, conformation analysis and visualization is a basic prerequisite for the understanding of biochemical processes.We present techniques for visual analysis of metastable molecular conformations. Core of these are flexibly applicable methods for alignment of molecular geometries, as well as methods for depicting shape and ???fuzziness??? of metastable conformations. All analysis tools are provided in an integrated working environment.The described techniques are demonstrated with pharmaceutically active biomolecules.
+vis citations:

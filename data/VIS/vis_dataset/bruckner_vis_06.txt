@@ -1,0 +1,11 @@
+title: Exploded Views for Volume Data
+authors: Stefan Bruckner, M. Eduard Gr??ller
+abstract: Exploded views are an illustration technique where an object is partitioned into several segments. These segments are displaced to reveal otherwise hidden detail. In this paper we apply the concept of exploded views to volumetric data in order to solve the general problem of occlusion. In many cases an object of interest is occluded by other structures. While transparency or cutaways can be used to reveal a focus object, these techniques remove parts of the context information. Exploded views, on the other hand, do not suffer from this drawback. Our approach employs a force-based model: the volume is divided into a part configuration controlled by a number of forces and constraints. The focus object exerts an explosion force causing the parts to arrange according to the given constraints. We show that this novel and flexible approach allows for a wide variety of explosion-based visualizations including view-dependent explosions. Furthermore, we present a high-quality GPU-based volume ray casting algorithm for exploded views which allows rendering and interaction at several frames per second.
+vis citations:
+bruckner_vis_05
+cornea_vis_05
+correa_vis_05
+kniss_vis_05
+krueger_vis_03
+mcguffin_vis_03
+straka_vis_04

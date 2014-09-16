@@ -1,0 +1,11 @@
+title: Illustration-inspired techniques for visualizing time-varying data
+authors: Alark Joshi, Penny Rheingans
+abstract: Traditionally, time-varying data has been visualized using snapshots of the individual time steps or an animation of the snapshots shown in a sequential manner. For larger datasets with many timevarying features, animation can be limited in its use, as an observer can only track a limited number of features over the last few frames. Visually inspecting each snapshot is not practical either for a large number of time-steps.We propose new techniques inspired from the illustration literature to convey change over time more effectively in a time-varying dataset. Speedlines are used extensively by cartoonists to convey motion, speed, or change over different panels. Flow ribbons are another technique used by cartoonists to depict motion in a single frame. Strobe silhouettes are used to depict previous positions of an object to convey the previous positions of the object to the user. These illustration-inspired techniques can be used in conjunction with animation to convey change over time.
+vis citations:
+hadwiger_vis_03
+lu_vis_02
+lum_vis_01
+ebert_vis_00
+shen_vis_99
+sutton_vis_99
+svakhine_vis_05

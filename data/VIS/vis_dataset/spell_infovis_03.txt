@@ -1,0 +1,5 @@
+title: BARD: A visualization tool for biological sequence analysis
+authors: Rhazes Spell, Rachael Brady
+abstract: We present BARD (biological arc diagrams), a visualization tool for biological sequence analysis. The development of BARD began with the application of Wattenberg???s arc diagrams [Wattenberg 2002] to results from sequence analysis programs, such as BLAST [Altschul et al. 1990]. In this paper, we extend the initial arc diagram concept in two ways: 1) by separating the visualization method from the underlying matching algorithm and 2) by expanding the types of matches to include inexact matches, complemented palindrome matches, and inter-sequence matches. BARD renders each type of match distinctly, resulting in a powerful tool to quickly understand sequence similarities and differences. We illustrate the power of BARD by applying the technique to a comparative sequence analysis of the human pathogenic fungi Cryptococcus neoformans.
+vis citations:
+wattenbe_infovis_02

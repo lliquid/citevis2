@@ -1,0 +1,7 @@
+title: Visualizing Changes of Hierarchical Data using Treemaps
+authors: Ying Tu, Han-Wei Shen
+abstract: While the treemap is a popular method for visualizing hierarchical data, it is often difficult for users to track layout and attribute changes when the data evolve over time. When viewing the treemaps side by side or back and forth, there exist several problems that can prevent viewers from performing effective comparisons. Those problems include abrupt layout changes, a lack of prominent visual patterns to represent layouts, and a lack of direct contrast to highlight differences. In this paper, we present strategies to visualize changes of hierarchical data using treemaps. A new treemap layout algorithm is presented to reduce abrupt layout changes and produce consistent visual patterns. Techniques are proposed to effectively visualize the difference and contrast between two treemap snapshots in terms of the map items??? colors, sizes, and positions. Experimental data show that our algorithm can achieve a good balance in maintaining a treemap???s stability, continuity, readability, and average aspect ratio. A software tool is created to compare treemaps and generate the visualizations. User studies show that the users can better understand the changes in the hierarchy and layout, and more quickly notice the color and size differences using our method.
+vis citations:
+vliegen_infovis_06
+wattensp_infovis_05
+vanwijk1_infovis_99

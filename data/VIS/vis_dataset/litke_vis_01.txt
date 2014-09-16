@@ -1,0 +1,4 @@
+title: Fitting Subdivision Surfaces
+authors: Nathan Litke, Adi Levin, Peter Schr??oder
+abstract: We introduce a new algorithm for fitting a Catmull-Clark subdivision surface to a given shape within a prescribed tolerance, based on the method of quasi-interpolation. The fitting algorithm is fast, local and scales well since it does not require the solution of linear systems. Its convergence rate is optimal for regular meshes and our experiments show that it behaves very well for irregular meshes. We demonstrate the power and versatility of our method with examples from interactive modeling, surface fitting, and scientific visualization.
+vis citations:

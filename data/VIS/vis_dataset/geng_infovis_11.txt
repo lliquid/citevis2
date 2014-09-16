@@ -1,0 +1,13 @@
+title: Angular Histograms: Frequency-Based Visualizations for Large, High Dimensional Data
+authors: Zhao Geng, ZhenMin Peng, Robert S. Laramee, Rick Walker, Jonathan C. Roberts
+abstract: Parallel coordinates is a popular and well-known multivariate data visualization technique. However, one of their inherent limitations has to do with the rendering of very large data sets. This often causes an overplotting problem and the goal of the visual information seeking mantra is hampered because of a cluttered overview and non-interactive update rates. In this paper, we propose two novel solutions, namely, angular histograms and attribute curves. These techniques are frequency-based approaches to large, high-dimensional data visualization. They are able to convey both the density of underlying polylines and their slopes. Angular histogram and attribute curves offer an intuitive way for the user to explore the clustering, linear correlations and outliers in large data sets without the over-plotting and clutter problems associated with traditional parallel coordinates. We demonstrate the results on a wide variety of data sets including real-world, high-dimensional biological data. Finally, we compare our methods with the other popular frequency-based algorithms.
+vis citations:
+artero_infovis_04
+blaas_vis_08
+dasgupta_infovis_10
+ellis_infovis_07
+ellis_infovis_06
+fua_vis_99
+hauser_infovis_02
+johansso_infovis_05
+novotny_vis_06

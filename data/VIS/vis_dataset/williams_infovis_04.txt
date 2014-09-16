@@ -1,0 +1,10 @@
+title: Steerable, Progressive Multidimensional Scaling
+authors: Matt Williams, Tamara Munzner
+abstract: Current implementations of Multidimensional Scaling (MDS), an approach that attempts to best represent data point similarity in a low-dimensional representation, are not suited for many of today???s large-scale datasets. We propose an extension to the spring model approach that allows the user to interactively explore datasets that are far beyond the scale of previous implementations of MDS.We present MDSteer, a steerable MDS computation engine and visualization tool that progressively computes an MDS layout and handles datasets of over one million points. Our technique employs hierarchical data structures and progressive layouts to allow the user to steer the computation of the algorithm to the interesting areas of the dataset. The algorithm iteratively alternates between a layout stage in which a sub-selection of points are added to the set of active points affected by the MDS iteration, and a binning stage which increases the depth of the bin hierarchy and organizes the currently unplaced points into separate spatial regions. This binning strategy allows the user to select onscreen regions of the layout to focus the MDS computation into the areas of the dataset that are assigned to the selected bins. We show both real and common synthetic benchmark datasets with dimensionalities ranging from 3 to 300 and cardinalities of over one million points.
+vis citations:
+amenta_infovis_02
+wylie_infovis_01
+koren_infovis_02
+morrison_infovis_03
+morrison_infovis_02
+ross_infovis_03

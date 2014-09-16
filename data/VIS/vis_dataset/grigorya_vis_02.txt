@@ -1,0 +1,6 @@
+title: Probabilistic Surfaces: Point Based Primitives to Show Surface Uncertainty
+authors: Gevorg Grigoryan, Penny Rheingans
+abstract: Efficient and informative visualization of surfaces with uncertainties is an important topic with many applications in science and engineering. Examples include environmental pollution borderline identification, identification of the limits of an oil basin, or discrimination between contaminated and healthy tissue in medicine. This paper presents an approach for such visualization using points as display primitives. Our approach is to render each polygon as a collection of points and to displace each point from the surface in the direction of the surface normal by an amount proportional to some random number multiplied by the uncertainty level at that point. This approach can be used in combination with other techniques such as pseudo-coloring and shading to give rise to efficient and revealing visualizations. The method is used to visualize real and simulated tumor formations with uncertainty of tumor boundaries.
+vis citations:
+cedilnik_vis_00
+chen_vis_01

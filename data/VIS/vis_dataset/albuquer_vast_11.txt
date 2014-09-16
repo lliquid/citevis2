@@ -1,0 +1,10 @@
+title: Perception-Based Visual Quality Measures
+authors: Georgia Albuquerque, Martin Eisemann, Marcus Magnor
+abstract: In recent years diverse quality measures to support the exploration of high-dimensional data sets have been proposed. Such measures can be very useful to rank and select information-bearing projections of very high dimensional data, when the visual exploration of all possible projections becomes unfeasible. But even though a ranking of the low dimensional projections may support the user in the visual exploration task, different measures deliver different distances between the views that do not necessarily match the expectations of human perception. As an alternative solution, we propose a perception-based approach that, similar to the existing measures, can be used to select information bearing projections of the data. Specifically, we construct a perceptual embedding for the different projections based on the data from a psychophysics study and multi-dimensional scaling. This embedding together with a ranking function is then used to estimate the value of the projections for a specific user task in a perceptual sense.
+vis citations:
+albuquer_vast_10
+dasgupta_infovis_10
+johansso_infovis_09
+schneidewind_vast_06
+tatu_vast_09
+wilkinso_infovis_05

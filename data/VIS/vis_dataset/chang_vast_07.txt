@@ -1,0 +1,8 @@
+title: WireVis: Visualization of Categorical, Time-Varying Data From Financial Transactions
+authors: Remco Chang, Mohammad Ghoniem, Robert Kosara, William Ribarsky, Jing
+Yang, Evan Sumak, Caroline Ziemkiewicz, Daniel Kern, Agus Sudjianto
+abstract: Large financial institutions such as Bank of America handle hundreds of thousands of wire transactions per day. Although most transactions are legitimate, these institutions have legal and financial obligations in discovering those that are suspicious. With the methods of fraudulent activities ever changing, searching on predefined patterns is often insufficient in detecting previously undiscovered methods. In this paper, we present a set of coordinated visualizations based on identifying specific keywords within the wire transactions. The different views used in our system depict relationships among keywords and accounts over time. Furthermore, we introduce a search-by-example technique which extracts accounts that show similar transaction patterns. In collaboration with the Anti-Money Laundering division at Bank of America, we demonstrate that using our tool, investigators are able to detect accounts and transactions that exhibit suspicious behaviors.
+vis citations:
+abello_infovis_04
+henry_infovis_06
+vanwijk2_infovis_99

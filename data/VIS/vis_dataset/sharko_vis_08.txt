@@ -1,0 +1,6 @@
+title: Vectorized Radviz and Its Application to Multiple Cluster Datasets
+authors: John Sharko, Georges Grinstein, Kenneth A. Marx
+abstract: Radviz is a radial visualization with dimensions assigned to points called dimensional anchors (DAs) placed on the circumference of a circle. Records are assigned locations within the circle as a function of its relative attraction to each of the DAs. The DAs can be moved either interactively or algorithmically to reveal different meaningful patterns in the dataset. In this paper we describe Vectorized Radviz (VRV) which extends the number of dimensions through data flattening. We show how VRV increases the power of Radviz through these extra dimensions by enhancing the flexibility in the layout of the DAs. We apply VRV to the problem of analyzing the results of multiple clusterings of the same data set, called multiple cluster sets or cluster ensembles. We show how features of VRV help discern patterns across the multiple cluster sets. We use the Iris data set to explain VRV and a newt gene microarray data set used in studying limb regeneration to show its utility. We then discuss further applications of VRV.
+vis citations:
+peng_infovis_04
+ankerst_infovis_98

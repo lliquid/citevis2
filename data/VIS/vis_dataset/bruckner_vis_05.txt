@@ -1,0 +1,10 @@
+title: VolumeShop: An Interactive System for Direct Volume Illustration
+authors: Stefan Bruckner, M. Eduard Gr??ller
+abstract: Illustrations play a major role in the education process. Whether used to teach a surgical or radiologic procedure, to illustrate normal or aberrant anatomy, or to explain the functioning of a technical device, illustration significantly impacts learning. Although many specimens are readily available as volumetric data sets, particularly in medicine, illustrations are commonly produced manually as static images in a time-consuming process. Our goal is to create a fully dynamic three-dimensional illustration environment which directly operates on volume data. Single images have the aesthetic appeal of traditional illustrations, but can be interactively altered and explored. In this paper we present methods to realize such a system which combines artistic visual styles and expressive visualization techniques. We introduce a novel concept for direct multi-object volume visualization which allows control of the appearance of inter-penetrating objects via two-dimensional transfer functions. Furthermore, a unifying approach to efficiently integrate many non-photorealistic rendering models is presented. We discuss several illustrative concepts which can be realized by combining cutaways, ghosting, and selective deformation. Finally, we also propose a simple interface to specify objects of interest through three-dimensional volumetric painting. All presented methods are integrated into VolumeShop, an interactive hardware-accelerated application for direct volume illustration.
+vis citations:
+krueger_vis_03
+lee_vis_04
+lu_vis_02
+lum_vis_04
+ebert_vis_00
+viola_vis_04

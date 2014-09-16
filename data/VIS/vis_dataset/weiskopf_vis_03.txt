@@ -1,0 +1,6 @@
+title: A Texture-Based Framework for Spacetime-Coherent Visualization of Time-Dependent Vector Fields
+authors: Daniel Weiskopf, Gordon Erlebacher, Thomas Ertl
+abstract: We propose Unsteady Flow Advection???Convolution (UFAC) as a novel visualization approach for unsteady flows. It performs time evolution governed by pathlines, but builds spatial correlation according to instantaneous streamlines whose spatial extent is controlled by the flow unsteadiness. UFAC is derived from a generic framework that provides spacetime-coherent dense representations of time dependent-vector fields by a two-step process: 1) construction of continuous trajectories in spacetime for temporal coherence, and 2) convolution along another set of paths through the above spacetime for spatially correlated patterns. Within the framework, known visualization techniques???such as LagrangianEulerian Advection, Image-Based Flow Visualization, Unsteady Flow LIC, and Dynamic LIC???can be reproduced, often with better image quality, higher performance, or increased flexibility of the visualization style. Finally, we present a texture-based discretization of the framework and its interactive implementation on graphics hardware, which allows the user to gradually balance visualization speed against quality.
+vis citations:
+jobard_vis_00
+verma_vis_99

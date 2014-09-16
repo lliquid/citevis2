@@ -6,7 +6,7 @@ var concepts = {}
 var authors = {}
 var active_concept = "---"
 var active_author = "---"
-var fillby = "external"
+var fillby = "internal"
 
 //single,each,multi
 var MODE = 'each'
@@ -204,7 +204,8 @@ var deactivate = function(){
 
 
 //Driver
-d3.json('data/citations-2013.json',function(json){
+// d3.json('data/citations-2013.json',function(json){
+d3.json('data/VIS/vis_dataset_ii.json',function(json){
   data = json
   var gscholar_max = 0
   var internal_max = 0
@@ -277,7 +278,7 @@ d3.json('data/citations-2013.json',function(json){
   for(var year in data){
     year = data[year]
     year.papers.sort(function(a,b){
-      return b.gscholar-a.gscholar
+      return b.incites.length-a.incites.length
     })
   }
   // oscale = d3.scale.linear()

@@ -1,0 +1,5 @@
+title: POP: A Hybrid Point and Polygon Rendering System for Large Data
+authors: Baoquan Chen, Minh Xuan Nguyen
+abstract: We introduce a simple but effective extension to the existing pure point rendering systems. Rather than using only points, we use both points and polygons to represent and render large mesh models. We start from triangles as leaf nodes and build up a hierarchical tree structure with intermediate nodes as points. During the rendering, the system determines whether to use a point (of a certain intermediate level node) or a triangle (of a leaf node) for display depending on the screen contribution of each node. While points are used to speedup the rendering of distant objects, triangles are used to ensure the quality of close objects. Our method can accelerate the rendering of large models, compromising little in image quality.
+vis citations:
+hoppe_vis_98

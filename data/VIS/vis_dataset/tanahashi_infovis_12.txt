@@ -1,0 +1,13 @@
+title: Design Considerations for Optimizing Storyline Visualizations
+authors: Yuzuru Tanahashi, Kwan-Liu Ma
+abstract: Storyline visualization is a technique used to depict the temporal dynamics of social interactions. This visualization technique was first introduced as a hand-drawn illustration in XKCD???s ???Movie Narrative Charts??? [21]. If properly constructed, the visualization can convey both global trends and local interactions in the data. However, previous methods for automating storyline visualizations are overly simple, failing to achieve some of the essential principles practiced by professional illustrators. This paper presents a set of design considerations for generating aesthetically pleasing and legible storyline visualizations. Our layout algorithm is based on evolutionary computation, allowing us to effectively incorporate multiple objective functions. We show that the resulting visualizations have significantly improved aesthetics and legibility compared to existing techniques.
+vis citations:
+brandes_infovis_02
+byron_infovis_08
+cui_infovis_11
+cui_infovis_08
+ellis_infovis_07
+kumar_infovis_06
+robertso_infovis_08
+selassie_infovis_11
+wong_n_infovis_03

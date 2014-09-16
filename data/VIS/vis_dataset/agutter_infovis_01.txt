@@ -1,0 +1,4 @@
+title: Graphic Data Display for Cardiovascular System
+authors: James Agutter, Noah Syroid, Frank Drews, Dwayne Westenskow, Julio Bermudez, David Strayer
+abstract: Our multi-disciplinary group has developed a visual representation for cardiovascular physiological variables. This enhances a clinician???s ability to detect and rapidly respond to critical events. The integrated and intuitive display communicates a patient???s cardiovascular state so that it is easily and quickly understood without prior training. The display is designed to show patterns of functional relationships that aid in the detection, diagnosis, and treatment of a critical event.
+vis citations:

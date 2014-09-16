@@ -1,0 +1,4 @@
+title: Using Visualization to Detect Plagiarism in Computer Science Classes
+authors: Randy L. Ribler, Marc Abrams
+abstract: This paper introduces a number of general methods for visualizing commonality in sets of textfiles. Each visualization simultaneously compares one file in the set to all other files in the set. These visualizations, which can be computed in O time and space, are explained and then applied to the problem of detecting plagiarism in large computer science classes. A case study is presented and sample visualizations are provided. Finally, a new interactive tool that can be used to produce and manipulate these visualizations is presented.
+vis citations:

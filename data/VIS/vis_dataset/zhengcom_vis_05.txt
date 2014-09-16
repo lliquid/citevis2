@@ -1,0 +1,10 @@
+title: 2D Asymmetric Tensor Analysis
+authors: Xiaoqiang Zheng, Alex Pang
+abstract: Analysis of degenerate tensors is a fundamental step in finding the topological structures and separatrices in tensor fields. Previous work in this area have been limited to analyzing symmetric second order tensor fields. In this paper, we extend the topological analysis to 2D general (asymmetric) second order tensor fields. We show that it is not sufficient to define degeneracies based on eigenvalues alone, but one must also include the eigenvectors in the analysis. We also study the behavior of these eigenvectors as they cross from one topological region into another.
+vis citations:
+hotz_vis_04
+kindlman_vis_99
+laidlaw_vis_98
+lavin_vis_98
+ye_vis_05
+zheng_vis_04

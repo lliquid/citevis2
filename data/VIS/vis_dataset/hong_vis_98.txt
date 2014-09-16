@@ -1,0 +1,4 @@
+title: Accelerated Ray-Casting for Curvilinear Volumes
+authors: Lichan Hong, Arie Kaufman
+abstract: We present an efficient and robust ray-casting algorithm for directly rendering a curvilinear volume of arbitrarily-shaped cells. We designed the algorithm to alleviate the consumption of CPU power and memory space. By incorporating the essence of the projection paradigm into the ray-casting process, we have successfully accelerated the ray traversal through the grid and data interpolations at sample points. Our algorithm also overcomes the conventional limitation requiring the cells to be convex. Application of this algorithm to several commonly-used curvilinear data sets has produced a favorable performance when compared with recently reported algorithms.
+vis citations:

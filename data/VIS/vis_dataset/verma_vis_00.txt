@@ -1,0 +1,7 @@
+title: A Flow-guided Streamline Seeding Strategy
+authors: Vivek Verma1, David Kao, Alex Pang
+abstract: This paper presents a seed placement strategy for streamlines based on flow features in the dataset. The primary goal of our seeding strategy is to capture flow patterns in the vicinity of critical points in the flow field, even as the density of streamlines is reduced. Secondary goals are to place streamlines such that there is sufficient coverage in non-critical regions, and to vary the streamline placements and lengths so that the overall presentation is aesthetically pleasing (avoid clustering of streamlines, avoid sharp discontinuities across several streamlines, etc.). The procedure is straight forward and non-iterative. First, critical points are identified. Next, the flow field is segmented into regions, each containing a single critical point. The critical point in each region is then seeded with a template depending on the type of critical point. Finally, additional seed points are randomly distributed around the field using a Poisson disk distribution to minimize closely spaced seed points. The main advantage of this approach is that it does not miss the features around critical points. Since the strategy is not image-guided, and hence not view dependent, significant savings are possible when examining flow fields from different viewpoints, especially for 3D flow fields.
+vis citations:
+lavin_vis_98
+mao_vis_98
+verma_vis_99

@@ -1,0 +1,5 @@
+title: Avian Flu Case Study with nSpace and GeoTime
+authors: Pascale Proulx, Sumeet Tandon, Adam Bodnar, David Schroh, Robert Harper, William Wright
+abstract: GeoTime and nSpace are new analysis tools that provide innovative visual analytic capabilities. This paper uses an epidemiology analysis scenario to illustrate and discuss these new investigative methods and techniques. In addition, this case study is an exploration and demonstration of the analytical synergy achieved by combining GeoTime???s geo-temporal analysis capabilities, with the rapid information triage, scanning and sensemaking provided by nSpace.A fictional analyst works through the scenario from the initial brainstorming through to a final collaboration and report. With the efficient knowledge acquisition and insights into large amounts of documents, there is more time for the analyst to reason about the problem and imagine ways to mitigate threats. The use of both nSpace and GeoTime initiated a synergistic exchange of ideas, where hypotheses generated in either software tool could be crossreferenced, refuted, and supported by the other tool.
+vis citations:
+kapler_infovis_04

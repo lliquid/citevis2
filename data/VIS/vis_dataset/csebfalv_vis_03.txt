@@ -1,0 +1,7 @@
+title: Monte Carlo Volume Rendering
+authors: Balazs Csebfalvi, Laszlo Szirmay-Kalos
+abstract: In this paper a novel volume-rendering technique based on Monte Carlo integration is presented. As a result of a preprocessing, a point cloud of random samples is generated using a normalized continuous reconstruction of the volume as a probability density function. This point cloud is projected onto the image plane, and to each pixel an intensity value is assigned which is proportional to the number of samples projected onto the corresponding pixel area. In such a way a simulated X-ray image of the volume can be obtained. Theoretically, for a fixed image resolution, there exists an M number of samples such that the average standard deviation of the estimated pixel intensities is under the level of quantization error regardless of the number of voxels. Therefore Monte Carlo Volume Rendering (MCVR) is mainly proposed to efficiently visualize large volume data sets. Furthermore, network applications are also supported, since the trade-off between image quality and interactivity can be adapted to the bandwidth of the client/server connection by using progressive refinement.
+vis citations:
+guthe_vis_02
+lu_vis_02
+zwicker_vis_01

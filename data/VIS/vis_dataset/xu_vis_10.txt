@@ -1,0 +1,16 @@
+title: An Information-Theoretic Framework for Flow Visualization
+authors: Lijie Xu, Teng-Yok Lee, Han-Wei Shen
+abstract: The process of visualization can be seen as a visual communication channel where the input to the channel is the raw data, and the output is the result of a visualization algorithm. From this point of view, we can evaluate the effectiveness of visualization by measuring how much information in the original data is being communicated through the visual communication channel. In this paper, we present an information-theoretic framework for flow visualization with a special focus on streamline generation. In our framework, a vector field is modeled as a distribution of directions from which Shannon???s entropy is used to measure the information content in the field. The effectiveness of the streamlines displayed in visualization can be measured by first constructing a new distribution of vectors derived from the existing streamlines, and then comparing this distribution with that of the original data set using the conditional entropy. The conditional entropy between these two distributions indicates how much information in the original data remains hidden after the selected streamlines are displayed. The quality of the visualization can be improved by progressively introducing new streamlines until the conditional entropy converges to a small value. We describe the key components of our framework with detailed analysis, and show that the framework can effectively visualize 2D and 3D flow data.
+vis citations:
+bachthal_vis_08
+bordoloi_vis_05
+chen_vis_07
+gumhold_vis_02
+jaenicke_vis_07
+liuzhanp_vis_06
+mebarki_vis_05
+schlemmer_vis_07
+verma_vis_00
+viola_vis_06
+wangchao_vis_08
+ye_vis_05

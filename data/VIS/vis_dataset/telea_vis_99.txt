@@ -1,0 +1,4 @@
+title: Simplified Representation of Vector Fields
+authors: Alexandru Telea, Jarke J. van Wijk
+abstract: Vector field visualization remains a difficult task. Although many local and global visualization methods for vector fields such as flow data exist, they usually require extensive user experience on setting the visualization parameters in order to produce images communicating the desired insight. We present a visualization method that produces simplified but suggestive images of the vector field automatically, based on a hierarchical clustering of the input data. The resulting clusters are then visualized with straight or curved arrow icons. The presented method has a few parameters with which users can produce various simplified vector field visualizations that communicate different insights on the vector data.
+vis citations:

@@ -1,0 +1,14 @@
+title: Characterizing Users??? Visual Analytic Activity for Insight Provenance
+authors: David Gotz, Michelle X. Zhou
+abstract: Insight provenance - a historical record of the process and rationale by which an insight is derived???is an essential requirement in many visual analytics applications. While work in this area has relied on either manually recorded provenance (e.g., user notes) or automatically recorded event-based insight provenance (e.g., clicks, drags, and key-presses), both approaches have fundamental limitations. Our aim is to develop a new approach that combines the benefits of both approaches while avoiding their deficiencies. Toward this goal, we characterize users??? visual analytic activity at multiple levels of granularity. Moreover, we identify a critical level of abstraction, Actions, that can be used to represent visual analytic activity with a set of general but semantically meaningful behavior types. In turn, the action types can be used as the semantic building blocks for insight provenance. We present a catalog of common actions identified through observations of several different visual analytic systems. In addition, we define a taxonomy to categorize actions into three major classes based on their semantic intent. The concept of actions has been integrated into our lab???s prototype visual analytic system, HARVEST, as the basis for its insight provenance capabilities.
+vis citations:
+amar_infovis_05
+amar_infovis_04
+bavoil_vis_05
+chi_infovis_00
+chi_infovis_98
+eccles_vast_07
+gotz_vast_06
+jankun_k_vis_02
+kreusele_infovis_04
+viegas_infovis_07

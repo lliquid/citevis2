@@ -1,0 +1,4 @@
+title: GeoTime Information Visualization
+authors: Thomas Kapler, William Wright
+abstract: Analyzing observations over time and geography is a common task but typically requires multiple, separate tools. The objective of our research has been to develop a method to visualize, and work with, the spatial inter-connectedness of information over time and geography within a single, highly interactive 3-D view. A novel visualization technique for displaying and tracking events, objects and activities within a combined temporal and geospatial display has been developed. This technique has been implemented as a demonstratable prototype called GeoTime in order to determine potential utility. Initial evaluations have been with military users. However, we believe the concept is applicable to a variety of government and business analysis tasks.
+vis citations:

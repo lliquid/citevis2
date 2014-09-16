@@ -1,0 +1,8 @@
+title: Real-Time Refinement and Simplification of Adaptive Triangular Meshes
+authors: Vasily Volkov, Ling Li
+abstract: In this paper we present a generic method for incremental mesh adaptation based on hierarchy of semi-regular meshes. Our method supports any refinement rule mapping vertices onto vertices such as 1-to-4 split or ??3-subdivision. Resulting adaptive mesh has subdivision connectivity and hence good aspect ratio of triangles. Hierarchic representation of the mesh allows incremental local refinement and simplification operations exploiting frame-to-frame coherence. We also present an out-of-core storage layout scheme designed for semi-regular meshes of arbitrary subdivision connectivity. It provides high cache coherency in the data retrieval and relies on the interleaved storage of resolution levels and maintaining good geometrical proximity within each level. The efficiency of the proposed method is demonstrated with applications in physically-based cloth simulation, real-time terrain visualization and procedural modeling.
+vis citations:
+decoro_vis_02
+hoppe_vis_98
+lindstrom02_vis_01
+wood_vis_00

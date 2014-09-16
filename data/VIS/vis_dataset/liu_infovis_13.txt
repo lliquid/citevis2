@@ -1,0 +1,15 @@
+title: StoryFlow: Tracking the Evolution of Stories
+authors: Shixia Liu, Yingcai Wu, Enxun Wei, Mengchen Liu, Yang Liu
+abstract: Storyline visualizations, which are useful in many applications, aim to illustrate the dynamic relationships between entities in a story. However, the growing complexity and scalability of stories pose great challenges for existing approaches. In this paper, we propose an efficient optimization approach to generating an aesthetically appealing storyline visualization, which effectively handles the hierarchical relationships between entities over time. The approach formulates the storyline layout as a novel hybrid optimization approach that combines discrete and continuous optimization. The discrete method generates an initial layout through the ordering and alignment of entities, and the continuous method optimizes the initial layout to produce the optimal one. The efficient approach makes real-time interactions (e.g., bundling and straightening) possible, thus enabling users to better understand and track how the story evolves. Experiments and case studies are conducted to demonstrate the effectiveness and usefulness of the optimization approach.
+vis citations:
+burch_infovis_11
+cui_infovis_11
+fails_vast_06
+fisher_vast_08
+hullman2_infovis_11
+rose_vast_09
+segal_infovis_10
+shi_infovis_12
+tanahashi_infovis_12
+wongsuphasawat_infovis_12
+xu_vast_13

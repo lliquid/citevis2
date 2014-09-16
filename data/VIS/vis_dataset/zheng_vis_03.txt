@@ -1,0 +1,7 @@
+title: HyperLIC
+authors: Xiaoqiang Zheng, Alex Pang
+abstract: We introduce a new method for visualizing symmetric tensor fields. The technique produces images and animations reminiscent of line integral convolution (LIC). The technique is also slightly related to hyperstreamlines in that it is used to visualize tensor fields. However, the similarity ends there. HyperLIC uses a multi-pass approach to show the anisotropic properties in a 2D or 3D tensor field. We demonstrate this technique using data sets from computational fluid dynamics as well as diffusion-tensor MRI.
+vis citations:
+kindlman_vis_99
+sigfrids_vis_02
+zhukov_vis_02

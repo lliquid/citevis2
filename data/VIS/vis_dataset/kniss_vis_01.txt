@@ -1,0 +1,6 @@
+title: Interactive Volume Rendering Using Multi-Dimensional Transfer Functions and Direct Manipulation Widgets
+authors: Joe Kniss, Gordon Kindlmann, Charles Hansen
+abstract: Most direct volume renderings produced today employ onedimensional transfer functions, which assign color and opacity to the volume based solely on the single scalar quantity which comprises the dataset. Though they have not received widespread attention, multi-dimensional transfer functions are a very effective way to extract specific material boundaries and convey subtle surface properties. However, identifying good transfer functions is difficult enough in one dimension, let alone two or three dimensions. This paper demonstrates an important class of three-dimensional transfer functions for scalar data (based on data value, gradient magnitude, and a second directional derivative), and describes a set of direct manipulation widgets which make specifying such transfer functions intuitive and convenient. We also describe how to use modern graphics hardware to interactively render with multi-dimensional transfer functions. The transfer functions, widgets, and hardware combine to form a powerful system for interactive volume exploration.
+vis citations:
+lamar_vis_99
+meissner_vis_99

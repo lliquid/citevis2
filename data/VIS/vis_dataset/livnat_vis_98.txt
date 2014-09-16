@@ -1,0 +1,5 @@
+title: View Dependent Isosurface Extraction
+authors: Yarden Livnat, Charles Hansen
+abstract: We propose a new approach to polygonal isosurface extraction that is based on extracting only the visible portion of the isosurface. The visibility tests are done in two phases. First, coarse visibility tests are performed in software to determine the visible cells. These tests are based on hierarchical tiles and shear-warp factorization. The second phase resolves the visible portions of the extracted triangles and is accomplished by the graphics hardware.While the latest isosurface extraction methods have effectively eliminated the search phase bottleneck, the cost of constructing and rendering the isosurface remains high. Many of today???s large datasets contain very large and complex isosurfaces that can easily overwhelm even state-of-the-art graphics hardware. The proposed approach is output sensitive and is thus well suited for remote visualization applications where the extraction and rendering phases are done on a separate machines.
+vis citations:
+parker_vis_98

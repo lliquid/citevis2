@@ -1,0 +1,12 @@
+title: Semantic Layers for Illustrative Volume Rendering
+authors: Peter Rautek, Stefan Bruckner, M. Eduard Gr??ller
+abstract: Direct volume rendering techniques map volumetric attributes (e.g., density, gradient magnitude, etc.) to visual styles. Commonly this mapping is specified by a transfer function. The specification of transfer functions is a complex task and requires expert knowledge about the underlying rendering technique. In the case of multiple volumetric attributes and multiple visual styles the specification of the multi-dimensional transfer function becomes more challenging and non-intuitive. We present a novel methodology for the specification of a mapping from several volumetric attributes to multiple illustrative visual styles. We introduce semantic layers that allow a domain expert to specify the mapping in the natural language of the domain. A semantic layer defines the mapping of volumetric attributes to one visual style. Volumetric attributes and visual styles are represented as fuzzy sets. The mapping is specified by rules that are evaluated with fuzzy logic arithmetics. The user specifies the fuzzy sets and the rules without special knowledge about the underlying rendering technique. Semantic layers allow for a linguistic specification of the mapping from attributes to visual styles replacing the traditional transfer function specification.
+vis citations:
+bruckner_vis_05
+kindlman_vis_03
+kniss_vis_05
+lum_vis_04
+mccormic_vis_04
+salama_vis_06
+stocking_vis_05
+woodring_vis_06

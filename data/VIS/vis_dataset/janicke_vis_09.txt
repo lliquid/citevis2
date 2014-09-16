@@ -1,0 +1,6 @@
+title: Visual Exploration of Climate Variability Changes Using Wavelet Analysis
+authors: Heike J??nicke, Michael B??ttinger, Uwe Mikolajewicz, Gerik Scheuermann
+abstract: Due to its nonlinear nature, the climate system shows quite high natural variability on different time scales, including multiyear oscillations such as the El Ni??no Southern Oscillation phenomenon. Beside a shift of the mean states and of extreme values of climate variables, climate change may also change the frequency or the spatial patterns of these natural climate variations. Wavelet analysis is a well established tool to investigate variability in the frequency domain. However, due to the size and complexity of the analysis results, only few time series are commonly analyzed concurrently. In this paper we will explore different techniques to visually assist the user in the analysis of variability and variability changes to allow for a holistic analysis of a global climate model data set consisting of several variables and extending over 250 years. Our new framework and data from the IPCC AR4 simulations with the coupled climate model ECHAM5/MPI-OM are used to explore the temporal evolution of El Ni??no due to climate change.
+vis citations:
+janicke_vis_08
+riley_vis_03

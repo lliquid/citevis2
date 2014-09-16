@@ -1,0 +1,8 @@
+title: SnapShot: Visualization to Propel Ice Hockey Analytics
+authors: Hannah Pileggi, Charles D. Stolper, J. Michael Boyle, John T. Stasko
+abstract: Sports analysts live in a world of dynamic games flattened into tables of numbers, divorced from the rinks, pitches, and courts where they were generated. Currently, these professional analysts use R, Stata, SAS, and other statistical software packages for uncovering insights from game data. Quantitative sports consultants seek a competitive advantage both for their clients and for themselves as analytics becomes increasingly valued by teams, clubs, and squads. In order for the information visualization community to support the members of this blossoming industry, it must recognize where and how visualization can enhance the existing analytical workflow. In this paper, we identify three primary stages of today???s sports analyst???s routine where visualization can be beneficially integrated: 1) exploring a dataspace; 2) sharing hypotheses with internal colleagues; and 3) communicating findings to stakeholders.Working closely with professional ice hockey analysts, we designed and built SnapShot, a system to integrate visualization into the hockey intelligence gathering process. SnapShot employs a variety of information visualization techniques to display shot data, yet given the importance of a specific hockey statistic, shot length, we introduce a technique, the radial heat map. Through a user study, we received encouraging feedback from several professional analysts, both independent consultants and professional team personnel.
+vis citations:
+bostock_infovis_11
+segal_infovis_10
+tan_infovis_07
+viegas_infovis_07

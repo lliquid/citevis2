@@ -1,0 +1,5 @@
+title: Interactive Ray Tracing for Isosurface Rendering
+authors: Steven Parker, Peter Shirley, Yarden Livnat, Charles Hansen, Peter-Pike Sloan
+abstract: We show that it is feasible to perform interactive isosurfacing of very large rectilinear datasets with brute-force ray tracing on a conventional (distributed) shared-memory multiprocessor machine. Rather than generate geometry representing the isosurface and render with a z-buffer, for each pixel we trace a ray through a volume and do an analytic isosurface intersection computation. Although this method has a high intrinsic computational cost, its simplicity and scalability make it ideal for large datasets on current high-end systems. Incorporating simple optimizations, such as volume bricking and a shallow hierarchy, enables interactive rendering (i.e. 10 frames per second) of the 1GByte full resolution Visible Woman dataset on an SGI Reality Monster. The graphics capabilities of the reality monster are used only for display of the final color image.
+vis citations:
+livnat_vis_98

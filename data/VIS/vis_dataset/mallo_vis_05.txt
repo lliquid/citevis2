@@ -1,0 +1,7 @@
+title: Illuminated Lines Revisited
+authors: Ovidio Mallo, Ronald Peikert, Christian Sigg, Filip Sadlo
+abstract: For the rendering of vector and tensor fields, several texturebased volumetric rendering methods were presented in recent years. While they have indisputable merits, the classical vertex-based rendering of integral curves has the advantage of better zooming capabilities as it is not bound to a fixed resolution. It has been shown that lighting can improve spatial perception of lines significantly, especially if lines appear in bundles. Although OpenGL does not directly support lighting of lines, fast rendering of illuminated lines can be achieved by using basic texture mapping. This existing technique is based on a maximum principle which gives a good approximation of specular reflection. Diffuse reflection however is essentially limited to bidirectional lights at infinity. We show how the realism can be further increased by improving diffuse reflection. We present simplified expressions for the Phong/Blinn lighting of infinitesimally thin cylindrical tubes. Based on these, we propose a fast rendering technique with diffuse and specular reflection for orthographic and perspective views and for multiple local and infinite lights. The method requires commonly available programmable vertex and fragment shaders and only two-dimensional lookup textures.
+vis citations:
+li_gs_vis_03
+schussma_vis_04
+sigfrids_vis_02

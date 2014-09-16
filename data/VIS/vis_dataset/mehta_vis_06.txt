@@ -1,0 +1,8 @@
+title: Detection and Visualization of Defects in 3D Unstructured Models of Nematic Liquid Crystals
+authors: Ketan Mehta, T.J. Jankun-Kelly
+abstract: A method for the semi-automatic detection and visualization of defects in models of nematic liquid crystals (NLCs) is introduced; this method is suitable for unstructured models, a previously unsolved problem. The detected defects???also known as disclinations???are regions were the alignment of the liquid crystal rapidly changes over space; these defects play a large role in the physical behavior of the NLC substrate. Defect detection is based upon a measure of total angular change of crystal orientation (the director) over a node neighborhood via the use of a nearest neighbor path. Visualizations based upon the detection algorithm clearly identifies complete defect regions as opposed to incomplete visual descriptions provided by cutting-plane and isosurface approaches. The introduced techniques are currently in use by scientists studying the dynamics of defect change.
+vis citations:
+jankun_vis_06
+mehta_vis_04
+slavin_vis_06
+tricoche_vis_01

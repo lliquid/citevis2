@@ -1,0 +1,8 @@
+title: Effectively Visualizing Multi-Valued Flow Data using Color and Texture
+authors: Timothy Urness, Victoria Interrante, Ivan Marusic, Ellen Longmire, Bharathram Ganapathisubramani
+abstract: In this paper we offer several new insights and techniques for effectively using color and texture to simultaneously convey information about multiple 2D scalar and vector distributions, in a way that facilitates allowing each distribution to be understood both individually and in the context of one or more of the other distributions. Specifically, we introduce the concepts of: ???color weaving??? for simultaneously representing information about multiple co-located color encoded distributions, and ???texture stitching??? for achieving more spatially accurate multifrequency line integral convolution representations of combined scalar and vector distributions.The target application for our research is the definition, detection and visualization of regions of interest in a turbulent boundary layer flow at moderate Reynolds number. In this work, we examine and analyze streamwise-spanwise planes of threecomponent velocity vectors with the goal of identifying and characterizing spatially organized packets of hairpin vortices.
+vis citations:
+healey_vis_98
+kindlman_vis_02
+kirby_vis_99
+laidlaw_vis_98

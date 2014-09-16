@@ -1,0 +1,16 @@
+title: TreeNetViz: Revealing Patterns of Networks over Tree Structures
+authors: Liang Gou, Xiaolong (Luke) Zhang
+abstract: Network data often contain important attributes from various dimensions such as social affiliations and areas of expertise in a social network. If such attributes exhibit a tree structure, visualizing a compound graph consisting of tree and network structures becomes complicated. How to visually reveal patterns of a network over a tree has not been fully studied. In this paper, we propose a compound graph model, TreeNet, to support visualization and analysis of a network at multiple levels of aggregation over a tree. We also present a visualization design, TreeNetViz, to offer the multiscale and cross-scale exploration and interaction of a TreeNet graph. TreeNetViz uses a Radial, Space-Filling (RSF) visualization to represent the tree structure, a circle layout with novel optimization to show aggregated networks derived from TreeNet, and an edge bundling technique to reduce visual complexity. Our circular layout algorithm reduces both total edge-crossings and edge length and also considers hierarchical structure constraints and edge weight in a TreeNet graph. These experiments illustrate that the algorithm can reduce visual cluttering in TreeNet graphs. Our case study also shows that TreeNetViz has the potential to support the analysis of a compound graph by revealing multiscale and cross-scale network patterns.
+vis citations:
+holten_infovis_06
+collins_infovis_07
+shneiderman_infovis_06
+vanham_infovis_03
+ghoniem_infovis_04
+abello_infovis_06
+auber_infovis_03
+pretorius_infovis_06
+meyer_infovis_09
+stasko_infovis_00
+yang_infovis_02
+cui_infovis_08

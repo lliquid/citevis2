@@ -1,0 +1,10 @@
+title: About the Influence of Illumination Models on Image Comprehension in Direct Volume Rendering
+authors: Florian Lindemann, Timo Ropinski
+abstract: In this paper, we present a user study in which we have investigated the influence of seven state-of-the-art volumetric illumination models on the spatial perception of volume rendered images. Within the study, we have compared gradient-based shading with half angle slicing, directional occlusion shading, multidirectional occlusion shading, shadow volume propagation, spherical harmonic lighting as well as dynamic ambient occlusion. To evaluate these models, users had to solve three tasks relying on correct depth as well as size perception. Our motivation for these three tasks was to find relations between the used illumination model, user accuracy and the elapsed time. In an additional task, users had to subjectively judge the output of the tested models. After first reviewing the models and their features, we will introduce the individual tasks and discuss their results. We discovered statistically significant differences in the testing performance of the techniques. Based on these findings, we have analyzed the models and extracted those features which are possibly relevant for the improved spatial comprehension in a relational task. We believe that a combination of these distinctive features could pave the way for a novel illumination model, which would be optimized based on our findings.
+vis citations:
+chan_vis_09
+kniss_vis_02
+stewart_vis_03
+sunden_vis_11
+weigle_vis_08
+zhang3_1_vis_02

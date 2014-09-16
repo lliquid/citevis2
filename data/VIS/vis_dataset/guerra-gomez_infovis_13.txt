@@ -1,0 +1,13 @@
+title: Visualizing Change over Time Using Dynamic Hierarchies: TreeVersity2 and the StemView
+authors: John Alexis Guerra-G??mez, Michael L. Pack, Catherine Plaisant, Ben Shneiderman
+abstract: To analyze data such as the US Federal Budget or characteristics of the student population of a University it is common to look for changes over time. This task can be made easier and more fruitful if the analysis is performed by grouping by attributes, such as by Agencies, Bureaus and Accounts for the Budget, or Ethnicity, Gender and Major in a University. We present TreeVersity2, a web based interactive data visualization tool that allows users to analyze change in datasets by creating dynamic hierarchies based on the data attributes. TreeVersity2 introduces a novel space filling visualization (StemView) to represent change in trees at multiple levels - not just at the leaf level. With this visualization users can explore absolute and relative changes, created and removed nodes, and each node???s actual values, while maintaining the context of the tree. In addition, TreeVersity2 provides overviews of change over the entire time period, and a reporting tool that lists outliers in textual form, which helps users identify the major changes in the data without having to manually setup filters. We validated TreeVersity2 with 12 case studies with organizations as diverse as the National Cancer Institute, Federal Drug Administration, Department of Transportation, Office of the Bursar of the University of Maryland, or eBay. Our case studies demonstrated that TreeVersity2 is flexible enough to be used in different domains and provide useful insights for the data owners. A TreeVersity2 demo can be found at https://treeversity.cattlab.umd.edu.
+vis citations:
+tu_infovis_07
+plaisant_infovis_02
+amenta_infovis_02
+card_vast_06
+graham_infovis_07
+bremm_vast_11
+holten_infovis_06
+brodbeck_infovis_03
+bostock_infovis_11

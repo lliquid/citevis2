@@ -1,0 +1,5 @@
+title: Multi-User View-Dependent Rendering
+authors: Jihad El-Sana
+abstract: In this paper we are presenting a novel architecture which allows rendering of large-shared dataset at interactive rates on an inexpensive workstation. The idea is based on view-dependent rendering on a client-server network. The server stores the large dataset and manages the selection of the various levels of detail while the inexpensive clients receive a stream of update operations that generate the appropriate level of detail in an incremental fashion. These update operations are based on changes in the clients??? view-parameters. Our approach dramatically reduces the amount of memory needed by each client and the entire computing system since the dataset is stored only once on the server???s local memory. In addition, it decreases the load on the network as results of the incremental update contributed by view-dependent rendering.
+vis citations:
+elsana_vis_99

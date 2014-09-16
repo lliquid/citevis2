@@ -1,0 +1,4 @@
+title: Developing Architectural Lighting Representations
+authors: Daniel C. Glaser, Roger Tan, John Canny, Ellen Yi-Luen Do
+abstract: This paper reports on the development of a visualization system for architectural lighting designers. It starts by motivating the problem as both complex in its physics and social organization. Three iterations of prototypes for displaying time and space varying phenomena are discussed. Fieldwork is presented to identify where in practice they will be most effective. A set of user studies, one of which is analyzed in fine-grained detail, show how building designers incorporate visualization on hypothetical design problems. This has positive implications for both energy efficiency and lighting quality in buildings.
+vis citations:

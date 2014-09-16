@@ -1,0 +1,9 @@
+title: NewsLab: Exploratory Broadcast News Video Analysis
+authors: Mohammad Ghoniem, Dongning Luo, Jing Yang, William Ribarsky
+abstract: In this paper, we introduce NewsLab, an exploratory visualization approach for the analysis of large scale broadcast news video collections containing many thousands of news stories over extended periods of time. A river metaphor is used to depict the thematic changes of the news over time. An interactive lens metaphor allows the playback of fine-grained video segments selected through the river overview. Multi-resolution navigation is supported via a hierarchical time structure as well as a hierarchical theme structure. Themes can be explored hierarchically according to their thematic structure, or in an unstructured fashion using various ranking criteria. A rich set of interactions such as filtering, drill-down/roll-up navigation, history animation, and keyword based search are also provided. Our case studies show how this set of tools can be used to find emerging topics in the news, compare different broadcasters, or mine the news for topics of interest.
+vis citations:
+ankerst_infovis_98
+fua_infovis_99
+luo_vast_06
+wattenba_infovis_05
+yang_vast_06

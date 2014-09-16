@@ -1,0 +1,6 @@
+title: Scale-Invariant Volume Rendering
+authors: Martin Kraus
+abstract: As standard volume rendering is based on an integral in physical space (or ???coordinate space???), it is inherently dependent on the scaling of this space. Although this dependency is appropriate for the realistic rendering of semitransparent volumetric objects, it has several unpleasant consequences for volume visualization. In order to overcome these disadvantages, a new variant of the volume rendering integral is proposed, which is defined in data space instead of physical space.Apart from achieving scale invariance, this new method supports the rendering of isosurfaces of uniform opacity and color, independently of the local gradient of the visualized scalar field. Moreover, it reveals certain structures in scalar fields even with constant transfer functions. Furthermore, it can be defined as the limit of infinitely many semitransparent isosurfaces, and is therefore based on an intuitive and at the same time precise definition. In addition to the discussion of these features of scale-invariant volume rendering, efficient adaptations of existing volume rendering algorithms and extensions for silhouette enhancement and local illumination by transmitted light are presented.
+vis citations:
+ebert_vis_00
+roettger_vis_00

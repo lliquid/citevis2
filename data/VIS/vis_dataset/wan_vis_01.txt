@@ -1,0 +1,5 @@
+title: Distance-Field Based Skeletons for Virtual Navigation
+authors: Ming Wan, Frank Dachille, Arie Kaufman
+abstract: We present a generic method for rapid flight planning, virtual navigation and effective camera control in a volumetric environment. Directly derived from an accurate distance from boundary (DFB) field, our automatic path planning algorithm rapidly generates centered flight paths, a skeleton, in the navigable region of the virtual environment. Based on precomputed flight paths and the DFB field, our dual-mode physically based camera control model supports a smooth, safe, and sticking-free virtual navigation with six degrees of freedom. By using these techniques, combined with accelerated volume rendering, we have successfully developed a real-time virtual colonoscopy system on low-cost PCs and confirmed the high speed, high accuracy and robustness of our techniques on more than 40 patient datasets.
+vis citations:
+bitter_vis_00

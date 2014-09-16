@@ -1,0 +1,12 @@
+title: A Visual Backchannel for Large-Scale Events
+authors: Marian D??rk, Daniel Gruen, Carey Williamson, Sheelagh Carpendale
+abstract: We introduce the concept of a Visual Backchannel as a novel way of following and exploring online conversations about large-scale events. Microblogging communities, such as Twitter, are increasingly used as digital backchannels for timely exchange of brief comments and impressions during political speeches, sport competitions, natural disasters, and other large events. Currently, shared updates are typically displayed in the form of a simple list, making it difficult to get an overview of the fast-paced discussions as it happens in the moment and how it evolves over time. In contrast, our Visual Backchannel design provides an evolving, interactive, and multi-faceted visual overview of large-scale ongoing conversations on Twitter. To visualize a continuously updating information stream, we include visual saliency for what is happening now and what has just happened, set in the context of the evolving conversation. As part of a fully web-based coordinated-view system we introduce Topic Streams, a temporally adjustable stacked graph visualizing topics over time, a People Spiral representing participants and their activity, and an Image Cloud encoding the popularity of event photos by size. Together with a post listing, these mutually linked views support cross-filtering along topics, participants, and time ranges. We discuss our design considerations, in particular with respect to evolving visualizations of dynamically changing data. Initial feedback indicates significant interest and suggests several unanticipated uses.
+vis citations:
+byron_infovis_08
+collins_vast_09
+doerk_infovis_08
+fisher_vast_08
+hetzler_infovis_05
+kerr_infovis_03
+pousman_infovis_07
+rose_vast_09

@@ -1,0 +1,24 @@
+title: Vortex Visualization in Ultra Low Reynolds Number Insect Flight
+authors: Christopher Koehler, Thomas Wischgoll, Haibo Dong, Zachary Gaston
+abstract: We present the visual analysis of a biologically inspired CFD simulation of the deformable flapping wings of a dragonfly as it takes off and begins to maneuver, using vortex detection and integration-based flow lines. The additional seed placement and perceptual challenges introduced by having multiple dynamically deforming objects in the highly unsteady 3D flow domain are addressed. A brief overview of the high speed photogrammetry setup used to capture the dragonfly takeoff, parametric surfaces used for wing reconstruction, CFD solver and underlying flapping flight theory is presented to clarify the importance of several unsteady flight mechanisms, such as the leading edge vortex, that are captured visually. A novel interactive seed placement method is used to simplify the generation of seed curves that stay in the vicinity of relevant flow phenomena as they move with the flapping wings. This method allows a user to define and evaluate the quality of a seed's trajectory over time while working with a single time step. The seed curves are then used to place particles, streamlines and generalized streak lines. The novel concept of flowing seeds is also introduced in order to add visual context about the instantaneous vector fields surrounding smoothly animate streak lines. Tests show this method to be particularly effective at visually capturing vortices that move quickly or that exist for a very brief period of time. In addition, an automatic camera animation method is used to address occlusion issues caused when animating the immersed wing boundaries alongside many geometric flow lines. Each visualization method is presented at multiple time steps during the up-stroke and down-stroke to highlight the formation, attachment and shedding of the leading edge vortices in pairs of wings. Also, the visualizations show evidence of wake capture at stroke reversal which suggests the existence of previously unknown unsteady lift generation mechanisms that are unique to quad wing insects.
+vis citations:
+wiebel_vis_07
+wiebel_vis_05
+weinkauf_vis_10
+garth_vis_08
+vonfunck_vis_08
+krishnan_vis_09
+born_vis_10
+ferstl_vis_10
+roth_vis_98
+weinkauf_vis_07
+jiang_vis_02
+stegmaie_vis_05
+tricoche_vis_04
+jankunke_vis_06
+sadlo_vis_06
+laramee_vis_05
+verma_vis_00
+ye_vis_05
+chen_vis_07
+marchesi_vis_10

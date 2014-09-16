@@ -1,0 +1,5 @@
+title: Empirical Comparison of Dynamic Query Sliders and Brushing Histograms
+authors: Qing Li, Chris North
+abstract: Dynamic queries facilitate rapid exploration of information by real-time visual display of both query formulation and results. Dynamic query sliders are linked to the main visualization to filter data. A common alternative to dynamic queries is to link several simple visualizations, such as histograms, to the main visualization with a brushing interaction strategy. Selecting data in the histograms highlights that data in the main visualization. We compare these two approaches in an empirical experiment on DataMaps, a geographic data visualization tool. Dynamic query sliders resulted in better performance for simple range tasks, while brushing histograms was better for complex trend evaluation and attribute relation tasks. Participants preferred brushing histograms for understanding relationships between attributes and the rich information they provided.
+vis citations:
+derthick_infovis_99

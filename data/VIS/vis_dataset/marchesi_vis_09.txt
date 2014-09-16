@@ -1,0 +1,10 @@
+title: High-Quality, Semi-Analytical Volume Rendering for AMR Data
+authors: Stephane Marchesin, Guillaume Colin de Verdiere
+abstract: This paper presents a pipeline for high quality volume rendering of adaptive mesh refinement (AMR) datasets. We introduce a new method allowing high quality visualization of hexahedral cells in this context; this method avoids artifacts like discontinuities in the isosurfaces. To achieve this, we choose the number and placement of sampling points over the cast rays according to the analytical properties of the reconstructed signal inside each cell. We extend our method to handle volume shading of such cells. We propose an interpolation scheme that guarantees continuity between adjacent cells of different AMR levels. We introduce an efficient hybrid CPU-GPU mesh traversal technique. We present an implementation of our AMR visualization method on current graphics hardware, and show results demonstrating both the quality and performance of our method.
+vis citations:
+gosink_vis_08
+kaehler_vis_05
+kraus_vis_04
+krueger_vis_03
+lederger_vis_08
+roettger_vis_00

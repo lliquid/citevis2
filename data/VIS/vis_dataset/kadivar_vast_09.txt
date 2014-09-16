@@ -1,0 +1,12 @@
+title: Capturing and Supporting the Analysis Process
+authors: Nazanin Kadivar, Victor Chen, Dustin Dunsmuir, Eric Lee, Cheryl Qian, John Dill, Christopher Shaw, Robert Woodbury
+abstract: Visual analytics tools provide powerful visual representations in order to support the sense-making process. In this process, analysts typically iterate through sequences of steps many times, varying parameters each time. Few visual analytics tools support this process well, nor do they provide support for visualizing and understanding the analysis process itself. To help analysts understand, explore, reference, and reuse their analysis process, we present a visual analytics system named CzSaw (See-Saw) that provides an editable and re-playable history navigation channel in addition to multiple visual representations of document collections and the entities within them (in a manner inspired by Jigsaw [24]). Conventional history navigation tools range from basic undo and redo to branching timelines of user actions. In CzSaw???s approach to this, first, user interactions are translated into a script language that drives the underlying scripting-driven propagation system. The latter allows analysts to edit analysis steps, and ultimately to program them. Second, on this base, we build both a history view showing progress and alternative paths, and a dependency graph showing the underlying logic of the analysis and dependency relations among the results of each step. These tools result in a visual model of the sense-making process, providing a way for analysts to visualize their analysis process, to reinterpret the problem, explore alternative paths, extract analysis patterns from existing history, and reuse them with other related analyses.
+vis citations:
+bier_vast_08
+cuadros_vast_07
+gotz_vast_08
+hao_vast_07
+heer_infovis_08
+stasko_vast_07
+yi_infovis_07
+kreusele_infovis_04

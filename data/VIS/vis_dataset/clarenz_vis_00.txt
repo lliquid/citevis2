@@ -1,0 +1,5 @@
+title: Anisotropic Geometric Diffusion in Surface Processing
+authors: U. Clarenz, U. Diewald, M. Rumpf
+abstract: A new multiscale method in surface processing is presented here which combines the image processing methodology based on nonlinear diffusion equations and the theory of geometric evolution problems. Its aim is to smooth discretized surfaces while simultaneously enhancing geometric features such as edges and corners. This is obtained by an anisotropic curvature evolution, where time is the multiscale parameter. Here, the diffusion tensor depends on the shape operator of the evolving surface.A spatial finite element discretization on arbitrary unstructured triangular meshes and a semi-implicit finite difference discretization in time are the building blocks of the easy to code algorithm presented here. The systems of linear equations in each timestep are solved by appropriate, preconditioned iterative solvers. Different applications underline the efficiency and flexibility of the presented type of surface processing tool.
+vis citations:
+preusser_vis_99

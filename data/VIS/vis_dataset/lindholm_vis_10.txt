@@ -1,0 +1,14 @@
+title: Spatial Conditioning of Transfer Functions Using Local Material Distributions
+authors: Stefan Lindholm, Patric Ljung, Claes Lundstr??m, Anders Persson, Anders Ynnerman
+abstract: In many applications of Direct Volume Rendering (DVR) the importance of a certain material or feature is highly dependent on its relative spatial location. For instance, in the medical diagnostic procedure, the patient???s symptoms often lead to specification of features, tissues and organs of particular interest. One such example is pockets of gas which, if found inside the body at abnormal locations, are a crucial part of a diagnostic visualization. This paper presents an approach that enhances DVR transfer function design with spatial localization based on user specified material dependencies. Semantic expressions are used to define conditions based on relations between different materials, such as only render iodine uptake when close to liver. The underlying methods rely on estimations of material distributions which are acquired by weighing local neighborhoods of the data against approximations of material likelihood functions. This information is encoded and used to influence rendering according to the user???s specifications. The result is improved focus on important features by allowing the user to suppress spatially less-important data. In line with requirements from actual clinical DVR practice, the methods do not require explicit material segmentation that would be impossible or prohibitively time-consuming to achieve in most real cases. The scheme scales well to higher dimensions which accounts for multi-dimensional transfer functions and multivariate data. Dual-Energy Computed Tomography, an important new modality in radiology, is used to demonstrate this scalability. In several examples we show significantly improved focus on clinically important aspects in the rendered images.
+vis citations:
+correa_vis_08
+correa_vis_09
+hadwiger_vis_08
+kniss_vis_03
+maciejew_vis_09
+rautek_vis_07
+salama_vis_06
+tenginakai_vis_01
+tzeng_vis_03
+zhou_vis_09

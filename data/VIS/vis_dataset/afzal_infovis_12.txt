@@ -1,0 +1,15 @@
+title: Spatial Text Visualization Using Automatic Typographic Maps
+authors: Shehzad Afzal, Ross Maciejewski, Yun Jang, Niklas Elmqvist, David S. Ebert
+abstract: We present a method for automatically building typographic maps that merge text and spatial data into a visual representation where text alone forms the graphical features. We further show how to use this approach to visualize spatial data such as traffic density, crime rate, or demographic data. The technique accepts a vector representation of a geographic map and spatializes the textual labels in the space onto polylines and polygons based on user-defined visual attributes and constraints. Our sample implementation runs as a Web service, spatializing shape files from the OpenStreetMap project into typographic maps for any region.
+vis citations:
+collins_vast_09
+dykes_infovis_10
+ebert_vis_00
+keim_infovis_02
+koh_infovis_10
+lee_infovis_10
+shi_vast_10
+skupin_infovis_00
+viegas_infovis_09
+wong_infovis_05
+wood_infovis_08

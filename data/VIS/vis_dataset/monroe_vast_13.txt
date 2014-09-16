@@ -1,0 +1,7 @@
+title: Temporal Event Sequence Simplification
+authors: Megan Monroe, Rongjian Lan, Hanseung Lee, Catherine Plaisant, Ben Shneiderman
+abstract: Electronic Health Records (EHRs) have emerged as a cost-effective data source for conducting medical research. The difficulty in using EHRs for research purposes, however, is that both patient selection and record analysis must be conducted across very large, and typically very noisy datasets. Our previous work introduced EventFlow, a visualization tool that transforms an entire dataset of temporal event records into an aggregated display, allowing researchers to analyze population-level patterns and trends. As datasets become larger and more varied, however, it becomes increasingly difficult to provide a succinct, summarizing display. This paper presents a series of user-driven data simplifications that allow researchers to pare event records down to their core elements. Furthermore, we present a novel metric for measuring visual complexity, and a language for codifying disjoint strategies into an overarching simplification framework. These simplifications were used by real-world researchers to gain new and valuable insights from initially overwhelming datasets.
+vis citations:
+jin_vast_10
+sedlmair_infovis_12
+vrotsou_infovis_09

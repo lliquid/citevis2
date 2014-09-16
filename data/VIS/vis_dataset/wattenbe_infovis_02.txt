@@ -1,0 +1,4 @@
+title: Arc Diagrams: Visualizing Structure in Strings
+authors: Martin Wattenberg
+abstract: This paper introduces a new visualization method, the arc diagram, which is capable of representing complex patterns of repetition in string data. Arc diagrams improve over previous methods such as dotplots because they scale efficiently for strings that contain many instances of the same subsequence. This paper describes design and implementation issues related to arc diagrams and shows how they may be applied to visualize such diverse data as music, text, and compiled code.
+vis citations:

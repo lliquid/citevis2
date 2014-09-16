@@ -1,0 +1,12 @@
+title: Multimodal Vessel Visualization of Mouse Aorta PET/CT Scans
+authors: Timo Ropinski, Sven Hermann, Rainer Reich, Michael Sch??fers, Klaus Hinrichs
+abstract: In this paper, we present a visualization system for the visual analysis of PET/CT scans of aortic arches of mice. The system has been designed in close collaboration between researchers from the areas of visualization and molecular imaging with the objective to get deeper insights into the structural and molecular processes which take place during plaque development. Understanding the development of plaques might lead to a better and earlier diagnosis of cardiovascular diseases, which are still the main cause of death in the western world. After motivating our approach, we will briefly describe the multimodal data acquisition process before explaining the visualization techniques used. The main goal is to develop a system which supports visual comparison of the data of different species. Therefore, we have chosen a linked multi-view approach, which amongst others integrates a specialized straightened multipath curved planar reformation and a multimodal vessel flattening technique. We have applied the visualization concepts to multiple data sets, and we will present the results of this investigation.
+vis citations:
+beyer_vis_07
+hahn_vis_01
+kanitsar_vis_02
+kanitsar_vis_03
+kohlmann_vis_07
+krueger_vis_03
+straka_vis_04
+tory_vis_03

@@ -1,0 +1,6 @@
+title: Geometric Compression For Interactive Transmission
+authors: Olivier Devillers, Pierre-Marie Gandoin
+abstract: The compression of geometric structures is a relatively new field of data compression. Since about 1995, several articles have dealt with the coding of meshes, using for most of them the following approach: the vertices of the mesh are coded in an order that partially contains the topology of the mesh. In the same time, some simple rules attempt to predict the position of each vertex from the positions of its neighbors that have been previously coded.In this article, we describe a compression algorithm whose principle is completely different: the coding order of the vertices is used to compress their coordinates, and then the topology of the mesh is reconstructed from the vertices. This algorithm achieves compression ratios that are slightly better than those of the currently available algorithms, and moreover, it allows progressive and interactive transmission of the meshes.
+vis citations:
+bajaj_vis_99
+cohenor_vis_99

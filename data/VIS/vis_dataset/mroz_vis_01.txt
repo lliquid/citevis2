@@ -1,0 +1,8 @@
+title: RTVR  a flexible Java library for interactive volume rendering
+authors: Lukas Mroz, Helwig Hauser
+abstract: This paper presents several distinguishing design features of RTVR  a Java-based library for real-time volume rendering. We describe, how the careful design of data structures, which in our case are based on voxel enumeration, and an intelligent use of lookup tables enable interactive volume rendering even on low-end PC hardware. By assigning voxels to distinct objects within the volume and by using an individual setup and combination of look-up tables for each object, object-aware rendering is performed: different transfer functions, shading models, and also compositing modes can be mixed within a single scene to depict each object in the most appropriate way, while still providing rendering results in real-time. While providing frame rates similar to volume visualization using 3D consumer hardware, the approach utilized by RTVR offers much more flexibility and extensibility due to its pure software nature. Furthermore, due to the memory-efficiency of the data representation and the implementation in Java, RTVR can be used to provide volume viewing facilities over low-bandwidth networks, with almost full control over rendering and visualization mapping parameters (clipping, shading, compositing, transfer function) for the user. This paper also addresses specific problems which arise by the use of Java for interactive Visualization.
+vis citations:
+ebert_vis_00
+engel_vis_99
+hauser_vis_00
+tiede_vis_98

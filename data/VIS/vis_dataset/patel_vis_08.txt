@@ -1,0 +1,6 @@
+title: The Seismic Analyzer: Interpreting and Illustrating 2D Seismic Data
+authors: Daniel Patel, Christopher Giertsen, John Thurmond, John Gjelberg, M. Eduard Gr??ller
+abstract: We present a toolbox for quickly interpreting and illustrating 2D slices of seismic volumetric reflection data. Searching for oil and gas involves creating a structural overview of seismic reflection data to identify hydrocarbon reservoirs. We improve the search of seismic structures by precalculating the horizon structures of the seismic data prior to interpretation. We improve the annotation of seismic structures by applying novel illustrative rendering algorithms tailored to seismic data, such as deformed texturing and line and texture transfer functions. The illustrative rendering results in multi-attribute and scale invariant visualizations where features are represented clearly in both highly zoomed in and zoomed out views. Thumbnail views in combination with interactive appearance control allows for a quick overview of the data before detailed interpretation takes place. These techniques help reduce the work of seismic illustrators and interpreters.
+vis citations:
+castanie_vis_05
+kirby_vis_99

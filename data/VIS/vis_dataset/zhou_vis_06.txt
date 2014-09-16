@@ -1,0 +1,22 @@
+title: Interactive Point-Based Rendering of Higher-Order Tetrahedral Data
+authors: Yuan Zhou, Michael Garland
+abstract: Computational simulations frequently generate solutions defined over very large tetrahedral volume meshes containing many millions of elements. Furthermore, such solutions may often be expressed using non-linear basis functions. Certain solution techniques, such as discontinuous Galerkin methods, may even produce non-conforming meshes. Such data is difficult to visualize interactively, as it is far too large to fit in memory and many common data reduction techniques, such as mesh simplification, cannot be applied to non-conforming meshes.We introduce a point-based visualization system for interactive rendering of large, potentially non-conforming, tetrahedral meshes. We propose methods for adaptively sampling points from non-linear solution data and for decimating points at run time to fit GPU memory limits. Because these are streaming processes, memory consumption is independent of the input size. We also present an order-independent point rendering method that can efficiently render volumes on the order of 20 million tetrahedra at interactive rates.
+vis citations:
+brasher_vis_04
+callahan_vis_05
+chen_vis_04
+co_vis_03
+csebfalv_vis_03
+deussen_vis_02
+guthe_vis_02
+hopf_vis_03
+kraus_vis_05
+krueger_vis_03
+pauly_vis_02
+pajarola_vis_05
+roettger_vis_00
+sadowsky_vis_05
+schroede_vis_05
+gumhold_vis_99
+weiler_vis_03
+zhou_vis_04

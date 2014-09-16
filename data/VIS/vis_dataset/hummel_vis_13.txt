@@ -1,0 +1,8 @@
+title: Comparative Visual Analysis of Lagrangian Transport in CFD Ensembles
+authors: Mathias Hummel, Harald Obermaier, Christoph Garth, Kenneth I. Joy
+abstract: Sets of simulation runs based on parameter and model variation, so-called ensembles, are increasingly used to model physical behaviors whose parameter space is too large or complex to be explored automatically. Visualization plays a key role in conveying important properties in ensembles, such as the degree to which members of the ensemble agree or disagree in their behavior. For ensembles of time-varying vector fields, there are numerous challenges for providing an expressive comparative visualization, among which is the requirement to relate the effect of individual flow divergence to joint transport characteristics of the ensemble. Yet, techniques developed for scalar ensembles are of little use in this context, as the notion of transport induced by a vector field cannot be modeled using such tools. We develop a Lagrangian framework for the comparison of flow fields in an ensemble. Our techniques evaluate individual and joint transport variance and introduce a classification space that facilitates incorporation of these properties into a common ensemble visualization. Variances of Lagrangian neighborhoods are computed using pathline integration and Principal Components Analysis. This allows for an inclusion of uncertainty measurements into the visualization and analysis approach. Our results demonstrate the usefulness and expressiveness of the presented method on several practical examples.
+vis citations:
+bruckner_vis_10
+garth_vis_07
+hlawatsch_vis_11
+sanyal_vis_10

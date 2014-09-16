@@ -1,0 +1,9 @@
+title: Diffusion Tensor Visualization with Glyph Packing
+authors: Gordon Kindlmann, Carl-Fredrik Westin
+abstract: A common goal of multivariate visualization is to enable data inspection at discrete points, while also illustrating largerscale continuous structures. In diffusion tensor visualization, glyphs are typically used to meet the first goal, and methods such as texture synthesis or fiber tractography can address the second. We adapt particle systems originally developed for surface modeling and anisotropic mesh generation to enhance the utility of glyph-based tensor visualizations. By carefully distributing glyphs throughout the field (either on a slice, or in the volume) into a dense packing, using potential energy profiles shaped by the local tensor value, we remove undue visual emphasis of the regular sampling grid of the data, and the underlying continuous features become more apparent. The method is demonstrated on a DT-MRI scan of a patient with a brain tumor.
+vis citations:
+hotz_vis_04
+kirby_vis_99
+laidlaw_vis_98
+sanderso_vis_04
+sigfrids_vis_02

@@ -1,0 +1,13 @@
+title: Understanding Interfirm Relationships in Business Ecosystems with Interactive Visualization
+authors: Rahul C. Basole, Trustin Clear, Mengdie Hu, Harshit Mehrotra, John Stasko
+abstract: Business ecosystems are characterized by large, complex, and global networks of firms, often from many different market segments, all collaborating, partnering, and competing to create and deliver new products and services. Given the rapidly increasing scale, complexity, and rate of change of business ecosystems, as well as economic and competitive pressures, analysts are faced with the formidable task of quickly understanding the fundamental characteristics of these interfirm networks. Existing tools, however, are predominantly query- or list-centric with limited interactive, exploratory capabilities. Guided by a field study of corporate analysts, we have designed and implemented dotlink360, an interactive visualization system that provides capabilities to gain systemic insight into the compositional, temporal, and connective characteristics of business ecosystems. dotlink360 consists of novel, multiple connected views enabling the analyst to explore, discover, and understand interfirm networks for a focal firm, specific market segments or countries, and the entire business ecosystem. System evaluation by a small group of prototypical users shows supporting evidence of the benefits of our approach. This design study contributes to the relatively unexplored, but promising area of exploratory information visualization in market research and business strategy.
+vis citations:
+csallner_infovis_03
+heer_infovis_05
+henry_infovis_06
+livnat_infovis_05
+perer_infovis_06
+sedlmair_infovis_12
+shneiderman_infovis_06
+vanham1_infovis_09
+ziegler_vast_10

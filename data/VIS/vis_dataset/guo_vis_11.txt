@@ -1,0 +1,16 @@
+title: WYSIWYG (What You See is What You Get) Volume Visualization
+authors: Hanqi Guo, Ningyu Mao, Xiaoru Yuan
+abstract: In this paper, we propose a volume visualization system that accepts direct manipulation through a sketch-based What You See Is What You Get (WYSIWYG) approach. Similar to the operations in painting applications for 2D images, in our system, a full set of tools have been developed to enable direct volume rendering manipulation of color, transparency, contrast, brightness, and other optical properties by brushing a few strokes on top of the rendered volume image. To be able to smartly identify the targeted features of the volume, our system matches the sparse sketching input with the clustered features both in image space and volume space. To achieve interactivity, both special algorithms to accelerate the input identification and feature matching have been developed and implemented in our system. Without resorting to tuning transfer function parameters, our proposed system accepts sparse stroke inputs and provides users with intuitive, flexible and effective interaction during volume data exploration and visualization.
+vis citations:
+ament_vis_10
+bruckner_vis_05
+buorger_vis_08
+correa_vis_08
+correa_vis_09
+ebert_vis_00
+fang_vis_98
+hadwiger_vis_03
+kindlman_vis_03
+rautek_vis_07
+salama_vis_06
+tzeng_vis_03

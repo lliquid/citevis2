@@ -1,0 +1,6 @@
+title: Interactive Visualization of Complex Plant Ecosystems
+authors: Oliver Deussen, Carsten Colditz, Marc Stamminger, George Drettakis
+abstract: We present a method for interactive rendering of large outdoor scenes. Complex polygonal plant models and whole plant populations are represented by relatively small sets of point and line primitives. This enables us to show landscapes faithfully using only a limited percentage of primitives. In addition, a hierarchical data structure allows us to smoothly reduce the geometrical representation to any desired number of primitives. The scene is hierarchically divided into local portions of geometry to achieve large reduction factors for distant regions. Additionally, the data reduction is adapted to the visual importance of geometric objects. This allows us to maintain the visual fidelity of the representation while reducing most of the geometry drastically. With our system, we are able to interactively render very complex landscapes with good visual quality.
+vis citations:
+chen_vis_01
+cohen_vis_01

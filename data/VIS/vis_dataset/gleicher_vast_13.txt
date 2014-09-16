@@ -1,0 +1,16 @@
+title: Explainers: Expert Explorations with Crafted Projections
+authors: Michael Gleicher
+abstract: This paper introduces an approach to exploration and discovery in high-dimensional data that incorporates a user???s knowledge and questions to craft sets of projection functions meaningful to them. Unlike most prior work that defines projections based on their statistical properties, our approach creates projection functions that align with user-specified annotations. Therefore, the resulting derived dimensions represent concepts defined by the user???s examples. These especially crafted projection functions, or explainers, can help find and explain relationships between the data variables and user-designated concepts. They can organize the data according to these concepts. Sets of explainers can provide multiple perspectives on the data. Our approach considers tradeoffs in choosing these projection functions, including their simplicity, expressive power, alignment with prior knowledge, and diversity. We provide techniques for creating collections of explainers. The methods, based on machine learning optimization frameworks, allow exploring the tradeoffs. We demonstrate our approach on model problems and applications in text analysis.
+vis citations:
+anand_vast_12
+ankerst_infovis_98
+brown_vast_12
+heimerl_vast_12
+ingram_vast_10
+johansso_infovis_09
+joia_infovis_11
+kandogan_vast_12
+may_vast_11
+yang_infovis_04
+turkay_infovis_12
+wilkinso_infovis_05

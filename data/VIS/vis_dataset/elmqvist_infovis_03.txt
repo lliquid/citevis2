@@ -1,0 +1,5 @@
+title: Causality Visualization Using Animated Growing Polygons
+authors: Niklas Elmqvist, Philippas Tsigas
+abstract: We present Growing Polygons, a novel visualization technique for the graphical representation of causal relations and information flow in a system of interacting processes. Using this method, individual processes are displayed as partitioned polygons with color-coded segments showing dependencies to other processes. The entire visualization is also animated to communicate the dynamic execution of the system to the user. The results from a comparative user study of the method show that the Growing Polygons technique is significantly more efficient than the traditional Hasse diagram visualization for analysis tasks related to deducing information flow in a system for both small and large executions. Furthermore, our findings indicate that the correctness when solving causality tasks is significantly improved using our method. In addition, the subjective ratings of the users rank the method as superior in all regards, including usability, efficiency, and enjoyability.
+vis citations:
+moses_infovis_98

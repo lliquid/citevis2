@@ -1,0 +1,7 @@
+title: Extinction-Based Shading and Illumination in GPU Volume Ray-Casting
+authors: Philipp Schlegel, Maxim Makhinya, Renato Pajarola
+abstract: Direct volume rendering has become a popular method for visualizing volumetric datasets. Even though computers are continually getting faster, it remains a challenge to incorporate sophisticated illumination models into direct volume rendering while maintaining interactive frame rates. In this paper, we present a novel approach for advanced illumination in direct volume rendering based on GPU ray-casting. Our approach features directional soft shadows taking scattering into account, ambient occlusion and color bleeding effects while achieving very competitive frame rates. In particular, multiple dynamic lights and interactive transfer function changes are fully supported. Commonly, direct volume rendering is based on a very simplified discrete version of the original volume rendering integral, including the development of the original exponential extinction into a-blending. In contrast to a-blending forming a product when sampling along a ray, the original exponential extinction coefficient is an integral and its discretization a Riemann sum. The fact that it is a sum can cleverly be exploited to implement volume lighting effects, i.e. soft directional shadows, ambient occlusion and color bleeding. We will show how this can be achieved and how it can be implemented on the GPU.
+vis citations:
+bruckner_vis_07
+kniss_vis_02
+krueger_vis_03

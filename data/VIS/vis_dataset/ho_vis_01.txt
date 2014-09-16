@@ -1,0 +1,6 @@
+title: Compressing Large Polygonal Models
+authors: Jeffrey Ho, Kuang-Chih Lee, David Kriegman
+abstract: We present an algorithm that uses partitioning and gluing to compress large triangular meshes which are too complex to fit in main memory. The algorithm is based largely on the existing mesh compression algorithms, most of which require an ???in-core??? representation of the input mesh. Our solution is to partition the mesh into smaller submeshes and compress these submeshes separately using existing mesh compression techniques. Since a direct partition of the input mesh is out of question, instead, we partition a simplified mesh and use the partition on the simplified model to obtain a partition on the original model. In order to recover the full connectivity, we present a simple scheme for encoding/decoding the resulting boundary structure from the mesh partition. When compressing large models with few singular vertices, a negligible portion of the compressed output is devoted to gluing information. On desktop computers, we have run experiments on models with millions of vertices, which could not be compressed using standard compression software packages, and have observed compression ratios as high as 17 to 1 using our technique.
+vis citations:
+gueziec_vis_99
+gueziec_vis_98

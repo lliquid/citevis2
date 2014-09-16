@@ -1,0 +1,4 @@
+title: Visualization of Scalar Topology for Structural Enhancement
+authors: C. L. Bajaj, V. Pascucci, D. R. Schikore
+abstract: Scalar fields arise in every scientific application. Existing scalar visualization techniques require that the user infer the global scalar structure from what is frequently an insufficient display of information. We present a visualization technique which numerically detects the structure at all scales, removing from the user the responsibility of extracting information implicit in the data, and presenting the structure explicitly for analysis. We further demonstrate how scalar topology detection proves useful for correct visualization and image processing applications such as image co-registration, isocontouring, and mesh compression.
+vis citations:

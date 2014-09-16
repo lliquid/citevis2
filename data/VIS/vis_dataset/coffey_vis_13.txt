@@ -1,0 +1,10 @@
+title: Design by Dragging: An Interface for Creative Forward and Inverse Design with Simulation Ensembles
+authors: Dane Coffey, Chi-Lun Lin, Arthur G. Erdman, Daniel F. Keefe
+abstract: We present an interface for exploring large design spaces as encountered in simulation-based engineering, design of visual effects, and other tasks that require tuning parameters of computationally-intensive simulations and visually evaluating results. The goal is to enable a style of design with simulations that feels as-direct-as-possible so users can concentrate on creative design tasks. The approach integrates forward design via direct manipulation of simulation inputs (e.g., geometric properties, applied forces) in the same visual space with inverse design via ???tugging??? and reshaping simulation outputs (e.g., scalar fields from finite element analysis (FEA) or computational fluid dynamics (CFD)). The interface includes algorithms for interpreting the intent of users??? drag operations relative to parameterized models, morphing arbitrary scalar fields output from FEA and CFD simulations, and in-place interactive ensemble visualization. The inverse design strategy can be extended to use multi-touch input in combination with an as-rigid-as-possible shape manipulation to support rich visual queries. The potential of this new design approach is confirmed via two applications: medical device engineering of a vacuum-assisted biopsy device and visual effects design using a physically based flame simulation.
+vis citations:
+bruckner_vis_10
+matkovic_vis_10
+ribicic_vis_12
+smith_vis_07
+torsneyweir_vis_11
+waser_vis_10

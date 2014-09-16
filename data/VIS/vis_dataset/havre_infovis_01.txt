@@ -1,0 +1,6 @@
+title: Interactive Visualization of Multiple Query Results
+authors: Susan Havre, Elizabeth Hetzler, Ken Perrine, Elizabeth Jurrus, Nancy Miller
+abstract: This paper introduces a graphical method for visually presenting and exploring the results of multiple queries simultaneously. This method allows a user to visually compare multiple query result sets, explore various combinations among the query result sets, and identify the ???best??? matches for combinations of multiple independent queries. This approach might also help users explore methods for progressively improving queries by visually comparing the improvement in result sets.
+vis citations:
+hetzler_infovis_98
+miller_vis_98

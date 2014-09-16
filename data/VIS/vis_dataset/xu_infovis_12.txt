@@ -1,0 +1,11 @@
+title: A User Study on Curved Edges in Graph Visualization
+authors: Kai Xu, Chris Rooney, Peter Passmore, Dong-Han Ham, Phong H. Nguyen
+abstract: Recently there has been increasing research interest in displaying graphs with curved edges to produce more readable visualizations. While there are several automatic techniques, little has been done to evaluate their effectiveness empirically. In this paper we present two experiments studying the impact of edge curvature on graph readability. The goal is to understand the advantages and disadvantages of using curved edges for common graph tasks compared to straight line segments, which are the conventional choice for showing edges in node-link diagrams. We included several edge variations: straight edges, edges with different curvature levels, and mixed straight and curved edges. During the experiments, participants were asked to complete network tasks including determination of connectivity, shortest path, node degree, and common neighbors. We also asked the participants to provide subjective ratings of the aesthetics of different edge types. The results show significant performance differences between the straight and curved edges and clear distinctions between variations of curved edges.
+vis citations:
+amar_infovis_05
+ersoy_infovis_11
+holten_infovis_06
+shneiderman_infovis_06
+wattenbe_infovis_02
+wong_n_infovis_03
+wong_infovis_05

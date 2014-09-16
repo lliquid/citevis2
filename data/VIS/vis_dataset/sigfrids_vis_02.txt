@@ -1,0 +1,6 @@
+title: Tensor Field Visualisation using Adaptive Filtering of Noise Fields combined with Glyph Rendering
+authors: Andreas Sigfridsson, Tino Ebbers, Einar Heiberg, Lars Wigstr??m
+abstract: While many methods exist for visualising scalar and vector data, visualisation of tensor data is still troublesome. We present a method for visualising second order tensors in three dimensions using a hybrid between direct volume rendering and glyph rendering.An overview scalar field is created by using three-dimensional adaptive filtering of a scalar field containing noise. The filtering process is controlled by the tensor field to be visualised, creating patterns that characterise the tensor field. By combining direct volume rendering of the scalar field with standard glyph rendering methods for detailed tensor visualisation, a hybrid solution is created.A combined volume and glyph renderer was implemented and tested with both synthetic tensors and strain-rate tensors from the human heart muscle, calculated from phase contrast magnetic resonance image data. A comprehensible result could be obtained, giving both an overview of the tensor field as well as detailed information on individual tensors.
+vis citations:
+kirby_vis_99
+laidlaw_vis_98

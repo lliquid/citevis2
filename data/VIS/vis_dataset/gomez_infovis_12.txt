@@ -1,0 +1,8 @@
+title: Different Strokes for Different Folks: Visual Presentation Design between Disciplines
+authors: Steven R. Gomez, Radu Jianu, Caroline Ziemkiewicz, Hua Guo, David H. Laidlaw
+abstract: We present an ethnographic study of design differences in visual presentations between academic disciplines. Characterizing design conventions between users and data domains is an important step in developing hypotheses, tools, and design guidelines for information visualization. In this paper, disciplines are compared at a coarse scale between four groups of fields: social, natural, and formal sciences; and the humanities. Two commonplace presentation types were analyzed: electronic slideshows and whiteboard ???chalk talks???. We found design differences in slideshows using two methods ??? coding and comparing manually-selected features, like charts and diagrams, and an image-based analysis using PCA called eigenslides. In whiteboard talks with controlled topics, we observed design behaviors, including using representations and formalisms from a participant???s own discipline, that suggest authors might benefit from novel assistive tools for designing presentations. Based on these findings, we discuss opportunities for visualization ethnography and human-centered authoring tools for visual information.
+vis citations:
+hullman2_infovis_11
+liu_infovis_10
+segal_infovis_10
+walny_infovis_11

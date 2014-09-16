@@ -1,0 +1,7 @@
+title: Developing and Evaluating Quilts for the Depiction of Large Layered Graphs
+authors: Juhee Bae, Ben Watson
+abstract: Traditional layered graph depictions such as flow charts are in wide use. Yet as graphs grow more complex, these depictions can become difficult to understand. Quilts are matrix-based depictions for layered graphs designed to address this problem. In this research, we first improve Quilts by developing three design alternatives, and then compare the best of these alternatives to better-known node-link and matrix depictions. A primary weakness in Quilts is their depiction of skip links, links that do not simply connect to a succeeding layer. Therefore in our first study, we compare Quilts using color-only, text-only, and mixed (color and text) skip link depictions, finding that path finding with the color-only depiction is significantly slower and less accurate, and that in certain cases, the mixed depiction offers an advantage over the text-only depiction. In our second study, we compare Quilts using the mixed depiction to node-link diagrams and centered matrices. Overall results show that users can find paths through graphs significantly faster with Quilts (46.6 secs) than with node-link (58.3 secs) or matrix (71.2 secs) diagrams. This speed advantage is still greater in large graphs (e.g. in 200 node graphs, 55.4 secs vs. 71.1 secs for node-link and 84.2 secs for matrix depictions).
+vis citations:
+bezerian_infovis_10
+ghoniem_infovis_04
+henry_infovis_07

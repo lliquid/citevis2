@@ -1,0 +1,7 @@
+title: Pre-Integrated Volume Rendering with Non-Linear Gradient Interpolation
+authors: Amel Guetat, Alexandre Ancel, Stephane Marchesin, Jean-Michel Dischler
+abstract: Shading is an important feature for the comprehension of volume datasets, but is difficult to implement accurately. Current techniques based on pre-integrated direct volume rendering approximate the volume rendering integral by ignoring non-linear gradient variations between front and back samples, which might result in cumulated shading errors when gradient variations are important and / or when the illumination function features high frequencies. In this paper, we explore a simple approach for pre-integrated volume rendering with non-linear gradient interpolation between front and back samples. We consider that the gradient smoothly varies along a quadratic curve instead of a segment in-between consecutive samples. This not only allows us to compute more accurate shaded pre-integrated look-up tables, but also allows us to more efficiently process shading amplifying effects, based on gradient filtering. An interesting property is that the pre-integration tables we use remain two-dimensional as for usual pre-integrated classification. We conduct experiments using a full hardware approach with the Blinn-Phong illumination model as well as with a non-photorealistic illumination model.
+vis citations:
+ebert_vis_00
+marchesi_vis_09
+roettger_vis_00

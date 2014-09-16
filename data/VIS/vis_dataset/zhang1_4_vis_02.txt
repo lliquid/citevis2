@@ -1,0 +1,4 @@
+title: Direct Surface Extraction from 3D Freehand Ultrasound Images
+authors: Youwei Zhang, Robert Rohling, Dinesh K. Pai
+abstract: This paper presents a new technique for the extraction of surfaces from 3D ultrasound data. Surface extraction from ultrasound data is challenging for a number of reasons including noise and artifacts in the images and non-uniform data sampling. A method is proposed to fit an approximating radial basis function to the group of data samples. An explicit surface is then obtained by iso-surfacing the function. In most previous 3D ultrasound research, a pre-processing step is taken to interpolate the data into a regular voxel array and a corresponding loss of resolution. We are the first to represent the set of semi-structured ultrasound pixel data as a single function. From this we were able to extract surfaces without first reconstructing the irregularly spaced pixels into a regular 3D voxel array.
+vis citations:

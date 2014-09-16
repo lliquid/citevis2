@@ -1,0 +1,7 @@
+title: Profile Flags: a Novel Metaphor for Probing of T2 Maps
+authors: Matej Mlejnek, Pierre Ermes, Anna Vilanova, Rob van der Rijt, Harrie van den Bosch, Frans Gerritsen, Meister Eduard Gr??ller
+abstract: This paper describes a tool for the visualization of T2 maps of knee cartilage. Given the anatomical scan and the T2 map of the cartilage, we combine the information on the shape and the quality of the cartilage in a single image. The Profile Flag is an intuitive 3D glyph for probing and annotating of the underlying data. It comprises a bulletin board pin-like shape with a small flag on top of it. While moving the glyph along the reconstructed surface of an object, the curve data measured along the pin???s needle and in its neighborhood are shown on the flag. The application area of the Profile Flag is manifold, enabling the visualization of profile data of dense but inhomogeneous objects. Furthermore, it extracts the essential part of the data without removing or even reducing the context information. By sticking Profile Flags into the investigated structure, one or more significant locations can be annotated by showing the local characteristics of the data at that locations. In this paper we are demonstrating the properties of the tool by visualizing T2 maps of knee cartilage.
+vis citations:
+mcguffin_vis_03
+mlejnek_vis_04
+preim_vis_02

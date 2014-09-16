@@ -1,0 +1,8 @@
+title: Semantics of Directly Manipulating Spatializations
+authors: Xinran Hu, Lauren Bradel, Dipayan Maiti, Leanna House, Chris North, Scotland Leman
+abstract: When high-dimensional data is visualized in a 2D plane by using parametric projection algorithms, users may wish to manipulate the layout of the data points to better reflect their domain knowledge or to explore alternative structures. However, few users are well-versed in the algorithms behind the visualizations, making parameter tweaking more of a guessing game than a series of decisive interactions. Translating user interactions into algorithmic input is a key component of Visual to Parametric Interaction (V2PI) [13]. Instead of adjusting parameters, users directly move data points on the screen, which then updates the underlying statistical model. However, we have found that some data points that are not moved by the user are just as important in the interactions as the data points that are moved. Users frequently move some data points with respect to some other ???unmoved??? data points that they consider as spatially contextual. However, in current V2PI interactions, these points are not explicitly identified when directly manipulating the moved points. We design a richer set of interactions that makes this context more explicit, and a new algorithm and sophisticated weighting scheme that incorporates the importance of these unmoved data points into V2PI.
+vis citations:
+brown_vast_12
+endert_vast_12
+endert_vast_11
+robinson_vast_08

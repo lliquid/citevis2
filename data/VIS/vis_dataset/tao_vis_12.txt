@@ -1,0 +1,11 @@
+title: Structure-Aware Lighting Design for Volume Visualization
+authors: Yubo Tao, Hai Lin, Feng Dong, Chao Wang, Gordon Clapworthy, Hujun Bao
+abstract: Lighting design is a complex, but fundamental, problem in many fields. In volume visualization, direct volume rendering generates an informative image without external lighting, as each voxel itself emits radiance. However, external lighting further improves the shape and detail perception of features, and it also determines the effectiveness of the communication of feature information. The human visual system is highly effective in extracting structural information from images, and to assist it further, this paper presents an approach to structure-aware automatic lighting design by measuring the structural changes between the images with and without external lighting. Given a transfer function and a viewpoint, the optimal lighting parameters are those that provide the greatest enhancement to structural information - the shape and detail information of features are conveyed most clearly by the optimal lighting parameters. Besides lighting goodness, the proposed metric can also be used to evaluate lighting similarity and stability between two sets of lighting parameters. Lighting similarity can be used to optimize the selection of multiple light sources so that different light sources can reveal distinct structural information. Our experiments with several volume data sets demonstrate the effectiveness of the structure-aware lighting design approach. It is well suited to use by novices as it requires little technical understanding of the rendering parameters associated with direct volume rendering.
+vis citations:
+bordoloi_vis_05
+gumhold_vis_02
+halle_vis_03
+jiguangf_vis_06
+lee_vis_04
+takahash_vis_05
+zheng_vis_11

@@ -1,0 +1,9 @@
+title: Transform Coding for Hardware-accelerated Volume Rendering
+authors: Nathaniel Fout, Kwan-Liu Ma
+abstract: Hardware-accelerated volume rendering using the GPU is now the standard approach for real-time volume rendering, although limited graphics memory can present a problem when rendering large volume data sets. Volumetric compression in which the decompression is coupled to rendering has been shown to be an effective solution to this problem; however, most existing techniques were developed in the context of software volume rendering, and all but the simplest approaches are prohibitive in a real-time hardware-accelerated volume rendering context. In this paper we present a novel block-based transform coding scheme designed specifically with real-time volume rendering in mind, such that the decompression is fast without sacrificing compression quality. This is made possible by consolidating the inverse transform with dequantization in such a way as to allow most of the reprojection to be precomputed. Furthermore, we take advantage of the freedom afforded by offline compression in order to optimize the encoding as much as possible while hiding this complexity from the decoder. In this context we develop a new block classification scheme which allows us to preserve perceptually important features in the compression. The result of this work is an asymmetric transform coding scheme that allows very large volumes to be compressed and then decompressed in real-time while rendering on the GPU.
+vis citations:
+guthe_vis_02
+lefohn_vis_03
+lum_vis_01
+mccormic_vis_04
+schneide_vis_03

@@ -1,0 +1,5 @@
+title: Many Eyes: A Site for Visualization at Internet Scale
+authors: Fernanda B. Vi??gas, Martin Wattenberg, Frank van Ham, Jesse Kriss, Matt McKeon
+abstract: We describe the design and deployment of Many Eyes, a public web site where users may upload data, create interactive visualizations, and carry on discussions. The goal of the site is to support collaboration around visualizations at a large scale by fostering a social style of data analysis in which visualizations not only serve as a discovery tool for individuals but also as a medium to spur discussion among users. To support this goal, the site includes novel mechanisms for end-user creation of visualizations and asynchronous collaboration around those visualizations. In addition to describing these technologies, we provide a preliminary report on the activity of our users.
+vis citations:
+wattenba_infovis_05

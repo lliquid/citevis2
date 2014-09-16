@@ -1,0 +1,7 @@
+title: Two-level volume rendering  fusing MIP and DVR
+authors: Helwig Hauser, Lukas Mroz, Gian-Italo Bischi, Eduard Gr??ller
+abstract: In this paper we present a two-level approach for fusing direct volume rendering (DVR) and maximum-intensity projection (MIP) within a joint rendering method. Different structures within the data-set are rendered locally by either MIP or DVR on an objectby-object basis. Globally all the results of subsequent object renderings are combined in a merging step (usually compositing in our case). This allows to selectively choose the most suitable technique for depicting each object within the data, while keeping the amount of information contained in the image at a reasonable level. This is especially useful when inner structures should be visualized together with semi-transparent outer parts, similar to the focus-andcontext approach known from information visualization. We also present an implementation of our approach, which allows to explore volumetric data using two-level rendering at interactive frame rates.
+vis citations:
+hauser_vis_00
+kreeger_vis_99
+tiede_vis_98

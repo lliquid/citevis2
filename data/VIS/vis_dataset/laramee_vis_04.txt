@@ -1,0 +1,10 @@
+title: Investigating Swirl and Tumble Flow with a Comparison of Visualization Techniques
+authors: Robert S. Laramee, Daniel Weiskopf, J??rgen Schneider, Helwig Hauser
+abstract: We investigate two important, common fluid flow patterns from computational fluid dynamics (CFD) simulations, namely, swirl and tumble motion typical of automotive engines. We study and visualize swirl and tumble flow using three different flow visualization techniques: direct, geometric, and texture-based. When illustrating these methods side-by-side, we describe the relative strengths and weaknesses of each approach within a specific spatial dimension and across multiple spatial dimensions typical of an engineer???s analysis. Our study is focused on steady-state flow. Based on this investigation we offer perspectives on where and when these techniques are best applied in order to visualize the behavior of swirl and tumble motion.
+vis citations:
+laramee_vis_03
+scheuer1_vis_99
+telea_vis_03
+vanwijk_vis_03
+verma_vis_00
+weiskopf_vis_03

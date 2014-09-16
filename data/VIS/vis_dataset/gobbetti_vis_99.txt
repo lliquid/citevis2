@@ -1,0 +1,5 @@
+title: Time-critical Multiresolution Scene Rendering
+authors: Enrico Gobbetti, Eric Bouvier
+abstract: We describe a framework for time-critical rendering of graphics scenes composed of a large number of objects having complex geometric descriptions. Our technique relies upon a scene description in which objects are represented as multiresolution meshes. We perform a constrained optimization at each frame to choose the resolution of each potentially visible object that generates the best quality image while meeting timing constraints. The technique provides smooth level-of-detail control and aims at guaranteeing a uniform, bounded frame rate even for widely changing viewing conditions. The optimization algorithm is independent from the particular data structure used to represent multiresolution meshes. The only requirements are the ability to represent a mesh with an arbitrary number of triangles and to traverse a mesh structure at an arbitrary resolution in a short predictable time. A data structure satisfying these criteria is described and experimental results are discussed.
+vis citations:
+hoppe_vis_98

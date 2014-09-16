@@ -1,0 +1,10 @@
+title: Pointwise Local Pattern Exploration for Sensitivity Analysis
+authors: Zhenyu Guo, Matthew O. Ward, Elke A. Rundensteiner, Carolina Ruiz
+abstract: Sensitivity analysis is a powerful method for discovering the significant factors that contribute to targets and understanding the interaction between variables in multivariate datasets. A number of sensitivity analysis methods fall into the class of local analysis, in which the sensitivity is defined as the partial derivatives of a target variable with respect to a group of independent variables. Incorporating sensitivity analysis in visual analytic tools is essential for multivariate phenomena analysis. However, most current multivariate visualization techniques do not allow users to explore local patterns individually for understanding the sensitivity from a pointwise view. In this paper, we present a novel pointwise local pattern exploration system for visual sensitivity analysis. Using this system, analysts are able to explore local patterns and the sensitivity at individual data points, which reveals the relationships between a focal point and its neighbors. During exploration, users are able to interactively change the derivative coefficients to perform sensitivity analysis based on different requirements as well as their domain knowledge. Each local pattern is assigned an outlier factor, so that users can quickly identify anomalous local patterns that do not conform with the global pattern. Users can also compare the local pattern with the global pattern both visually and statistically. Finally, the local pattern is integrated into the original attribute space using color mapping and jittering, which reveals the distribution of the partial derivatives. Case studies with real datasets are used to investigate the effectiveness of the visualizations and interactions.
+vis citations:
+barlowe_vast_08
+chan_vast_10
+correa_vast_09
+guo_vast_09
+matkovic_vis_05
+yang_infovis_04

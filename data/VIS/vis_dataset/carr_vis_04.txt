@@ -1,0 +1,7 @@
+title: Simplifying Flexible Isosurfaces Using Local Geometric Measures
+authors: Hamish Carr, Jack Snoeyink, Michiel van de Panne
+abstract: The contour tree, an abstraction of a scalar field that encodes the nesting relationships of isosurfaces, can be used to accelerate isosurface extraction, to identify important isovalues for volumerendering transfer functions, and to guide exploratory visualization through a flexible isosurface interface. Many real-world data sets produce unmanageably large contour trees which require meaningful simplification. We define local geometric measures for individual contours, such as surface area and contained volume, and provide an algorithm to compute these measures in a contour tree. We then use these geometric measures to simplify the contour trees, suppressing minor topological features of the data. We combine this with a flexible isosurface interface to allow users to explore individual contours of a dataset interactively.
+vis citations:
+bremer_vis_03
+carr_vis_01
+pascucci_vis_02

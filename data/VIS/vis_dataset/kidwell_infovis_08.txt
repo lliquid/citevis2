@@ -1,0 +1,4 @@
+title: Visualizing Incomplete and Partially Ranked Data
+authors: Paul Kidwell, Guy Lebanon, William S. Cleveland
+abstract: Ranking data, which result from m raters ranking n items, are difficult to visualize due to their discrete algebraic structure, and the computational difficulties associated with them when n is large. This problem becomes worse when raters provide tied rankings or not all items are ranked. We develop an approach for the visualization of ranking data for large n which is intuitive, easy to use, and computationally efficient. The approach overcomes the structural and computational difficulties by utilizing a natural measure of dissimilarity for raters, and projecting the raters into a low dimensional vector space where they are viewed. The visualization techniques are demonstrated using voting data, jokes, and movie preferences.
+vis citations:

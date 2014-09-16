@@ -1,0 +1,5 @@
+title: Piecewise C1 Continuous Surface Reconstruction of Noisy Point Clouds via Local Implicit Quadric Regression
+authors: Hui Xie, Jianning Wang, Jing Hua, Hong Qin, Arie Kaufman
+abstract: This paper addresses the problem of surface reconstruction of highly noisy point clouds. The surfaces to be reconstructed are assumed to be 2-manifolds of piecewise Cl continuity, with isolated small irregular regions of high curvature, sophisticated local topology or abrupt burst of noise. At each sample point, a quadric field is locally fitted via a modified moving least squares method. These locally fitted quadric fields are then blended together to produce a pseudo-signed distance field using Shepard???s method. We introduce a prioritized front growing scheme in the process of local quadrics fitting. Flatter surface areas tend to grow faster. The already fitted regions will subsequently guide the fitting of those irregular regions in their neighborhood.
+vis citations:
+alexa_vis_01

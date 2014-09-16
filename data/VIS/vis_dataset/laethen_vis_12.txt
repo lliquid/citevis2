@@ -1,0 +1,10 @@
+title: Automatic Tuning of Spatially Varying Transfer Functions for Blood Vessel Visualization
+authors: Gunnar L??then, Stefan Lindholm, Reiner Lenz, Anders Persson, Magnus Borga
+abstract: Computed Tomography Angiography (CTA) is commonly used in clinical routine for diagnosing vascular diseases. The procedure involves the injection of a contrast agent into the blood stream to increase the contrast between the blood vessels and the surrounding tissue in the image data. CTA is often visualized with Direct Volume Rendering (DVR) where the enhanced image contrast is important for the construction of Transfer Functions (TFs). For increased efficiency, clinical routine heavily relies on preset TFs to simplify the creation of such visualizations for a physician. In practice, however, TF presets often do not yield optimal images due to variations in mixture concentration of contrast agent in the blood stream. In this paper we propose an automatic, optimization-based method that shifts TF presets to account for general deviations and local variations of the intensity of contrast enhanced blood vessels. Some of the advantages of this method are the following. It computationally automates large parts of a process that is currently performed manually. It performs the TF shift locally and can thus optimize larger portions of the image than is possible with manual interaction. The method is based on a well known vesselness descriptor in the definition of the optimization criterion. The performance of the method is illustrated by clinically relevant CT angiography datasets displaying both improved structural overviews of vessel trees and improved adaption to local variations of contrast concentration.
+vis citations:
+correa_vis_08
+joshiala_vis_08
+kindlman_vis_03
+lindholm_vis_10
+tenginakai_vis_01
+zhou_vis_09

@@ -1,0 +1,8 @@
+title: Interactive Rendering of Large Volume Data Sets
+authors: Stefan Guthe, Michael Wand, Julius Gonser, Wolfgang Stra??er
+abstract: We present a new algorithm for rendering very large volume data sets at interactive framerates on standard PC hardware. The algorithm accepts scalar data sampled on a regular grid as input. The input data is converted into a compressed hierarchical wavelet representation in a preprocessing step. During rendering, the wavelet representation is decompressed on-the-fly and rendered using hardware texture mapping. The level of detail used for rendering is adapted to the local frequency spectrum of the data and its position relative to the viewer. Using a prototype implementation of the algorithm we were able to perform an interactive walkthrough of large data sets such as the visible human on a single of-the-shelf PC.
+vis citations:
+guthe_vis_01
+kniss_vis_01
+lamar_vis_99
+meissner_vis_99

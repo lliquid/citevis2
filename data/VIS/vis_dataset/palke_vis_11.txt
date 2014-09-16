@@ -1,0 +1,19 @@
+title: Asymmetric Tensor Field Visualization for Surfaces
+authors: Guoning Chen, Darrel Palke, Zhongzang Lin, Harry Yeh, Paul Vincent, Robert S. Laramee, Eugene Zhang
+abstract: Asymmetric tensor field visualization can provide important insight into fluid flows and solid deformations. Existing techniques for asymmetric tensor fields focus on the analysis, and simply use evenly-spaced hyperstreamlines on surfaces following eigenvectors and dual-eigenvectors in the tensor field. In this paper, we describe a hybrid visualization technique in which hyperstreamlines and elliptical glyphs are used in real and complex domains, respectively. This enables a more faithful representation of flow behaviors inside complex domains. In addition, we encode tensor magnitude, an important quantity in tensor field analysis, using the density of hyperstreamlines and sizes of glyphs. This allows colors to be used to encode other important tensor quantities. To facilitate quick visual exploration of the data from different viewpoints and at different resolutions, we employ an efficient image-space approach in which hyperstreamlines and glyphs are generated quickly in the image plane. The combination of these techniques leads to an efficient tensor field visualization system for domain scientists. We demonstrate the effectiveness of our visualization technique through applications to complex simulated engine fluid flow and earthquake deformation data. Feedback from domain expert scientists, who are also co-authors, is provided.
+vis citations:
+hlawitsc_vis_05
+hotz_vis_04
+kindlman_vis_06
+kirby_vis_99
+laidlaw_vis_98
+laramee_vis_05
+liuzhanp_vis_06
+mao_vis_98
+mebarki_vis_05
+schultz_vis_10
+vanwijk_vis_03
+verma_vis_00
+zheng_vis_04
+zhengcom_vis_05
+zhengtop_vis_05

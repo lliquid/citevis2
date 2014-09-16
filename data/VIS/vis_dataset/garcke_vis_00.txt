@@ -1,0 +1,8 @@
+title: A Continuous Clustering Method for Vector Fields
+authors: H. Garcke, T. Preu??er, M. Rumpf, A. Telea, U. Weikard, J. van Wijk
+abstract: A new method for the simplification of flow fields is presented. It is based on continuous clustering. A well-known physical clustering model, the Cahn Hillard model which describes phase separation, is modified to reflect the properties of the data to be visualized. Clusters are defined implicitly as connected components of the positivity set of a density function. An evolution equation for this function is obtained as a suitable gradient flow of an underlying anisotropic energy functional. Here, time serves as the scale parameter. The evolution is characterized by a successive coarsening of patterns  the actual clustering ??? and meanwhile the underlying simulation data specifies preferable pattern boundaries. Here we discuss the applicability of this new type of approach mainly for flow fields, where the cluster energy penalizes cross streamline boundaries, but the method also carries provisions in other fields as well. The clusters are visualized via iconic representations. A skeletonization algorithm is used to find suitable positions for the icons.
+vis citations:
+heckel_vis_99
+preusser_vis_99
+rezk_vis_99
+telea_vis_99

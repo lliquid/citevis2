@@ -1,0 +1,8 @@
+title: Topology-based Simplification for Feature Extraction from 3D Scalar Fields
+authors: Attila Gyulassy, Vijay Natarajan, Valerio Pascucci, Peer-Timo Bremer, Bernd Hamann
+abstract: In this paper, we present a topological approach for simplifying continuous functions defined on volumetric domains. We introduce two atomic operations that remove pairs of critical points of the function and design a combinatorial algorithm that simplifies the Morse-Smale complex by repeated application of these operations. The Morse-Smale complex is a topological data structure that provides a compact representation of gradient flow between critical points of a function. Critical points paired by the Morse-Smale complex identify topological features and their importance. The simplification procedure leaves important critical points untouched, and is therefore useful for extracting desirable features. We also present a visualization of the simplified topology.
+vis citations:
+carr_vis_04
+cignoni_vis_00
+deleeuw_vis_99
+tricoche_vis_01

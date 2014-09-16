@@ -1,0 +1,9 @@
+title: Click2Annotate: Automated Insight Externalization with Rich Semantics
+authors: Yang Chen, Scott Barlowe, Jing Yang
+abstract: Insight Externalization (IE) refers to the process of capturing and recording the semantics of insights in decision making and problem solving. To reduce human effort, Automated Insight Externalization (AIE) is desired. Most existing IE approaches achieve automation by capturing events (e.g., clicks and key presses) or actions (e.g., panning and zooming). In this paper, we propose a novel AIE approach named Click2Annotate. It allows semi-automatic insight annotation that captures low-level analytics task results (e.g., clusters and outliers), which have higher semantic richness and abstraction levels than actions and events. Click2Annotate has two significant benefits. First, it reduces human effort required in IE and generates annotations easy to understand. Second, the rich semantic information encoded in the annotations enables various insight management activities, such as insight browsing and insight retrieval. We present a formal user study that proved this first benefit. We also illustrate the second benefit by presenting the novel insight management activities we developed based on Click2Annotate, namely scented insight browsing and faceted insight search.
+vis citations:
+amar_infovis_05
+gotz_vast_08
+pousman_infovis_07
+strobelt_infovis_09
+viegas_infovis_07

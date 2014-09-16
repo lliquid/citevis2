@@ -1,0 +1,12 @@
+title: MObjects???A Novel Method for the Visualization and Interactive Exploration of Defects in Industrial XCT Data
+authors: Andreas Reh, Christian Gusenbauer, Johann Kastner, Eduard Gr??ller, Christoph Heinzl
+abstract: This paper describes an advanced visualization method for the analysis of defects in industrial 3D X-Ray Computed Tomography (XCT) data. We present a novel way to explore a high number of individual objects in a dataset, e.g., pores, inclusions, particles, fibers, and cracks demonstrated on the special application area of pore extraction in carbon fiber reinforced polymers (CFRP). After calculating the individual object properties volume, dimensions and shape factors, all objects are clustered into a mean object (MObject). The resulting MObject parameter space can be explored interactively. To do so, we introduce the visualization of mean object sets (MObject Sets) in a radial and a parallel arrangement. Each MObject may be split up into sub-classes by selecting a specific property, e.g., volume or shape factor, and the desired number of classes. Applying this interactive selection iteratively leads to the intended classifications and visualizations of MObjects along the selected analysis path. Hereby the given different scaling factors of the MObjects down the analysis path are visualized through a visual linking approach. Furthermore the representative MObjects are exported as volumetric datasets to serve as input for successive calculations and simulations. In the field of porosity determination in CFRP non-destructive testing practitioners use representative MObjects to improve ultrasonic calibration curves. Representative pores also serve as input for heat conduction simulations in active thermography. For a fast overview of the pore properties in a dataset we propose a local MObjects visualization in combination with a color-coded homogeneity visualization of cells. The advantages of our novel approach are demonstrated using real world CFRP specimens. The results were evaluated through a questionnaire in order to determine the practicality of the MObjects visualization as a supportive tool for domain specialists.
+vis citations:
+amirkhan_vis_10
+bruckner_vis_10
+bruckner_vis_09
+fout2_vis_12
+ip_vis_12
+kniss_vis_05
+ma_vis_99
+torsneyweir_vis_11

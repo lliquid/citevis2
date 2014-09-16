@@ -1,0 +1,8 @@
+title: Visualization of Morse Connection Graphs for Topologically Rich 2D Vector Fields
+authors: Andrzej Szymczak, Levente Sipeki
+abstract: Recent advances in vector field topology make it possible to compute its multi-scale graph representations for autonomous 2D vector fields in a robust and efficient manner. One of these representations is a Morse Connection Graph (MCG), a directed graph whose nodes correspond to Morse sets, generalizing stationary points and periodic trajectories, and arcs - to trajectories connecting them. While being useful for simple vector fields, the MCG can be hard to comprehend for topologically rich vector fields, containing a large number of features. This paper describes a visual representation of the MCG, inspired by previous work on graph visualization. Our approach aims to preserve the spatial relationships between the MCG arcs and nodes and highlight the coherent behavior of connecting trajectories. Using simulations of ocean flow, we show that it can provide useful information on the flow structure. This paper focuses specifically on MCGs computed for piecewise constant (PC) vector fields. In particular, we describe extensions of the PC framework that make it more flexible and better suited for analysis of data on complex shaped domains with a boundary. We also describe a topology simplification scheme that makes our MCG visualizations less ambiguous. Despite the focus on the PC framework, our approach could also be applied to graph representations or topological skeletons computed using different methods.
+vis citations:
+cui_infovis_08
+ersoy_infovis_11
+gyulassy_vis_12
+tricoche_vis_00

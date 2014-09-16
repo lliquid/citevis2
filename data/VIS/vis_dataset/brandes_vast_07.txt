@@ -1,0 +1,5 @@
+title: Visual Analysis of Controversy in User-generated Encyclopedias
+authors: Ulrik Brandes, J??rgen Lerner
+abstract: Wikipedia is a large and rapidly growing Web-based collaborative authoring environment, where anyone on the Internet can create, modify, and delete pages about encyclopedic topics. A remarkable property of some Wikipedia pages is that they are written by up to thousands of authors who may have contradicting opinions. In this paper we show that a visual analysis of the ???who revises whom??? network gives deep insight into controversies. We propose a set of analysis and visualization techniques that reveal the dominant authors of a page, the roles they play, and the alters they confront. Thereby we provide tools to understand how Wikipedia authors collaborate in the presence of controversy.
+vis citations:
+chen_vast_06

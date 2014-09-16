@@ -1,0 +1,11 @@
+title: VolQD: Direct Volume Rendering of Multi-million Atom Quantum Dot Simulations
+authors: Wei Qiao, David S. Ebert, Alireza Entezari, Marek Korkusinski, Gerhard Klimeck
+abstract: In this work we present a hardware-accelerated direct volume rendering system for visualizing multivariate wave functions in semiconducting quantum dot (QD) simulations. The simulation data contains the probability density values of multiple electron orbitals for up to tens of millions of atoms, computed by the NEMO3 D quantum device simulator software run on large-scale cluster architectures. These atoms form two interpenetrating crystalline Face Centered Cubic lattices (FCC), where each FCC cell comprises the eight corners of a cubic cell and six additional face centers. We have developed compact representation techniques for the FCC lattice within PC graphics hardware texture memory, hardware-accelerated linear and cubic reconstruction schemes, and new multi-field rendering techniques utilizing logarithmic scale transfer functions. Our system also enables the user to drill down through the simulation data and execute statistical queries using general-purpose computing on the GPU (GPGPU).
+vis citations:
+entezari_vis_04
+kindlman_vis_03
+kniss_vis_03
+kraus_vis_04
+mccormic_vis_04
+roettger_vis_00
+theussl_vis_01

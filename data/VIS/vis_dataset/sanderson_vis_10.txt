@@ -1,0 +1,8 @@
+title: Analysis of Recurrent Patterns in Toroidal Magnetic Fields
+authors: Allen R. Sanderson, Guoning Chen, Xavier Tricoche, David Pugmire, Scott Kruger, Joshua Breslau
+abstract: In the development of magnetic confinement fusion which will potentially be a future source for low cost power, physicists must be able to analyze the magnetic field that confines the burning plasma. While the magnetic field can be described as a vector field, traditional techniques for analyzing the field???s topology cannot be used because of its Hamiltonian nature. In this paper we describe a technique developed as a collaboration between physicists and computer scientists that determines the topology of a toroidal magnetic field using fieldlines with near minimal lengths. More specifically, we analyze the Poincar??e map of the sampled fieldlines in a Poincar??e section including identifying critical points and other topological features of interest to physicists. The technique has been deployed into an interactive parallel visualization tool which physicists are using to gain new insight into simulations of magnetically confined burning plasmas.
+vis citations:
+roth_vis_98
+theisel_vis_03
+tricoche_vis_01
+weinkauf_vis_05

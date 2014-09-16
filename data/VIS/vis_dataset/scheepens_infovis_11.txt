@@ -1,0 +1,11 @@
+title: Composite Density Maps for Multivariate Trajectories
+authors: Roeland Scheepens, Niels Willems, Huub van de Wetering, Gennady Andrienko, Natalia Andrienko, Jarke J. van Wijk
+abstract: We consider moving objects as multivariate time-series. By visually analyzing the attributes, patterns may appear that explain why certain movements have occurred. Density maps as proposed by Scheepens et al. [25] are a way to reveal these patterns by means of aggregations of filtered subsets of trajectories. Since filtering is often not sufficient for analysts to express their domain knowledge, we propose to use expressions instead. We present a flexible architecture for density maps to enable custom, versatile exploration using multiple density fields. The flexibility comes from a script, depicted in this paper as a block diagram, which defines an advanced computation of a density field. We define six different types of blocks to create, compose, and enhance trajectories or density fields. Blocks are customized by means of expressions that allow the analyst to model domain knowledge. The versatility of our architecture is demonstrated with several maritime use cases developed with domain experts. Our approach is expected to be useful for the analysis of objects in other domains.
+vis citations:
+andrienk_vast_08
+andrienk_vast_10
+crnovrsa_vast_09
+eccles_vast_07
+heer2_infovis_06
+liao_vast_10
+wood_infovis_07

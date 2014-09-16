@@ -1,0 +1,7 @@
+title: Efficient Adaptive Simplification of Massive Meshes
+authors: Eric Shaffer, Michael Garland
+abstract: The growing availability of massive polygonal models, and the inability of most existing visualization tools to work with such data, has created a pressing need for memory efficient methods capable of simplifying very large meshes. In this paper, we present a method for performing adaptive simplification of polygonal meshes that are too large to fit in-core.Our algorithm performs two passes over an input mesh. In the first pass, the model is quantized using a uniform grid, and surface information is accumulated in the form of quadrics and dual quadrics. This sampling is then used to construct a BSP-Tree in which the partitioning planes are determined by the dual quadrics. In the final pass, the original vertices are clustered using the BSPTree, yielding an adaptive approximation of the original mesh. The BSP-Tree describes a natural simplification hierarchy, making it possible to generate a progressive transmission and construct levelof-detail representations. In this way, the algorithm provides some of the features associated with more expensive edge contraction methods while maintaining greater computational efficiency. In addition to performing adaptive simplification, our algorithm exhibits output-sensitive memory requirements and allows fine control over the size of the simplified mesh.
+vis citations:
+hoppe_vis_98
+lindstrom01_vis_01
+lindstro_vis_98

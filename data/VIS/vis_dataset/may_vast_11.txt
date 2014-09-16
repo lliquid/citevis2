@@ -1,0 +1,8 @@
+title: Guiding Feature Subset Selection with an Interactive Visualization
+authors: Thorsten May, Andreas Bannach, James Davey, Tobias Ruppert, J??rn Kohlhammer
+abstract: We propose a method for the semi-automated refinement of the results of feature subset selection algorithms. Feature subset selection is a preliminary step in data analysis which identifies the most useful subset of features (columns) in a data table. So-called filter techniques use statistical ranking measures for the correlation of features. Usually a measure is applied to all entities (rows) of a data table. However, the differing contributions of subsets of data entities are masked by statistical aggregation. Feature and entity subset selection are, thus, highly interdependent. Due to the difficulty in visualizing a high-dimensional data table, most feature subset selection algorithms are applied as a black box at the outset of an analysis. Our visualization technique, SmartStripes, allows users to step into the feature subset selection process. It enables the investigation of dependencies and interdependencies between different feature and entity subsets. A user may even choose to control the iterations manually, taking into account the ranking measures, the contributions of different entity subsets, as well as the semantics of the features.
+vis citations:
+elmqvist_infovis_08
+ingram_vast_10
+johansso_infovis_09
+maceachr_infovis_03

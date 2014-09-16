@@ -1,0 +1,5 @@
+title: Virtual Rheoscopic Fluids for Flow Visualization
+authors: William L. Barth, Christopher A. Burns
+abstract: Physics-based flow visualization techniques seek to mimic laboratory flow visualization methods with virtual analogues. In this work we describe the rendering of a virtual rheoscopic fluid to produce images with results strikingly similar to laboratory experiments with real-world rheoscopic fluids using products such as Kalliroscope. These fluid additives consist of microscopic, anisotropic particles which, when suspended in the flow, align with both the flow velocity and the local shear to produce high-quality depictions of complex flow structures. Our virtual rheoscopic fluid is produced by defining a closed-form formula for the orientation of shear layers in the flow and using this orientation to volume render the flow as a material with anisotropic reflectance and transparency. Examples are presented for natural convection, thermocapillary convection, and Taylor-Couette flow simulations. The latter agree well with photographs of experimental results of Taylor-Couette flows from the literature.
+vis citations:
+schussma_vis_04

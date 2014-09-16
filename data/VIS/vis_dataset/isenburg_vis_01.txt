@@ -1,0 +1,4 @@
+title: Connectivity Shapes
+authors: Martin Isenburg, Stefan Gumholdt, Craig Gotsmant
+abstract: We describe a method to visualize the connectivity graph of a mesh using a natural embedding in 3D space. This uses a 3D shape representation that is based solely on mesh connectivity  the connectivity shape. Given a connectivity, we define its natural geometry as a smooth embedding in space with uniform edge lengths and describe efficient techniques to compute it. Our main contribution is to demonstrate that a surprising amount of geometric information is implicit in the connectivity.We also show how to generate connectivity shapes that approximate given 3D shapes. Potential applications of connectivity shapes to modeling and mesh coding are described.
+vis citations:

@@ -1,0 +1,7 @@
+title: Feature-Space Analysis of Unstructured Meshes
+authors: Ariel Shamir
+abstract: Unstructured meshes are often used in simulations and imaging applications. They provide advanced flexibility in modeling abilities but are more difficult to manipulate and analyze than regular data. This work provides a novel approach for the analysis of unstructured meshes using feature-space clustering and feature-detection. Analyzing and revealing underlying structures in data involve operators on both spatial and functional domains. Slicing concentrates more on the spatial domain, while iso-surfacing or volumerendering concentrate more on the functional domain. Nevertheless, many times it is the combination of the two domains which provides real insight on the structure of the data. In this work a combined feature-space is defined on top of unstructured meshes in order to search for structure in the data. A point in feature-space includes the spatial coordinates of the point in the mesh domain and all chosen attributes defined on the mesh. A distance measures between points in feature-space is defined enabling the utilization of clustering using the mean shift procedure (previously used for images) on unstructured meshes. Feature space analysis is shown to be useful for feature-extraction, for data exploration and partitioning.
+vis citations:
+garland_vis_98
+hoppe_vis_99
+kniss_vis_01

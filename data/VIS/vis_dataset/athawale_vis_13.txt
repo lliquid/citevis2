@@ -1,0 +1,10 @@
+title: Uncertainty Quantification in Linear Interpolation for Isosurface Extraction
+authors: Tushar Athawale, Alireza Entezari
+abstract: We present a study of linear interpolation when applied to uncertain data. Linear interpolation is a key step for isosurface extraction algorithms, and the uncertainties in the data lead to non-linear variations in the geometry of the extracted isosurface. We present an approach for deriving the probability density function of a random variable modeling the positional uncertainty in the isosurface extraction. When the uncertainty is quantified by a uniform distribution, our approach provides a closed-form characterization of the mentioned random variable. This allows us to derive, in closed form, the expected value as well as the variance of the level-crossing position. While the former quantity is used for constructing a stable isosurface for uncertain data, the latter is used for visualizing the positional uncertainties in the expected isosurface level crossings on the underlying grid.
+vis citations:
+botchen_vis_05
+etiene_vis_09
+hlawatsch_vis_11
+lundstroem_vis_07
+schlegel_vis_12
+schultz_vis_07

@@ -1,0 +1,8 @@
+title: Exploration and Visualization of Segmentation Uncertainty Using Shape and Appearance Prior Information
+authors: Ahmed Saad, Ghassan Hamarneh, Torsten M??ller
+abstract: We develop an interactive analysis and visualization tool for probabilistic segmentation in medical imaging. The originality of our approach is that the data exploration is guided by shape and appearance knowledge learned from expert-segmented images of a training population. We introduce a set of multidimensional transfer function widgets to analyze the multivariate probabilistic field data. These widgets furnish the user with contextual information about conformance or deviation from the population statistics. We demonstrate the user???s ability to identify suspicious regions (e.g. tumors) and to correct the misclassification results. We evaluate our system and demonstrate its usefulness in the context of static anatomical and time-varying functional imaging datasets.
+vis citations:
+correa_vis_09
+kindlman_vis_03
+kniss_vis_05
+lundstroem_vis_07

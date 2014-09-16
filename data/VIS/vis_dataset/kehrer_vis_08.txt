@@ -1,0 +1,8 @@
+title: Hypothesis Generation in Climate Research with Interactive Visual Data Exploration
+authors: Johannes Kehrer, Florian Ladst??dter, Philipp Muigg
+authors: Helmut Doleisch, Andrea Steiner, Helwig Hauser
+abstract: One of the most prominent topics in climate research is the investigation, detection, and allocation of climate change. In this paper, we aim at identifying regions in the atmosphere (e.g., certain height layers) which can act as sensitive and robust indicators for climate change. We demonstrate how interactive visual data exploration of large amounts of multi-variate and timedependent climate data enables the steered generation of promising hypotheses for subsequent statistical evaluation. The use of new visualization and interaction technology???in the context of a coordinated multiple views framework???allows not only to identify these promising hypotheses, but also to ef??ciently narrow down parameters that are required in the process of computational data analysis. Two datasets, namely an ECHAM5 climate model run and the ERA-40 reanalysis incorporating observational data, are investigated. Higher-order information such as linear trends or signal-to-noise ratio is derived and interactively explored in order to detect and explore those regions which react most sensitively to climate change. As one conclusion from this study, we identify an excellent potential for usefully generalizing our approach to other, similar application cases, as well.
+vis citations:
+johansso_infovis_05
+laramee_vis_05
+novotny_vis_06

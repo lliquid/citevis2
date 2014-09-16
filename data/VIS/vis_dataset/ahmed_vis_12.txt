@@ -1,0 +1,12 @@
+title: Human Computation in Visualization: Using Purpose Driven Games for Robust Evaluation of Visualization Algorithms
+authors: Nafees Ahmed, Ziyi Zheng, Klaus Mueller
+abstract: Due to the inherent characteristics of the visualization process, most of the problems in this field have strong ties with human cognition and perception. This makes the human brain and sensory system the only appropriate platform for evaluating and fine-tuning a new visualization method or paradigm. However, getting humans to volunteer for these purposes has always been a significant obstacle, and thus this phase of the development process has traditionally formed a bottleneck, slowing down progress in visualization research. We propose to take advantage of the newly emerging field of Human Computation (HC) to overcome these challenges. HC promotes the idea that rather than considering humans as users of the computational system, they can be made part of a hybrid computational loop consisting of traditional computation resources and the human brain and sensory system. This approach is particularly successful in cases where part of the computational problem is considered intractable using known computer algorithms but is trivial to common sense human knowledge. In this paper, we focus on HC from the perspective of solving visualization problems and also outline a framework by which humans can be easily seduced to volunteer their HC resources. We introduce a purpose-driven game entitled "Disguise" which serves as a prototypical example for how the evaluation of visualization algorithms can be mapped into a fun and addictive activity, allowing this task to be accomplished in an extensive yet cost effective way. Finally, we sketch out a framework that transcends from the pure evaluation of existing visualization methods to the design of new ones.
+vis citations:
+ahmed_vis_12
+chuang_vis_09
+correa_vis_09
+kuehne_vis_12
+wangluji_vis_08
+chan_vis_09
+wijk_vis_05
+zheng_vis_11

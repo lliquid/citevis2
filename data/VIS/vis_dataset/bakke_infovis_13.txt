@@ -1,0 +1,8 @@
+title: Automatic Layout of Structured Hierarchical Reports
+authors: Eirik Bakke, David R. Karger, Robert C. Miller
+abstract: Domain-specific database applications tend to contain a sizable number of table-, form-, and report-style views that must each be designed and maintained by a software developer. A significant part of this job is the necessary tweaking of low-level presentation details such as label placements, text field dimensions, list or table styles, and so on. In this paper, we present a horizontally constrained layout management algorithm that automates the display of structured hierarchical data using the traditional visual idioms of hand-designed database UIs: tables, multi-column forms, and outline-style indented lists. We compare our system with pure outline and nested table layouts with respect to space efficiency and readability, the latter with an online user study on 27 subjects. Our layouts are 3.9 and 1.6 times more compact on average than outline layouts and horizontally unconstrained table layouts, respectively, and are as readable as table layouts even for large datasets.
+vis citations:
+ghoniem_infovis_04
+mackinlay_infovis_07
+zhao_infovis_05
+ziemkiew_vast_11

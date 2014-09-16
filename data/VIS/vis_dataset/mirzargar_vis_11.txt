@@ -1,0 +1,9 @@
+title: Quasi Interpolation With Voronoi Splines
+authors: Mahsa Mirzargar, Alireza Entezari
+abstract: We present a quasi interpolation framework that attains the optimal approximation-order of Voronoi splines for reconstruction of volumetric data sampled on general lattices. The quasi interpolation framework of Voronoi splines provides an unbiased reconstruction method across various lattices. Therefore this framework allows us to analyze and contrast the sampling-theoretic performance of general lattices, using signal reconstruction, in an unbiased manner. Our quasi interpolation methodology is implemented as an efficient FIR filter that can be applied online or as a preprocessing step. We present visual and numerical experiments that demonstrate the improved accuracy of reconstruction across lattices, using the quasi interpolation framework.
+vis citations:
+csebfalv_vis_05
+entezari_vis_04
+kim_vis_08
+qiu_vis_07
+theussl_vis_01

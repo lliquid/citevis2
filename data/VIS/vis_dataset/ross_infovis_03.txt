@@ -1,0 +1,5 @@
+title: A Visual Workspace for Hybrid Multidimensional Scaling Algorithms
+authors: Greg Ross, Matthew Chalmers
+abstract: In visualising multidimensional data, it is well known that different types of data require different types of algorithms to process them. Data sets might be distinguished according to volume, variable types and distribution, and each of these characteristics imposes constraints upon the choice of applicable algorithms for their visualisation. Previous work has shown that a hybrid algorithmic approach can be successful in addressing the impact of data volume on the feasibility of multidimensional scaling (MDS). This suggests that hybrid combinations of appropriate algorithms might also successfully address other characteristics of data. This paper presents a system and framework in which a user can easily explore hybrid algorithms and the data flowing through them. Visual programming and a novel algorithmic architecture let the user semi???automatically define data flows and the co-ordination of multiple views.
+vis citations:
+morrison_infovis_03

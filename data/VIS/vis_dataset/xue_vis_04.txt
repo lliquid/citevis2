@@ -1,0 +1,13 @@
+title: Rendering Implicit Flow Volumes
+authors: Daqing Xue, Caixia Zhang, Roger Crawfis
+abstract: Traditional flow volumes construct an explicit geometrical or parametrical representation from the vector field. The geometry is updated interactively and then rendered using an unstructured volume rendering technique. Unless a detailed refinement of the flow volume is specified for the interior, information inside the underlying flow volume is lost in the linear interpolation. These disadvantages can be avoided and/or alleviated using an implicit flow model. An implicit flow is a scalar field constructed such that any point in the field is associated with a termination surface using an advection operator on the flow. We present two techniques, a slice-based three-dimensional texture mapping and an interval volume segmentation coupled with a tetrahedron projection-based renderer, to render implicit stream flows. In the first method, the implicit flow representation is loaded as a 3D texture and manipulated using a dynamic texture operation that allows the flow to be investigated interactively. In our second method, a geometric flow volume is extracted from the implicit flow using a high dimensional iso-contouring or interval volume routine. This provides a very detailed flow volume or set of flow volumes that can easily change topology, while retaining accurate characteristics within the flow volume. The advantages and disadvantages of these two techniques are compared with traditional explicit flow volumes.
+vis citations:
+bhaniram_vis_00
+kniss_vis_01
+li_gs_vis_03
+laramee_vis_03
+mueller_vis_99
+rezk_vis_99
+telea_vis_03
+theisel_vis_03
+westerma_vis_00

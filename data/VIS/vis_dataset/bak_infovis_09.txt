@@ -1,0 +1,11 @@
+title: Spatiotemporal Analysis of Sensor Logs using Growth Ring Maps
+authors: Peter Bak, Florian Mansmann, Halldor Janetzko, Daniel A. Keim
+abstract: Spatiotemporal analysis of sensor logs is a challenging research field due to three facts: a) traditional two-dimensional maps do not support multiple events to occur at the same spatial location, b) three-dimensional solutions introduce ambiguity and are hard to navigate, and c) map distortions to solve the overlap problem are unfamiliar to most users. This paper introduces a novel approach to represent spatial data changing over time by plotting a number of non-overlapping pixels, close to the sensor positions in a map. Thereby, we encode the amount of time that a subject spent at a particular sensor to the number of plotted pixels. Color is used in a twofold manner; while distinct colors distinguish between sensor nodes in different regions, the colors??? intensity is used as an indicator to the temporal property of the subjects??? activity. The resulting visualization technique, called Growth Ring Maps, enables users to find similarities and extract patterns of interest in spatiotemporal data by using humans??? perceptual abilities. We demonstrate the newly introduced technique on a dataset that shows the behavior of healthy and Alzheimer transgenic, male and female mice. We motivate the new technique by showing that the temporal analysis based on hierarchical clustering and the spatial analysis based on transition matrices only reveal limited results. Results and findings are cross-validated using multidimensional scaling. While the focus of this paper is to apply our visualization for monitoring animal behavior, the technique is also applicable for analyzing data, such as packet tracing, geographic monitoring of sales development, or mobile phone capacity planning.
+vis citations:
+dorling_infovis_06
+ellis_infovis_07
+ivanov_infovis_07
+kapler_infovis_04
+panse_infovis_06
+saito_infovis_05
+vanwijk2_infovis_99

@@ -1,0 +1,6 @@
+title: Participatory Visualization with Wordle
+authors: Fernanda B. Viegas, Martin Wattenberg, Jonathan Feinberg
+abstract: We discuss the design and usage of "Wordle," a web-based tool for visualizing text. Wordle creates tag-cloud-like displays that give careful attention to typography, color, and composition. We describe the algorithms used to balance various aesthetic criteria and create the distinctive Wordle layouts. We then present the results of a study of Wordle usage, based both on spontaneous behaviour observed in the wild, and on a large-scale survey of Wordle users. The results suggest that Wordles have become a kind of medium of expression, and that a "participatory culture" has arisen around them.
+vis citations:
+viegas_infovis_07
+wattenba_infovis_05

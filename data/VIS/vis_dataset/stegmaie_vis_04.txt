@@ -1,0 +1,8 @@
+title: A Graphics Hardware-based Vortex Detection and Visualization System
+authors: Simon Stegmaier, Thomas Ertl
+abstract: Feature detection in flow fields is a well researched area, but practical application is often difficult due to the numerical complexity of the algorithms preventing interactive use and due to noise in experimental or high-resolution simulation data sets. We present an integrated system that provides interactive denoising, vortex detection, and visualization of vector data on Cartesian grids. All three major phases are implemented in such a way that the system runs completely on a modern GPU once the vector field is downloaded into graphics memory. The application aspect of our paper is twofold. First, we show how recently presented, prototypical GPUbased algorithms for filtering, numerical computation, and volume rendering can be combined into one productive system by handling all idiosyncrasies of a chosen graphics card. Second, we demonstrate that the significant speedup achieved compared to an optimized software implementation now allows interactive exploration of characteristic structures in turbulent flow fields.
+vis citations:
+krueger_vis_03
+roth_vis_98
+silver_vis_98
+weiskopf_vis_03

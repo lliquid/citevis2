@@ -1,0 +1,13 @@
+title: Nodes on Ropes: A Comprehensive Data and Control Flow for Steering Ensemble Simulations
+authors: J??rgen Waser, Hrvoje Ribicic, Raphael Fuchs, Christian Hirsch, Benjamin Schindler, G??nther Bl??schl, M. Eduard Gr??ller
+abstract: Flood disasters are the most common natural risk and tremendous efforts are spent to improve their simulation and management. However, simulation-based investigation of actions that can be taken in case of flood emergencies is rarely done. This is in part due to the lack of a comprehensive framework which integrates and facilitates these efforts. In this paper, we tackle several problems which are related to steering a flood simulation. One issue is related to uncertainty. We need to account for uncertain knowledge about the environment, such as levee-breach locations. Furthermore, the steering process has to reveal how these uncertainties in the boundary conditions affect the confidence in the simulation outcome. Another important problem is that the simulation setup is often hidden in a black-box. We expose system internals and show that simulation steering can be comprehensible at the same time. This is important because the domain expert needs to be able to modify the simulation setup in order to include local knowledge and experience. In the proposed solution, users steer parameter studies through the World Lines interface to account for input uncertainties. The transport of steering information to the underlying data-flow components is handled by a novel meta-flow. The meta-flow is an extension to a standard data-flow network, comprising additional nodes and ropes to abstract parameter control. The meta-flow has a visual representation to inform the user about which control operations happen. Finally, we present the idea to use the data-flow diagram itself for visualizing steering information and simulation results. We discuss a case-study in collaboration with a domain expert who proposes different actions to protect a virtual city from imminent flooding. The key to choosing the best response strategy is the ability to compare different regions of the parameter space while retaining an understanding of what is happening inside the data-flow system.
+vis citations:
+amirkhan_vis_10
+bruckner_vis_10
+childs_vis_05
+matkovic_infovis_02
+santos_vis_09
+scheidegger_vis_07
+waser_vis_10
+weaver_infovis_04
+weaver_infovis_05

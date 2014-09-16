@@ -1,0 +1,8 @@
+title: Edge Compression Techniques for Visualization of Dense Directed Graphs
+authors: Tim Dwyer, Nathalie Henry Riche, Kim Marriott, Christopher Mears
+abstract: We explore the effectiveness of visualizing dense directed graphs by replacing individual edges with edges connected to ???modules??????or groups of nodes???such that the new edges imply aggregate connectivity. We only consider techniques that offer a lossless compression: that is, where the entire graph can still be read from the compressed version. The techniques considered are: a simple grouping of nodes with identical neighbor sets; Modular Decomposition which permits internal structure in modules and allows them to be nested; and Power Graph Analysis which further allows edges to cross module boundaries. These techniques all have the same goal???to compress the set of edges that need to be rendered to fully convey connectivity???but each successive relaxation of the module definition permits fewer edges to be drawn in the rendered graph. Each successive technique also, we hypothesize, requires a higher degree of mental effort to interpret. We test this hypothetical trade-off with two studies involving human participants. For Power Graph Analysis we propose a novel optimal technique based on constraint programming. This enables us to explore the parameter space for the technique more precisely than could be achieved with a heuristic. Although applicable to many domains, we are motivated by???and discuss in particular???the application to software dependency analysis.
+vis citations:
+abello_infovis_06
+dinkla_infovis_12
+gansner_infovis_04
+vanham2_infovis_09

@@ -1,0 +1,7 @@
+title: Visual Analysis of Inter-Process Communication for Large-Scale Parallel Computing
+authors: Chris Muelder, Francois Gygi, Kwan-Liu Ma
+abstract: In serial computation, program profiling is often helpful for optimization of key sections of code. When moving to parallel computation, not only does the code execution need to be considered but also communication between the different processes which can induce delays that are detrimental to performance. As the number of processes increases, so does the impact of the communication delays on performance. For large-scale parallel applications, it is critical to understand how the communication impacts performance in order to make the code more efficient. There are several tools available for visualizing program execution and communications on parallel systems. These tools generally provide either views which statistically summarize the entire program execution or process-centric views. However, process-centric visualizations do not scale well as the number of processes gets very large. In particular, the most common representation of parallel processes is a Gantt chart with a row for each process. As the number of processes increases, these charts can become difficult to work with and can even exceed screen resolution. We propose a new visualization approach that affords more scalability and then demonstrate it on systems running with up to 16,384 processes.
+vis citations:
+johansso_infovis_05
+voinea_infovis_04
+wattenbe_infovis_02

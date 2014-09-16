@@ -1,0 +1,5 @@
+title: Intrinsic Geometric Scale Space by Shape Diffusion
+authors: Guangyu Zou, Jing Hua, Zhaoqiang Lai, Xianfeng Gu, Ming Dong
+abstract: This paper formalizes a novel, intrinsic geometric scale space (IGSS) of 3D surface shapes. The intrinsic geometry of a surface is diffused by means of the Ricci flow for the generation of a geometric scale space. We rigorously prove that this multiscale shape representation satisfies the axiomatic causality property. Within the theoretical framework, we further present a featurebased shape representation derived from IGSS processing, which is shown to be theoretically plausible and practically effective. By integrating the concept of scale-dependent saliency into the shape description, this representation is not only highly descriptive of the local structures, but also exhibits several desired characteristics of global shape representations, such as being compact, robust to noise and computationally efficient. We demonstrate the capabilities of our approach through salient geometric feature detection and highly discriminative matching of 3D scans.
+vis citations:
+hua_vis_08

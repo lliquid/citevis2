@@ -1,0 +1,8 @@
+title. Visualization of Shape Motions in Shape Space
+authors: Vahid Taimouri, Jing Hua
+abstract: Analysis of dynamic object deformations such as cardiac motion is of great importance, especially when there is a necessity to visualize and compare the deformation behavior across subjects. However, there is a lack of effective techniques for comparative visualization and assessment of a collection of motion data due to its 4-dimensional nature, i.e., timely varying three-dimensional shapes. From the geometric point of view, the motion change can be considered as a function defined on the 2D manifold of the surface. This paper presents a novel classification and visualization method based on a medial surface shape space, in which two novel shape descriptors are defined, for discriminating normal and abnormal human heart deformations as well as localizing the abnormal motion regions. In our medial surface shape space, the geodesic distance connecting two points in the space measures the similarity between their corresponding medial surfaces, which can quantify the similarity and disparity of the 3D heart motions. Furthermore, the novel descriptors can effectively localize the inconsistently deforming myopathic regions on the left ventricle. An easy visualization of heart motion sequences on the projected space allows users to distinguish the deformation differences. Our experimental results on both synthetic and real imaging data show that this method can automatically classify the healthy and myopathic subjects and accurately detect myopathic regions on the left ventricle, which outperforms other conventional cardiac diagnostic methods.
+vis citations:
+elmqvist_infovis_03
+jiguangf_vis_06
+moere_infovis_04
+zou_vis_09

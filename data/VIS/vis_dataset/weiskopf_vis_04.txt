@@ -1,0 +1,7 @@
+title: On the Role of Color in the Perception of Motion in Animated Visualizations
+authors: Daniel Weiskopf
+abstract: Although luminance contrast plays a predominant role in motion perception, significant additional effects are introduced by chromatic contrasts. In this paper, relevant results from psychophysical and physiological research are described to clarify the role of color in motion detection. Interpreting these psychophysical experiments, we propose guidelines for the design of animated visualizations, and a calibration procedure that improves the reliability of visual motion representation. The guidelines are applied to examples from texture-based flow visualization, as well as graph and tree visualization.
+vis citations:
+kindlman_vis_02
+urness_vis_03
+weiskopf_vis_03

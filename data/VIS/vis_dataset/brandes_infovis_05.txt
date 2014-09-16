@@ -1,0 +1,4 @@
+title: Highlighting Conflict Dynamics in Event Data
+authors: Ulrik Brandes, Daniel Fleischer, J??rgen Lerner
+abstract: We present a method for visual summary of bilateral conflict structures embodied in event data. Such data consists of actors linked by time-stamped events, and may be extracted from various sources such as news reports and dossiers. When analyzing political events, it is of particular importance to be able to recognize conflicts and actors involved in them. By projecting actors into a conflict space, we are able to highlight the main opponents in a series of tens of thousands of events, and provide a graphic overview of the conflict structure. Moreover, our method allows for smooth animation of the dynamics of a conflict.
+vis citations:

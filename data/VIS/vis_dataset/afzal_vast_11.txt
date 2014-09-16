@@ -1,0 +1,14 @@
+title: Visual Analytics Decision Support Environment for Epidemic Modeling and Response Evaluation
+authors: Shehzad Afzal, Ross Maciejewski, David S. Ebert
+abstract: In modeling infectious diseases, scientists are studying the mechanisms by which diseases spread, predicting the future course of the outbreak, and evaluating strategies applied to control an epidemic. While recent work has focused on accurately modeling disease spread, less work has been performed in developing interactive decision support tools for analyzing the future course of the outbreak and evaluating potential disease mitigation strategies. The absence of such tools makes it difficult for researchers, analysts and public health officials to evaluate response measures within outbreak scenarios. As such, our research focuses on the development of an interactive decision support environment in which users can explore epidemic models and their impact. This environment provides a spatiotemporal view where users can interactively utilize mitigative response measures and observe the impact of their decision over time. Our system also provides users with a linked decision history visualization and navigation tool that support the simultaneous comparison of mortality and infection rates corresponding to different response measures at different points in time.
+vis citations:
+baur_infovis_10
+bruckner_vis_10
+card_vast_06
+heer_infovis_08
+kadivar_vast_09
+mackinlay_infovis_07
+matkovic_vis_10
+stolte_infovis_00
+wang_infovis_09
+waser_vis_10

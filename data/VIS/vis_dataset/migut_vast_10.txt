@@ -1,0 +1,13 @@
+title: Visual Exploration of Classification Models for Risk Assessment
+authors: Malgorzata Migut, Marcel Worring
+abstract: In risk assessment applications well informed decisions are made based on huge amounts of multi-dimensional data. In many domains not only the risk of a wrong decision, but in particular the trade-off between the costs of possible decisions are of utmost importance. In this paper we describe a framework tightly integrating interactive visual exploration with machine learning to support the decision making process. The proposed approach uses a series of interactive 2D visualizations of numeric and ordinal data combined with visualization of classification models. These series of visual elements are further linked to the classifier???s performance visualized using an interactive performance curve. An interactive decision point on the performance curve allows the decision maker to steer the classification model and instantly identify the critical, cost changing data elements, in the various linked visualizations. The critical data elements are represented as images in order to trigger associations related to the knowledge of the expert. In this context the data visualization and classification results are not only linked together, but are also linked back to the classification model. Such a visual analytics framework allows the user to interactively explore the costs of his decisions for different settings of the model and accordingly use the most suitable classification model and make more informed and reliable decisions. A case study on data from the Forensic Psychiatry domain reveals the usefulness of the suggested approach.
+vis citations:
+fuchs_vis_09
+bendix_infovis_05
+collins_infovis_07
+yu_vast_08
+elmqvist_infovis_08
+stolte_infovis_00
+ankerst_infovis_98
+tatu_vast_09
+yi_infovis_07

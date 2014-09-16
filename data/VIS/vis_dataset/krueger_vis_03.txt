@@ -1,0 +1,6 @@
+title: Acceleration Techniques for GPU-based Volume Rendering
+authors: J. Kr??ger, R. Westermann
+abstract: Nowadays, direct volume rendering via 3D textures has positioned itself as an efficient tool for the display and visual analysis of volumetric scalar fields. It is commonly accepted, that for reasonably sized data sets appropriate quality at interactive rates can be achieved by means of this technique. However, despite these benefits one important issue has received little attention throughout the ongoing discussion of texture based volume rendering: the integration of acceleration techniques to reduce per-fragment operations.In this paper, we address the integration of early ray termination and empty-space skipping into texture based volume rendering on graphical processing units (GPU). Therefore, we describe volume ray-casting on programmable graphics hardware as an alternative to object-order approaches. We exploit the early z-test to terminate fragment processing once sufficient opacity has been accumulated, and to skip empty space along the rays of sight. We demonstrate performance gains up to a factor of 3 for typical renditions of volumetric data sets on the ATI 9700 graphics card.
+vis citations:
+kniss_vis_02
+meissner_vis_99

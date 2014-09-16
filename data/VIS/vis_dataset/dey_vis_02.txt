@@ -1,0 +1,7 @@
+title: PMR: Point to Mesh Rendering, A Feature-Based Approach
+authors: Tamal K. Dey, James Hudson
+abstract: Within the field of computer graphics and visualization, it is often necessary to visualize polygonal models with large number of polygons. Display quality is mandatory, but it is also desirable to have the ability to rapidly update the display in order to facilitate interactive use. Point based rendering methods have been shown effective for this task. Building on this paradigm we introduce the PMR system which uses a hierarchy both in points and triangles for rendering. This hierarchy is fundamentally different from the ones used in existing methods. It is based on the feature geometry in the object space rather than its projection in the screen space. This provides certain advantages over the existing methods.
+vis citations:
+alexa_vis_01
+chen_vis_01
+cohen_vis_01

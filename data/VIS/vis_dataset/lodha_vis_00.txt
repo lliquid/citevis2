@@ -1,0 +1,11 @@
+title: Topology Preserving Compression of 2D Vector Fields
+authors: Suresh K. Lodha, Jose C. Renteria, Krishna M. Roskin
+abstract: We present an algorithm for compressing 2D vector fields that preserves topology. Our approach is to simplify the given data set using constrained clustering. We employ different types of global and local error metrics including the earth mover???s distance metric to measure the degradation in topology as well as weighted magnitude and angular errors. As a result, we obtain precise error bounds in the compressed vector fields. Experiments with both analytic and simulated data sets are presented. Results indicate that one can obtain significant compression with low errors without losing topology information.
+vis citations:
+bajaj_vis_98
+deleeuw_vis_99
+heckel_vis_99
+kenwrigh_vis_98
+lavin_vis_98
+scheuer2_vis_99
+telea_vis_99

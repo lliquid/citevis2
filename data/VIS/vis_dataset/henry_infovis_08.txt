@@ -1,0 +1,10 @@
+title: Improving the Readability of Clustered Social Networks using Node Duplication
+authors: Nathalie Henry, Anastasia Bezerianos, Jean-Daniel Fekete
+abstract: Exploring communities is an important task in social network analysis. Such communities are currently identified using clustering methods to group actors. This approach often leads to actors belonging to one and only one cluster, whereas in real life a person can belong to several communities. As a solution we propose duplicating actors in social networks and discuss potential impact of such a move. Several visual duplication designs are discussed and a controlled experiment comparing network visualization with and without duplication is performed, using 6 tasks that are important for graph readability and visual interpretation of social networks. We show that in our experiment, duplications significantly improve community-related tasks but sometimes interfere with other graph readability tasks. Finally, we propose a set of guidelines for deciding when to duplicate actors and choosing candidates for duplication, and alternative ways to render them in social network representations.
+vis citations:
+abello_infovis_06
+auber_infovis_03
+henry_infovis_06
+henry_infovis_07
+holten_infovis_06
+kang_vast_06

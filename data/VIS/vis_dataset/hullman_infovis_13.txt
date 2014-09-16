@@ -1,0 +1,14 @@
+title: A Deeper Understanding of Sequence in Narrative Visualization
+authors: Jessica Hullman, Steven Drucker, Nathalie Henry Riche, Bongshin Lee, Danyel Fisher, Eytan Adar
+abstract: Conveying a narrative with visualizations often requires choosing an order in which to present visualizations. While evidence exists that narrative sequencing in traditional stories can affect comprehension and memory, little is known about how sequencing choices affect narrative visualization. We consider the forms and reactions to sequencing in narrative visualization presentations to provide a deeper understanding with a focus on linear, ???slideshow-style??? presentations. We conduct a qualitative analysis of 42 professional narrative visualizations to gain empirical knowledge on the forms that structure and sequence take. Based on the results of this study we propose a graph-driven approach for automatically identifying effective sequences in a set of visualizations to be presented linearly. Our approach identifies possible transitions in a visualization set and prioritizes local (visualization-to-visualization) transitions based on an objective function that minimizes the cost of transitions from the audience perspective. We conduct two studies to validate this function. We also expand the approach with additional knowledge of user preferences for different types of local transitions and the effects of global sequencing strategies on memory, preference, and comprehension. Our results include a relative ranking of types of visualization transitions by the audience perspective and support for memory and subjective rating benefits of visualization sequences that use parallelism as a structural device. We discuss how these insights can guide the design of narrative visualization and systems that support optimization of visualization sequence.
+vis citations:
+bavoil_vis_05
+heer_infovis_07
+heer_infovis_08
+hullman2_infovis_11
+jankun_k_vis_02
+mackinlay_infovis_07
+scheidegger_vis_07
+segal_infovis_10
+stolte_infovis_00
+viegas_infovis_07

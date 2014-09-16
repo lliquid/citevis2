@@ -1,0 +1,9 @@
+title: Divided Edge Bundling for Directional Network Data
+authors: David Selassie, Brandon Heller, Jeffrey Heer
+abstract: The node-link diagram is an intuitive and venerable way to depict a graph. To reduce clutter and improve the readability of node-link views, Holten & van Wijk???s force-directed edge bundling employs a physical simulation to spatially group graph edges. While both useful and aesthetic, this technique has shortcomings: it bundles spatially proximal edges regardless of direction, weight, or graph connectivity. As a result, high-level directional edge patterns are obscured. We present divided edge bundling to tackle these shortcomings. By modifying the forces in the physical simulation, directional lanes appear as an emergent property of edge direction. By considering graph topology, we only bundle edges related by graph structure. Finally, we aggregate edge weights in bundles to enable more accurate visualization of total bundle weights. We compare visualizations created using our technique to standard force-directed edge bundling, matrix diagrams, and clustered graphs; we find that divided edge bundling leads to visualizations that are easier to interpret and reveal both familiar and previously obscured patterns.
+vis citations:
+cui_infovis_08
+ellis_infovis_07
+henry_infovis_07
+holten_infovis_06
+wong_n_infovis_03

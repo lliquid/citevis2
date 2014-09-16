@@ -1,0 +1,5 @@
+title: A Taxonomy of Visualization Techniques using the Data State Reference Model
+authors: Ed H. Chi
+abstract: In previous work, researchers have attempted to construct taxonomies of information visualization techniques by examining the data domains that are compatible with these techniques. This is useful because implementers can quickly identify various techniques that can be applied to their domain of interest. However, these taxonomies do not help the implementers understand how to apply and implement these techniques. In this paper, we will extend and then propose a new way to taxonomize information visualization techniques by using the Data State Model [Chi98]. In fact, as the taxonomic analysis in this paper will show, many of the techniques share similar operating steps that can easily be reused. The paper shows that the Data State Model not only helps researchers understand the space of design, but also helps implementers understand how information visualization techniques can be applied more broadly.
+vis citations:
+chi_infovis_98

@@ -1,0 +1,9 @@
+title: A History Mechanism for Visual Data Mining
+authors: M. Kreuseler, T. Nocke, H. Schumann
+abstract: A major challenge of current visualization and visual data mining (VDM) frameworks is to support users in the orientation in complex visual mining scenarios. An important aspect to increase user support and user orientation is to use a history mechanism that, first of all, provides un and redoing functionality. In this paper, we present a new approach to include such history functionality into a VDM framework. Therefore, we introduce the theoretical background, outline design and implementation aspects of a history management unit, and conclude with a discussion showing the usefulness of our history management in a VDM framework.
+vis citations:
+chi_infovis_98
+humphrey_vis_00
+jankun_k_infovis_03
+jankun_k_vis_02
+ma_vis_99

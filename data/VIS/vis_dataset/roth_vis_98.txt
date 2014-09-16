@@ -1,0 +1,4 @@
+title: A Higher-Order Method For Finding Vortex Core Lines
+authors: Martin Roth, Ronald Peikert
+abstract: This paper presents a novel method to extract vortical structures from 3D CFD vector fields automatically. It discusses the underlying theory and some aspects of the implementation. Making use of higher-order derivatives, the method is able to locate bent vortices. In order to structure the recognition procedure, we distinguish locating the core line from calculating attributes of strength and quality. Results are presented on several flow fields from the field of turbomachinery.
+vis citations:

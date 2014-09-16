@@ -1,0 +1,10 @@
+title: Understanding Syndromic Hotspots: A Visual Analytics Approach
+authors: Ross Maciejewski, Stephen Rudolph, Ryan Hafen, Ahmad Abusalah,
+Mohamed Yakout, Mourad Ouzzani, William S. Cleveland, Shaun J. Grannis,
+Michael Wade, David S. Ebert
+abstract: When analyzing syndromic surveillance data, health care officials look for areas with unusually high cases of syndromes. Unfortunately, many outbreaks are difficult to detect because their signal is obscured by the statistical noise. Consequently, many detection algorithms have a high false positive rate. While many false alerts can be easily filtered by trained epidemiologists, others require health officials to drill down into the data, analyzing specific segments of the population and historical trends over time and space. Furthermore, the ability to accurately recognize meaningful patterns in the data becomes more challenging as these data sources increase in volume and complexity. To facilitate more accurate and efficient event detection, we have created a visual analytics tool that provides analysts with linked geo-spatiotemporal and statistical analytic views. We model syndromic hotspots by applying a kernel density estimation on the population sample. When an analyst selects a syndromic hotspot, temporal statistical graphs of the hotspot are created. Similarly, regions in the statistical plots may be selected to generate geospatial features specific to the current time period. Demographic filtering can then be combined to determine if certain populations are more affected than others. These tools allow analysts to perform real-time hypothesis testing and evaluation.
+vis citations:
+edsall_infovis_01
+maceache_infovis_98
+maciejewski_vast_07
+pan_vast_07

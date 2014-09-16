@@ -1,0 +1,4 @@
+title: Research Report: Visualizing Decision Table Classifiers
+authors: Barry G. Becker
+abstract: Decision tables[1], like decision trees[2] or neural nets[3], are classification models used for prediction. They are induced by machine learning algorithms. A decision table consists of a hierarchical table in which each entry in a higher level table gets broken down by the values of a pair of additional attributes to form another table. The structure is similar to dimensional stacking [4]. Presented here is a visualization method that allows a model based on many attributes to be understood even by those unfamiliar with machine learning. Various forms of interaction are used to make this visualization more useful than other static designs.
+vis citations:

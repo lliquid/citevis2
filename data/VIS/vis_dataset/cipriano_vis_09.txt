@@ -1,0 +1,7 @@
+title: Multi-Scale Surface Descriptors
+authors: Gregory Cipriano, George N. Phillips Jr., Michael Gleicher
+abstract: Local shape descriptors compactly characterize regions of a surface, and have been applied to tasks in visualization, shape matching, and analysis. Classically, curvature has be used as a shape descriptor; however, this differential property characterizes only an infinitesimal neighborhood. In this paper, we provide shape descriptors for surface meshes designed to be multi-scale, that is, capable of characterizing regions of varying size. These descriptors capture statistically the shape of a neighborhood around a central point by fitting a quadratic surface. They therefore mimic differential curvature, are efficient to compute, and encode anisotropy. We show how simple variants of mesh operations can be used to compute the descriptors without resorting to expensive parameterizations, and additionally provide a statistical approximation for reduced computational cost. We show how these descriptors apply to a number of uses in visualization, analysis, and matching of surfaces, particularly to tasks in protein surface analysis.
+vis citations:
+gumhold_vis_02
+kindlman_vis_03
+sheffer_vis_02

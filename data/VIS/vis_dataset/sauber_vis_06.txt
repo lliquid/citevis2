@@ -1,0 +1,9 @@
+title: Multifield-Graphs: An Approach to Visualizing Correlations in Multifield Scalar Data
+authors: Natascha Sauber, Holger Theisel, Hans-Peter Seidel
+abstract: We present an approach to visualizing correlations in 3D multifield scalar data. The core of our approach is the computation of correlation fields, which are scalar fields containing the local correlations of subsets of the multiple fields. While the visualization of the correlation fields can be done using standard 3D volume visualization techniques, their huge number makes selection and handling a challenge. We introduce the Multifield-Graph to give an overview of which multiple fields correlate and to show the strength of their correlation. This information guides the selection of informative correlation fields for visualization. We use our approach to visually analyze a number of real and synthetic multifield datasets.
+vis citations:
+edelsbru_vis_04
+jen_vis_04
+kirby_vis_99
+telea_vis_99
+urness_vis_03

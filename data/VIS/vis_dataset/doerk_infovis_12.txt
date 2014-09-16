@@ -1,0 +1,12 @@
+title: PivotPaths: Strolling through Faceted Information Spaces
+authors: Marian D??rk, Nathalie Henry Riche, Gonzalo Ramos, Susan Dumais
+abstract: We present PivotPaths, an interactive visualization for exploring faceted information resources. During both work and leisure, we increasingly interact with information spaces that contain multiple facets and relations, such as authors, keywords, and citations of academic publications, or actors and genres of movies. To navigate these interlinked resources today, one typically selects items from facet lists resulting in abrupt changes from one subset of data to another. While filtering is useful to retrieve results matching specific criteria, it can be difficult to see how facets and items relate and to comprehend the effect of filter operations. In contrast, the PivotPaths interface exposes faceted relations as visual paths in arrangements that invite the viewer to ???take a stroll??? through an information space. PivotPaths supports pivot operations as lightweight interaction techniques that trigger gradual transitions between views. We designed the interface to allow for casual traversal of large collections in an aesthetically pleasing manner that encourages exploration and serendipitous discoveries. This paper shares the findings from our iterative design-and-evaluation process that included semi-structured interviews and a two-week deployment of PivotPaths applied to a large database of academic publications.
+vis citations:
+cao_infovis_10
+collins_vast_09
+doerk_infovis_08
+heer_infovis_07
+kang_vast_06
+stasko_vast_07
+vanham1_infovis_09
+weaver_vast_08

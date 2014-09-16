@@ -1,0 +1,8 @@
+title: Hierarchical Clustering for Unstructured Volumetric Scalar Fields
+authors: Christopher S. Co, Bjoern Heckel, Hans Hagen, Bernd Hamann, Kenneth I. Joy
+abstract: We present a method to represent unstructured scalar fields at multiple levels of detail. Using a parallelizable classification algorithm to build a cluster hierarchy, we generate a multiresolution representation of a given volumetric scalar data set. The method uses principal component analysis (PCA) for cluster generation and a fitting technique based on radial basis functions (RBFs). Once the cluster hierarchy has been generated, we utilize a variety of techniques for extracting different levels of detail. The main strength of this work is its generality. Regardless of grid type, this method can be applied to any discrete scalar field representation, even one given as a ???point cloud.???
+vis citations:
+heckel_vis_99
+pauly_vis_02
+shaffer_vis_01
+staadt_vis_98

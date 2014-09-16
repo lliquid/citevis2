@@ -1,0 +1,12 @@
+title: Whisper: Tracing the Spatiotemporal Process of Information Diffusion in Real Time
+authors: Nan Cao, Yu-Ru Lin, Xiaohua Sun, David Lazer, Shixia Liu, Huamin Qu
+abstract: When and where is an idea dispersed? Social media, like Twitter, has been increasingly used for exchanging information, opinions and emotions about events that are happening across the world. Here we propose a novel visualization design, ???Whisper???, for tracing the process of information diffusion in social media in real time. Our design highlights three major characteristics of diffusion processes in social media: the temporal trend, social-spatial extent, and community response of a topic of interest. Such social, spatiotemporal processes are conveyed based on a sunflower metaphor whose seeds are often dispersed far away. In Whisper, we summarize the collective responses of communities on a given topic based on how tweets were retweeted by groups of users, through representing the sentiments extracted from the tweets, and tracing the pathways of retweets on a spatial hierarchical layout. We use an efficient flux line-drawing algorithm to trace multiple pathways so the temporal and spatial patterns can be identified even for a bursty event. A focused diffusion series highlights key roles such as opinion leaders in the diffusion process. We demonstrate how our design facilitates the understanding of when and where a piece of information is dispersed and what are the social responses of the crowd, for large-scale events including political campaigns and natural disasters. Initial feedback from domain experts suggests promising use for today???s information consumption and dispersion in the wild.
+vis citations:
+cao_infovis_11
+doerk_infovis_10
+dorling_infovis_06
+ellis_infovis_07
+havre_infovis_00
+holten_infovis_06
+robertso_infovis_08
+viegas_infovis_09

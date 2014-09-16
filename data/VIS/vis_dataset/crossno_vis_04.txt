@@ -1,0 +1,8 @@
+title: Visualization of Salt-Induced Stress Perturbations
+authors: Patricia Crossno, David H. Rogers, Rebecca M. Brannon, David Coblentz
+abstract: An important challenge encountered during post-processing of finite element analyses is the visualizing of three-dimensional fields of real-valued second-order tensors. Namely, as finite element meshes become more complex and detailed, evaluation and presentation of the principal stresses becomes correspondingly problematic.In this paper, we describe techniques used to visualize simulations of perturbed in-situ stress fields associated with hypothetical salt bodies in the Gulf of Mexico. We present an adaptation of the Mohr diagram, a graphical paper and pencil method used by the material mechanics community for estimating coordinate transformations for stress tensors, as a new tensor glyph for dynamically exploring tensor variables within threedimensional finite element models. This interactive glyph can be used as either a probe or a filter through brushing and linking.
+vis citations:
+kirby_vis_99
+laidlaw_vis_98
+sigfrids_vis_02
+weinstei_vis_99

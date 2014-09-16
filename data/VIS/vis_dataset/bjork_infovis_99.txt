@@ -1,0 +1,5 @@
+title: A Framework For Focus+Context Visualization
+authors: Staffan Bj??rk, Lars Erik Holmquist, Johan Redstr??m
+abstract: Focus+context visualization techniques aim to give users integrated visual access to both details and overview of a data set. This paper gives a systematic account of such visualization techniques. We introduce the notion that there are different orders of information visualization, with focus+context being a second-order visualization, and illustrate this with examples. We then provide a formal framework for describing and constructing focus+context visualization and relate this to the examples. A description of a software framework based on the principles of the theoretical framework follows, and we give some examples of how different focus+context visualization applications have been constructed using this framework. Finally, we discuss the implications of the formal framework and outline some future work in this area.
+vis citations:
+keahey_infovis_98

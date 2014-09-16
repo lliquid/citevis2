@@ -1,0 +1,6 @@
+title: An Evaluation of Content Browsing Techniques for Hierarchical Space Filling Visualizations
+authors: Kang Shi, Pourang Irani, Ben Li
+abstract: Space-filling visualizations, such as the TreeMap, are well-suited for displaying the properties of nodes in hierarchies. To browse the contents of the hierarchy, the primary mode of interaction is by drilling-down through many successive layers. In this paper we introduce a distortion algorithm based on fisheye and continuous zooming techniques for browsing data in the TreeMap representation. The motivation behind the distortion approach is for assisting users to rapidly browse information displayed in the TreeMap without opening successive layers of the hierarchy. Two experiments were conducted to evaluate the new approach. In the first experiment (N=20) the distortion approach is compared to the drill-down method. Results show that subjects are quicker and more accurate in locating targets of interest using the distortion method. The second experiment (N=12) evaluates the effectiveness of the two approaches in a task requiring context, we define as the context browsing task. The results show that subjects are quicker and more accurate in locating targets with the distortion technique in the context browsing task.
+vis citations:
+mcguffin_infovis_04
+stasko_infovis_00

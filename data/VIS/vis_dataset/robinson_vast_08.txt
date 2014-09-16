@@ -1,0 +1,7 @@
+title: Collaborative Synthesis of Visual Analytic Results
+authors: Anthony C. Robinson
+abstract: Visual analytic tools allow analysts to generate large collections of useful analytical results. We anticipate that analysts in most real world situations will draw from these collections when working together to solve complicated problems. This indicates a need to understand how users synthesize multiple collections of results. This paper reports the results of collaborative synthesis experiments conducted with expert geographers and disease biologists. Ten participants were worked in pairs to complete a simulated real-world synthesis task using artifacts printed on cards on a large, paper-covered workspace. Experiment results indicate that groups use a number of different approaches to collaborative synthesis, and that they employ a variety of organizational metaphors to structure their information. It is further evident that establishing common ground and role assignment are critical aspects of collaborative synthesis. We conclude with a set of general design guidelines for collaborative synthesis support tools.
+vis citations:
+heer_vast_07
+isenberg_infovis_07
+mackinlay_infovis_07

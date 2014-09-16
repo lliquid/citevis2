@@ -1,0 +1,13 @@
+title: Parallel Edge Splatting for Scalable Dynamic Graph Visualization
+authors: Michael Burch, Corinna Vehlow, Fabian Beck, Stephan Diehl, Daniel Weiskopf
+abstract: We present a novel dynamic graph visualization technique based on node-link diagrams. The graphs are drawn side-byside from left to right as a sequence of narrow stripes that are placed perpendicular to the horizontal time line. The hierarchically organized vertices of the graphs are arranged on vertical, parallel lines that bound the stripes; directed edges connect these vertices from left to right. To address massive overplotting of edges in huge graphs, we employ a splatting approach that transforms the edges to a pixel-based scalar field. This field represents the edge densities in a scalable way and is depicted by non-linear color mapping. The visualization method is complemented by interaction techniques that support data exploration by aggregation, filtering, brushing, and selective data zooming. Furthermore, we formalize graph patterns so that they can be interactively highlighted on demand. A case study on software releases explores the evolution of call graphs extracted from the JUnit open source software project. In a second application, we demonstrate the scalability of our approach by applying it to a bibliography dataset containing more than 1.5 million paper titles from 60 years of research history producing a vast amount of relations between title words.
+vis citations:
+artero_infovis_04
+blaas_vis_08
+brandes_infovis_02
+feng_infovis_10
+heinrich_vis_09
+holten_infovis_06
+johansso_infovis_05
+ogawa_infovis_09
+wong_infovis_99

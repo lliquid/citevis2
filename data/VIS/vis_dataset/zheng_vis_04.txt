@@ -1,0 +1,10 @@
+title: Topological Lines in 3D Tensor Fields
+authors: Xiaoqiang Zheng, Alex Pang
+abstract: Visualization of 3D tensor fields continues to be a major challenge in terms of providing intuitive and uncluttered images that allow the users to better understand their data. The primary focus of this paper is on finding a formulation that lends itself to a stable numerical algorithm for extracting stable and persistent topological features from 2nd order real symmetric 3D tensors. While features in 2D tensors can be identified as either wedge or trisector points, in 3D, the corresponding stable features are lines, not just points. These topological feature lines provide a compact representation of the 3D tensor field and are essential in helping scientists and engineers understand their complex nature. Existing techniques work by finding degenerate points and are not numerically stable, and worse, produce both false positive and false negative feature points. This paper seeks to address this problem with a robust algorithm that can extract these features in a numerically stable, accurate, and complete manner.
+vis citations:
+boring_vis_98
+kindlman_vis_99
+kirby_vis_99
+laidlaw_vis_98
+weinstei_vis_99
+zheng_vis_02

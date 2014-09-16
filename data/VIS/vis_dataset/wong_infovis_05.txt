@@ -1,0 +1,4 @@
+title: Dynamic Visualization of Graphs with Extended Labels
+authors: Pak Chung Wong, Patrick Mackey, Ken Perrine, James Eagan, Harlan Foote, Jim Thomas
+abstract: The paper describes a novel technique to visualize graphs with extended node and link labels. The lengths of these labels range from a short phrase to a full sentence to an entire paragraph and beyond. Our solution is different from all the existing approaches that almost always rely on intensive computational effort to optimize the label placement problem. Instead, we share the visualization resources with the graph and present the label information in static, interactive, and dynamic modes without the requirement for tackling the intractability issues. This allows us to reallocate the computational resources for dynamic presentation of real-time information. The paper includes a user study to evaluate the effectiveness and efficiency of the visualization technique.
+vis citations:

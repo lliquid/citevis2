@@ -1,0 +1,5 @@
+title: Show Me: Automatic Presentation for Visual Analysis
+authors: Jock D. Mackinlay, Pat Hanrahan, Chris Stolte
+abstract: This paper describes Show Me, an integrated set of user interface commands and defaults that incorporate automatic presentation into a commercial visual analysis system called Tableau. A key aspect of Tableau is VizQL, a language for specifying views, which is used by Show Me to extend automatic presentation to the generation of tables of views (commonly called small multiple displays). A key research issue for the commercial application of automatic presentation is the user experience, which must support the flow of visual analysis. User experience has not been the focus of previous research on automatic presentation. The Show Me user experience includes the automatic selection of mark types, a command to add a single field to a view, and a pair of commands to build views for multiple fields. Although the use of these defaults and commands is optional, user interface logs indicate that Show Me is used by commercial users.
+vis citations:
+stolte_infovis_00

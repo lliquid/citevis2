@@ -1,0 +1,6 @@
+title: Space Transformation for Understanding Group Movement
+authors: Natalia Andrienko, Gennady Andrienko, Louise Barrett, Marcus Dostie, Peter Henzi
+abstract: We suggest a methodology for analyzing movement behaviors of individuals moving in a group. Group movement is analyzed at two levels of granularity: the group as a whole and the individuals it comprises. For analyzing the relative positions and movements of the individuals with respect to the rest of the group, we apply space transformation, in which the trajectories of the individuals are converted from geographical space to an abstract ???group space???. The group space reference system is defined by both the position of the group center, which is taken as the coordinate origin, and the direction of the group's movement. Based on the individuals??? positions mapped onto the group space, we can compare the behaviors of different individuals, determine their roles and/or ranks within the groups, and, possibly, understand how group movement is organized. The utility of the methodology has been evaluated by applying it to a set of real data concerning movements of wild social animals and discussing the results with experts in animal ethology.
+vis citations:
+wilkinso_infovis_05
+kapler_infovis_04

@@ -1,0 +1,14 @@
+title: Visual Analysis of Route Diversity
+authors: He Liu, Yuan Gao, Lu Lu, Siyuan Liu, Huamin Qu, Lionel M. Ni
+abstract: Route suggestion is an important feature of GPS navigation systems. Recently, Microsoft T-drive has been enabled to suggest routes chosen by experienced taxi drivers for given source/destination pairs in given time periods, which often take less time than the routes calculated according to distance. However, in real environments, taxi drivers may use different routes to reach the same destination, which we call route diversity. In this paper we first propose a trajectory visualization method that examines the regions where the diversity exists and then develop several novel visualization techniques to display the high dimensional attributes and statistics associated with different routes to help users analyze diversity patterns. Our techniques have been applied to the real trajectory data of thousands of taxis and some interesting findings about route diversity have been obtained. We further demonstrate that our system can be used not only to suggest better routes for drivers but also to analyze traffic bottlenecks for transportation management.
+vis citations:
+andrienk_vast_08
+butkiewi_infovis_08
+chang_infovis_07
+crnovrsa_vast_09
+dorling_infovis_06
+fisher_infovis_07
+hurter_infovis_09
+kapler_infovis_04
+speckman_infovis_10
+wood_infovis_07

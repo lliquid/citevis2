@@ -1,0 +1,4 @@
+title: Normal Bounds for Subdivision-Surface Interference Detection
+authors: Eitan Grinspun, Peter Schr??oder
+abstract: Subdivision surfaces are an attractive representation when modeling arbitrary topology free-form surfaces and show great promise for applications in engineering design [5, 6] and computer animation [10]. Interference detection is a critical tool in many of these applications. In this paper we derive normal bounds for subdivision surfaces and use these to develop an efficient algorithm for (self-) interference detection.
+vis citations:

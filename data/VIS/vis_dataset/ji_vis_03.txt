@@ -1,0 +1,8 @@
+title: Volume Tracking Using Higher Dimensional Isosurfacing
+authors: Guangfeng Ji, Han-Wei Shen, Rephael Wenger
+abstract: Tracking and visualizing local features from a time-varying volumetric data allows the user to focus on selected regions of interest, both in space and time, which can lead to a better understanding of the underlying dynamics. In this paper, we present an efficient algorithm to track time-varying isosurfaces and interval volumes using isosurfacing in higher dimensions. Instead of extracting the data features such as isosurfaces or interval volumes separately from multiple time steps and computing the spatial correspondence between those features, our algorithm extracts the correspondence directly from the higher dimensional geometry and thus can more efficiently follow the user selected local features in time. In addition, by analyzing the resulting higher dimensional geometry, it becomes easier to detect important topological events and the corresponding critical time steps for the selected features. With our algorithm, the user can interact with the underlying time-varying data more easily. The computation cost for performing time-varying volume tracking is also minimized.
+vis citations:
+bhaniram_vis_00
+gerstner_vis_00
+pascucci_vis_02
+silver_vis_98

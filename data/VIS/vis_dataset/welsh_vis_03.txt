@@ -1,0 +1,11 @@
+title: A Frequency-Sensitive Point Hierarchy for Images and Volumes
+authors: Tomihisa Welsh, Klaus Mueller
+abstract: This paper introduces a method for converting an image or volume sampled on a regular grid into a space-efficient irregular point hierarchy. The conversion process retains the original frequency characteristics of the dataset by matching the spatial distribution of sample points with the required frequency. To achieve good blending, the spherical points commonly used in volume rendering are generalized to ellipsoidal point primitives. A family of multiresolution, oriented Gabor wavelets provide the frequency-space analysis of the dataset. The outcome of this frequency analysis is the reduced set of points, in which the sampling rate is decreased in originally oversampled areas. During rendering, the traversal of the hierarchy can be controlled by any suitable error metric or quality criteria. The local level of refinement is also sensitive to the transfer function. Areas with density ranges mapped to high transfer function variability are rendered at higher point resolution than others. Our decomposition is flexible and can be used for iso-surface rendering, alpha compositing and X-ray rendering of volumes. We demonstrate our hierarchy with an interactive splatting volume renderer, in which the traversal of the point hierarchy for rendering is modulated by a user-specified frame rate.
+vis citations:
+fraedric_vis_10
+chen_vis_01
+cohen_vis_01
+dey_vis_02
+guthe_vis_02
+mora_vis_02
+theussl_vis_01

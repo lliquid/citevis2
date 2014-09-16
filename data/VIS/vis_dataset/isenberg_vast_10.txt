@@ -1,0 +1,10 @@
+title: An Exploratory Study of Co-located Collaborative Visual Analytics Around a Tabletop Display
+authors: Petra Isenberg, Danyel Fisher, Meredith Ringel Morris, Kori Inkpen, Mary Czerwinski
+abstract: Co-located collaboration can be extremely valuable during complex visual analytics tasks. This paper presents an exploratory study of a system designed to support collaborative visual analysis tasks on a digital tabletop display. Fifteen participant pairs employed Cambiera, a visual analytics system, to solve a problem involving 240 digital documents. Our analysis, supported by observations, system logs, questionnaires, and interview data, explores how pairs approached the problem around the table. We contribute a unique, rich understanding of how users worked together around the table and identify eight types of collaboration styles that can be used to identify how closely people work together while problem solving. We show how the closeness of teams??? collaboration influenced how well they performed on the task overall. We further discuss the role of the tabletop for visual analytics tasks and derive novel design implications for future co-located collaborative tabletop problem solving systems.
+vis citations:
+brennan_vast_06
+isenberg_infovis_07
+keel_vast_06
+robinson_vast_08
+stasko_vast_07
+viegas_infovis_07

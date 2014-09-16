@@ -1,0 +1,7 @@
+title: Analyzing Vortex Breakdown Flow Structures by Assignment of Colors to Tensor Invariants
+authors: Markus R??tten, Min S. Chong
+abstract: Topological methods are often used to describe flow structures in fluid dynamics and topological flow field analysis usually relies on the invariants of the associated tensor fields. A visual impression of the local properties of tensor fields is often complex and the search of a suitable technique for achieving this is an ongoing topic in visualization. This paper introduces and assesses a method of representing the topological properties of tensor fields and their respective flow patterns with the use of colors. First, a tensor norm is introduced, which preserves the properties of the tensor and assigns the tensor invariants to values of the RGB color space. Secondly, the RGB colors of the tensor invariants are transferred to corresponding hue values as an alternative color representation. The vectorial tensor invariants field is reduced to a scalar hue field and visualization of iso-surfaces of this hue value field allows us to identify locations with equivalent flow topology. Additionally highlighting by the maximum of the eigenvalue difference field reflects the magnitude of the structural change of the flow. The method is applied on a vortex breakdown flow structure inside a cylinder with a rotating lid.
+vis citations:
+hotz_vis_04
+theisel_vis_04
+tricoche_vis_04

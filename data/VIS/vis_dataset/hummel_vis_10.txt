@@ -1,0 +1,12 @@
+title: IRIS: Illustrative Rendering of Integral Surfaces
+authors: Mathias Hummel, Christoph Garth, Bernd Hamann, Hans Hagen, Kenneth I. Joy
+abstract: Integral surfaces are ideal tools to illustrate vector fields and fluid flow structures. However, these surfaces can be visually complex and exhibit difficult geometric properties, owing to strong stretching, shearing and folding of the flow from which they are derived. Many techniques for non-photorealistic rendering have been presented previously. It is, however, unclear how these techniques can be applied to integral surfaces. In this paper, we examine how transparency and texturing techniques can be used with integral surfaces to convey both shape and directional information. We present a rendering pipeline that combines these techniques aimed at faithfully and accurately representing integral surfaces while improving visualization insight. The presented pipeline is implemented directly on the GPU, providing real-time interaction for all rendering modes, and does not require expensive preprocessing of integral surfaces after computation.
+vis citations:
+burger_vis_09
+ebert_vis_00
+garth_vis_08
+kindlman_vis_03
+krishnan_vis_09
+krueger_vis_06
+scheuermann_vis_01
+vonfunck_vis_08

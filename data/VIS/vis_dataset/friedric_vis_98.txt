@@ -1,0 +1,4 @@
+title: Interpolation of Triangle Hierarchies
+authors: Axel Friedrich, Konrad Polthier, Markus Schmies
+abstract: We consider interpolation between keyframe hierarchies. We impose a set of weak constraints that allows smooth interpolation between two keyframe hierarchies in an animation or, more generally, allows the interpolation in an n parameter family of hierarchies. We use hierarchical triangulations obtained by the Rivara element bisection algorithm and impose a weak compatibility constraint on the set of root elements of all keyframe hierarchies. We show that the introduced constraints are rather weak.
+vis citations:

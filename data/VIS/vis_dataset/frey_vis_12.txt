@@ -1,0 +1,16 @@
+title: Visualization of Temporal Similarity in Field Data
+authors: Steffen Frey, Filip Sadlo, Thomas Ertl
+abstract: This paper presents a visualization approach for detecting and exploring similarity in the temporal variation of field data. We provide an interactive technique for extracting correlations from similarity matrices which capture temporal similarity of univariate functions. We make use of the concept to extract periodic and quasiperiodic behavior at single (spatial) points as well as similarity between different locations within a field and also between different data sets. The obtained correlations are utilized for visual exploration of both temporal and spatial relationships in terms of temporal similarity. Our entire pipeline offers visual interaction and inspection, allowing for the flexibility that in particular time-dependent data analysis techniques require. We demonstrate the utility and versatility of our approach by applying our implementation to data from both simulation and measurement.
+vis citations:
+fuchs_vis_09
+gerber_vis_10
+janicke_vis_09
+kehrer_vis_08
+lee_vis_09
+pham_infovis_10
+reininghaus_vis_11
+sadlo_vis_06
+sanderson_vis_10
+sauber_vis_06
+wangchao_vis_08
+waser_vis_10

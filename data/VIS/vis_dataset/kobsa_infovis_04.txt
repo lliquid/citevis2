@@ -1,0 +1,10 @@
+title: User Experiments with Tree Visualization Systems
+authors: Alfred Kobsa
+abstract: This paper describes a comparative experiment with five wellknown tree visualization systems, and Windows Explorer as a baseline system. Subjects performed tasks relating to the structure of a directory hierarchy, and to attributes of files and directories. Task completion times, correctness and user satisfaction were measured, and video recordings of subjects??? interaction with the systems were made. Significant system and task type effects and an interaction between system and task type were found. Qualitative analyses of the video recordings were thereupon conducted to determine reasons for the observed differences, resulting in several findings and design recommendations as well as implications for future experiments with tree visualization systems.
+vis citations:
+barlow01_infovis_01
+vandewetering_infovis_01
+kobsa_infovis_01
+plaisant_infovis_02
+van_ham_infovis_02
+vanwijk1_infovis_99

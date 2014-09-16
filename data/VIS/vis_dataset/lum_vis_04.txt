@@ -1,0 +1,7 @@
+title: Lighting Transfer Functions Using Gradient Aligned Sampling
+authors: Eric B. Lum, Kwan-Liu Ma
+abstract: An important task in volume rendering is the visualization of boundaries between materials. This is typically accomplished using transfer functions that increase opacity based on a voxel???s value and gradient. Lighting also plays a crucial role in illustrating surfaces. In this paper we present a multi-dimensional transfer function method for enhancing surfaces, not through the variation of opacity, but through the modification of surface shading. The technique uses a lighting transfer function that takes into account the distribution of values along a material boundary and features a novel interface for visualizing and specifying these transfer functions. With our method, the user is given a means of visualizing boundaries without modifying opacity, allowing opacity to be used for illustrating the thickness of homogeneous materials through the absorption of light.
+vis citations:
+hauser_vis_00
+kindlman_vis_99
+kniss_vis_01

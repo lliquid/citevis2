@@ -1,0 +1,7 @@
+title: Volume Clipping via Per-Fragment Operations in Texture-Based Volume Visualization
+authors: Daniel Weiskopf, Klaus Engel, Thomas Ertl
+abstract: We propose new clipping methods that are capable of using complex geometries for volume clipping. The clipping tests exploit per-fragment operations on the graphics hardware to achieve high frame rates. In combination with texture-based volume rendering, these techniques enable the user to interactively select and explore regions of the data set. We present depth-based clipping techniques that analyze the depth structure of the boundary representation of the clip geometry to decide which parts of the volume have to be clipped. In another approach, a voxelized clip object is used to identify the clipped regions.
+vis citations:
+frohlich_vis_99
+kniss_vis_01
+rezk_vis_99

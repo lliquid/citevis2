@@ -1,0 +1,15 @@
+title: Visualizing Large-Scale Uncertainty in Astrophysical Data
+authors: Hongwei Li, Chi-Wing Fu, Yinggang Li, Andrew J. Hanson
+abstract: Visualization of uncertainty or error in astrophysical data is seldom available in simulations of astronomical phenomena, and yet almost all rendered attributes possess some degree of uncertainty due to observational error. Uncertainties associated with spatial location typically vary significantly with scale and thus introduce further complexity in the interpretation of a given visualization. This paper introduces effective techniques for visualizing uncertainty in large-scale virtual astrophysical environments. Building upon our previous transparently scalable visualization architecture, we develop tools that enhance the perception and comprehension of uncertainty across wide scale ranges. Our methods include a unified color-coding scheme for representing log-scale distances and percentage errors, an ellipsoid model to represent positional uncertainty, an ellipsoid envelope model to expose trajectory uncertainty, and a magic-glass design supporting the selection of ranges of log-scale distance and uncertainty parameters, as well as an overview mode and a scalable WIM tool for exposing the magnitudes of spatial context and uncertainty.
+vis citations:
+botchen_vis_05
+cedilnik_vis_00
+grigorya_vis_02
+hopf_vis_03
+kniss_vis_05
+liyingga_vis_06
+magnor_vis_05
+magnor_vis_04
+millerja_vis_06
+olston_infovis_02
+sanderso_vis_04

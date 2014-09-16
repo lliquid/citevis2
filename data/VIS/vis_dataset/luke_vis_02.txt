@@ -1,0 +1,7 @@
+title: Semotus Visum: A Flexible Remote Visualization Framework
+authors: Eric J. Luke, Charles D. Hansen
+abstract: By offering more detail and precision, large data sets can provide greater insights to researchers than small data sets. However, these data sets require greater computing resources to view and manage. Remote visualization techniques allow the use of computers that cannot be operated locally. The Semotus Visum framework applies a high-performance client-server paradigm to the problem. The framework utilizes both client and server resources via multiple rendering methods. Experimental results show the framework delivers high framerates and low latency across a wide range of data sets.
+vis citations:
+engel_vis_99
+livnat_vis_98
+luke_vis_02

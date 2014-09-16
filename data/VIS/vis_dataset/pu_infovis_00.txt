@@ -1,0 +1,5 @@
+title: Interactive Problem Solving Via Algorithm Visualization
+authors: Pearl Pu, Denis Lalanne
+abstract: COMIND is a tool for conceptual design of industrial products. It helps designers define and evaluate the initial design space by using search algorithms to generate sets of feasible solutions. Two algorithm visualization techniques, Kaleidoscope and Lattice, and one visualization of n-dimensional data, MAP, are used to externalize the machine???s problem solving strategies and the tradeoffs as a result of using these strategies. After a short training period, users are able to discover tactics to explore design space effectively, evaluate new design solutions, and learn important relationships among design criteria, search speed, and solution quality. We thus propose that visualization can serve as a tool forinteractive intelligence, i.e., human-machine collaboration for solving complex problems.
+vis citations:
+chuah_infovis_98

@@ -1,0 +1,11 @@
+title: A Framework for Sample-Based Rendering with O-Buffers
+authors: Huamin Qu, Arie Kaufman, Ran Shao, Ankush Kumar
+abstract: We present an innovative modeling and rendering primitive, called the O-buffer, for sample-based graphics, such as images, volumes, and points. The 2D or 3D O-buffer is in essence a conventional image or a volume, respectively, except that samples are not restricted to a regular grid. A sample position in the O-buffer is recorded as an offset to the nearest grid point of a regular base grid (hence the name O-buffer). The offset is typically quantized for compact representation and efficient rendering.The O-buffer emancipates pixels and voxels from the regular grids and can greatly improve the modeling power of images and volumes. It is a semi-regular structure which lends itself to efficient construction and rendering. Image quality can be improved by storing more spatial information with samples and by avoiding multiple resamplings and delaying reconstruction to the final rendering stage. Using O-buffers, more accurate multi-resolution representations can be developed for images and volumes. It can also be exploited to represent and render unstructured primitives, such as points, particles, curvilinear or irregular volumes. The O-buffer is therefore a uniform representation for a variety of graphics primitives and supports mixing them in the same scene. We demonstrate the effectiveness of the O-buffer with hierarchical O-buffers, layered depth O-buffers, and hybrid volume rendering with O-buffers.
+vis citations:
+chen_vis_01
+cignoni_vis_00
+cohen_vis_01
+garland_vis_98
+hoppe_vis_99
+ahn_vis_06
+qu_vis_00

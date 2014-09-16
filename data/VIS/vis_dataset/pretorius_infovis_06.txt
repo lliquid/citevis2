@@ -1,0 +1,7 @@
+title: Visual Analysis of Multivariate State Transition Graphs
+authors: A. Johannes Pretorius, Jarke J. van Wijk
+abstract: We present a new approach for the visual analysis of state transition graphs. We deal with multivariate graphs where a number of attributes are associated with every node. Our method provides an interactive attribute-based clustering facility. Clustering results in metric, hierarchical and relational data, represented in a single visualization. To visualize hierarchically structured quantitative data, we introduce a novel technique: the bar tree. We combine this with a node-link diagram to visualize the hierarchy and an arc diagram to visualize relational data. Our method enables the user to gain significant insight into large state transition graphs containing tens of thousands of nodes. We illustrate the effectiveness of our approach by applying it to a real-world use case. The graph we consider models the behavior of an industrial wafer stepper and contains 55 043 nodes and 289 443 edges.
+vis citations:
+kerr_infovis_03
+van_ham_infovis_02
+wattenbe_infovis_02

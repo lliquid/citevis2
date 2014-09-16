@@ -1,0 +1,6 @@
+title: Semi-Regular Mesh Extraction from Volumes
+authors: Zoe J. Wood, Mathieu Desbrun, Peter Schr??der, David Breen
+abstract: We present a novel method to extract iso-surfaces from distance volumes. It generates high quality semi-regular multiresolution meshes of arbitrary topology. Our technique proceeds in two stages. First, a very coarse mesh with guaranteed topology is extracted. Subsequently an iterative multi-scale force-based solver refines the initial mesh into a semi-regular mesh with geometrically adaptive sampling rate and good aspect ratio triangles. The coarse mesh extraction is performed using a new approach we call surface wavefrontpropagation. A set of discrete iso-distance ribbons are rapidly built and connected while respecting the topology of the iso-surface implied by the data. Subsequent multi-scale refinement is driven by a simple force-based solver designed to combine good iso-surface fit and high quality sampling through reparameterization. In contrast to the Marching Cubes technique our output meshes adapt gracefully to the iso-surface geometry, have a natural multiresolution structure and good aspect ratio triangles, as demonstrated with a number of examples.
+vis citations:
+gerstner_vis_00
+wood_vis_00

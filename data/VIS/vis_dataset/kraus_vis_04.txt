@@ -1,0 +1,8 @@
+title: Projecting Tetrahedra without Rendering Artifacts
+authors: Martin Kraus, Wei Qiao, David S. Ebert
+abstract: Hardware-accelerated direct volume rendering of unstructured volumetric meshes is often based on tetrahedral cell projection, in particular, the Projected Tetrahedra (PT) algorithm and its variants. Unfortunately, even implementations of the most advanced variants of the PT algorithm are very prone to rendering artifacts.In this work, we identify linear interpolation in screen coordinates as a cause for significant rendering artifacts and implement the correct perspective interpolation for the PT algorithm with programmable graphics hardware. We also demonstrate how to use features of modern graphics hardware to improve the accuracy of the coloring of individual tetrahedra and the compositing of the resulting colors, in particular, by employing a logarithmic scale for the pre-integrated color lookup table, using textures with high color resolution, rendering to floating-point color buffers, and alpha dithering. Combined with a correct visibility ordering, these techniques result in the first implementation of the PT algorithm without objectionable rendering artifacts. Apart from the important improvement in rendering quality, our approach also provides a test bed for different implementations of the PT algorithm that allows us to study the particular rendering artifacts introduced by these variants.
+vis citations:
+krueger_vis_03
+kraus_vis_01
+roettger_vis_00
+weiler_vis_03

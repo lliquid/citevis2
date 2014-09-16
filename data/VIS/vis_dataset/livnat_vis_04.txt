@@ -1,0 +1,8 @@
+title: Interactive Point-Based Isosurface Extraction
+authors: Yarden Livnat, Xavier Tricoche
+abstract: We propose a novel point-based approach to view dependent isosurface extraction. We introduce a fast visibility query system for the view dependent traversal, which exhibits moderate memory requirements. This technique allows for an interactive interrogation of the full visible woman dataset (1GB) at four to fifteen frames per second on a desktop computer. The point-based approach is built on an extraction scheme that classifies different sections of the isosurface into four categories, depending on the size of the geometry when projected onto the screen. In particular, we use points to represent small and sub-pixel triangles, as well as larger sections of the isosurface whose projection has sub-pixel size. To assign consistent and robust normals to individual points representing such regions, we propose to compute them during post processing of the extracted isosurface and provide the corresponding hardware implementation.
+vis citations:
+chiang_vis_98
+gregorsk_vis_02
+livnat_vis_98
+parker_vis_98

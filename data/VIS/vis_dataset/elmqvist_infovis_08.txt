@@ -1,0 +1,16 @@
+title: Rolling the Dice: Multidimensional Visual Exploration using Scatterplot Matrix Navigation
+authors: Niklas Elmqvist, Pierre Dragicevic, Jean-Daniel Fekete
+abstract: Scatterplots remain one of the most popular and widely-used visual representations for multidimensional data due to their simplicity, familiarity and visual clarity, even if they lack some of the flexibility and visual expressiveness of newer multidimensional visualization techniques. This paper presents new interactive methods to explore multidimensional data using scatterplots. This exploration is performed using a matrix of scatterplots that gives an overview of the possible configurations, thumbnails of the scatterplots, and support for interactive navigation in the multidimensional space. Transitions between scatterplots are performed as animated rotations in 3D space, somewhat akin to rolling dice. Users can iteratively build queries using bounding volumes in the dataset, sculpting the query from different viewpoints to become more and more refined. Furthermore, the dimensions in the navigation space can be reordered, manually or automatically, to highlight salient correlations and differences among them. An example scenario presents the interaction techniques supporting smooth and effortless visual exploration of multidimensional datasets.
+vis citations:
+amar_infovis_05
+ankerst_infovis_98
+elmqvist_vast_07
+fekete_infovis_04
+heer_infovis_07
+peng_infovis_04
+rosario_infovis_03
+seo_infovis_04
+stolte_infovis_00
+theron_vast_06
+viegas_infovis_07
+yi_infovis_07

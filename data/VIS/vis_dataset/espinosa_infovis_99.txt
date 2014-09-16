@@ -1,0 +1,4 @@
+title: Domain Analysis: A Technique to Design A User-Centered Visualization Framework
+authors: Octavio Juarez Espinosa, Chris Hendrickson, James H. Garrett Jr.
+abstract: Domain Analysis for Data Visualization (DADV) is a technique to use when investigating a domain where data visualizations are going to be designed and added to existing software systems. DADV was used to design the data visualization in VisEIO-LCA, which is a framework to visualize environmental data about products.Most of the visualizations are designed using the following stages: formatting data in tables, selecting visual structures, and rendering the data on the screen. Although many visualizations authors perform implicit domain analysis, in this paper, domain analysis is added explicitly to the process of designing visualizations with the goal of producing more usable software tools.Environmental Life-Cycle Assessment (LCA) is used as a test bed for this technique.
+vis citations:

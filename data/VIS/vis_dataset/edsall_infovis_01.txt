@@ -1,0 +1,5 @@
+title: Case Study: Design and Assessment of an Enhanced Geographic Information System for Exploration of Multivariate Health Statistics
+authors: Robert M. Edsall, Alan M. MacEachren, Linda Pickle
+abstract: An implementation of an interactive parallel coordinate plot linked with the ArcView?? geographic information system (GIS) is presented. The integrated geographic visualization system was created for the exploratory analysis of mortality data from specific cancers as they relate, specifically spatially, to other mortality causes and to demographic and socioeconomic risk factors. The linked and interactive parallel coordinate plot was tested with and compared to a similarly interactive and linked scatterplot in usability assessments designed to assess each representation???s relative effectiveness for exploration of these data sets. Evidence from these studies suggests that multivariate, spatial, and/or time series exploration is enhanced through the use of the parallel coordinate plot linked to maps.
+vis citations:
+maceache_infovis_98

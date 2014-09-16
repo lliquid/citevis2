@@ -1,0 +1,11 @@
+title: Predictor-Corrector Schemes for Visualization of Smoothed Particle Hydrodynamics Data
+authors: Benjamin Schindler, Raphael Fuchs, John Biddiscombe, Ronald Peikerit
+abstract: In this paper we present a method for vortex core line extraction which operates directly on the smoothed particle hydrodynamics (SPH) representation and, by this, generates smoother and more (spatially and temporally) coherent results in an efficient way. The underlying predictor-corrector scheme is general enough to be applied to other line-type features and it is extendable to the extraction of surfaces such as isosurfaces or Lagrangian coherent structures. The proposed method exploits temporal coherence to speed up computation for subsequent time steps. We show how the predictor-corrector formulation can be specialized for several variants of vortex core line definitions including two recent unsteady extensions, and we contribute a theoretical and practical comparison of these. In particular, we reveal a close relation between unsteady extensions of Fuchs et al. and Weinkauf et al. and we give a proof of the Galilean invariance of the latter.When visualizing SPH data, there is the possibility to use the same interpolation method for visualization as has been used for the simulation. This is different from the case of finite volume simulation results, where it is not possible to recover from the results the spatial interpolation that was used during the simulation. Such data are typically interpolated using the basic trilinear interpolant, and if smoothness is required, some artificial processing is added. In SPH data, however, the smoothing kernels are specified from the simulation, and they provide an exact and smooth interpolation of data or gradients at arbitrary points in the domain.
+vis citations:
+chen_vis_07
+laramee_vis_04
+peikert_vis_99
+rosentha_vis_08
+roth_vis_98
+theisel_vis_05
+weinkauf_vis_07

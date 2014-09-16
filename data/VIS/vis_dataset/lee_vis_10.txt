@@ -1,0 +1,8 @@
+title: Fast High-Quality Volume Ray-Casting with Virtual Samplings
+authors: Byeonghun Lee, Jihye Yun, Jinwook Seo, Byonghyo Shim, Yeong-Gil Shin, Bohyoung Kimi
+abstract: Volume ray-casting with a higher order reconstruction filter and/or a higher sampling rate has been adopted in direct volume rendering frameworks to provide a smooth reconstruction of the volume scalar and/or to reduce artifacts when the combined frequency of the volume and transfer function is high. While it enables high-quality volume rendering, it cannot support interactive rendering due to its high computational cost. In this paper, we propose a fast high-quality volume ray-casting algorithm which effectively increases the sampling rate. While a ray traverses the volume, intensity values are uniformly reconstructed using a high-order convolution filter. Additional samplings, referred to as virtual samplings, are carried out within a ray segment from a cubic spline curve interpolating those uniformly reconstructed intensities. These virtual samplings are performed by evaluating the polynomial function of the cubic spline curve via simple arithmetic operations. The min max blocks are refined accordingly for accurate empty space skipping in the proposed method. Experimental results demonstrate that the proposed algorithm, also exploiting fast cubic texture filtering supported by programmable GPUs, offers renderings as good as a conventional ray-casting algorithm using high-order reconstruction filtering at the same sampling rate, while delivering 2.5x to 3.3x rendering speed-up.
+vis citations:
+krueger_vis_03
+knoll_vis_09
+li_vis_04
+csebfalv_vis_05

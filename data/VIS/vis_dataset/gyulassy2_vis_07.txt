@@ -1,0 +1,10 @@
+title: Efficient Computation of Morse-Smale Complexes for Three-dimensional Scalar Functions
+authors: Attila Gyulassy, Vijay Natarajan, Valerio Pascucci, Bernd Hamann
+abstract: The Morse-Smale complex is an efficient representation of the gradient behavior of a scalar function, and critical points paired by the complex identify topological features and their importance. We present an algorithm that constructs the Morse-Smale complex in a series of sweeps through the data, identifying various components of the complex in a consistent manner. All components of the complex, both geometric and topological, are computed, providing a complete decomposition of the domain. Efficiency is maintained by representing the geometry of the complex in terms of point sets.
+vis citations:
+carr_vis_04
+cignoni_vis_00
+garland_vis_98
+gerstner_vis_00
+gyulassy_vis_05
+staadt_vis_98

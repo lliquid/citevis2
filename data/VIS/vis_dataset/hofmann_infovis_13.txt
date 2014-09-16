@@ -1,0 +1,9 @@
+title: Common Angle Plots as Perception-True Visualizations of Categorical Associations
+authors: Heike Hofmann, Marie Vendettuoli
+abstract: Visualizations are great tools of communications???they summarize findings and quickly convey main messages to our audience. As designers of charts we have to make sure that information is shown with a minimum of distortion. We have to also consider illusions and other perceptual limitations of our audience. In this paper we discuss the effect and strength of the line width illusion, a M??uller-Lyer type illusion, on designs related to displaying associations between categorical variables. Parallel sets and hammock plots are both affected by line width illusions. We introduce the common-angle plot as an alternative method for displaying categorical data in a manner that minimizes the effect from perceptual illusions. Results from user studies both highlight the need for addressing line-width illusions in displays and provide evidence that common angle charts successfully resolve this issue.
+vis citations:
+balzer_infovis_05
+bostock_infovis_11
+kong_infovis_10
+slingsby_infovis_09
+stasko_infovis_00

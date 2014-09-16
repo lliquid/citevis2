@@ -1,0 +1,7 @@
+title: Visual Analysis of Historic Hotel Visitation Patterns
+authors: Chris Weaver, David Fyfe, Anthony Robinson, Deryck Holdsworth, Donna Peuquet, Alan M. MacEachren
+abstract: Understanding the space and time characteristics of human interaction in complex social networks is a critical component of visual tools for intelligence analysis, consumer behavior analysis, and human geography. Visual identification and comparison of patterns of recurring events is an essential feature of such tools. In this paper, we describe a tool for exploring hotel visitation patterns in and around Rebersburg, Pennsylvania from 1898-1900. The tool uses a wrapping spreadsheet technique, called reruns, to display cyclic patterns of geographic events in multiple overlapping natural and artificial calendars. Implemented as an Improvise visualization, the tool is in active development through a iterative process of data collection, hypothesis, design, discovery, and evaluation in close collaboration with historical geographers. Several discoveries have inspired ongoing data collection and plans to expand exploration to include historic weather records and railroad schedules. Distributed online evaluations of usability and usefulness have resulted in numerous feature and design recommendations.
+vis citations:
+fekete_infovis_04
+wattenbe_infovis_02
+weaver_infovis_04

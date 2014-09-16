@@ -1,0 +1,9 @@
+title: Connecting the Dots in Visual Analysis
+authors: Yedendra B. Shrinivasan, David Gotz, Jie Lu
+abstract: During visual analysis, users must often connect insights discovered at various points of time. This process is often called ???connecting the dots.??? When analysts interactively explore complex datasets over multiple sessions, they may uncover a large number of findings. As a result, it is often difficult for them to recall the past insights, views and concepts that are most relevant to their current line of inquiry. This challenge is even more difficult during collaborative analysis tasks where they need to find connections between their own discoveries and insights found by others.In this paper, we describe a context-based retrieval algorithm to identify notes, views and concepts from users??? past analyses that are most relevant to a view or a note based on their line of inquiry. We then describe a related notes recommendation feature that surfaces the most relevant items to the user as they work based on this algorithm. We have implemented this recommendation feature in HARVEST, a web based visual analytic system. We evaluate the related notes recommendation feature of HARVEST through a case study and discuss the implications of our approach.
+vis citations:
+bier_vast_08
+gotz_vast_08
+heer_vast_07
+stasko_vast_07
+wong_vast_06

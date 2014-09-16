@@ -1,0 +1,19 @@
+title: Visual Analytic Roadblocks for Novice Investigators
+authors: Bum chul Kwon, Brian Fisher, Ji Soo Yi
+abstract: We have observed increasing interest in visual analytics tools and their applications in investigative analysis. Despite the growing interest and substantial studies regarding the topic, understanding the major roadblocks of using such tools from novice users??? perspectives is still limited. Therefore, we attempted to identify such ???visual analytic roadblocks??? for novice users in an investigative analysis scenario. To achieve this goal, we reviewed the existing models, theories, and frameworks that could explain the cognitive processes of human-visualization interaction in investigative analysis. Then, we conducted a qualitative experiment with six novice participants, using a slightly modified version of pair analytics, and analyzed the results through the open-coding method. As a result, we came up with four visual analytic roadblocks and explained these roadblocks using existing cognitive models and theories. We also provided design suggestions to overcome these roadblocks.
+vis citations:
+kang_vast_09
+stasko_vast_07
+yi_infovis_07
+lam_infovis_08
+amar_infovis_04
+liu_infovis_08
+liu_infovis_10
+ziemkiew_infovis_08
+green_vast_08
+grammel_infovis_10
+scholtz_vast_06
+saraiya_infovis_04
+mackinlay_infovis_07
+willett_infovis_07
+ellis_infovis_07

@@ -1,0 +1,7 @@
+title: Visual Cluster Exploration of Web Clickstream Data
+authors: Jishang Wei, Zeqian Shen, Neel Sundaresan, Kwan-Liu Ma
+abstract: Web clickstream data are routinely collected to study how users browse the web or use a service. It is clear that the ability to recognize and summarize user behavior patterns from such data is valuable to e-commerce companies. In this paper, we introduce a visual analytics system to explore the various user behavior patterns reflected by distinct clickstream clusters. In a practical analysis scenario, the system first presents an overview of clickstream clusters using a Self-Organizing Map with Markov chain models. Then the analyst can interactively explore the clusters through an intuitive user interface. He can either obtain summarization of a selected group of data or further refine the clustering result. We evaluated our system using two different datasets from eBay. Analysts who were working on the same data have confirmed the system???s effectiveness in extracting user behavior patterns from complex datasets and enhancing their ability to reason.
+vis citations:
+lam_vast_07
+wattensp_infovis_05
+xu_vast_11

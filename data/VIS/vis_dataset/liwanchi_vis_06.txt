@@ -1,0 +1,11 @@
+title: Representing Higher-Order Singularities in Vector Fields on Piecewise Linear Surfaces
+authors: Wan-Chiu Li, Bruno Vallet, Nicolas Ray, Bruno Levy
+abstract: Accurately representing higher-order singularities of vector fields defined on piecewise linear surfaces is a non-trivial problem. In this work, we introduce a concise yet complete interpolation scheme of vector fields on arbitrary triangulated surfaces. The scheme enables arbitrary singularities to be represented at vertices. The representation can be considered as a facet-based ???encoding??? of vector fields on piecewise linear surfaces. The vector field is described in polar coordinates over each facet, with a facet edge being chosen as the reference to define the angle. An integer called the period jump is associated to each edge of the triangulation to remove the ambiguity when interpolating the direction of the vector field between two facets that share an edge. To interpolate the vector field, we first linearly interpolate the angle of rotation of the vectors along the edges of the facet graph. Then, we use a variant of Nielson???s side-vertex scheme to interpolate the vector field over the entire surface. With our representation, we remove the bound imposed on the complexity of singularities that a vertex can represent by its connectivity. This bound is a limitation generally exists in vertex-based linear schemes. Furthermore, using our data structure, the index of a vertex of a vector field can be combinatorily determined.We show the simplicity of the interpolation scheme with a GPU-accelerated algorithm for a LIC-based visualization of the so-defined vector fields, operating in image space. We demonstrate the algorithm applied to various vector fields on curved surfaces.
+vis citations:
+laramee_vis_03
+rezk_vis_99
+scheuer2_vis_99
+schroede_vis_05
+vanwijk_vis_03
+weinkauf_vis_05
+tricoche_vis_00

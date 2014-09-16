@@ -1,0 +1,6 @@
+title: Visualizing Tensor Fields in Geomechanics
+authors: Alisa Neeman, Boris Jeremic, Alex Pang
+abstract: The study of stress and strains in soils and structures (solids) help us gain a better understanding of events such as failure of bridges, dams and buildings, or accumulated stresses and strains in geological subduction zones that could trigger earthquakes and subsequently tsunamis. In such domains, the key feature of interest is the location and orientation of maximal shearing planes. This paper describes a method that highlights this feature in stress tensor fields. It uses a plane-in-a-box glyph which provides a global perspective of shearing planes based on local analysis of tensors. The analysis can be performed over the entire domain, or the user can interactively specify where to introduce these glyphs. Alternatively, they can also be placed depending on the threshold level of several physical relevant parameters such as double couple and compensated linear vector dipole. Both methods are tested on stress tensor fields from geomechanics.
+vis citations:
+kindlman_vis_99
+laidlaw_vis_98

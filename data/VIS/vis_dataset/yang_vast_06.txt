@@ -1,0 +1,8 @@
+title: Semantic Image Browser: Bridging Information Visualization with Automated Intelligent Image Analysis
+authors: Jing Yang, Jianping Fan, Daniel Hubball, Yuli Gao, Hangzai Luo,
+William Ribarsky, Matthew Ward
+abstract: Browsing and retrieving images from large image collections are becoming common and important activities. Recent semantic image analysis techniques, which automatically detect high level semantic contents of images for annotation, are promising solutions toward this problem. However, few efforts have been made to convey the annotation results to users in an intuitive manner to enable effective image browsing and retrieval. There is also a lack of methods to monitor and evaluate the automatic image analysis algorithms due to the high dimensional nature of image data, features, and contents.In this paper, we propose a novel, scalable semantic image browser by applying existing information visualization techniques to semantic image analysis. This browser not only allows users to effectively browse and search in large image databases according to the semantic content of images, but also allows analysts to evaluate their annotation process through interactive visual exploration. The major visualization components of this browser are Multi-Dimensional Scaling (MDS) based image layout, the Value and Relation (VaR) display that allows effective high dimensional visualization without dimension reduction, and a rich set of interaction tools such as search by sample images and content relationship detection. Our preliminary user study showed that the browser was easy to use and understand, and effective in supporting image browsing and retrieval tasks.
+vis citations:
+jankun_k_infovis_03
+rodden_infovis_99
+yang_infovis_04

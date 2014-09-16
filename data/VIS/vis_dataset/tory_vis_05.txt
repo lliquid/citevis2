@@ -1,0 +1,6 @@
+title: Eyegaze Analysis of Displays With Combined 2D and 3D Views
+authors: Melanie Tory, M. Stella Atkins, Arthur E. Kirkpatrick, Marios
+Nicolaou, Guang-Zhong Yang
+abstract: Displays combining both 2D and 3D views have been shown to support higher performance on certain visualization tasks. However, it is not clear how best to arrange a combination of 2D and 3D views spatially in a display. In this study, we analyzed the eyegaze strategies of participants using two arrangements of 2D and 3D views to estimate the relative position of objects in a 3D scene.Our results show that the 3D view was used significantly more often than individual 2D views in both displays, indicating the importance of the 3D view for successful task completion. However, viewing patterns were significantly different between the two displays: transitions through centrally-placed views were always more frequent, and users avoided saccades between views that were far apart. Although the change in viewing strategy did not result in significant performance differences, error analysis indicates that a 3D overview in the center may reduce the number of serious errors compared to a 3D overview placed off to the side.
+vis citations:
+tory_vis_03

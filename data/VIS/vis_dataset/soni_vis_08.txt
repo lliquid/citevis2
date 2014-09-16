@@ -1,0 +1,6 @@
+title: Visualizing Particle/Flow Structure Interactions in the Small Bronchial Tubes
+authors: Bela Soni, David Thompson, Raghu Machiraju
+abstract: Particle deposition in the small bronchial tubes (generations six through twelve) is strongly influenced by the vortexdominated secondary flows that are induced by axial curvature of the tubes. In this paper, we employ particle destination maps in conjunction with two-dimensional, finite-time Lyapunov exponent maps to illustrate how the trajectories of finite-mass particles are influenced by the presence of vortices. We consider two three-generation bronchial tube models: a planar, asymmetric geometry and a non-planar, asymmetric geometry. Our visualizations demonstrate that these techniques, coupled with judiciously seeded particle trajectories, are effective tools for studying particle/flow structure interactions.
+vis citations:
+garth_vis_07
+sadlo_vis_07

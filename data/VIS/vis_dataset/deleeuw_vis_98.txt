@@ -1,0 +1,4 @@
+title: Comparing LIC and Spot Noise
+authors: Wim de Leeuw, Robert van Liere
+abstract: Spot noise and line integral convolution (LIC) are two texture synthesis techniques for vector field visualization. In this paper the two techniques are compared. Continuous directional convolution is used as a common basis for comparing the techniques. It is shown that the techniques are based on the same mathematical concept. Comparisons of the visual appearance of the output and performance of the algorithms are made.
+vis citations:

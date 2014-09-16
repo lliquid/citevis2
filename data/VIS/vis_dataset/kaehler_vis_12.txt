@@ -1,0 +1,12 @@
+title: A Novel Approach to Visualizing Dark Matter Simulations
+authors: Ralf Kaehler, Oliver Hahn, Tom Abel
+abstract: In the last decades cosmological N-body dark matter simulations have enabled ab initio studies of the formation of structure in the Universe. Gravity amplified small density fluctuations generated shortly after the Big Bang, leading to the formation of galaxies in the cosmic web. These calculations have led to a growing demand for methods to analyze time-dependent particle based simulations. Rendering methods for such N-body simulation data usually employ some kind of splatting approach via point based rendering primitives and approximate the spatial distributions of physical quantities using kernel interpolation techniques, common in SPH (Smoothed Particle Hydrodynamics)-codes. This paper proposes three GPU-assisted rendering approaches, based on a new, more accurate method to compute the physical densities of dark matter simulation data. It uses full phase-space information to generate a tetrahedral tessellation of the computational domain, with mesh vertices defined by the simulation???s dark matter particle positions. Over time the mesh is deformed by gravitational forces, causing the tetrahedral cells to warp and overlap. The new methods are well suited to visualize the cosmic web. In particular they preserve caustics, regions of high density that emerge, when several streams of dark matter particles share the same location in space, indicating the formation of structures like sheets, filaments and halos. We demonstrate the superior image quality of the new approaches in a comparison with three standard rendering techniques for N-body simulation data.
+vis citations:
+fraedric_vis_10
+fraedric_vis_09
+hopf_vis_03
+kraus_vis_04
+muigg_vis_11
+weiler_vis_01
+weiler_vis_03
+zhou_vis_06

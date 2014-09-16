@@ -1,0 +1,11 @@
+title: Guided Analysis of Hurricane Trends Using Statistical Processes Integrated with Interactive Parallel Coordinates
+authors: Chad A. Steed, J. Edward Swan, T.J. Jankun-Kelly, Patrick J. Fitzpatrick
+abstract: This paper demonstrates the promise of augmenting interactive multivariate representations with information from statistical processes in the domain of weather data analysis. Statistical regression, correlation analysis, and descriptive statistical calculations are integrated via graphical indicators into an enhanced parallel coordinates system, called the Multidimensional Data eXplorer (MDX). These statistical indicators, which highlight significant associations in the data, are complemented with interactive visual analysis capabilities. The resulting system allows a smooth, interactive, and highly visual workflow.The system???s utility is demonstrated with an extensive hurricane climate study that was conducted by a hurricane expert. In the study, the expert used a new data set of environmental weather data, composed of 28 independent variables, to predict annual hurricane activity. MDX shows the Atlantic Meridional Mode increases the explained variance of hurricane seasonal activity by 7-15% and removes less significant variables used in earlier studies. The findings and feedback from the expert (1) validate the utility of the data set for hurricane prediction, and (2) indicate that the integration of statistical processes with interactive parallel coordinates, as implemented in MDX, addresses both deficiencies in traditional weather data analysis and exhibits some of the expected benefits of visual data analysis.
+vis citations:
+artero_infovis_04
+fua_vis_99
+hauser_infovis_02
+johansso_infovis_05
+novotny_vis_06
+qu_vis_07
+theron_vast_06

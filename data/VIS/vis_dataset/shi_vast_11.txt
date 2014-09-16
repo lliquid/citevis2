@@ -1,0 +1,9 @@
+title: SAVE: Sensor Anomaly Visualization Engine
+authors: Lei Shi, Qi Liao, Yuan He, Rui Li, Aaron Striegel, Zhong Su
+abstract: Diagnosing a large-scale sensor network is a crucial but challenging task. Particular challenges include the resource and bandwidth constraints on sensor nodes, the spatiotemporally dynamic network behaviors, and the lack of accurate models to understand such behaviors in a hostile environment. In this paper, we present the Sensor Anomaly Visualization Engine (SAVE), a system that fully leverages the power of both visualization and anomaly detection analytics to guide the user to quickly and accurately diagnose sensor network failures and faults. SAVE combines customized visualizations over separate sensor data facets as multiple coordinated views. Temporal expansion model, correlation graph and dynamic projection views are proposed to effectively interpret the topological, correlational and dimensional sensor data dynamics and their anomalies. Through a case study with real-world sensor network system and administrators, we demonstrate that SAVE is able to help better locate the system problem and further identify the root cause of major sensor network failure scenarios.
+vis citations:
+bak_infovis_09
+liu_vast_10
+wong_vast_09
+heer_infovis_05
+ghoniem_infovis_04

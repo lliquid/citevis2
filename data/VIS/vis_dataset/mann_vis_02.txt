@@ -1,0 +1,4 @@
+title: Computing Singularities of 3D Vector Fields with Geometric Algebra
+authors: Stephen Mann, Alyn Rockwood
+abstract: Critical points of a vector field are key to their characterization. Not only their positions but also their indexes are crucial for understanding vector fields. Considerable work exists in 2D, but less is available for 3D or higher dimensions. Geometric Algebra is a derivative of Clifford Algebra that not only enables a succinct definition of the index of a critical point in higher dimension; it also provides insight and computational pathways for calculating the index. We describe the problems in terms of Geometric Algebra and present an octree based solution using the algebra for finding critical points and their index in a 3D vector field.
+vis citations:

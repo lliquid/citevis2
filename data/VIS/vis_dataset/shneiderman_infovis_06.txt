@@ -1,0 +1,7 @@
+title: Network Visualization by Semantic Substrates
+authors: Ben Shneiderman, Aleks Aris
+abstract: Networks have remained a challenge for information visualization designers because of the complex issues of node and link layout coupled with the rich set of tasks that users present. This paper offers a strategy based on two principles: (1) layouts are based on user-defined semantic substrates, which are non-overlapping regions in which node placement is based on node attributes, (2) users interactively adjust sliders to control link visibility to limit clutter and thus ensure comprehensibility of source and destination. Scalability is further facilitated by user control of which nodes are visible. We illustrate our semantic substrates approach as implemented in NVSS 1.0 with legal precedent data for up to 1122 court cases in three regions with 7645 legal citations.
+vis citations:
+ghoniem_infovis_04
+heer_infovis_05
+mcguffin_infovis_05

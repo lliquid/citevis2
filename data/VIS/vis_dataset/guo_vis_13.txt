@@ -1,0 +1,11 @@
+title: Coupled Ensemble Flow Line Advection and Analysis
+authors: Hanqi Guo, Xiaoru Yuan, Jian Huang, Xiaomin Zhu
+abstract: Ensemble run simulations are becoming increasingly widespread. In this work, we couple particle advection with pathline analysis to visualize and reveal the differences among the flow fields of ensemble runs. Our method first constructs a variation field using a Lagrangian-based distance metric. The variation field characterizes the variation between vector fields of the ensemble runs, by extracting and visualizing the variation of pathlines within ensemble. Parallelism in a MapReduce style is leveraged to handle data processing and computing at scale. Using our prototype system, we demonstrate how scientists can effectively explore and investigate differences within ensemble simulations.
+vis citations:
+botchen_vis_05
+bruckner_vis_10
+garth_vis_07
+hlawatsch_vis_11
+liuzhanp_vis_06
+nouanesengsy_vis_11
+sanyal_vis_10

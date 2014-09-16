@@ -1,0 +1,4 @@
+title: LensBar  Visualization for Browsing and Filtering Large Lists of Data
+authors: Toshiyuki Masui
+abstract: We propose a simple and powerful graphical interface tool called the LensBar, for filtering and visualizing a large list of data. Browsing and querying are the most important techniques for information retrieval, and LensBar integrates the two techniques into a simplelooking scroll window with a slider. While it looks familiar to users of conventional graphical interface tools, its filtering and zooming mechanism offers sophisticated handling of large lists of text-oriented data.
+vis citations:

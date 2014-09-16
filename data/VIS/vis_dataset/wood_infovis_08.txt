@@ -1,0 +1,8 @@
+title: Spatially Ordered Treemaps
+authors: Jo Wood, Jason Dykes
+abstract: Existing treemap layout algorithms suffer to some extent from poor or inconsistent mappings between data order and visual ordering in their representation, reducing their cognitive plausibility. While attempts have been made to quantify this mismatch, and algorithms proposed to minimize inconsistency, solutions provided tend to concentrate on one-dimensional ordering. We propose extensions to the existing squarified layout algorithm that exploit the two-dimensional arrangement of treemap nodes more effectively. Our proposed spatial squarified layout algorithm provides a more consistent arrangement of nodes while maintaining low aspect ratios. It is suitable for the arrangement of data with a geographic component and can be used to create tessellated cartograms for geovisualization. Locational consistency is measured and visualized and a number of layout algorithms are compared. CIELab color space and displacement vector overlays are used to assess and emphasize the spatial layout of treemap nodes. A case study involving locations of tagged photographs in the Flickr database is described.
+vis citations:
+barlow01_infovis_01
+mansmann_infovis_07
+wattenberg_infovis_01
+tu_infovis_07

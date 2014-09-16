@@ -1,0 +1,4 @@
+title: Cluster and Calendar based Visualization of Time Series Data
+authors: Jarke J. van Wijk, Edward R. van Selow
+abstract: A new method is presented to get insight into univariate time series data. The problem addressed here is how to identify patterns and trends on multiple time scales (days, weeks, seasons) simultaneously. The solution presented is to cluster similar daily data patterns, and to visualize the average patterns as graphs and the corresponding days on a calendar. This presentation provides a quick insight into both standard and exceptional patterns. Furthermore, it is well suited to interactive exploration. Two applications, numbers of employees present and energy consumption, are presented.
+vis citations:

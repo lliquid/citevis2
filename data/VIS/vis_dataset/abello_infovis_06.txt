@@ -1,0 +1,8 @@
+title: ASK-GraphView : A Large Scale Graph Visualization System
+authors: James Abello, Frank van Ham, Neeraj Krishnan
+abstract: We describe ASK-GraphView, a node-link-based graph visualization system that allows clustering and interactive navigation of large graphs, ranging in size up to 16 million edges. The system uses a scalable architecture and a series of increasingly sophisticated clustering algorithms to construct a hierarchy on an arbitrary, weighted undirected input graph. By lowering the interactivity requirements we can scale to substantially bigger graphs. The user is allowed to navigate this hierarchy in a top down manner by interactively expanding individual clusters. ASK-GraphView also provides facilities for filtering and coloring, annotation and cluster labeling.
+vis citations:
+abello_infovis_04
+gansner_infovis_04
+vanham_infovis_04
+slack_infovis_05

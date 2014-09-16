@@ -1,0 +1,24 @@
+title: An Affordance-Based Framework for Human Computation and Human-Computer Collaboration
+authors: R. Jordan Crouser, Remco Chang
+abstract: Visual Analytics is ???the science of analytical reasoning facilitated by visual interactive interfaces??? [70]. The goal of this field is to develop tools and methodologies for approaching problems whose size and complexity render them intractable without the close coupling of both human and machine analysis. Researchers have explored this coupling in many venues: VAST, Vis, InfoVis, CHI, KDD, IUI, and more. While there have been myriad promising examples of human-computer collaboration, there exists no common language for comparing systems or describing the benefits afforded by designing for such collaboration. We argue that this area would benefit significantly from consensus about the design attributes that define and distinguish existing techniques. In this work, we have reviewed 1,271 papers from many of the top-ranking conferences in visual analytics, human-computer interaction, and visualization. From these, we have identified 49 papers that are representative of the study of human-computer collaborative problem-solving, and provide a thorough overview of the current state-of-the-art. Our analysis has uncovered key patterns of design hinging on human-and machine-intelligence affordances, and also indicates unexplored avenues in the study of this area. The results of this analysis provide a common framework for understanding these seemingly disparate branches of inquiry, which we hope will motivate future work in the field.
+vis citations:
+andrienk_vast_09
+chen_vast_11
+chen_vast_10
+choo_vast_10
+dou_vast_11
+fuchs_vis_09
+garg_vast_10
+ingram_vast_10
+ip_vis_11
+kadivar_vast_09
+koch_vast_09
+lipford_vast_10
+liu_vast_10
+migut_vast_11
+migut_vast_10
+ruiz_vis_11
+shriniva_vast_09
+steed_vast_09
+tatu_vast_09
+zheng_vis_11

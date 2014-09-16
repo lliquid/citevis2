@@ -1,0 +1,13 @@
+title: Interactive Rendering of Large Unstructured Grids Using Dynamic Level-of-Detail
+authors: Steven P. Callahan, Joao L. D. Comba, Peter Shirley, Claudio T. Silva
+abstract: We describe a new dynamic level-of-detail (LOD) technique that allows real-time rendering of large tetrahedral meshes. Unlike approaches that require hierarchies of tetrahedra, our approach uses a subset of the faces that compose the mesh. No connectivity is used for these faces so our technique eliminates the need for topological information and hierarchical data structures. By operating on a simple set of triangular faces, our algorithm allows a robust and straightforward graphics hardware (GPU) implementation. Because the subset of faces processed can be constrained to arbitrary size, interactive rendering is possible for a wide range of data sets and hardware configurations.
+vis citations:
+chopra_vis_02
+deussen_vis_02
+deviller_vis_00
+defloria_vis_98
+kraus_vis_04
+lamar_vis_99
+museth_vis_04
+staadt_vis_98
+weiler_vis_03

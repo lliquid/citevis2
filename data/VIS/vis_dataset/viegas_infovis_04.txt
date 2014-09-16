@@ -1,0 +1,4 @@
+title: Artifacts of the Presence Era: Using Information Visualization to Create an Evocative Souvenir
+authors: Fernanda B. Vi??gas, Ethan Perry, Ethan Howe, Judith Donath
+abstract: We present Artifacts of the Presence Era, a digital installation that uses a geological metaphor to visualize the events in a physical space over time. The piece captures video and audio from a museum and constructs an impressionistic visualization of the evolving history in the space. Instead of creating a visualization tool for data analysis, we chose to produce a piece that functions as a souvenir of a particular time and place. We describe the design choices we made in creating this installation, the visualization techniques we developed, and the reactions we observed from users and the media. We suggest that the same approach can be applied to a more general set of visualization contexts, ranging from email archives to newsgroups conversations.
+vis citations:

@@ -1,0 +1,4 @@
+title: Simplicial Subdivisions and Sampling Artifacts
+authors: Hamish Carr, Torsten Moller, Jack Snoeyink
+abstract: We review several schemes for dividing cubical cells into simplices (tetrahedra) in 3-D for interpolating from sampled data to IR3 or for computing isosurfaces by barycentric interpolation. We present test data that reveal the geometric artifacts that these subdivision schemes generate, and discuss how these artifacts relate to the filter kernels that correspond to the subdivision schemes.
+vis citations:

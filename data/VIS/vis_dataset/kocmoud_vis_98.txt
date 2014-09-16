@@ -1,0 +1,4 @@
+title: Continuous Cartogram Construction
+authors: Donald H. House, Christopher J. Kocmoud
+abstract: Area cartograms are used for visualizing geographically distributed data by attaching measurements to regions of a map and scaling the regions such that their areas are proportional to the measured quantities. A continuous area cartogram is a cartogram that is constructed without changing the underlying map topology. We present a new algorithm for the construction of continuous area cartograms that was developed by viewing their construction as a constrained optimization problem. The algorithm uses a relaxation method that exploits hierarchical resolution, constrained dynamics, and a scheme that alternates goals of achieving correct region areas and adjusting region shapes. It is compared favorably to existing methods in its ability to preserve region shape recognition cues, while still achieving high accuracy.
+vis citations:

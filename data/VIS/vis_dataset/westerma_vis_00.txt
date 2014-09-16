@@ -1,0 +1,7 @@
+title: A Level-Set Method for Flow Visualization
+authors: R??diger Westermann, Christopher Johnson, Thomas Ertl
+abstract: In this paper we propose a technique for visualizing steady flow. Using this technique, we first convert the vector field data into a scalar level-set representation. We then analyze the dynamic behavior and subsequent distortion of level-sets and interactively monitor the evolving structures by means of texture-based surface rendering. Next, we combine geometrical and topological considerations to derive a multiscale representation and to implement a method for the automatic placement of a sparse set of graphical primitives depicting homogeneous streams in the fields. Using the resulting algorithms, we have built a visualization system that enables us to effectively display the flow direction and its dynamics even for dense 3D fields.
+vis citations:
+heckel_vis_99
+rezk_vis_99
+telea_vis_99

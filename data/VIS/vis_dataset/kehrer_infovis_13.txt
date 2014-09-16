@@ -1,0 +1,14 @@
+title: A Model for Structure-Based Comparison of Many Categories in Small-Multiple Displays
+authors: Johannes Kehrer, Harald Piringer, Wolfgang Berger, M. Eduard Gr??ller
+abstract: Many application domains deal with multi-variate data that consist of both categorical and numerical information. Small-multiple displays are a powerful concept for comparing such data by juxtaposition. For comparison by overlay or by explicit encoding of computed differences, however, a specification of references is necessary. In this paper, we present a formal model for defining semantically meaningful comparisons between many categories in a small-multiple display. Based on pivotized data that are hierarchically partitioned by the categories assigned to the x and y axis of the display, we propose two alternatives for structure-based comparison within this hierarchy. With an absolute reference specification, categories are compared to a fixed reference category. With a relative reference specification, in contrast, a semantic ordering of the categories is considered when comparing them either to the previous or subsequent category each. Both reference specifications can be defined at multiple levels of the hierarchy (including aggregated summaries), enabling a multitude of useful comparisons. We demonstrate the general applicability of our model in several application examples using different visualizations that compare data by overlay or explicit encoding of differences.
+vis citations:
+bremm_vast_11
+collins_infovis_07
+lex_infovis_10
+mackinlay_infovis_07
+matkovic_vis_05
+muehlbacher_vast_13
+robertso_infovis_08
+stolte_infovis_00
+tominski2_infovis_12
+turkay_infovis_11

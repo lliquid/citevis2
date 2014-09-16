@@ -1,0 +1,4 @@
+title: Phonon Tracing for Auralization and Visualization of Sound
+authors: Martin Bertram, Eduard Deines, Jan Mohring, Jevgenij Jegorovs, Hans Hagen
+abstract: We present a new particle tracing approach for the simulation of mid and high-frequency sound. Inspired by the photorealism obtained by methods like photon mapping, we develop a similar method for the physical simulation of sound within rooms. For given source and listener positions, our method computes a finiteresponse filter accounting for the different reflections at various surfaces with frequency-dependent absorption coefficients. Convoluting this filter with an anechoic input signal reproduces a realistic aural impression of the simulated room. We do not consider diffraction effects due to low frequencies, since these can be better computed by finite elements. Our method allows the visualization of a wavefront propagation using color-coded blobs traversing the paths of individual phonons.
+vis citations:

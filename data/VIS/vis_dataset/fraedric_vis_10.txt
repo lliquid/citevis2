@@ -1,0 +1,11 @@
+title: Efficient High-Quality Volume Rendering of SPH Data
+authors: Roland Fraedrich, Stefan Auer, R??diger Westermann
+abstract: High quality volume rendering of SPH data requires a complex order-dependent resampling of particle quantities along the view rays. In this paper we present an efficient approach to perform this task using a novel view-space discretization of the simulation domain. Our method draws upon recent work on GPU-based particle voxelization for the efficient resampling of particles into uniform grids. We propose a new technique that leverages a perspective grid to adaptively discretize the view-volume, giving rise to a continuous level-of-detail sampling structure and reducing memory requirements compared to a uniform grid. In combination with a level-of-detail representation of the particle set, the perspective grid allows effectively reducing the amount of primitives to be processed at run-time. We demonstrate the quality and performance of our method for the rendering of fluid and gas dynamics SPH simulations consisting of many millions of particles.
+vis citations:
+biddiscombe_vis_07
+ellswort_vis_04
+fraedric_vis_09
+hopf_vis_03
+krueger_vis_03
+navratil_vis_07
+rosentha_vis_08

@@ -1,0 +1,9 @@
+title: Out-of-Core Remeshing of Large Polygonal Meshes
+authors: Minsu Ahn, Igor Guskov, Seungyong Lee
+abstract: We propose an out-of-core method for creating semi-regular surface representations from large input surface meshes. Our approach is based on a streaming implementation of the MAPS remesher of Lee et al. [18]. Our remeshing procedure consists of two stages. First, a simplification process is used to obtain the base domain. During simplification, we maintain the mapping information between the input and the simplified meshes. The second stage of remeshing uses the mapping information to produce samples of the output semi-regular mesh. The out-of-core operation of our method is enabled by the synchronous streaming of a simplified mesh and the mapping information stored at the original vertices. The synchronicity of two streaming buffers is maintained using a specially designed write strategy for each buffer. Experimental results demonstrate the remeshing performance of the proposed method, as well as other applications that use the created mapping between the simplified and the original surface representations.
+vis citations:
+ho_vis_01
+hoppe_vis_98
+isenburg_vis_03
+isenburg_vis_05
+shaffer_vis_01

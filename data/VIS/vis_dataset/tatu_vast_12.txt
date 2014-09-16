@@ -1,0 +1,13 @@
+title: Subspace Search and Visualization to Make Sense of Alternative Clusterings in High-Dimensional Data
+authors: Andrada Tatu, Fabian Maa??, Ines F??rber, Enrico Bertini
+abstract: In explorative data analysis, the data under consideration often resides in a high-dimensional (HD) data space. Currently many methods are available to analyze this type of data. So far, proposed automatic approaches include dimensionality reduction and cluster analysis, whereby visual-interactive methods aim to provide effective visual mappings to show, relate, and navigate HD data. Furthermore, almost all of these methods conduct the analysis from a singular perspective, meaning that they consider the data in either the original HD data space, or a reduced version thereof. Additionally, HD data spaces often consist of combined features that measure different properties, in which case the particular relationships between the various properties may not be clear to the analysts a priori since it can only be revealed if appropriate feature combinations (subspaces) of the data are taken into consideration. Considering just a single subspace is, however, often not sufficient since different subspaces may show complementary, conjointly, or contradicting relations between data items. Useful information may consequently remain embedded in sets of subspaces of a given HD input data space.Relying on the notion of subspaces, we propose a novel method for the visual analysis of HD data in which we employ an interestingness-guided subspace search algorithm to detect a candidate set of subspaces. Based on appropriately defined subspace similarity functions, we visualize the subspaces and provide navigation facilities to interactively explore large sets of subspaces. Our approach allows users to effectively compare and relate subspaces with respect to involved dimensions and clusters of objects. We apply our approach to synthetic and real data sets. We thereby demonstrate its support for understanding HD data from different perspectives, effectively yielding a more complete view on HD data.
+vis citations:
+bremm_vast_11
+cao_infovis_11
+ferdosi_vast_10
+ingram_vast_10
+johansso_infovis_09
+lex_infovis_10
+seo_infovis_04
+wilkinso_infovis_05
+yang_infovis_04

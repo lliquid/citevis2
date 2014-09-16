@@ -1,0 +1,15 @@
+title: Untangling Euler Diagrams
+authors: Nathalie Henry Riche, Tim Dwyer
+abstract: In many common data analysis scenarios the data elements are logically grouped into sets. Venn and Euler style diagrams are a common visual representation of such set membership where the data elements are represented by labels or glyphs and sets are indicated by boundaries surrounding their members. Generating such diagrams automatically such that set regions do not intersect unless the corresponding sets have a non-empty intersection is a difficult problem. Further, it may be impossible in some cases if regions are required to be continuous and convex. Several approaches exist to draw such set regions using more complex shapes, however, the resulting diagrams can be difficult to interpret. In this paper we present two novel approaches for simplifying a complex collection of intersecting sets into a strict hierarchy that can be more easily automatically arranged and drawn (Figure 1). In the first approach, we use compact rectangular shapes for drawing each set, attempting to improve the readability of the set intersections. In the second approach, we avoid drawing intersecting set regions by duplicating elements belonging to multiple sets. We compared both of our techniques to the traditional non-convex region technique using five readability tasks. Our results show that the compact rectangular shapes technique was often preferred by experimental subjects even though the use of duplications dramatically improves the accuracy and performance time for most of our tasks. In addition to general set representation our techniques are also applicable to visualization of networks with intersecting clusters of nodes.
+vis citations:
+abello_infovis_06
+collins_infovis_09
+dwyer_infovis_06
+dwyer_infovis_08
+elmqvist_infovis_08
+freiler_infovis_08
+heer_infovis_05
+henry_infovis_08
+henry_infovis_07
+riche_infovis_10
+shneiderman_infovis_06

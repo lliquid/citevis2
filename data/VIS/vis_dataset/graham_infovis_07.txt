@@ -1,0 +1,10 @@
+title: Exploring Multiple Trees through DAG Representations
+authors: Martin Graham, Jessie Kennedy
+abstract: We present a Directed Acyclic Graph visualisation designed to allow interaction with a set of multiple classification trees, specifically to find overlaps and differences between groups of trees and individual trees. The work is motivated by the need to find a representation for multiple trees that has the space-saving property of a general graph representation and the intuitive parent-child direction cues present in individual representation of trees. Using example taxonomic data sets, we describe augmentations to the common barycenter DAG layout method that reveal shared sets of child nodes between common parents in a clearer manner. Other interactions such as displaying the multiple ancestor paths of a node when it occurs in several trees, and revealing intersecting sibling sets within the context of a single DAG representation are also discussed.
+vis citations:
+plaisant_infovis_02
+stasko_infovis_00
+van_ham_infovis_02
+zhao_infovis_05
+kobsa_infovis_04
+riehmann_infovis_05

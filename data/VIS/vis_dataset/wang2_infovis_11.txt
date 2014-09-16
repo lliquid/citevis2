@@ -1,0 +1,7 @@
+title: Focus+Context Metro Maps
+authors: Yu-Shuen Wang, Ming-Te Chi
+abstract: We introduce a focus+context method to visualize a complicated metro map of a modern city on a small displaying area. The context of our work is with regard the popularity of mobile devices. The best route to the destination, which can be obtained from the arrival time of trains, is highlighted. The stations on the route enjoy larger spaces, whereas the other stations are rendered smaller and closer to fit the whole map into a screen. To simplify the navigation and route planning for visitors, we formulate various map characteristics such as octilinear transportation lines and regular station distances into energy terms. We then solve for the optimal layout in a least squares sense. In addition, we label the names of stations that are on the route of a passenger according to human preferences, occlusions, and consistencies of label positions using the graph cuts method. Our system achieves real-time performance by being able to report instant information because of the carefully designed energy terms. We apply our method to layout a number of metro maps and show the results and timing statistics to demonstrate the feasibility of our technique.
+vis citations:
+keahey_infovis_98
+wangl_vis_05
+wang_vis_08

@@ -1,0 +1,8 @@
+title: Brushing of Attribute Clouds for the Visualization of Multivariate Data
+authors: Heike J??nicke, Michael B??ttinger, Gerik Scheuermann
+abstract: The visualization and exploration of multivariate data is still a challenging task. Methods either try to visualize all variables simultaneously at each position using glyph-based approaches or use linked views for the interaction between attribute space and physical domain such as brushing of scatterplots. Most visualizations of the attribute space are either difficult to understand or suffer from visual clutter. We propose a transformation of the high-dimensional data in attribute space to 2D that results in a point cloud, called attribute cloud, such that points with similar multivariate attributes are located close to each other. The transformation is based on ideas from multivariate density estimation and manifold learning. The resulting attribute cloud is an easy to understand visualization of multivariate data in two dimensions. We explain several techniques to incorporate additional information into the attribute cloud, that help the user get a better understanding of multivariate data. Using different examples from fluid dynamics and climate simulation, we show how brushing can be used to explore the attribute cloud and find interesting structures in physical space.
+vis citations:
+fua_infovis_99
+hauser_infovis_02
+henze_vis_98
+tricoche_vis_04

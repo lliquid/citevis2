@@ -1,0 +1,8 @@
+title: Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering
+authors: Wei Peng, Matthew O. Ward, Elke A. Rundensteiner
+abstract: Visual clutter denotes a disordered collection of graphical entities in information visualization. Clutter can obscure the structure present in the data. Even in a small dataset, clutter can make it hard for the viewer to find patterns, relationships and structure.In this paper, we define visual clutter as any aspect of the visualization that interferes with the viewer???s understanding of the data, and present the concept of clutter-based dimension reordering. Dimension order is an attribute that can significantly affect a visualization???s expressiveness. By varying the dimension order in a display, it is possible to reduce clutter without reducing information content or modifying the data in any way.Clutter reduction is a display-dependent task. In this paper, we follow a three-step procedure for four different visualization techniques. For each display technique, first, we determine what constitutes clutter in terms of display properties; then we design a metric to measure visual clutter in this display; finally we search for an order that minimizes the clutter in a display.
+vis citations:
+ankerst_infovis_98
+fua_vis_99
+stolte_infovis_00
+yang_infovis_03

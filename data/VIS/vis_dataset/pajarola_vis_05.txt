@@ -1,0 +1,10 @@
+title: Stream-Processing Points
+authors: Renato Pajarola
+abstract: With the growing size of captured 3D models it has become increasingly important to provide basic efficient processing methods for large unorganized raw surface-sample point data sets. In this paper we introduce a novel stream-based (and out-of-core) point processing framework. The proposed approach processes points in an orderly sequential way by sorting them and sweeping along a spatial dimension. The major advantages of this new concept are: (1) support of extensible and concatenable local operators called stream operators, (2) low main-memory usage and (3) applicability to process very large data sets out-of-core.
+vis citations:
+alexa_vis_01
+clarenz_vis_00
+dey_vis_02
+isenburg_vis_05
+isenburg_vis_03
+pauly_vis_02

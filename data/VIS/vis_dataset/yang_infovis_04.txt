@@ -1,0 +1,8 @@
+title: Value and Relation Display for Interactive Exploration of High Dimensional Datasets
+authors: Jing Yang, Anilkumar Patro, Shiping Huang, Nishant Mehta, Matthew O.
+Ward, Elke A. Rundensteiner
+abstract: Traditional multi-dimensional visualization techniques, such as glyphs, parallel coordinates and scatterplot matrices, suffer from clutter at the display level and difficult user navigation among dimensions when visualizing high dimensional datasets. In this paper, we propose a new multi-dimensional visualization technique named a Value and Relation (VaR) display, together with a rich set of navigation and selection tools, for interactive exploration of datasets with up to hundreds of dimensions. By explicitly conveying the relationships among the dimensions of a high dimensional dataset, the VaR display helps users grasp the associations among dimensions. By using pixel-oriented techniques to present values of the data items in a condensed manner, the VaR display reveals data patterns in the dataset using as little screen space as possible. The navigation and selection tools enable users to interactively reduce clutter, navigate within the dimension space, and examine data value details within context effectively and efficiently. The VaR display scales well to datasets with large numbers of data items by employing sampling and texture mapping. A case study on a real dataset, as well as the VaR displays of multiple real datasets throughout the paper, reveals how our proposed approach helps users interactively explore high dimensional datasets with large numbers of data items.
+vis citations:
+ankerst_infovis_98
+wong_p_infovis_03
+yang_infovis_03

@@ -1,0 +1,9 @@
+title: Random-Accessible Compressed Triangle Meshes
+authors: Sung-Eui Yoon, Peter Lindstrom
+abstract: With the exponential growth in size of geometric data, it is becoming increasingly important to make effective use of multilevel caches, limited disk storage, and bandwidth. As a result, recent work in the visualization community has focused either on designing sequential access compression schemes or on producing cache-coherent layouts of (uncompressed) meshes for random access. Unfortunately combining these two strategies is challenging as they fundamentally assume conflicting modes of data access. In this paper, we propose a novel order-preserving compression method that supports transparent random access to compressed triangle meshes. Our decompression method selectively fetches from disk, decodes, and caches in memory requested parts of a mesh. We also provide a general mesh access API for seamless mesh traversal and incidence queries. While the method imposes no particular mesh layout, it is especially suitable for cache-oblivious layouts, which minimize the number of decompression I/O requests and provide high cache utilization during access to decompressed, in-memory portions of the mesh. Moreover, the transparency of our scheme enables improved performance without the need for application code changes. We achieve compression rates on the order of 20:1 and significantly improved I/O performance due to reduced data transfer. To demonstrate the benefits of our method, we implement two common applications as benchmarks. By using cache-oblivious layouts for the input models, we observe 2???6 times overall speedup compared to using uncompressed meshes.
+vis citations:
+decoro_vis_02
+ho_vis_01
+isenburg_vis_05
+lindstro_vis_06
+yoon_vis_06

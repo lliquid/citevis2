@@ -1,0 +1,6 @@
+title: Light Weight Space Leaping using Ray Coherence
+authors: Sarang Lakare, Arie Kaufman
+abstract: We present a space leaping technique for accelerating volume rendering with very low space and run-time complexity. Our technique exploits the ray coherence during ray casting by using the distance a ray traverses in empty space to leap its neighboring rays. Our technique works with parallel as well as perspective volume rendering, does not require any pre-processing or 3D data structures, and is independent of the transfer function. Being an image-space technique, it is independent of the complexity of the data being rendered. It can be used to accelerate both time-coherent and non coherent animation sequences.
+vis citations:
+parker_vis_98
+wan_vis_02

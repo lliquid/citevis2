@@ -1,0 +1,10 @@
+title: High-Level User Interfaces for Transfer Function Design with Semantics
+authors: Christof Rezk Salama, Maik Keller, Peter Kohlmann
+abstract: Many sophisticated techniques for the visualization of volumetric data such as medical data have been published. While existing techniques are mature from a technical point of view, managing the complexity of visual parameters is still difficult for nonexpert users. To this end, this paper presents new ideas to facilitate the specification of optical properties for direct volume rendering. We introduce an additional level of abstraction for parametric models of transfer functions. The proposed framework allows visualization experts to design high-level transfer function models which can intuitively be used by non-expert users. The results are user interfaces which provide semantic information for specialized visualization problems. The proposed method is based on principal component analysis as well as on concepts borrowed from computer animation.
+vis citations:
+fang_vis_98
+kniss_vis_01
+kniss_vis_02
+kniss_vis_03
+krueger_vis_03
+tzeng_vis_03

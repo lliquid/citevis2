@@ -1,0 +1,14 @@
+title: Using Visual Analytics to Maintain Situation Awareness in Astrophysics
+authors: Cecilia R. Aragon, Sarah S. Poon, Gregory S. Aldering, Rollin C. Thomas, Robert Quimby
+abstract: We present a novel collaborative visual analytics application for cognitively overloaded users in the astrophysics domain. The system was developed for scientists needing to analyze heterogeneous, complex data under time pressure, and then make predictions and time-critical decisions rapidly and correctly under a constant influx of changing data. The Sunfall Data Taking system utilizes several novel visualization and analysis techniques to enable a team of geographically distributed domain specialists to effectively and remotely maneuver a custom-built instrument under challenging operational conditions. Sunfall Data Taking has been in use for over eighteen months by a major international astrophysics collaboration (the largest data volume supernova search currently in operation), and has substantially improved the operational efficiency of its users. We describe the system design process by an interdisciplinary team, the system architecture, and the results of an informal usability evaluation of the production system by domain experts in the context of Endsley???s three levels of situation awareness [1].
+vis citations:
+kim_vast_07
+liyingga_vis_06
+pattath_vast_06
+eick_vast_07
+kapler_infovis_04
+pan_vast_07
+tesone_vast_07
+shaw_vast_07
+maciejewski_vast_07
+scholtz_vast_06

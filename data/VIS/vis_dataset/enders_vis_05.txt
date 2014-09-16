@@ -1,0 +1,10 @@
+title: Visualization of White Matter Tracts with Wrapped Streamlines
+authors: Frank Enders, Natascha Sauber, Christopher Nimsky, Dorit Merhof, Marc
+Stamminger, Peter Hastreiter
+abstract: Diffusion tensor imaging is a magnetic resonance imaging method which has gained increasing importance in neuroscience and especially in neurosurgery. It acquires diffusion properties represented by a symmetric 2nd order tensor for each voxel in the gathered dataset. From the medical point of view, the data is of special interest due to different diffusion characteristics of varying brain tissue allowing conclusions about the underlying structures such as white matter tracts. An obvious way to visualize this data is to focus on the anisotropic areas using the major eigenvector for tractography and rendering lines for visualization of the simulation results. Our approach extends this technique to avoid line representation since lines lead to very complex illustrations and furthermore are mistakable. Instead, we generate surfaces wrapping bundles of lines. Thereby, a more intuitive representation of different tracts is achieved.
+vis citations:
+akers_vis_04
+gavriliu_vis_01
+kindlman_vis_99
+kniss_vis_01
+weinstei_vis_99

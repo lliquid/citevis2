@@ -1,0 +1,10 @@
+title: Parallel Tag Clouds to Explore and Analyze Faceted Text Corpora
+authors: Christopher Collins, Fernanda B. Viegas, Martin Wattenberg
+abstract: Do court cases differ from place to place? What kind of picture do we get by looking at a country???s collection of law cases? We introduce Parallel Tag Clouds: a new way to visualize differences amongst facets of very large metadata-rich text corpora. We have pointed Parallel Tag Clouds at a collection of over 600,000 US Circuit Court decisions spanning a period of 50 years and have discovered regional as well as linguistic differences between courts. The visualization technique combines graphical elements from parallel coordinates and traditional tag clouds to provide rich overviews of a document collection while acting as an entry point for exploration of individual texts. We augment basic parallel tag clouds with a details-in-context display and an option to visualize changes over a second facet of the data, such as time. We also address text mining challenges such as selecting the best words to visualize, and how to do so in reasonable time periods to maintain interactivity.
+vis citations:
+doerk_infovis_08
+havre_infovis_00
+shneiderman_infovis_06
+stasko_vast_07
+wattenbe_infovis_08
+willett_infovis_07

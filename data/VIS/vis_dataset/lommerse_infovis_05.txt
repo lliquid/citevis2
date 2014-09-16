@@ -1,0 +1,6 @@
+title: The Visual Code Navigator: An Interactive Toolset for Source Code Investigation
+authors: Gerard Lommerse, Freek Nossin, Lucian Voinea, Alexandru Telea
+abstract: We present the Visual Code Navigator, a set of three interrelated visual tools that we developed for exploring large source code software projects from three different perspectives, or views: The syntactic view shows the syntactic constructs in the source code. The symbol view shows the objects a file makes available after compilation, such as function signatures, variables, and namespaces. The evolution view looks at different versions in a project lifetime of a number of selected source files. The views share one code model, which combines hierarchical syntaxbased and line-based information from multiple source files versions. We render this code model using a visual model that extends the pixel-filling, space partitioning properties of shaded cushion treemaps with novel techniques. We discuss how our views allow users to interactively answer complex questions on various code elements by simple mouse clicks. We validate the efficiency and effectiveness of our toolset by an informal user study on the source code of VTK, a large, industry-size C++ code base.
+vis citations:
+vanwijk_vis_01
+vanwijk1_infovis_99

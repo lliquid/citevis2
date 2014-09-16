@@ -1,0 +1,10 @@
+title: PedVis: A Structured, Space-Efficient Technique for Pedigree Visualization
+authors: Claurissa Tuttle, Luis Gustavo Nonato, Claudio T. Silva
+abstract: Public genealogical databases are becoming increasingly populated with historical data and records of the current population???s ancestors. As this increasing amount of available information is used to link individuals to their ancestors, the resulting trees become deeper and more dense, which justifies the need for using organized, space-efficient layouts to display the data. Existing layouts are often only able to show a small subset of the data at a time. As a result, it is easy to become lost when navigating through the data or to lose sight of the overall tree structure. On the contrary, leaving space for unknown ancestors allows one to better understand the tree???s structure, but leaving this space becomes expensive and allows fewer generations to be displayed at a time. In this work, we propose that the H-tree based layout be used in genealogical software to display ancestral trees. We will show that this layout presents an increase in the number of displayable generations, provides a nicely arranged, symmetrical, intuitive and organized fractal structure, increases the user???s ability to understand and navigate through the data, and accounts for the visualization requirements necessary for displaying such trees. Finally, user-study results indicate potential for user acceptance of the new layout.
+vis citations:
+henry_infovis_08
+mcguffin_infovis_05
+muelder_infovis_08
+nguyen_infovis_02
+plaisant_infovis_02
+vanwijk_infovis_03

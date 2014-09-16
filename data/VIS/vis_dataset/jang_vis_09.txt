@@ -1,0 +1,18 @@
+title: Interactive Volume Rendering of Functional Representations in Quantum Chemistry
+authors: Yun Jang, Member, Ugo Varetto
+abstract: Simulation and computation in chemistry studies have been improved as computational power has increased over decades. Many types of chemistry simulation results are available, from atomic level bonding to volumetric representations of electron density. However, tools for the visualization of the results from quantum chemistry computations are still limited to showing atomic bonds and isosurfaces or isocontours corresponding to certain isovalues. In this work, we study the volumetric representations of the results from quantum chemistry computations, and evaluate and visualize the representations directly on the GPU without resampling the result in grid structures. Our visualization tool handles the direct evaluation of the approximated wavefunctions described as a combination of Gaussian-like primitive basis functions. For visualizations, we use a slice based volume rendering technique with a 2D transfer function, volume clipping, and illustrative rendering in order to reveal and enhance the quantum chemistry structure. Since there is no need of resampling the volume from the functional representations, two issues, data transfer and resampling resolution, can be ignored, therefore, it is possible to interactively explore large amount of different information in the computation results.
+vis citations:
+bajaj_vis_04
+cheng_vis_04
+cipriano_vis_07
+ebert_vis_00
+grottel_vis_07
+krueger_vis_03
+lampe_vis_07
+mehta_vis_06
+mehta_vis_04
+qiao_vis_05
+qiao_vis_06
+schmidte_vis_02
+svakhine_vis_05
+tarini_vis_06

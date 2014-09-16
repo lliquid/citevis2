@@ -1,0 +1,7 @@
+title: A Pipeline for Computer Aided Polyp Detection
+authors: Wei Hong, Feng Qiu, Arie Kaufman
+abstract: We present a novel pipeline for computer-aided detection (CAD) of colonic polyps by integrating texture and shape analysis with volume rendering and conformal colon flattening. Using our automatic method, the 3D polyp detection problem is converted into a 2D pattern recognition problem. The colon surface is first segmented and extracted from the CT data set of the patient???s abdomen, which is then mapped to a 2D rectangle using conformal mapping. This flattened image is rendered using a direct volume rendering technique with a translucent electronic biopsy transfer function. The polyps are detected by a 2D clustering method on the flattened image. The false positives are further reduced by analyzing the volumetric shape and texture features. Compared with shape based methods, our method is much more efficient without the need of computing curvature and other shape parameters for the whole colon surface. The final detection results are stored in the 2D image, which can be easily incorporated into a virtual colonoscopy (VC) system to highlight the polyp locations. The extracted colon surface mesh can be used to accelerate the volumetric ray casting algorithm used to generate the VC endoscopic view. The proposed automatic CAD pipeline is incorporated into an interactive VC system, with a goal of helping radiologists detect polyps faster and with higher accuracy.
+vis citations:
+bartoli_vis_01
+krueger_vis_03
+zhang_vis_04

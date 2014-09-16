@@ -1,0 +1,4 @@
+title: Surface Reconstruction with Anisotropic Density-Scaled Alpha Shapes
+authors: Marek Teichmann, Michael Cappst
+abstract: Generation of a three-dimensional model from an unorganized set of points is an active area of research in computer graphics. Alpha shapes can be employed to construct a surface which most closely reflects the object described by the points. However, no ashape, for any value of a, can properly detail discontinuous regions of a model. We introduce herein two methods of improving the results of reconstruction using ashapes: density-scaling, which modulates the value of a depending on the density of points in a region; and anisotropic shaping, which modulates the form of the aball based on point normals. We give experimental results that show the successes and limitations of our method.
+vis citations:

@@ -1,0 +1,8 @@
+title: Hierarchical Splatting of Scattered Data
+authors: Matthias Hopfk, Thomas Ertl
+abstract: Numerical particle simulations and astronomical observations create huge data sets containing uncorrelated 3D points of varying size. These data sets cannot be visualized interactively by simply rendering millions of colored points for each frame. Therefore, in many visualization applications a scalar density corresponding to the point distribution is resampled on a regular grid for direct volume rendering. However, many fine details are usually lost for voxel resolutions which still allow interactive visualization on standard workstations. Since no surface geometry is associated with our data sets, the recently introduced point-based rendering algorithms cannot be applied as well.In this paper we propose to accelerate the visualization of scattered point data by a hierarchical data structure based on a PCA clustering procedure. By traversing this structure for each frame we can trade-off rendering speed vs. image quality. Our scheme also reduces memory consumption by using quantized relative coordinates and it allows for fast sorting of semi-transparent clusters. We analyze various software and hardware implementations of our renderer and demonstrate that we can now visualize data sets with tens of millions of points interactively with sub-pixel screen space error on current PC graphics hardware employing advanced vertex shader functionality.
+vis citations:
+alexa_vis_01
+mueller_vis_99
+pauly_vis_02
+zwicker_vis_01

@@ -1,0 +1,7 @@
+title: Continuous Topology Simplification of Planar Vector Fields
+authors: Xavier Tricoche, Gerik Scheuermann, Hans Hagen
+abstract: Vector fields can present complex structural behavior, especially in turbulent computational fluid dynamics. The topological analysis of these datasets reduces the information but one is usually still left with too many details for interpretation. In this paper, we present a simplification approach that removes pairs of critical points from the dataset, based on relevance measures. In contrast to earlier methods, no grid changes are necessary since the whole method uses small local changes of the vector values defining the vector field. An interpretation in terms of bifurcations underlines the continuous, natural flavor of the algorithm.
+vis citations:
+nielson_vis_98
+deleeuw_vis_99
+tricoche_vis_00

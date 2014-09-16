@@ -1,0 +1,10 @@
+title: ParallelTopics: A Probabilistic Approach to Exploring Document Collections
+authors: Wenwen Dou, Xiaoyu Wang, Remco Chang, William Ribarsky
+abstract: Scalable and effective analysis of large text corpora remains a challenging problem as our ability to collect textual data continues to increase at an exponential rate. To help users make sense of large text corpora, we present a novel visual analytics system, ParallelTopics, which integrates a state-of-the-art probabilistic topic model Latent Dirichlet Allocation (LDA) with interactive visualization. To describe a corpus of documents, ParallelTopics first extracts a set of semantically meaningful topics using LDA. Unlike most traditional clustering techniques in which a document is assigned to a specific cluster, the LDA model accounts for different topical aspects of each individual document. This permits effective full text analysis of larger documents that may contain multiple topics.To highlight this property of the model, ParallelTopics utilizes the parallel coordinate metaphor to present the probabilistic distribution of a document across topics. Such representation allows the users to discover single-topic vs. multi-topic documents and the relative importance of each topic to a document of interest. In addition, since most text corpora are inherently temporal, ParallelTopics also depicts the topic evolution over time. We have applied ParallelTopics to exploring and analyzing several text corpora, including the scientific proposals awarded by the National Science Foundation and the publications in the VAST community over the years. To demonstrate the efficacy of ParallelTopics, we conducted several expert evaluations, the results of which are reported in this paper.
+vis citations:
+chenyanh_infovis_09
+crossno_vast_09
+dasgupta_infovis_10
+havre_infovis_00
+oesterli_vast_10
+shi_vast_10

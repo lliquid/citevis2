@@ -1,0 +1,12 @@
+title: High Performance Volume Splatting for Visualization of Neurovascular Data
+authors: F. Vega-Higuera, P. Hastreiter, R. Fahlbusch, G. Greiner
+abstract: A new technique is presented to increase the performance of volume splatting by using hardware accelerated point sprites. This allows creating screen aligned elliptical splats for high quality volume splatting at very low cost on the GPU. Only one vertex per splat is stored on the graphics card. GPU generated point sprite texture coordinates are used for computing splats and per-fragment 3D-texture coordinates on the fly. Thus, only 6 bytes per splat are stored on the GPU and vertex shader load is 25 % in comparison to applying textured quads. For eight predefined viewing directions, depth-sorting of the splats is performed in a pre-processing step where the resulting indices are stored on the GPU. Thereby, there is no data transfer between CPU and GPU during rendering.Post-classificative two dimensional transfer functions with lighting for scalar data and tagged volumes were implemented. Thereby, we focused on the visualization of neurovascular structures, where typically no more than 2 % of the voxels contribute to the resulting 3D-representation. A comparison with a 3D-texture-based slicing algorithm showed frame rates up to 11 times higher for the presented approach on current GPUs. The presented technique was evaluated with a broad medical database and its value for highly sparse volume visualization is shown.
+vis citations:
+chen_vis_04
+hadwiger_vis_03
+hopf_vis_03
+kniss_vis_01
+krueger_vis_03
+li_w_vis_03
+mueller_vis_99
+zwicker_vis_01

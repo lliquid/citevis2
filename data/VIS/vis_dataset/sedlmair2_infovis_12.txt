@@ -1,0 +1,17 @@
+title: RelEx: Visualization for Actively Changing Overlay Network Specifications
+authors: Michael Sedlmair, Annika Frank, Tamara Munzner, Andreas Butz
+abstract: We present a network visualization design study focused on supporting automotive engineers who need to specify and optimize traffic patterns for in-car communication networks. The task and data abstractions that we derived support actively making changes to an overlay network, where logical communication specifications must be mapped to an underlying physical network. These abstractions are very different from the dominant use case in visual network analysis, namely identifying clusters and central nodes, that stems from the domain of social network analysis. Our visualization tool RelEx was created and iteratively refined through a full user-centered design process that included a full problem characterization phase before tool design began, paper prototyping, iterative refinement in close collaboration with expert users for formative evaluation, deployment in the field with real analysts using their own data, usability testing with non-expert users, and summative evaluation at the end of the deployment. In the summative post-deployment study, which entailed domain experts using the tool over several weeks in their daily practice, we documented many examples where the use of RelEx simplified or sped up their work compared to previous practices.
+vis citations:
+barsky_infovis_08
+heer_infovis_05
+henry_infovis_08
+henry_infovis_06
+henry_infovis_07
+kang_vast_06
+munzner_infovis_09
+munzner_infovis_99
+nielsen_infovis_09
+perer_vast_11
+sedlmair_infovis_12
+vanham_infovis_03
+weaver_infovis_04

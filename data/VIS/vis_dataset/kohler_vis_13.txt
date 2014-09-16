@@ -1,0 +1,12 @@
+title: Semi-Automatic Vortex Extraction in 4D PC-MRI Cardiac Blood Flow Data Using Line Predicates
+authors: Benjamin K??hler, Rocco Gasteiger, Uta Preim, Holger Theisel, Matthias Gutberlet, Bernhard Preim
+abstract: Cardiovascular diseases (CVD) are the leading cause of death worldwide. Their initiation and evolution depends strongly on the blood flow characteristics. In recent years, advances in 4D PC-MRI acquisition enable reliable and time-resolved 3D flow measuring, which allows a qualitative and quantitative analysis of the patient-specific hemodynamics. Currently, medical researchers investigate the relation between characteristic flow patterns like vortices and different pathologies. The manual extraction and evaluation is tedious and requires expert knowledge. Standardized, (semi-)automatic and reliable techniques are necessary to make the analysis of 4D PC-MRI applicable for the clinical routine. In this work, we present an approach for the extraction of vortex flow in the aorta and pulmonary artery incorporating line predicates. We provide an extensive comparison of existent vortex extraction methods to determine the most suitable vortex criterion for cardiac blood flow and apply our approach to ten datasets with different pathologies like coarctations, Tetralogy of Fallot and aneurysms. For two cases we provide a detailed discussion how our results are capable to complement existent diagnosis information. To ensure real-time feedback for the domain experts we implement our method completely on the GPU.
+vis citations:
+gasteiger_vis_11
+hoppe_vis_99
+hummel_vis_10
+koehler_vis_11
+peikert_vis_99
+theisel_vis_04
+vanpelt_vis_10
+weinkauf_vis_07

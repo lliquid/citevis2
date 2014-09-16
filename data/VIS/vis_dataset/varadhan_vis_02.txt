@@ -1,0 +1,6 @@
+title: Out-of-Core Rendering of Massive Geometric Environments
+authors: Gokul Varadhan, Dinesh Manocha
+abstract: We present an external memory algorithm for fast display of very large and complex geometric environments. We represent the model using a scene graph and employ different culling techniques for rendering acceleration. Our algorithm uses a parallel approach to render the scene as well as fetch objects from the disk in a synchronous manner. We present a novel prioritized prefetching technique that takes into account LOD-switching and visibility-based events between successive frames. We have applied our algorithm to large gigabyte sized environments that are composed of thousands of objects and tens of millions of polygons. The memory overhead of our algorithm is output sensitive and is typically tens of megabytes. In practice, our approach scales with the model sizes, and its rendering performance is comparable to that of an in-core algorithm.
+vis citations:
+lindstrom01_vis_01
+shaffer_vis_01

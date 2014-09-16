@@ -1,0 +1,7 @@
+title: Cores of Swirling Particle Motion in Unsteady Flows
+authors: Tino Weinkauf, Jan Sahner, Holger Theisel, Hans-Christian Hege
+abstract: In nature and in flow experiments particles form patterns of swirling motion in certain locations. Existing approaches identify these structures by considering the behavior of stream lines. However, in unsteady flows particle motion is described by path lines which generally gives different swirling patterns than stream lines. We introduce a novel mathematical characterization of swirling motion cores in unsteady flows by generalizing the approach of Sujudi/Haimes to path lines. The cores of swirling particle motion are lines sweeping over time, i.e., surfaces in the space-time domain. They occur at locations where three derived 4D vectors become coplanar. To extract them, we show how to re-formulate the problem using the Parallel Vectors operator. We apply our method to a number of unsteady flow fields.
+vis citations:
+peikert_vis_99
+roth_vis_98
+theisel_vis_05

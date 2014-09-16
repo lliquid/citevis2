@@ -1,0 +1,4 @@
+title: Information Content Measures of Visual Displays
+authors: Julie Yang-Pelaez, Woodie C. Flowers
+abstract: With an increase in the number of different visualization techniques, it becomes necessary to develop a measure for evaluating the effectiveness of visualizations. Metrics to evaluate visual displays were developed based on measures of information content developed by Shannon and used in communication theory. These measures of information content can be used to quantify the relative effectiveness of displays.
+vis citations:

@@ -1,0 +1,6 @@
+title: Multivariate Glyphs for Multi-Object Clusters
+authors: Eleanor Boyle Chlan, Penny Rheingans
+abstract: Aggregating items can simplify the display of huge quantities of data values at the cost of losing information about the attribute values of the individual items. We propose a distribution glyph, in both two and three-dimensional forms, which specifically addresses the concept of how the aggregated data is distributed over the possible range of values. It is capable of displaying distribution, variability and extent information for up to four attributes at a time of multivariate, clustered data. User studies validate the concept, showing that both glyphs are just as good as raw data and the 3D glyph is better for answering some questions.
+vis citations:
+fua_vis_99
+sprenger_vis_00

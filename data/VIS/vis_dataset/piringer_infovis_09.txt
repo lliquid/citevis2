@@ -1,0 +1,15 @@
+title: A Multi-Threading Architecture to Support Interactive Visual Exploration
+authors: Harald Piringer, Christian Tominski, Philipp Muigg, Wolfgang Berger
+abstract: During continuous user interaction, it is hard to provide rich visual feedback at interactive rates for datasets containing millions of entries. The contribution of this paper is a generic architecture that ensures responsiveness of the application even when dealing with large data and that is applicable to most types of information visualizations. Our architecture builds on the separation of the main application thread and the visualization thread, which can be cancelled early due to user interaction. In combination with a layer mechanism, our architecture facilitates generating previews incrementally to provide rich visual feedback quickly. To help avoiding common pitfalls of multi-threading, we discuss synchronization and communication in detail. We explicitly denote design choices to control trade-offs. A quantitative evaluation based on the system VISPLORE shows fast visual feedback during continuous interaction even for millions of entries. We describe instantiations of our architecture in additional tools.
+vis citations:
+blanch_infovis_07
+bavoil_vis_06
+chan_vast_08
+chi_infovis_00
+ellis_infovis_06
+fekete_infovis_04
+fekete_infovis_02
+heer2_infovis_06
+law_vis_99
+novotny_vis_06
+weaver_infovis_04

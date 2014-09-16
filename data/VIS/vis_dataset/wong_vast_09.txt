@@ -1,0 +1,8 @@
+title: A Multi-Level Middle-Out Cross-Zooming Approach for Large Graph Analytics
+authors: Pak Chung Wong, Patrick Mackey, Kristin A. Cook, Randall M. Rohrer, Harlan Foote, Mark A. Whiting
+abstract: This paper presents a working graph analytics model that embraces the strengths of the traditional top-down and bottom-up approaches with a resilient crossover concept to exploit the vast middle-ground information overlooked by the two extreme analytical approaches. Our graph analytics model is co-developed by users and researchers, who carefully studied the functional requirements that reflect the critical thinking and interaction pattern of a real-life intelligence analyst. To evaluate the model, we implement a system prototype, known as GreenHornet, which allows our analysts to test the theory in practice, identify the technological and usage-related gaps in the model, and then adapt the new technology in their work space. The paper describes the implementation of GreenHornet and compares its strengths and weaknesses against the other prevailing models and tools.
+vis citations:
+gansner_infovis_04
+henry_infovis_07
+stasko_vast_07
+vanham_infovis_04

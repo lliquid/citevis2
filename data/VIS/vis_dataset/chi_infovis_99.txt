@@ -1,0 +1,5 @@
+title: Sensemaking of Evolving Web Sites Using Visualization Spreadsheets
+authors: Ed H. Chi, Stuart K. Card
+abstract: In the process of knowledge discovery, workers examine available information in order to make sense of it. By sensemaking, we mean interacting with and operating on the information with a variety of information processing mechanisms [3,18]. Previously, we introduced a concept that uses the spreadsheet metaphor with cells containing visualizations of complex data. In this paper, we extend and apply a cognitive model called ???visual sensemaking??? to the Visualization Spreadsheet. We use the task of making sense of a large Web site as a concrete example through out the paper for demonstration. Using a variety of visualization techniques, such as the Disk Tree and Cone Tree, we show that the interactions of the Visualization Spreadsheet help users draw conclusions from the overall relationships of the entire information set.
+vis citations:
+chi_infovis_98

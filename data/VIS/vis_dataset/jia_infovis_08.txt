@@ -1,0 +1,7 @@
+title: On the Visualization of Social and other Scale-Free Networks
+authors: Yuntao Jia, Jared Hoberock, Michael Garland, John C. Hart
+abstract: This paper proposes novel methods for visualizing specifically the large power-law graphs that arise in sociology and the sciences. In such cases a large portion of edges can be shown to be less important and removed while preserving component connectedness and other features (e.g. cliques) to more clearly reveal the network???s underlying connection pathways. This simplification approach deterministically filters (instead of clustering) the graph to retain important node and edge semantics, and works both automatically and interactively. The improved graph filtering and layout is combined with a novel computer graphics anisotropic shading of the dense crisscrossing array of edges to yield a full social network and scale-free graph visualization system. Both quantitative analysis and visual results demonstrate the effectiveness of this approach.
+vis citations:
+auber_infovis_03
+kumar_infovis_06
+rafiei_vis_05

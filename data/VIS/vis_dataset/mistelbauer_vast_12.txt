@@ -1,0 +1,13 @@
+title: Smart Super Views ??? A Knowledge-Assisted Interface for Medical Visualization
+authors: Gabriel Mistelbauer, Arnold K??chl, Hamed Bouzari, Stefan Bruckner, R??diger Schernthaner, Milos Sramek, Ivan Baclija, M. Eduard Gr??ller
+abstract: Due to the ever growing volume of acquired data and information, users have to be constantly aware of the methods for their exploration and for interaction. Of these, not each might be applicable to the data at hand or might reveal the desired result. Owing to this, innovations may be used inappropriately and users may become skeptical. In this paper we propose a knowledge-assisted interface for medical visualization, which reduces the necessary effort to use new visualization methods, by providing only the most relevant ones in a smart way. Consequently, we are able to expand such a system with innovations without the users to worry about when, where, and especially how they may or should use them. We present an application of our system in the medical domain and give qualitative feedback from domain experts.
+vis citations:
+bruckner_vis_05
+kanitsar_vis_02
+kohlmann_vis_07
+mcguffin_vis_03
+rautek_vis_07
+salama_vis_06
+steinberger_infovis_11
+viola_vis_06
+wangl_vis_05

@@ -1,0 +1,13 @@
+title: ClearView: An Interactive Context Preserving Hotspot Visualization Technique
+authors: Jens Kr??ger, Jens Schneider, R??diger Westermann
+abstract: Volume rendered imagery often includes a barrage of 3D information like shape, appearance and topology of complex structures, and it thus quickly overwhelms the user. In particular, when focusing on a specific region a user cannot observe the relationship between various structures unless he has a mental picture of the entire data. In this paper we present ClearView, a GPU-based, interactive framework for texture-based volume ray-casting that allows users which do not have the visualization skills for this mental exercise to quickly obtain a picture of the data in a very intuitive and user-friendly way. ClearView is designed to enable the user to focus on particular areas in the data while preserving context information without visual clutter. ClearView does not require additional feature volumes as it derives any features in the data from image information only. A simple point-and-click interface enables the user to interactively highlight structures in the data. ClearView provides an easy to use interface to complex volumetric data as it only uses transparency in combination with a few specific shaders to convey focus and context information.
+vis citations:
+bruckner_vis_05
+ebert_vis_00
+krueger_vis_03
+lu_vis_02
+mcguffin_vis_03
+shaw_vis_99
+viola_vis_04
+wangl_vis_05
+weiskopf_vis_02

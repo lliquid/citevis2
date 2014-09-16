@@ -1,0 +1,10 @@
+title: Extracting Higher Order Critical Points and Topological Simplification of 3D Vector Fields
+authors: Tino Weinkauf, Holger Theisel, Kuangyu Shi, Hans-Christian Hege, Hans-Peter Seidel
+abstract: This paper presents an approach to extracting and classifying higher order critical points of 3D vector fields. To do so, we place a closed convex surface s around the area of interest. Then we show that the complete 3D classification of a critical point into areas of different flow behavior is equivalent to extracting the topological skeleton of an appropriate 2D vector field on s, if each critical point is equipped with an additional Bit of information. Out of this skeleton, we create an icon which replaces the complete topological structure inside s for the visualization. We apply our method to find a simplified visual representation of clusters of critical points, leading to expressive visualizations of topologically complex 3D vector fields.
+vis citations:
+deleeuw_vis_99
+lodha_vis_00
+mann_vis_02
+theisel_vis_03
+tricoche_vis_00
+tricoche_vis_01

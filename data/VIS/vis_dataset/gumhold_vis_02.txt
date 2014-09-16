@@ -1,0 +1,4 @@
+title: Maximum Entropy Light Source Placement
+authors: Stefan Gumhold
+abstract: Finding the ???best??? viewing parameters for a scene is quite difficult but a very important problem. Fully automatic procedures seem to be impossible as the notion of ???best??? strongly depends on the human judgment as well as on the application. In this paper a solution to the sub-problem of placing light sources for given camera parameters is proposed. A light position is defined to be optimal, when the resulting illumination reveals more about the scene as the illuminations from all other light positions, i.e. the light position maximizes the information that is added to the image through the illumination. With the help of an experiment with several subjects we could adapt the information measure to the actually perceived information content. We present fast global optimization procedures and solutions for two and more light sources.
+vis citations:

@@ -1,0 +1,16 @@
+title: Multidimensional Data Dissection Using Attribute Relationship Graphs
+authors: Chris Weaver
+abstract: Visual exploration and analysis is a process of discovering and dissecting the abundant and complex attribute relationships that pervade multidimensional data. Recent research has identified and characterized patterns of multiple coordinated views, such as crossfiltered views, in which rapid sequences of simple interactions can be used to express queries on subsets of attribute values. In visualizations designed around these patterns, for the most part, distinct views serve to visually isolate each attribute from the others. Although the brush-and-click simplicity of visual isolation facilitates discovery of many-to-many relationships between attributes, dissecting these relationships into more fine-grained one-to-many relationships is interactively tedious and, worse, visually fragmented over prolonged sequences of queries.This paper describes: (1) a method for interactively dissecting multidimensional data by iteratively slicing and manipulating a multigraph representation of data values and value co-occurrences; and (2) design strategies for extending the construction of coordinated multiple view interfaces for dissection as well as discovery of attribute relationships in multidimensional data sets. Using examples from different domains, we describe how attribute relationship graphs can be combined with cross-filtered views, modularized for reuse across designs, and integrated into broader visual analysis tools. The exploratory and analytic utility of these examples suggests that an attribute relationship graph would be a useful addition to a wide variety of visual analysis tools.
+vis citations:
+chi_infovis_98
+conklin_infovis_02
+fekete_infovis_04
+heer2_infovis_06
+heer_infovis_08
+henry_infovis_07
+mackinlay_infovis_07
+perer_infovis_06
+stasko_vast_07
+weaver_infovis_04
+wong_vast_06
+zhao_infovis_05

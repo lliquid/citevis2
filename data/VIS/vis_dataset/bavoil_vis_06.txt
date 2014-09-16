@@ -1,0 +1,9 @@
+title: Progressive Volume Rendering of Large Unstructured Grids
+authors: Steven P. Callahan, Louis Bavoil, Valerio Pascucci, Claudio T. Silva
+abstract: We describe a new progressive technique that allows real-time rendering of extremely large tetrahedral meshes. Our approach uses a client-server architecture to incrementally stream portions of the mesh from a server to a client which refines the quality of the approximate rendering until it converges to a full quality rendering. The results of previous steps are re-used in each subsequent refinement, thus leading to an efficient rendering. Our novel approach keeps very little geometry on the client and works by refining a set of rendered images at each step. Our interactive representation of the dataset is efficient, light-weight, and high quality. We present a framework for the exploration of large datasets stored on a remote server with a thin client that is capable of rendering and managing full quality volume visualizations.
+vis citations:
+callahan_vis_05
+kaehler_vis_05
+museth_vis_04
+parker_vis_98
+weiler_vis_03

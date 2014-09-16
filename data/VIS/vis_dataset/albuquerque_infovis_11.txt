@@ -1,0 +1,9 @@
+title: Synthetic Generation of High-Dimensional Datasets
+authors: Georgia Albuquerque, Thomas L??we, Marcus Magnor
+abstract: Generation of synthetic datasets is a common practice in many research areas. Such data is often generated to meet specific needs or certain conditions that may not be easily found in the original, real data. The nature of the data varies according to the application area and includes text, graphs, social or weather data, among many others. The common process to create such synthetic datasets is to implement small scripts or programs, restricted to small problems or to a specific application. In this paper we propose a framework designed to generate high dimensional datasets. Users can interactively create and navigate through multi dimensional datasets using a suitable graphical user-interface. The data creation is driven by statistical distributions based on a few user-defined parameters. First, a grounding dataset is created according to given inputs, and then structures and trends are included in selected dimensions and orthogonal projection planes. Furthermore, our framework supports the creation of complex non-orthogonal trends and classified datasets. It can successfully be used to create synthetic datasets simulating important trends as multidimensional clusters, correlations and outliers.
+vis citations:
+albuquer_vast_10
+elmqvist_infovis_08
+peng_infovis_04
+tatu_vast_09
+wilkinso_infovis_05

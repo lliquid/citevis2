@@ -1,0 +1,7 @@
+title: Appearance-Preserving View-Dependent Visualization
+authors: Justin Jang, William Ribarsky, Christopher Shaw, Peter Wonka
+abstract: In this paper a new quadric-based view-dependent simplification scheme is presented. The scheme provides a method to connect mesh simplification controlled by a quadric error metric with a level-of-detail hierarchy that is accessed continuously and efficiently based on current view parameters. A variety of methods for determining the screen-space metric for the view calculation are implemented and evaluated, including an appearance-preserving method that has both geometry and texture-preserving aspects. Results are presented and compared for a variety of models.
+vis citations:
+elsana_vis_02
+garland_vis_98
+hoppe_vis_99

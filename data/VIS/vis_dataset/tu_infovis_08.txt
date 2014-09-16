@@ -1,0 +1,12 @@
+title: Balloon Focus: a Seamless Multi-Focus+Context Method for Treemaps
+authors: Ying Tu, Han-Wei Shen
+abstract: The treemap is one of the most popular methods for visualizing hierarchical data. When a treemap contains a large number of items, inspecting or comparing a few selected items in a greater level of detail becomes very challenging. In this paper, we present a seamless multi-focus and context technique, called Balloon Focus, that allows the user to smoothly enlarge multiple treemap items served as the foci, while maintaining a stable treemap layout as the context. Our method has several desirable features. First, this method is quite general and can be used with different treemap layout algorithms. Second, as the foci are enlarged, the relative positions among all items are preserved. Third, the foci are placed in a way that the remaining space is evenly distributed back to the non-focus treemap items. When Balloon Focus enlarges the focus items to a maximum degree, the above features ensure that the treemap will maintain a consistent appearance and avoid any abrupt layout changes. In our algorithm, a DAG (Directed Acyclic Graph) is used to maintain the positional constraints, and an elastic model is employed to govern the placement of the treemap items. We demonstrate a treemap visualization system that integrates data query, manual focus selection, and our novel multi-focus+context technique, Balloon Focus, together. A user study was conducted. Results show that with Balloon Focus, users can better perform the tasks of comparing the values and the distribution of the foci.
+vis citations:
+fekete_infovis_02
+gansner_infovis_04
+hao_infovis_05
+keahey_infovis_98
+keahey_infovis_01
+shi_infovis_05
+stasko_infovis_00
+yang_infovis_02

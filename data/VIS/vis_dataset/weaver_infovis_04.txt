@@ -1,0 +1,6 @@
+title: Building Highly-Coordinated Visualizations in Improvise
+authors: Chris Weaver
+abstract: Improvise is a fully-implemented system in which users build and browse multiview visualizations interactively using a simple shared-object coordination mechanism coupled with a flexible, expression-based visual abstraction language. By coupling visual abstraction with coordination, users gain precise control over how navigation and selection in a visualization affects the appearance of data in individual views. As a result, it is practical to build visualizations with more views and richer coordination in Improvise than in other visualization systems. Building and browsing activities are integrated in a single, live user interface that lets users alter visualizations quickly and incrementally during data exploration.
+vis citations:
+stolte_infovis_02
+stolte_infovis_00

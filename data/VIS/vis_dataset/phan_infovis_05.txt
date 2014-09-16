@@ -1,0 +1,4 @@
+title: Flow Map Layout
+authors: Doantam Phan, Ling Xiao, Ron Yeh, Pat Hanrahan, Terry Winograd
+abstract: Cartographers have long used flow maps to show the movement of objects from one location to another, such as the number of people in a migration, the amount of goods being traded, or the number of packets in a network. The advantage of flow maps is that they reduce visual clutter by merging edges. Most flow maps are drawn by hand and there are few computer algorithms available. We present a method for generating flow maps using hierarchical clustering given a set of nodes, positions, and flow data between the nodes. Our techniques are inspired by graph layout algorithms that minimize edge crossings and distort node positions while maintaining their relative position to one another. We demonstrate our technique by producing flow maps for network traffic, census data, and trade data.
+vis citations:

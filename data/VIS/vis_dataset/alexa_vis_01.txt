@@ -1,0 +1,6 @@
+title: Point Set Surfaces
+authors: Marc Alexa, Johannes Behr, Daniel Cohen-Or, Shachar Fleishman, David
+Levin, Claudio T. Silva
+abstract: We advocate the use of point sets to represent shapes. We provide a definition of a smooth manifold surface from a set of points close to the original surface. The definition is based on local maps from differential geometry, which are approximated by the method of moving least squares (MLS). We present tools to increase or decrease the density of the points, thus, allowing an adjustment of the spacing among the points to control the fidelity of the representation.To display the point set surface, we introduce a novel point rendering technique. The idea is to evaluate the local maps according to the image resolution. This results in high quality shading effects and smooth silhouettes at interactive frame rates.
+vis citations:
+gueziec_vis_98

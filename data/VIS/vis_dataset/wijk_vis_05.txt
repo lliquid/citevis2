@@ -1,0 +1,9 @@
+title: The Value of Visualization
+authors: Jarke J. van Wijk
+abstract: The field of Visualization is getting mature. Many problems have been solved, and new directions are sought for. In order to make good choices, an understanding of the purpose and meaning of visualization is needed. Especially, it would be nice if we could assess what a good visualization is. In this paper an attempt is made to determine the value of visualization. A technological viewpoint is adopted, where the value of visualization is measured based on effectiveness and efficiency. An economic model of visualization is presented, and benefits and costs are established. Next, consequences for and limitations of visualization are discussed (including the use of alternative methods, high initial costs, subjectiveness, and the role of interaction), as well as examples of the use of the model for the judgement of existing classes of methods and understanding why they are or are not used in practice. Furthermore, two alternative views on visualization are presented and discussed: viewing visualization as an art or as a scientific discipline. Implications and future directions are identified.
+vis citations:
+banks_vis_03
+vandewetering_infovis_01
+kobsa_infovis_04
+laidlaw_vis_01
+vanwijk2_infovis_99

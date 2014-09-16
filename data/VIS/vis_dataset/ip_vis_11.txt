@@ -1,0 +1,11 @@
+title: Saliency-Assisted Navigation of Very Large Landscape Images
+authors: Cheuk Yiu Ip, Amitabh Varshney
+abstract: The field of visualization has addressed navigation of very large datasets, usually meshes and volumes. Significantly less attention has been devoted to the issues surrounding navigation of very large images. In the last few years the explosive growth in the resolution of camera sensors and robotic image acquisition techniques has widened the gap between the display and image resolutions to three orders of magnitude or more. This paper presents the first steps towards navigation of very large images, particularly landscape images, from an interactive visualization perspective. The grand challenge in navigation of very large images is identifying regions of potential interest. In this paper we outline a three-step approach. In the first step we use multi-scale saliency to narrow down the potential areas of interest. In the second step we outline a method based on statistical signatures to further cull out regions of high conformity. In the final step we allow a user to interactively identify the exceptional regions of high interest that merit further attention. We show that our approach of progressive elicitation is fast and allows rapid identification of regions of interest. Unlike previous work in this area, our approach is scalable and computationally reasonable on very large images. We validate the results of our approach by comparing them to user-tagged regions of interest on several very large landscape images from the Internet.
+vis citations:
+bordoloi_vis_05
+chen_vis_10
+daniel_vis_03
+jaenicke_vis_07
+kimyoung_vis_06
+viola_vis_06
+wiebel_vis_07

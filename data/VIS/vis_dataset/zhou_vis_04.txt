@@ -1,0 +1,10 @@
+title: Pixel-Exact Rendering of Spacetime Finite Element Solutions
+authors: Yuan Zhou, Michael Garland, Robert Haber
+abstract: Computational simulation of time-varying physical processes is of fundamental importance for many scientific and engineering applications. Most frequently, time-varying simulations are performed over multiple spatial grids at discrete points in time. In this paper, we investigate a new approach to time-varying simulation: spacetime discontinuous Galerkin finite element methods. The result of this simulation method is a simplicial tessellation of spacetime with per-element polynomial solutions for physical quantities such as strain, stress, and velocity. To provide accurate visualizations of the resulting solutions, we have developed a method for per-pixel evaluation of solution data on the GPU. We demonstrate the importance of per-pixel rendering versus simple linear interpolation for producing high quality visualizations. We also show that our system can accommodate reasonably large datasets???spacetime meshes containing up to 20 million tetrahedra are not uncommon in this domain.
+vis citations:
+banks_vis_03
+bhaniram_vis_00
+hadwiger_vis_03
+krueger_vis_03
+weiler_vis_03
+woodring_vis_03

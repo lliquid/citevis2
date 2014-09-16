@@ -1,0 +1,9 @@
+title: Reinventing the Contingency Wheel: Scalable Visual Analytics of Large Categorical Data
+authors: Bilal Alsallakh, Wolfgang Aigner, Silvia Miksch, M. Eduard Gr??ller
+abstract: Contingency tables summarize the relations between categorical variables and arise in both scientific and business domains. Asymmetrically large two-way contingency tables pose a problem for common visualization methods. The Contingency Wheel has been recently proposed as an interactive visual method to explore and analyze such tables. However, the scalability and readability of this method are limited when dealing with large and dense tables. In this paper we present Contingency Wheel++, new visual analytics methods that overcome these major shortcomings: (1) regarding automated methods, a measure of association based on Pearson???s residuals alleviates the bias of the raw residuals originally used, (2) regarding visualization methods, a frequency-based abstraction of the visual elements eliminates overlapping and makes analyzing both positive and negative associations possible, and (3) regarding the interactive exploration environment, a multi-level overview+detail interface enables exploring individual data items that are aggregated in the visualization or in the table using coordinated views. We illustrate the applicability of these new methods with a use case and show how they enable discovering and analyzing nontrivial patterns and associations in large categorical data.
+vis citations:
+bendix_infovis_05
+fekete_infovis_02
+hauser_infovis_02
+rafiei_vis_05
+rosario_infovis_03

@@ -1,0 +1,9 @@
+title: A Visual Approach to Efficient Analysis and Quantification of Ductile Iron and Reinforced Sprayed Concrete
+authors: Laura Fritz, Markus Hadwiger, Georg Geier, Gerhard Pittino, M. Eduard Gr??ller
+abstract: Abstract???This paper describes advanced volume visualization and quantification for applications in non-destructive testing (NDT), which results in novel and highly effective interactive workflows for NDT practitioners. We employ a visual approach to explore and quantify the features of interest, based on transfer functions in the parameter spaces of specific application scenarios. Examples are the orientations of fibres or the roundness of particles. The applicability and effectiveness of our approach is illustrated using two specific scenarios of high practical relevance. First, we discuss the analysis of Steel Fibre Reinforced Sprayed Concrete (SFRSpC). We investigate the orientations of the enclosed steel fibres and their distribution, depending on the concrete???s application direction. This is a crucial step in assessing the material???s behavior under mechanical stress, which is still in its infancy and therefore a hot topic in the building industry. The second application scenario is the designation of the microstructure of ductile cast irons with respect to the contained graphite. This corresponds to the requirements of the ISO standard 945-1, which deals with 2D metallographic samples. We illustrate how the necessary analysis steps can be carried out much more efficiently using our system for 3D volumes. Overall, we show that a visual approach with custom transfer functions in specific application domains offers significant benefits and has the potential of greatly improving and optimizing the workflows of domain scientists and engineers.
+vis citations:
+correa_vis_08
+gyulassy1_vis_07
+hadwiger_vis_08
+kniss_vis_01
+krueger_vis_03

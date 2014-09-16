@@ -1,0 +1,8 @@
+title: Hardware-Accelerated Simulated Radiography
+authors: Daniel Laney, Steven P. Callahan, Nelson Max, Claudio T. Silva,
+Steven Langer, Randall Frank
+abstract: We present the application of hardware accelerated volume rendering algorithms to the simulation of radiographs as an aid to scientists designing experiments, validating simulation codes, and understanding experimental data. The techniques presented take advantage of 32-bit floating point texture capabilities to obtain solutions to the radiative transport equation for X-rays. The hardware accelerated solutions are accurate enough to enable scientists to explore the experimental design space with greater efficiency than the methods currently in use. An unsorted hexahedron projection algorithm is presented for curvilinear hexahedral meshes that produces simulated radiographs in the absorption-only regime. A sorted tetrahedral projection algorithm is presented that simulates radiographs of emissive materials. We apply the tetrahedral projection algorithm to the simulation of experimental diagnostics for inertial confinement fusion experiments on a laser at the University of Rochester.
+vis citations:
+kraus_vis_04
+roettger_vis_00
+weiler_vis_03

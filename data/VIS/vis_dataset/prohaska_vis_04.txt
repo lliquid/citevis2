@@ -1,0 +1,9 @@
+title: Interactive Exploration of Large Remote Micro-CT Scans
+authors: Steffen Prohaska, Andrei Hutanu, Ralf K??hler, Hans-Christian Hege
+abstract: Datasets of tens of gigabytes are becoming common in computational and experimental science. This development is driven by advances in imaging technology, producing detectors with growing resolutions, as well as availability of cheap processing power and memory capacity in commodity-based computing clusters.In this article we describe the design of a visualization system that allows scientists to interactively explore large remote data sets in an efficient and flexible way. The system is broadly applicable and currently used by medical scientists conducting an osteoporosis research project. Human vertebral bodies are scanned using a high resolution micro-CT scanner producing scans of roughly 8 GB size each. All participating research groups require access to the centrally stored data. Due to the rich internal bone structure, scientists need to interactively explore the full dataset at coarse levels, as well as visualize subvolumes of interest at the highest resolution.Our solution is based on HDF5 and GridFTP. When accessing data remotely, the HDF5 data processing pipeline is modified to support efficient retrieval of subvolumes. We reduce the overall latency and optimize throughput by executing high-level operations on the remote side. The GridFTP protocol is used to pass the HDF5 requests to a customized server.The approach takes full advantage of local graphics hardware for rendering. Interactive visualization is accomplished using a background thread to access the datasets stored in a multi-resolution format. A hierarchical volume renderer provides seamless integration of high resolution details with low resolution overviews.
+vis citations:
+guthe_vis_02
+kniss_vis_02
+lamar_vis_99
+law_vis_99
+luke_vis_02

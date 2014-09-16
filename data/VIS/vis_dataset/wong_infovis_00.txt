@@ -1,0 +1,7 @@
+title: Visualizing Sequential Patterns for Text Mining
+authors: Pak Chung Wong, Wendy Cowley, Harlan Foote, Elizabeth Jurrus, Jim Thomas
+abstract: A sequential pattern in data mining is a finite series of elements such as A ??? B ??? C ??? D where A, B, C, and D are elements of the same domain. The mining of sequential patterns is designed to find patterns of discrete events that frequently happen in the same arrangement along a timeline. Like association and clustering, the mining of sequential patterns is among the most popular knowledge discovery techniques that apply statistical measures to extract useful information from large datasets. As our computers become more powerful, we are able to mine bigger datasets and obtain hundreds of thousands of sequential patterns in full detail. With this vast amount of data, we argue that neither data mining nor visualization by itself can manage the information and reflect the knowledge effectively. Subsequently, we apply visualization to augment data mining in a study of sequential patterns in large text corpora. The result shows that we can learn more and more quickly in an integrated visual data-mining environment.
+vis citations:
+hetzler_infovis_98
+miller_vis_98
+wong_infovis_99

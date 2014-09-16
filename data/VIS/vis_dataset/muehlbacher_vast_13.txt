@@ -1,0 +1,22 @@
+title: A Partition-Based Framework for Building and Validating Regression Models
+authors: Thomas M??hlbacher, Harald Piringer
+abstract: Regression models play a key role in many application domains for analyzing or predicting a quantitative dependent variable based on one or more independent variables. Automated approaches for building regression models are typically limited with respect to incorporating domain knowledge in the process of selecting input variables (also known as feature subset selection). Other limitations include the identification of local structures, transformations, and interactions between variables. The contribution of this paper is a framework for building regression models addressing these limitations. The framework combines a qualitative analysis of relationship structures by visualization and a quantification of relevance for ranking any number of features and pairs of features which may be categorical or continuous. A central aspect is the local approximation of the conditional target distribution by partitioning 1D and 2D feature domains into disjoint regions. This enables a visual investigation of local patterns and largely avoids structural assumptions for the quantitative ranking. We describe how the framework supports different tasks in model building (e.g., validation and comparison), and we present an interactive workflow for feature subset selection. A real-world case study illustrates the step-wise identification of a five-dimensional model for natural gas consumption. We also report feedback from domain experts after two months of deployment in the energy sector, indicating a significant effort reduction for building and improving regression models.
+vis citations:
+amar_infovis_04
+barlowe_vast_08
+baudel_infovis_12
+brown_vast_12
+chan_vast_10
+gerber_vis_10
+guo_vast_11
+guo_vast_09
+kandel_vast_12
+may_vast_11
+nam_vast_07
+piringer_infovis_09
+seo_infovis_04
+slingsby_infovis_09
+tatu_vast_09
+torsneyweir_vis_11
+elzen_vast_11
+wilkinso_infovis_05

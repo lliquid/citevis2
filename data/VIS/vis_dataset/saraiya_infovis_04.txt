@@ -1,0 +1,5 @@
+title: An Evaluation of Microarray Visualization Tools for Biological Insight
+authors: Purvi Saraiya, Chris North, Karen Duca
+abstract: High-throughput experiments such as gene expression microarrays in the life sciences result in large datasets. In response, a wide variety of visualization tools have been created to facilitate data analysis. Biologists often face a dilemma in choosing the best tool for their situation. The tool that works best for one biologist may not work well for another due to differences in the type of insight they seek from their data. A primary purpose of a visualization tool is to provide domain-relevant insight into the data. Ideally, any user wants maximum information in the least possible time. In this paper we identify several distinct characteristics of insight that enable us to recognize and quantify it. Based on this, we empirically evaluate five popular microarray visualization tools. Our conclusions can guide biologists in selecting the best tool for their data, and computer scientists in developing and evaluating visualizations.
+vis citations:
+kobsa_infovis_01

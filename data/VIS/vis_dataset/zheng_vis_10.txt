@@ -1,0 +1,9 @@
+title: VDVR: Verifiable Visualization of Projection-Based Data
+authors: Ziyi Zheng, Wei Xu, Klaus Mueller
+abstract: Practical volume visualization pipelines are never without compromises and errors. A delicate and often-studied component is the interpolation of off-grid samples, where aliasing can lead to misleading artifacts and blurring, potentially hiding fine details of critical importance. The verifiable visualization framework we describe aims to account for these errors directly in the volume generation stage, and we specifically target volumetric data obtained via computed tomography (CT) reconstruction. In this case the raw data are the X-ray projections obtained from the scanner and the volume data generation process is the CT algorithm. Our framework informs the CT reconstruction process of the specific filter intended for interpolation in the subsequent visualization process, and this in turn ensures an accurate interpolation there at a set tolerance. Here, we focus on fast trilinear interpolation in conjunction with an octree-type mixed resolution volume representation without T-junctions. Efficient rendering is achieved by a space-efficient and locality-optimized representation, which can straightforwardly exploit fast fixed-function pipelines on GPUs.
+vis citations:
+entezari_vis_06
+etiene_vis_09
+lamar_vis_99
+li_vis_04
+marchesi_vis_09

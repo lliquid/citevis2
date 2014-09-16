@@ -1,0 +1,9 @@
+title: Rapid Graph Layout Using Space Filling Curves
+authors: Chris Muelder, Kwan-Liu Ma
+abstract: Network data frequently arises in a wide variety of fields, and node-link diagrams are a very natural and intuitive representation of such data. In order for a node-link diagram to be effective, the nodes must be arranged well on the screen. While many graph layout algorithms exist for this purpose, they often have limitations such as high computational complexity or node colocation. This paper proposes a new approach to graph layout through the use of space filling curves which is very fast and guarantees that there will be no nodes that are colocated. The resulting layout is also aesthetic and satisfies several criteria for graph layout effectiveness.
+vis citations:
+frishman_infovis_07
+gansner_infovis_04
+heer_infovis_05
+koren_infovis_02
+wattensp_infovis_05

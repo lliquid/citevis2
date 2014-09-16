@@ -1,0 +1,10 @@
+title: Topologically Clean Distance Fields
+authors: Attila G. Gyulassy, Mark A. Duchaineau, Vijay Natarajan, Valerio Pascucci, Eduardo M. Bringa, Andrew Higginbotham, Bernd Hamann
+abstract: Analysis of the results obtained from material simulations is important in the physical sciences. Our research was motivated by the need to investigate the properties of a simulated porous solid as it is hit by a projectile. This paper describes two techniques for the generation of distance fields containing a minimal number of topological features, and we use them to identify features of the material. We focus on distance fields defined on a volumetric domain considering the distance to a given surface embedded within the domain. Topological features of the field are characterized by its critical points. Our first method begins with a distance field that is computed using a standard approach, and simplifies this field using ideas from Morse theory. We present a procedure for identifying and extracting a feature set through analysis of the MS complex, and apply it to find the invariants in the clean distance field. Our second method proceeds by advancing a front, beginning at the surface, and locally controlling the creation of new critical points. We demonstrate the value of topologically clean distance fields for the analysis of filament structures in porous solids. Our methods produce a curved skeleton representation of the filaments that helps material scientists to perform a detailed qualitative and quantitative analysis of pores, and hence infer important material properties. Furthermore, we provide a set of criteria for finding the ???difference??? between two skeletal structures, and use this to examine how the structure of the porous solid changes over several timesteps in the simulation of the particle impact.
+vis citations:
+carr_vis_04
+cignoni_vis_00
+cornea_vis_05
+gerstner_vis_00
+gyulassy_vis_05
+szymczak_vis_03

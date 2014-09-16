@@ -1,0 +1,7 @@
+title: Efficient Compression and Rendering of Multi-Resolution Meshes
+authors: Zachi Karni1, Alexander Bogomjakov, Craig Gotsman
+abstract: We present a method to code the multiresolution structure of a 3D triangle mesh in a manner that allows progressive decoding and efficient rendering at a client machine. The code is based on a special ordering of the mesh vertices which has good locality and continuity properties, inducing a natural multiresolution structure. This ordering also incorporates information allowing efficient rendering of the mesh at all resolutions using the contemporary vertex buffer mechanism. The performance of our code is shown to be competitive with existing progressive mesh compression methods, while achieving superior rendering speed.
+vis citations:
+bajaj_vis_99
+cohenor_vis_99
+deviller_vis_00

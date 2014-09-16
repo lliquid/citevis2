@@ -1,0 +1,4 @@
+title: WEBPATH  A Three Dimensional Web History
+authors: Emmanuel Fr??con, Gareth Smith
+abstract: A number of usability studies report that many users of the WWW cannot find pages already visited, additionally many users cannot visualise where they are, or where they have been browsing. Currently, readily available WWW browsers provide history mechanisms that offer little or no support in the presentation and manipulation of visited sites. Manipulation and presentation of usage data, such as a browse history has been used in a number of cases to aid users in searching for previously attained data, and to teach or assist other users in their browse or searching techniques. This paper presents a virtual reality (VR) based application to be used alongside traditional Web browsers, which provides them with a flexibly tailorable real-time visualisation of their history.
+vis citations:

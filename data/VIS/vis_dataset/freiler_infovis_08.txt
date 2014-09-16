@@ -1,0 +1,8 @@
+title: Interactive Visual Analysis of Set-Typed Data
+authors: Wolfgang Freiler, Kresimir Matkovic, Helwig Hauser
+abstract: While it is quite typical to deal with attributes of different data types in the visualization of heterogeneous and multivariate datasets, most existing techniques still focus on the most usual data types such as numerical attributes or strings. In this paper we present a new approach to the interactive visual exploration and analysis of data that contains attributes which are of set type. A set-typed attribute of a data item  like one cell in a table  has a list of n ??? 0 elements as its value. We present the set???o???gram as a new visualization approach to represent data of set type and to enable interactive visual exploration and analysis. We also demonstrate how this approach is capable to help in dealing with datasets that have a larger number of dimensions (more than a dozen or more), especially also in the context of categorical data. To illustrate the effectiveness of our approach, we present the interactive visual analysis of a CRM dataset with data from a questionnaire on the education and shopping habits of about 90000 people.
+vis citations:
+keim_infovis_01
+rosario_infovis_03
+stasko_vast_07
+vanwijk1_infovis_99

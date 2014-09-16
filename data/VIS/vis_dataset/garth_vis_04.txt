@@ -1,0 +1,6 @@
+title: Tracking of Vector Field Singularities in Unstructured 3D Time-Dependent Datasets
+authors: Christoph Garth, Xavier Tricoche, Gerik Scheuermann
+abstract: In this paper, we present an approach for monitoring the positions of vector field singularities and related structural changes in timedependent datasets. The concept of singularity index is discussed and extended from the well-understood planar case to the more intricate three-dimensional setting. Assuming a tetrahedral grid with linear interpolation in space and time, vector field singularities obey rules imposed by fundamental invariants (Poincar??e index), which we use as a basis for an efficient tracking algorithm. We apply the presented algorithm to CFD datasets to illustrate its purpose. We examine structures that exhibit topological variations with time and describe some of the insight gained with our method. Examples are given that show a correlation in the evolution of physical quantities that play a role in vortex breakdown.
+vis citations:
+mann_vis_02
+theisel_vis_03

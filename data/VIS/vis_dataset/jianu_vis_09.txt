@@ -1,0 +1,7 @@
+title: Exploring 3D DTI Fiber Tracts with Linked 2D Representations
+authors: Radu Jianu, Cagatay Demiralp, David H. Laidlaw
+abstract: We present a visual exploration paradigm that facilitates navigation through complex fiber tracts by combining traditional 3D model viewing with lower dimensional representations. To this end, we create standard streamtube models along with two twodimensional representations, an embedding in the plane and a hierarchical clustering tree, for a given set of fiber tracts. We then link these three representations using both interaction and color obtained by embedding fiber tracts into a perceptually uniform color space. We describe an anecdotal evaluation with neuroscientists to assess the usefulness of our method in exploring anatomical and functional structures in the brain. Expert feedback indicates that, while a standalone clinical use of the proposed method would require anatomical landmarks in the lower dimensional representations, the approach would be particularly useful in accelerating tract bundle selection. Results also suggest that combining traditional 3D model viewing with lower dimensional representations can ease navigation through the complex fiber tract models, improving exploration of the connectivity in the brain.
+vis citations:
+akers_vis_04
+chenwei2_vis_09
+moberts_vis_05

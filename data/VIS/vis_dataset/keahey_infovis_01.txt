@@ -1,0 +1,5 @@
+title: Getting Along: Composition of Visualization Paradigms
+authors: Alan Keahey
+abstract: This paper describes how focus+context techniques can be composed with other high-level visualization paradigms to mutual advantage. Examples are given showing composition both with a pan&zoom system, and with a treemap implementation. The examples illustrate howfocus+context can be used as an exploration and navigation tool within those paradigms.
+vis citations:
+keahey_infovis_98

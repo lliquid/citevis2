@@ -1,0 +1,10 @@
+title: Model Space Visualization for Multivariate Linear Trend Discovery
+authors: Zhenyu Guo, Matthew O. Ward, Elke A. Rundensteiner
+abstract: Discovering and extracting linear trends and correlations in datasets is very important for analysts to understand multivariate phenomena. However, current widely used multivariate visualization techniques, such as parallel coordinates and scatterplot matrices, fail to reveal and illustrate such linear relationships intuitively, especially when more than 3 variables are involved or multiple trends coexist in the dataset. We present a novel multivariate model parameter space visualization system that helps analysts discover single and multiple linear patterns and extract subsets of data that fit a model well. Using this system, analysts are able to explore and navigate in model parameter space, interactively select and tune patterns, and refine the model for accuracy using computational techniques. We build connections between model space and data space visually, allowing analysts to employ their domain knowledge during exploration to better interpret the patterns they discover and their validity. Case studies with real datasets are used to investigate the effectiveness of the visualizations.
+vis citations:
+barlowe_vast_08
+garg_vast_08
+nam_vast_07
+savikhin_vast_08
+schreck_vast_08
+yang_vast_07

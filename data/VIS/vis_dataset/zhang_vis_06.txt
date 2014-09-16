@@ -1,0 +1,8 @@
+title: Interactive Point-based Isosurface Exploration and High-quality Rendering
+authors: Haitao Zhang, Arie Kaufman
+abstract: We present an efficient point-based isosurface exploration system with high quality rendering. Our system incorporates two point-based isosurface extraction and visualization methods: edge splatting and the edge kernel method. In a volume, two neighboring voxels define an edge. The intersection points between the active edges and the isosurface are used for exact isosurface representation. The point generation is incorporated in the GPU-based hardware-accelerated rendering, thus avoiding any overhead when changing the isovalue in the exploration. We call this method edge splatting. In order to generate high quality isosurface rendering regardless of the volume resolution and the view, we introduce an edge kernel method. The edge kernel upsamples the isosurface by subdividing every active cell of the volume data. Enough sample points are generated to preserve the exact shape of the isosurface defined by the trilinear interpolation of the volume data. By employing these two methods, we can achieve interactive isosurface exploration with high quality rendering.
+vis citations:
+livnat_vis_98
+livnat_vis_04
+parker_vis_98
+von_rymo_vis_04

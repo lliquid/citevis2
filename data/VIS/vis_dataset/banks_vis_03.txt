@@ -1,0 +1,5 @@
+title: Counting Cases in Marching Cubes: Toward a Generic Algorithm for Producing Substitopes
+authors: David C. Banks, Stephen Linton
+abstract: We describe how to count the cases that arise in a family of visualization techniques, including Marching Cubes, Sweeping Simplices, Contour Meshing, Interval Volumes, and Separating Surfaces. Counting the cases is the first step toward developing a generic visualization algorithm to produce substitopes (geometric substitutions of polytopes). We demonstrate the method using a software system (???GAP???) for computational group theory. The case-counts are organized into a table that provides a taxonomy of members of the family; numbers in the table are derived from actual lists of cases, which are computed by our methods. The calculation confirms previously reported case-counts for large dimensions that are too large to check by hand, and predicts the number of cases that will arise in algorithms that have not yet been invented.
+vis citations:
+bhaniram_vis_00

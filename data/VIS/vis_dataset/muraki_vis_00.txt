@@ -1,0 +1,4 @@
+title: Basic Research for Coloring Multichannel MRI Data
+authors: Shigeru Muraki, Toshiharu Nakai, Yasuyo Kita
+abstract: This is basic research for assigning color values to voxels of multichannel MRI volume data. The MRI volume datasets obtained under different scanning conditions are transformed to the components by independent component analysis (ICA), which enhances physical characteristics of the tissue. The transfer functions for generating color values from independent components are obtained using the radial basis function network, a kind of neural net, by training the network with sample data chosen from visible female data set. The resultant color volume datasets correspond well with the full-color cross-sections of the visible human datasets.
+vis citations:

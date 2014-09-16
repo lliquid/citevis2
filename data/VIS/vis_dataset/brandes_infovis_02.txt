@@ -1,0 +1,6 @@
+title: Visual Unrolling of Network Evolution and the Analysis of Dynamic Discourse
+authors: Ulrik Brandes, Steven R. Corman
+abstract: A new method for visualizing the class of incrementally evolving networks is presented. In addition to the intermediate states of the network it conveys the nature of the change between them by unrolling the dynamics of the network. Each modification is shown in a separate layer of a three-dimensional representation, where the stack of layers corresponds to a time line of the evolution. We focus on discourse networks as the driving application, but our method extends to any type of network evolving in similar ways.
+vis citations:
+havre_infovis_00
+yee_infovis_01

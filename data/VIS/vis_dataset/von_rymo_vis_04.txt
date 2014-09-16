@@ -1,0 +1,5 @@
+title: Efficient Point-Based Isosurface Exploration Using the Span-Triangle
+authors: Bartosz von Rymon-Lipinski, Nils Hanssen, Thomas Jansen, Lutz Ritter, Erwin Keeve
+abstract: We introduce a novel span-triangle data structure, based on the span-space representation for isosurfaces. It stores all necessary cell information for dynamic manipulation of the isovalue in an efficient way. We have found that using our data structure in combination with point-based techniques, implemented on graphics hardware, effects in real-time rendering and exploration. Our extraction algorithm utilizes an incremental and progressive update scheme, enabling smooth interaction without significant latency. Moreover, the corresponding visualization pipeline is capable of processing large data sets by utilizing all three levels of memory: disk, system and graphics. We address practical usability in actual medical applications, achieving a new level of interactivity.
+vis citations:
+alexa_vis_01

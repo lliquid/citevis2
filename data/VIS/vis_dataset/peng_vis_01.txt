@@ -1,0 +1,5 @@
+title: A Simple Algorithm for Surface Denoising
+authors: Jianbo Peng, Vasily Strela, Denis Zorin
+abstract: We present a simple denoising technique for geometric data represented as a semiregular mesh, based on locally adaptive Wiener filtering. The degree of denoising is controlled by a single parameter (an estimate of the relative noise level) and the time required for denoising is independent of the magnitude of the estimate. The performance of the algorihm is sufficiently fast to allow interactive local denoising.
+vis citations:
+clarenz_vis_00

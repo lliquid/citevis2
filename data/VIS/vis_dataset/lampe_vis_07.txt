@@ -1,0 +1,6 @@
+title: Two-Level Approach to Efficient Visualization of Protein Dynamics
+authors: Ove Daae Lampe, Ivan Viola, Nathalie Reuter, Helwig Hauser
+abstract: Proteins are highly flexible and large amplitude deformations of their structure, also called slow dynamics, are often decisive to their function. We present a two-level rendering approach that enables visualization of slow dynamics of large protein assemblies. Our approach is aligned with a hierarchical model of large scale molecules. Instead of constantly updating positions of large amounts of atoms, we update the position and rotation of residues, i.e., higher level building blocks of a protein. Residues are represented by one vertex only indicating its position and additional information defining the rotation. The atoms in the residues are generated on-the-fly on the GPU, exploiting the new graphics hardware geometry shader capabilities. Moreover, we represent the atoms by billboards instead of tessellated spheres. Our representation is then significantly faster and pixel precise. We demonstrate the usefulness of our new approach in the context of our collaborative bioinformatics project.
+vis citations:
+stoll_vis_05
+tarini_vis_06

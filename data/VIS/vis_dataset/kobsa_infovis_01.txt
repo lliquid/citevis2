@@ -1,0 +1,4 @@
+title: An Empirical Comparison of Three Commercial Information Visualization Systems
+authors: Alfred Kobsa
+abstract: An empirical comparison of three commercial information visualization systems on three different databases is presented. The systems use different paradigms for visualizing data. Tasks were selected to be "ecologically relevant", i.e. meaningful and interesting in the respective domains. Users of one system turned out to solve problems significantly faster than users of the other two, while users of another system would supply significantly more correct answers. Reasons for these results and general observations about the studied systems are discussed.
+vis citations:

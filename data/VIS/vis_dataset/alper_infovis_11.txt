@@ -1,0 +1,8 @@
+title: Design Study of LineSets, a Novel Set Visualization Technique
+authors: Basak Alper, Nathalie Henry Riche, Gonzalo Ramos, Mary Czerwinski
+abstract: Computing and visualizing sets of elements and their relationships is one of the most common tasks one performs when analyzing and organizing large amounts of data. Common representations of sets such as convex or concave geometries can become cluttered and difficult to parse when these sets overlap in multiple or complex ways, e.g., when multiple elements belong to multiple sets. In this paper, we present a design study of a novel set visual representation, LineSets, consisting of a curve connecting all of the set??s elements. Our approach to design the visualization differs from traditional methodology used by the InfoVis community. We first explored the potential of the visualization concept by running a controlled experiment comparing our design sketches to results from the state-of-the-art technique. Our results demonstrated that LineSets are advantageous for certain tasks when compared to concave shapes. We discuss an implementation of LineSets based on simple heuristics and present a study demonstrating that our generated curves do as well as human-drawn ones. Finally, we present two applications of our technique in the context of search tasks on a map and community analysis tasks in social networks.
+vis citations:
+collins_infovis_09
+freiler_infovis_08
+heer_infovis_05
+riche_infovis_10

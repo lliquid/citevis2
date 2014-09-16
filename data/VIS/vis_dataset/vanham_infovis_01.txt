@@ -1,0 +1,5 @@
+title: Visualization of State Transition Graphs
+authors: Frank van Ham, Huub van de Wetering, Jarke J. van Wijk
+abstract: A new method for the visualization of state transition graphs is presented. Visual information is reduced by clustering nodes, forming a tree structure of related clusters. This structure is visualized in three dimensions with concepts from cone trees and emphasis on symmetry. The resulting visualization makes it easier to relate features in the visualization of the state transition graph to semantic concepts in the corresponding process and vice versa.
+vis citations:
+vanham_infovis_01

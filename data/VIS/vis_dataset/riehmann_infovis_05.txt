@@ -1,0 +1,4 @@
+title: Interactive Sankey Diagrams
+authors: Patrick Riehmann, Manfred Hanfler, Bernd Froehlich
+abstract: We present a system that allows users to interactively explore complex flow scenarios represented as Sankey diagrams. Our system provides an overview of the flow graph and allows users to zoom in and explore details on demand. The support for quantitative flow tracing across the flow graph as well as representations at different levels of detail facilitate the understanding of complex flow situations.The energy flow in a city serves as a sample scenario for our system. Different forms of energy are distributed within the city and they are transformed into heat, electricity, or other forms of energy. These processes are visualized and interactively explored. In addition our system can be used as a planning tool for the exploration of alternative scenarios by interactively manipulating different parameters in the energy flow network.
+vis citations:

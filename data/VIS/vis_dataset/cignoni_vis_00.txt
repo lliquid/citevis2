@@ -1,0 +1,7 @@
+title: Simplification of Tetrahedral Meshes with Accurate Error Evaluation
+authors: P. Cignoni, D. Costanza, C. Montani, C. Rocchini, R. Scopigno
+abstract: The techniques for reducing the size of a volume dataset by preserving both the geometrical/topological shape and the information encoded in an attached scalar field are attracting growing interest. Given the framework of incremental 3D mesh simplification based on edge collapse, the paper proposes an approach for the integrated evaluation of the error introduced by both the modification of the domain and the approximation of the field of the original volume dataset. We present and compare various techniques to evaluate the approximation error or to produce a sound prediction. A flexible simplification tool has been implemented, which provides different degree of accuracy and computational efficiency for the selection of the edge to be collapsed. Techniques for preventing a geometric or topological degeneration of the mesh are also presented.
+vis citations:
+garland_vis_98
+staadt_vis_98
+trotts_vis_98

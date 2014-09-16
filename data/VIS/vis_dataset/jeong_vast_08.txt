@@ -1,0 +1,5 @@
+title: Evaluating the Relationship Between User Interaction and Financial Visual Analysis
+authors: Dong Hyun Jeong, Wenwen Dou, Heather Richter Lipford, Felesia Stukes, Remco Chang, William Ribarsky
+abstract: It has been widely accepted that interactive visualization techniques enable users to more effectively form hypotheses and identify areas for more detailed investigation. There have been numerous empirical user studies testing the effectiveness of specific visual analytical tools. However, there has been limited effort in connecting a user???s interaction with his reasoning for the purpose of extracting the relationship between the two. In this paper, we present an approach for capturing and analyzing user interactions in a financial visual analytical tool and describe an exploratory user study that examines these interaction strategies. To achieve this goal, we created two visual tools to analyze raw interaction data captured during the user session. The results of this study demonstrate one possible strategy for understanding the relationship between interaction and reasoning both operationally and strategically.
+vis citations:
+chang_vast_07

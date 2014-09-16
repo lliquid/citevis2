@@ -1,0 +1,11 @@
+title: Analysis of Large Digital Collections with Interactive Visualization
+authors: Weijia Xu, Maria Esteva, Suyog Dutt Jain, Varun Jain
+abstract: To make decisions about the long-term preservation and access of large digital collections, archivists gather information such as the collections??? contents, their organizational structure, and their file format composition. To date, the process of analyzing a collection ??? from data gathering to exploratory analysis and final conclusions ??? has largely been conducted using pen and paper methods. To help archivists analyze large-scale digital collections for archival purposes, we developed an interactive visual analytics application. The application narrows down different kinds of information about the collection, and presents them as meaningful data views. Multiple views and analysis features can be linked or unlinked on demand to enable researchers to compare and contrast different analyses, and to identify trends. We describe and present two user scenarios to show how the application allowed archivists to learn about a collection with accuracy, facilitated decisionmaking, and helped them arrive at conclusions.
+vis citations:
+stasko_infovis_00
+fekete_infovis_04
+clarkson_infovis_09
+vanwijk1_infovis_99
+wattenbe_infovis_08
+stasko_vast_07
+shi_vast_10

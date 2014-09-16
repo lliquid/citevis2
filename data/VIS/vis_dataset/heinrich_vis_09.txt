@@ -1,0 +1,15 @@
+title: Continuous Parallel Coordinates
+authors: Julian Heinrich, Daniel Weiskopf
+abstract: Typical scientific data is represented on a grid with appropriate interpolation or approximation schemes, defined on a continuous domain. The visualization of such data in parallel coordinates may reveal patterns latently contained in the data and thus can improve the understanding of multidimensional relations. In this paper, we adopt the concept of continuous scatterplots for the visualization of spatially continuous input data to derive a density model for parallel coordinates. Based on the point???line duality between scatterplots and parallel coordinates, we propose a mathematical model that maps density from a continuous scatterplot to parallel coordinates and present different algorithms for both numerical and analytical computation of the resulting density field. In addition, we show how the 2-D model can be used to successively construct continuous parallel coordinates with an arbitrary number of dimensions. Since continuous parallel coordinates interpolate data values within grid cells, a scalable and dense visualization is achieved, which will be demonstrated for typical multi-variate scientific data.
+vis citations:
+artero_infovis_04
+bachthal_vis_08
+bendix_infovis_05
+blaas_vis_08
+carr_vis_06
+ellis_infovis_06
+fua_vis_99
+hauser_infovis_02
+johansso_infovis_05
+novotny_vis_06
+scheideg_vis_08

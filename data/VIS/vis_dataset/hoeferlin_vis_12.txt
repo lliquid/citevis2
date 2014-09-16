@@ -1,0 +1,8 @@
+title: Evaluation of Fast-Forward Video Visualization
+authors: Markus H??ferlin, Kuno Kurzhals, Benjamin H??ferlin, Gunther Heidemann, Daniel Weiskopf
+abstract: We evaluate and compare video visualization techniques based on fast-forward. A controlled laboratory user study (n = 24) was conducted to determine the trade-off between support of object identification and motion perception, two properties that have to be considered when choosing a particular fast-forward visualization. We compare four different visualizations: two representing the state-of-the-art and two new variants of visualization introduced in this paper. The two state-of-the-art methods we consider are frame-skipping and temporal blending of successive frames. Our object trail visualization leverages a combination of frame-skipping and temporal blending, whereas predictive trajectory visualization supports motion perception by augmenting the video frames with an arrow that indicates the future object trajectory. Our hypothesis was that each of the state-of-the-art methods satisfies just one of the goals: support of object identification or motion perception. Thus, they represent both ends of the visualization design. The key findings of the evaluation are that object trail visualization supports object identification, whereas predictive trajectory visualization is most useful for motion perception. However, frame-skipping surprisingly exhibits reasonable performance for both tasks. Furthermore, we evaluate the subjective performance of three different playback speed visualizations for adaptive fast-forward, a subdomain of video fast-forward.
+vis citations:
+chen_vis_06
+giesen_vis_07
+heer_infovis_07
+robertso_infovis_08

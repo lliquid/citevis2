@@ -1,0 +1,7 @@
+title: The VesselGlyph: Focus & Context Visualization in CT-Angiography
+authors: Mat???? Straka, Arnold K??chl, Michal ??erve??anskq, Milo?? ??r??mek, Dominik
+Fleischmann, Alexandra La Cruz, Eduard Gr??ller
+abstract: Accurate and reliable visualization of blood vessels is still a challenging problem, notably in the presence of morphologic changes resulting from atherosclerotic diseases. In this paper we take advantage of partially segmented data with approximately identified vessel centerlines to comprehensively visualize the diseased peripheral arterial tree.We introduce the VesselGlyph as an abstract notation for novel focus & context visualization techniques of tubular structures such as contrast-medium enhanced arteries in CT-Angiography (CTA). The proposed techniques combine direct volume rendering (DVR) and curved planar reformation (CPR) within a single image. The VesselGlyph consists of several regions where different rendering methods are used. The region type, the used visualization method and the region parameters depend on the distance from the vessel centerline and on viewing parameters as well. By selecting proper rendering techniques for different regions, vessels are depicted in a naturally looking and undistorted anatomic context. This may facilitate the diagnosis and treatment planning of patients with peripheral arterial occlusive disease.In this paper we furthermore present a way how to implement the proposed techniques in software and by means of modern 3D graphics accelerators.
+vis citations:
+kanitsar_vis_02
+hahn_vis_01

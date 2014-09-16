@@ -1,0 +1,7 @@
+title: Prefiltered Gaussian Reconstruction for High-Quality Rendering of Volumetric Data sampled on a Body-Centered Cubic Grid
+authors: Balazs Csebfalvii
+abstract: In this paper a novel high-quality reconstruction scheme is presented. Although our method is mainly proposed to reconstruct volumetric data sampled on an optimal Body-Centered Cubic (BCC) grid, it can be easily adapted to the conventional regular rectilinear grid as well. The reconstruction process is decomposed into two steps. The first step, which is considered to be a preprocessing, is a discrete Gaussian deconvolution performed only once in the frequency domain. Afterwards, the second step is a spatial-domain convolution with a truncated Gaussian kernel, which is used to interpolate arbitrary samples for ray casting. Since the preprocessing is actually a discrete prefiltering, we call our technique Prefiltered Gaussian Reconstruction (PGR). It is shown that the impulse response of PGR well approximates the ideal reconstruction kernel. Therefore the quality of PGR is much higher than that of previous reconstruction techniques proposed for optimally sampled data, which are based on linear and cubic box splines adapted to the BCC grid (see Figure 1). Concerning the performance, PGR is slower than linear box-spline reconstruction but significantly faster than cubic box-spline reconstruction.
+vis citations:
+carr_vis_01
+entezari_vis_04
+li_vis_04

@@ -1,0 +1,8 @@
+title: Configurable Spaces: Temporal Analysis in Diagrammatic Contexts
+authors: Thomas Kapler, Ryan Eccles, Robert Harper, William Wright
+abstract: Social network graphs, concept maps, and process charts are examples of diagrammatic representations employed by intelligence analysts to understand complex systems. Unfortunately, these 2D representations currently do not easily convey the flow, sequence, tempo and other important dynamic behaviors within these systems. In this paper we present Configurable Spaces, a novel analytical method for visualizing patterns of activity over time in complex diagrammaticallyrepresented systems. Configurable Spaces extends GeoTime???s X, Y, T coordinate workspace space for temporal analysis to any arbitrary diagrammatic work space by replacing a geographic map with a diagram.This paper traces progress from concept to prototype, and discusses how diagrams can be created, transformed and leveraged for analysis, including generating diagrams from knowledge bases, visualizing temporal concept maps, and the use of linked diagrams for exploring complex, multi-dimensional, sequences of events.An evaluation of the prototype by the National Institute of Standards and Technology showed intelligence analysts believed they were able to attain an increased level of insight, were able to explore data more efficiently, and that Configurable Spaces would help them work faster.
+vis citations:
+brandes_infovis_02
+card_vast_06
+kapler_infovis_04
+vanham_infovis_01

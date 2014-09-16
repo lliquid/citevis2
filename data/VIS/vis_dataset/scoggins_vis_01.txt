@@ -1,0 +1,6 @@
+title: Approximate Shading for the Re-Illumination of Synthetic Images
+authors: Randy Scoggins, Raghu Machiraju
+abstract: This paper presents a novel method to estimate illuminationdependent properties in image synthesis prior to rendering. A preprocessing step is described in which a linear image basis is developed and a lighting-independent formulation defined. A reflection function, similar to hemispherical reflectance, approximates normal Lambertian shading. Intensity errors resulting from this approximation are reduced by use of a polynomial gamma correction function and scaling to a normalized display range. This produces images that are similar to normal Lambertian shading without employing the maximum (max) function. For a single object view, images can then be expressed in a linear form so that lighting direction can be factored out. During normal rendering, image quantities for arbitrary light directions can be found without rendering. This method is demonstrated for estimating image intensity and level-of-detail (LOD) error prior to rendering an object.
+vis citations:
+hoppe_vis_99
+scoggins_vis_00

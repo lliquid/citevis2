@@ -1,0 +1,6 @@
+title: Visibility based methods and assessment for detail-recovery
+authors: Marco Tarini, Paolo Cignoni, Roberto Scopigno
+abstract: In this paper we propose a new method for the creation of normal maps for recovering the detail on simplified meshes and a set of objective techniques to metrically evaluate the quality of different recovering techniques. The proposed techniques, that automatically produces a normal-map texture for a simple 3D model that ???imitates??? the high frequency detail originally present in a second, much higher resolution one, is based on the computation of per-texel visibility and self-occlusion information. This information is used to define a point-to-point correspondence between simplified and hires meshes. Moreover, we introduce a number of criteria for measuring the quality (visual or otherwise) of a given mapping method, and provide efficient algorithms to implement them. Lastly, we apply them to rate different mapping methods, including the widely used ones and the new one proposed here.
+vis citations:
+cignoni_vis_98
+zhang9_3_vis_02

@@ -1,0 +1,13 @@
+title: Browsing Zoomable Treemaps: Structure-Aware Multi-Scale Navigation Techniques
+authors: Renaud Blanch, Eric Lecolinet
+abstract: Treemaps provide an interesting solution for representing hierarchical data. However, most studies have mainly focused on layout algorithms and paid limited attention to the interaction with treemaps. This makes it difficult to explore large data sets and to get access to details, especially to those related to the leaves of the trees. We propose the notion of zoomable treemaps (ZTMs), an hybridization between treemaps and zoomable user interfaces that facilitates the navigation in large hierarchical data sets. By providing a consistent set of interaction techniques, ZTMs make it possible for users to browse through very large data sets (e.g., 700,000 nodes dispatched amongst 13 levels). These techniques use the structure of the displayed data to guide the interaction and provide a way to improve interactive navigation in treemaps.
+vis citations:
+abello_infovis_04
+balzer_infovis_05
+fekete_infovis_02
+mcguffin_infovis_04
+plaisant_infovis_02
+shi_infovis_05
+vanwijk1_infovis_99
+vliegen_infovis_06
+zhao_infovis_05

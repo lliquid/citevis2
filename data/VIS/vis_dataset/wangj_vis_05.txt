@@ -1,0 +1,6 @@
+title: Reconstructing Manifold and Non-Manifold Surfaces from Point Clouds
+authors: Jianning Wang, Manuel M. Oliveira, Arie E. Kaufman
+abstract: This paper presents a novel approach for surface reconstruction from point clouds. The proposed technique is general in the sense that it naturally handles both manifold and non-manifold surfaces, providing a consistent way for reconstructing closed surfaces as well as surfaces with boundaries. It is also robust in the presence of noise, irregular sampling and surface gaps. Furthermore, it is fast, parallelizable and easy to implement because it is based on simple local operations. In this approach, surface reconstruction consists of three major steps: first, the space containing the point cloud is subdivided, creating a voxel representation. Then, a voxel surface is computed using gap filling and topological thinning operations. Finally, the resulting voxel surface is converted into a polygonal mesh. We demonstrate the effectiveness of our approach by reconstructing polygonal models from range scans of real objects as well as from synthetic data.
+vis citations:
+alexa_vis_01
+ying_vis_01

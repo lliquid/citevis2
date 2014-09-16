@@ -1,0 +1,9 @@
+title: Lagrangian Coherent Structures for Design Analysis of Revolving Doors
+authors: Benjamin Schindler, Raphael Fuchs, Stefan Barp, J??rgen Waser, Armin Pobitzer, Robert Carnecky, Kresimir Matkovi??, Ronald Peikert
+abstract: Room air flow and air exchange are important aspects for the design of energy-efficient buildings. As a result, simulations are increasingly used prior to construction to achieve an energy-efficient design. We present a visual analysis of air flow generated at building entrances, which uses a combination of revolving doors and air curtains. The resulting flow pattern is challenging because of two interacting flow patterns: On the one hand, the revolving door acts as a pump, on the other hand, the air curtain creates a layer of uniformly moving warm air between the interior of the building and the revolving door. Lagrangian coherent structures (LCS), which by definition are flow barriers, are the method of choice for visualizing the separation and recirculation behavior of warm and cold air flow. The extraction of LCS is based on the finite-time Lyapunov exponent (FTLE) and makes use of a ridge definition which is consistent with the concept of weak LCS. Both FTLE computation and ridge extraction are done in a robust and efficient way by making use of the fast Fourier transform for computing scale-space derivatives.
+vis citations:
+garth_vis_07
+garth_vis_10
+sadlo_vis_07
+staubli_vis_05
+waser_vis_10

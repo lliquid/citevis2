@@ -1,0 +1,11 @@
+title: Exploratory Analysis of Time-Series with ChronoLenses
+authors: Jian Zhao, Fanny Chevalier, Emmanuel Pietriga, Ravin Balakrishnan
+abstract: Visual representations of time-series are useful for tasks such as identifying trends, patterns and anomalies in the data. Many techniques have been devised to make these visual representations more scalable, enabling the simultaneous display of multiple variables, as well as the multi-scale display of time-series of very high resolution or that span long time periods. There has been comparatively little research on how to support the more elaborate tasks associated with the exploratory visual analysis of timeseries, e.g., visualizing derived values, identifying correlations, or discovering anomalies beyond obvious outliers. Such tasks typically require deriving new time-series from the original data, trying different functions and parameters in an iterative manner. We introduce a novel visualization technique called ChronoLenses, aimed at supporting users in such exploratory tasks. ChronoLenses perform on-the-fly transformation of the data points in their focus area, tightly integrating visual analysis with user actions, and enabling the progressive construction of advanced visual analysis pipelines.
+vis citations:
+bertini_vast_07
+hao_infovis_05
+vanwijk2_infovis_99
+javed_infovis_10
+kincaid_infovis_10
+lam_infovis_07
+alexa_infovis_01

@@ -1,0 +1,6 @@
+title: Implant Sprays: Compression of Progressive Tetrahedral Mesh Connectivity
+authors: Renato Pajarola, Jarek Rossignac, Andrzej Szymczak 
+abstract: Irregular tetrahedral meshes, which are popular in many engineering and scientific applications, often contain a large number of vertices. A mesh of V vertices and T tetrahedra requires 48??V bits or less to store the vertex coordinates, 4??T??log2(V) bits to store the tetrahedra-vertex incidence relations, also called connectivity information, and k??V bits to store the k-bit value samples associated with the vertices. Given that T is 5 to 7 times larger than V and that V often exceeds 323, the storage space required for the connectivity is larger than 300??V bits and thus dominates the overall storage cost. Our ???implants spray??? compression approach introduced in this paper reduces this cost to about 30??V bits or less  a 10:1 compression ratio. Furthermore, implant spray supports the progressive refinement of a crude model through a series of vertex-splits operations.
+vis citations:
+staadt_vis_98
+trotts_vis_98

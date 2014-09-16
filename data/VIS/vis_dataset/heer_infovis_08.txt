@@ -1,0 +1,9 @@
+title: Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation
+authors: Jeffrey Heer, Jock D. Mackinlay, Chris Stolte, Maneesh Agrawala
+abstract: Interactive history tools, ranging from basic undo and redo to branching timelines of user actions, facilitate iterative forms of interaction. In this paper, we investigate the design of history mechanisms for information visualization. We present a design space analysis of both architectural and interface issues, identifying design decisions and associated trade-offs. Based on this analysis, we contribute a design study of graphical history tools for Tableau, a database visualization system. These tools record and visualize interaction histories, support data analysis and communication of findings, and contribute novel mechanisms for presenting, managing, and exporting histories. Furthermore, we have analyzed aggregated collections of history sessions to evaluate Tableau usage. We describe additional tools for analyzing users??? history logs and how they have been applied to study usage patterns in Tableau.
+vis citations:
+eccles_vast_07
+kreusele_infovis_04
+ma_vis_99
+mackinlay_infovis_07
+stolte_infovis_00

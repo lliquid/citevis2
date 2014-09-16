@@ -1,0 +1,12 @@
+title: Visualization of Topological Structures in Area-Preserving Maps
+authors: Xavier Tricoche, Christoph Garth, Allen Sanderson
+abstract: Area-preserving maps are found across a wide range of scientific and engineering problems. Their study is made challenging by the significant computational effort typically required for their inspection but more fundamentally by the fractal complexity of salient structures. The visual inspection of these maps reveals a remarkable topological picture consisting of fixed (or periodic) points embedded in so-called island chains, invariant manifolds, and regions of ergodic behavior. This paper is concerned with the effective visualization and precise topological analysis of area-preserving maps with two degrees of freedom from numerical or analytical data. Specifically, a method is presented for the automatic extraction and characterization of fixed points and the computation of their invariant manifolds, also known as separatrices, to yield a complete picture of the structures present within the scale and complexity bounds selected by the user. This general approach offers a significant improvement over the visual representations that are so far available for area-preserving maps. The technique is demonstrated on a numerical simulation of magnetic confinement in a fusion reactor.
+vis citations:
+garth_vis_04
+gyulassy_vis_05
+mann_vis_02
+sanderson_vis_10
+theisel_vis_03
+tricoche_vis_00
+weber_vis_07
+zhengcom_vis_05

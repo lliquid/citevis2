@@ -1,0 +1,4 @@
+title: Automatic Detection of Open and Closed Separation and Attachment Lines
+authors: David N. Kenwright
+abstract: A fully automatic feature detection algorithm is presented that locates, and distinguishes, lines of flow separation and attachment on surfaces in 3-D numerical flow fields. The algorithm is based on concepts from 2-D phase plane analysis of linear vector fields. Unlike prior visualization techniques based on particle tracing or flow topology, the phase plane algorithm detects separation using local analytic tests. Results show that it not only detects the standard closed separation lines but also the illusive open separation lines which are not captured by flow topology methods.
+vis citations:

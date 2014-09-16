@@ -1,0 +1,16 @@
+title: TimeBench: A Data Model and Software Library for Visual Analytics of Time-Oriented Data
+authors: Alexander Rind, Tim Lammarsch, Wolfgang Aigner, Bilal Alsallakh, Silvia Miksch
+abstract: Time-oriented data play an essential role in many Visual Analytics scenarios such as extracting medical insights from collections of electronic health records or identifying emerging problems and vulnerabilities in network traffic. However, many software libraries for Visual Analytics treat time as a flat numerical data type and insufficiently tackle the complexity of the time domain such as calendar granularities and intervals. Therefore, developers of advanced Visual Analytics designs need to implement temporal foundations in their application code over and over again. We present TimeBench, a software library that provides foundational data structures and algorithms for time-oriented data in Visual Analytics. Its expressiveness and developer accessibility have been evaluated through application examples demonstrating a variety of challenges with time-oriented data and long-term developer studies conducted in the scope of research and student projects.
+vis citations:
+boegl_vast_13
+bostock_infovis_09
+bostock_infovis_11
+fekete_infovis_04
+fekete_vast_11
+forbes_infovis_10
+heer2_infovis_06
+heer_infovis_10
+stolte_infovis_00
+wattenbe_infovis_02
+weaver_infovis_04
+weaver_vast_06

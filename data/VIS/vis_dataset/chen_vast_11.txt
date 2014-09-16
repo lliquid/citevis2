@@ -1,0 +1,14 @@
+title: Supporting Effective Common Ground Construction in Asynchronous Collaborative Visual Analytics
+authors: Yang Chen, Jamal Alsakran, Scott Barlowe, Jing Yang, Ye Zhao
+abstract: Asynchronous Collaborative Visual Analytics (ACVA) leverages group sensemaking by releasing the constraints on when, where, and who works collaboratively. A significant task to be addressed before ACVA can reach its full potential is effective common ground construction, namely the process in which users evaluate insights from individual work to develop a shared understanding of insights and collectively pool them. This is challenging due to the lack of instant communication and scale of collaboration in ACVA. We propose a novel visual analytics approach that automatically gathers, organizes, and summarizes insights to form common ground with reduced human effort. The rich set of visualization and interaction techniques provided in our approach allows users to effectively and flexibly control the common ground construction and review, explore, and compare insights in detail. A working prototype of the approach has been implemented. We have conducted a case study and a user study to demonstrate its effectiveness.
+vis citations:
+chen_vast_10
+chung_vast_10
+gotz_vast_08
+heer_vast_07
+mahyar_vast_10
+pousman_infovis_07
+robinson_vast_08
+shneiderman_infovis_06
+shriniva_vast_09
+viegas_infovis_07

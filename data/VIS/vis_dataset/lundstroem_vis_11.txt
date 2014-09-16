@@ -1,0 +1,7 @@
+title: Multi-Touch Table System for Medical Visualization: Application to Orthopedic Surgery Planning
+authors: Claes Lundstr??m, Thomas Rydell, Camilla Forsell, Anders Persson, Anders Ynnerman
+abstract: Medical imaging plays a central role in a vast range of healthcare practices. The usefulness of 3D visualizations has been demonstrated for many types of treatment planning. Nevertheless, full access to 3D renderings outside of the radiology department is still scarce even for many image-centric specialties. Our work stems from the hypothesis that this under-utilization is partly due to existing visualization systems not taking the prerequisites of this application domain fully into account. We have developed a medical visualization table intended to better fit the clinical reality. The overall design goals were two-fold: similarity to a real physical situation and a very low learning threshold. This paper describes the development of the visualization table with focus on key design decisions. The developed features include two novel interaction components for touch tables. A user study including five orthopedic surgeons demonstrates that the system is appropriate and useful for this application domain.
+vis citations:
+isenberg_vast_10
+ljung_vis_06
+yu_vis_10

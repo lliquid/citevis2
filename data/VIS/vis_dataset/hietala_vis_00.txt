@@ -1,0 +1,5 @@
+title: A Visibility Determination Algorithm for Interactive Virtual Endoscopy
+authors: Rami Hietala, Jarkko Oikarinen
+abstract: We present a new visibility determination algorithm for interactive virtual endoscopy. The algorithm uses a modified version of template-based ray casting to extract a view dependent set of potentially visible voxels from volume data. The voxels are triangulated by Marching Cubes and the triangles are rendered onto the display by a graphics accelerator. Early ray termination and space leaping are used to accelerate the ray casting step and a quadtree subdivision algorithm is used to reduce the number of cast rays. Compared to other recently proposed rendering algorithms for virtual endoscopy, our rendering algorithm does not require a long preprocessing step or a high-end graphics workstation, but achieves interactive frame rates on a standard PC equipped with a low-cost graphics accelerator.
+vis citations:
+parker_vis_98

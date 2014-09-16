@@ -1,0 +1,6 @@
+title: An Empirical Model of Slope Ratio Comparisons
+authors: Justin Talbot, John Gerth, Pat Hanrahan
+abstract: Comparing slopes is a fundamental graph reading task and the aspect ratio chosen for a plot influences how easy these comparisons are to make. According to Banking to 45??, a classic design guideline first proposed and studied by Cleveland et al., aspect ratios that center slopes around 45?? minimize errors in visual judgments of slope ratios. This paper revisits this earlier work. Through exploratory pilot studies that expand Cleveland et al.???s experimental design, we develop an empirical model of slope ratio estimation that fits more extreme slope ratio judgments and two common slope ratio estimation strategies. We then run two experiments to validate our model. In the first, we show that our model fits more generally than the one proposed by Cleveland et al. and we find that, in general, slope ratio errors are not minimized around 45??. In the second experiment, we explore a novel hypothesis raised by our model: that visible baselines can substantially mitigate errors made in slope judgments. We conclude with an application of our model to aspect ratio selection.
+vis citations:
+heer1_infovis_06
+talbot_infovis_11

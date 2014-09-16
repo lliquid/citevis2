@@ -1,0 +1,6 @@
+title: Interactive Terascale Particle Visualization
+authors: David Ellsworth, Bryan Green, Patrick Moran
+abstract: This paper describes the methods used to produce an interactive visualization of a 2 TB computational fluid dynamics (CFD) data set using particle tracing (streaklines). We use the method introduced by Bruckschen et al. [3] that precomputes a large number of particles, stores them on disk using a space-filling curve ordering that minimizes seeks, then retrieves and displays the particles according to the user???s command. We describe how the particle computation can be performed using a PC cluster, how the algorithm can be adapted to work with a multi-block curvilinear mesh, how scalars can be extracted and used to color the particles, and how the out-ofcore visualization can be scaled to 293 billion particles while still achieving interactive performance on PC hardware. Compared to the earlier work, our data set size and total number of particles are an order of magnitude larger. We also describe a new compression technique that losslessly reduces the amount of particle storage by 41% and speeds the particle retrieval by about 20%.
+vis citations:
+chiang_vis_03
+chiang_vis_98

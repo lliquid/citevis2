@@ -1,0 +1,6 @@
+title: Generation of Accurate Integral Surfaces in Time-Dependent Vector Fields
+authors: Christoph Garth, Hari Krishnan, Xavier Tricoche, Tom Bobach, Kenneth I. Joy
+abstract: We present a novel approach for the direct computation of integral surfaces in time-dependent vector fields. As opposed to previous work, which we analyze in detail, our approach is based on a separation of integral surface computation into two stages: surface approximation and generation of a graphical representation. This allows us to overcome several limitations of existing techniques. We first describe an algorithm for surface integration that approximates a series of time lines using iterative refinement and computes a skeleton of the integral surface. In a second step, we generate a well-conditioned triangulation. Our approach allows a highly accurate treatment of very large time-varying vector fields in an efficient, streaming fashion. We examine the properties of the presented methods on several example datasets and perform a numerical study of its correctness and accuracy. Finally, we investigate some visualization aspects of integral surfaces.
+vis citations:
+nielson2_vis_04
+scheuermann_vis_01

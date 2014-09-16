@@ -1,0 +1,5 @@
+title: Aggregate Towers: Scale Sensitive Visualization And Decluttering Of Geospatial Data
+authors: James K. Rayson
+abstract: We have developed a technique, Aggregate Towers, that allows geospatial data to be visualized across a range of map scales. We use a combination of data aggregation algorithms and dynamically aggregating data markers (e.g., icons or symbols) to accommodate interactive zooming by a user while maintaining a representation that remains intuitive, consistent across multiple scales, and uncluttered. This approach implicitly generates multiple levels of overview displays from a single set of underlying data.
+vis citations:
+keim_vis_98

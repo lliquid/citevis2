@@ -1,0 +1,5 @@
+title: Redefining the Focus and Context of Focus+Context Visualizations
+authors: Staffan Bj??rk, Johan Redstr??m
+abstract: The increasing diversity of computers, especially among small mobile devices such as mobile phones and PDAs, raise new questions about information visualization techniques developed for the desktop computer. Using a series of examples ranging from applications for ordinary desktop displays to web-browsers and other applications for PDAs, we describe how a focus+context technique, Flip Zooming, is changed due to the situation it is used in. Based on these examples, we discuss how the use of ???focus??? and ???context??? in focus+context techniques change in order to fit new areas of use for information visualization. By doing so, we hope to enrich the understanding of how focus+context techniques as a whole may be further developed.
+vis citations:
+bjork_infovis_99

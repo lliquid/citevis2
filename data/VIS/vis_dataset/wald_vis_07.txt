@@ -1,0 +1,11 @@
+title: Interactive Isosurface Ray Tracing of Time-Varying Tetrahedral Volumes
+authors: Ingo Wald, Heiko Friedrich, Aaron Knoll, Charles D. Hansen
+abstract: We describe a system for interactively rendering isosurfaces of tetrahedral finite-element scalar fields using coherent ray tracing techniques on the CPU. By employing state-of-the art methods in polygonal ray tracing, namely aggressive packet/frustum traversal of a bounding volume hierarchy, we can accomodate large and time-varying unstructured data. In conjunction with this efficiency structure, we introduce a novel technique for intersecting ray packets with tetrahedral primitives. Ray tracing is flexible, allowing for dynamic changes in isovalue and time step, visualization of multiple isosurfaces, shadows, and depth-peeling transparency effects. The resulting system offers the intuitive simplicity of isosurfacing, guaranteed-correct visual results, and ultimately a scalable, dynamic and consistently interactive solution for visualizing unstructured volumes.
+vis citations:
+bavoil_vis_06
+callahan_vis_05
+georgii_vis_06
+krueger_vis_03
+livnat_vis_98
+parker_vis_98
+weiler_vis_03

@@ -1,0 +1,9 @@
+title: SketchStory: Telling More Engaging Stories with Data through Freeform Sketching
+authors: Bongshin Lee, Rubaiat Habib Kazi, Greg Smith
+abstract: Presenting and communicating insights to an audience???telling a story???is one of the main goals of data exploration. Even though visualization as a storytelling medium has recently begun to gain attention, storytelling is still underexplored in information visualization and little research has been done to help people tell their stories with data. To create a new, more engaging form of storytelling with data, we leverage and extend the narrative storytelling attributes of whiteboard animation with pen and touch interactions. We present SketchStory, a data-enabled digital whiteboard that facilitates the creation of personalized and expressive data charts quickly and easily. SketchStory recognizes a small set of sketch gestures for chart invocation, and automatically completes charts by synthesizing the visuals from the presenter-provided example icon and binding them to the underlying data. Furthermore, SketchStory allows the presenter to move and resize the completed data charts with touch, and filter the underlying data to facilitate interactive exploration. We conducted a controlled experiment for both audiences and presenters to compare SketchStory with a traditional presentation system, Microsoft PowerPoint. Results show that the audience is more engaged by presentations done with SketchStory than PowerPoint. Eighteen out of 24 audience participants preferred SketchStory to PowerPoint. Four out of five presenter participants also favored SketchStory despite the extra effort required for presentation.
+vis citations:
+heer_infovis_08
+segal_infovis_10
+viegas_infovis_07
+walny_infovis_12
+wood_infovis_12

@@ -1,0 +1,12 @@
+title: Vorticity Based Flow Analysis and Visualization for Pelton Turbine Design Optimization
+authors: Filip Sadlo, Ronald Peikert, Etienne Parkinson
+abstract: Vorticity is the quantity used to describe the creation, transformation and extinction of vortices. It is present not only in vortices but also in shear flow. Especially in ducted flows, most of the overall vorticity is usually contained in the boundary layer. When a vortex develops from the boundary layer, this can be described by transport of vorticity. For a better understanding of a flow it is therefore of interest to examine vorticity in all of its different roles. The goal of this application study was not primarily the visualization of vortices but of vorticity distribution and its role in vortex phenomena.The underlying industrial case is a design optimization for a Pelton turbine. An important industrial objective is to improve the quality of the water jets driving the runner. Jet quality is affected mostly by vortices originating in the distributor ring. For a better understanding of this interrelation, it is crucial to not only visualize these vortices but also to analyze the mechanisms of their creation.We used various techniques for the visualization of vorticity, including field lines and modified isosurfaces. For field line based visualization, we extended the image-guided streamline placement algorithm of Turk and Banks to data-guided field line placement on three-dimensional unstructured grids.
+vis citations:
+deleeuw_vis_99
+ebling_vis_03
+fuhrmann_vis_98
+jiang_vis_02
+mao_vis_98
+peikert_vis_99
+scheuermann_vis_01
+verma_vis_00

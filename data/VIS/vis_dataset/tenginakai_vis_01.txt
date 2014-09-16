@@ -1,0 +1,5 @@
+title: SALIENT ISOSURFACE DETECTION WITH MODELINDEPENDENT STATISTICAL SIGNATURES
+authors: Shivaraj Tenginakai, Jinho Lee, Raghu Machiraju
+abstract: Volume graphics has not been accepted for widespread use. One of the inhibiting reasons is the lack of general methods for data-analysis and simple interfaces for data exploration. An error-and-trial iterative procedure is often used to select a desirable transfer function or mine the dataset for salient iso-values. New semi-automatic methods that are also data-centric have shown much promise [1][7]. However, general and robust methods are still needed for data-exploration and analysis. In this paper, we propose general model-independent statistical methods based on central moments of data. Using these techniques we show how salient iso-surfaces at material boundaries can be determined. We provide examples from the medical and computational domain to demonstrate the effectiveness of our methods.
+vis citations:
+fang_vis_98

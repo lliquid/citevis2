@@ -1,0 +1,13 @@
+title: Volume Ray Casting with Peak Finding and Differential Sampling
+authors: Aaron Knoll, Younis Hijazi, Rolf Westerteiger, Mathias Schott, Charles Hansen, Hans Hagen
+abstract: Direct volume rendering and isosurfacing are ubiquitous rendering techniques in scientific visualization, commonly employed in imaging 3D data from simulation and scan sources. Conventionally, these methods have been treated as separate modalities, necessitating different sampling strategies and rendering algorithms. In reality, an isosurface is a special case of a transfer function, namely a Dirac impulse at a given isovalue. However, artifact-free rendering of discrete isosurfaces in a volume rendering framework is an elusive goal, requiring either infinite sampling or smoothing of the transfer function. While preintegration approaches solve the most obvious deficiencies in handling sharp transfer functions, artifacts can still result, limiting classification. In this paper, we introduce a method for rendering such features by explicitly solving for isovalues within the volume rendering integral. In addition, we present a sampling strategy inspired by ray differentials that automatically matches the frequency of the image plane, resulting in fewer artifacts near the eye and better overall performance. These techniques exhibit clear advantages over standard uniform ray casting with and without preintegration, and allow for high-quality interactive volume rendering with sharp C0 transfer functions.
+vis citations:
+kniss_vis_03
+krueger_vis_03
+livnat_vis_98
+livnat_vis_04
+parker_vis_98
+roettger_vis_00
+schreine_vis_06
+zhou_vis_06
+zwicker_vis_01

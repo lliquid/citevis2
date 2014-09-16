@@ -1,0 +1,5 @@
+title: Feature Comparisons Of 3-D Vector Fields Using Earth Mover???s Distance
+authors: Rajesh Batra, Lambertus Hesselink
+abstract: A method for comparing three-dimensional vector fields constructed from simple critical points is described. This method is a natural extension of the previous work [1] which defined a distance metric for comparing two-dimensional fields.The extension to three-dimensions follows the path of our previous work, rethinking the representation of a critical point signature and the distance measure between the points. Since the method relies on topologically based information, problems such as grid matching and vector alignment which often complicate other comparison techniques are avoided. In addition, since only feature information is used to represent, and therefore stored for each field, a significant amount of compression occurs.
+vis citations:
+lavin_vis_98

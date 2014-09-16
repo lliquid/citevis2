@@ -1,0 +1,7 @@
+title: Fast View-Dependent Level-of-Detail Rendering Using Cached Geometry
+authors: Joshua Levenberg
+abstract: Level-of-detail rendering is essential for rendering very large, detailed worlds in real-time. Unfortunately, level-of-detail computations can be expensive, creating a bottleneck at the CPU.This paper presents the CABTT algorithm, an extension to existing binary-triangle-tree-based level-of-detail algorithms. Instead of manipulating triangles, the CABTT algorithm instead operates on clusters of geometry called aggregate triangles. This reduces CPU overhead, eliminating a bottleneck common to level-of-detail algorithms. Since aggregate triangles stay fixed over several frames, they may be cached on the video card. This further reduces CPU load and fully utilizes the hardware accelerated rendering pipeline on modern video cards. These improvements result in a fourfold increase in frame rate over ROAM [7] at high detail levels. Our implementation renders an approximation of an 8 million triangle heightfield at 42 frames per second with an maximum error of 1 pixel on consumer hardware.
+vis citations:
+hoppe_vis_98
+lindstrom02_vis_01
+pajarola_vis_98

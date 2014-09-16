@@ -1,0 +1,9 @@
+title: Dual Contouring with Topology-Preserving Simplification Using Enhanced Cell Representation
+authors: Nan Zhang, Wei Hong, Arie Kaufman
+abstract: We present a fast, topology-preserving approach for isosurface simplification. The underlying concept behind our approach is to preserve the disconnected surface components in cells during isosurface simplification. We represent isosurface components in a novel representation, called enhanced cell, where each surface component in a cell is represented by a vertex and its connectivity information. A topology-preserving vertex clustering algorithm is applied to build a vertex octree. An enhanced dual contouring algorithm is applied to extract error-bounded multiresolution isosurfaces from the vertex octree while preserving the finest resolution isosurface topology. Cells containing multiple vertices are properly handled during contouring. Our approach demonstrates better results than existing octree-based simplification techniques.
+vis citations:
+gerstner_vis_00
+gregorsk_vis_02
+shaffer_vis_01
+szymczak_vis_03
+varadhan_vis_03

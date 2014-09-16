@@ -1,0 +1,10 @@
+title: Visual Analytics for Complex Concepts Using a Human Cognition Model
+authors: Tera Marie Green, William Ribarsky, Brian Fisher
+abstract: As the information being visualized and the process of understanding that information both become increasingly complex, it is necessary to develop new visualization approaches that facilitate the flow of human reasoning. In this paper, we endeavor to push visualization design a step beyond current user models by discussing a modeling framework of human ???higher cognition.??? Based on this cognition model, we present design guidelines for the development of visual interfaces designed to maximize the complementary cognitive strengths of both human and computer. Some of these principles are already being reflected in the better visual analytics designs, while others have not yet been applied or fully applied. But none of the guidelines have explained the deeper rationale that the model provides. Lastly, we discuss and assess these visual analytics guidelines through the evaluation of several visualization examples.
+vis citations:
+wijk_vis_05
+chang_vast_07
+stasko_vast_07
+yang_vast_06
+ghoniem_vast_07
+chang_infovis_07

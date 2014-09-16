@@ -1,0 +1,20 @@
+title: SocialNetSense: Supporting Sensemaking of Social and Structural Features in Networks with Interactive Visualization
+authors: Liang Gou, Xiaolong (Luke) Zhang, Airong Luo, Patricia F. Anderson
+abstract: Increasingly, social network datasets contain social attribute information about actors and their relationship. Analyzing such network with social attributes requires making sense of not only its structural features, but also the relationship between social features in attributes and network structures. Existing social network analysis tools are usually weak in supporting complex analytical tasks involving both structural and social features, and often overlook users??? needs for sensemaking tools that help to gather, synthesize, and organize information of these features. To address these challenges, we propose a sensemaking framework of social-network visual analytics in this paper. This framework considers both bottom-up processes, which are about constructing new understandings based on collected information, and top-down processes, which concern using prior knowledge to guide information collection, in analyzing social networks from both social and structural perspectives. The framework also emphasizes the externalization of sensemaking processes through interactive visualization. Guided by the framework, we develop a system, SocialNetSense, to support the sensemaking in visual analytics of social networks with social attributes. The example of using our system to analyze a scholar collaboration network shows that our approach can help users gain insight into social networks both structurally and socially, and enhance their process awareness in visual analytics.
+vis citations:
+bavoil_vis_05
+chi_infovis_99
+holten_infovis_06
+gotz_vast_08
+gou_infovis_11
+heer_infovis_05
+heer_infovis_08
+henry_infovis_06
+henry_infovis_07
+kadivar_vast_09
+kang_vast_06
+kreusele_infovis_04
+liu_vast_11
+pretorius_infovis_06
+shneiderman_infovis_06
+stasko_vast_07

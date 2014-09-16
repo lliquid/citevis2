@@ -1,0 +1,7 @@
+title: Visualization of Volume Data with Quadratic Super Splines
+authors: Christian R??ssl, Frank Zeilfelder, G??nther N??rnberger, Hans-Peter Seidel
+abstract: We develop a new approach to reconstruct non-discrete models from gridded volume samples. As a model, we use quadratic trivariate super splines on a uniform tetrahedral partition A. The approximating splines are determined in a natural and completely symmetric way by averaging local data samples, such that appropriate smoothness conditions are automatically satisfied. On each tetrahedron of A, the quasi-interpolating spline is a polynomial of total degree two which provides several advantages including efficient computation, evaluation and visualization of the model. We apply Bernstein-B??ezier techniques well-known in CAGD to compute and evaluate the trivariate spline and its gradient. With this approach the volume data can be visualized efficiently e.g. with isosurface raycasting. Along an arbitrary ray the splines are univariate, piecewise quadratics and thus the exact intersection for a prescribed isovalue can be easily determined in an analytic and exact way. Our results confirm the efficiency of the quasi-interpolating method and demonstrate high visual quality for rendered isosurfaces.
+vis citations:
+carr_vis_01
+haber_vis_01
+parker_vis_98

@@ -1,0 +1,9 @@
+title: Interactive Visualization of Hyperspectral Images of Historical Documents
+authors: Seon Joo Kim, Shaojie Zhuo, Fanbo Deng, Chi-Wing Fu, Michael S. Brown
+abstract: This paper presents an interactive visualization tool to study and analyze hyperspectral images (HSI) of historical documents. This work is part of a collaborative effort with the Nationaal Archief of the Netherlands (NAN) and Art Innovation, a manufacturer of hyperspectral imaging hardware designed for old and fragile documents. The NAN is actively capturing HSI of historical documents for use in a variety of tasks related to the analysis and management of archival collections, from ink and paper analysis to monitoring the effects of environmental aging. To assist their work, we have developed a comprehensive visualization tool that offers an assortment of visualization and analysis methods, including interactive spectral selection, spectral similarity analysis, time-varying data analysis and visualization, and selective spectral band fusion. This paper describes our visualization software and how it is used to facilitate the tasks needed by our collaborators. Evaluation feedback from our collaborators on how this tool benefits their work is included.
+vis citations:
+johnson_vis_08
+kehrer_vis_08
+kruger_vis_08
+li_vis_08
+millerja_vis_06

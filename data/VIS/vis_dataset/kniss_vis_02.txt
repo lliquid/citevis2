@@ -1,0 +1,4 @@
+title: Interactive Translucent Volume Rendering and Procedural Modeling
+authors: Joe Kniss, Simon Premoze, Charles Hansen, David Ebert
+abstract: Direct volume rendering is a commonly used technique in visualization applications. Many of these applications require sophisticated shading models to capture subtle lighting effects and characteristics of volumetric data and materials. Many common objects and natural phenomena exhibit visual quality that cannot be captured using simple lighting models or cannot be solved at interactive rates using more sophisticated methods. We present a simple yet effective interactive shading model which captures volumetric light attenuation effects to produce volumetric shadows and the subtle appearance of translucency. We also present a technique for volume displacement or perturbation that allows realistic interactive modeling of high frequency detail for real and synthetic volumetric data.
+vis citations:

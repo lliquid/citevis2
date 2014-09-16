@@ -1,0 +1,14 @@
+title: Result-Driven Exploration of Simulation Parameter Spaces for Visual Effects Design
+authors: Stefan Bruckner, Torsten M??ller
+abstract: Graphics artists commonly employ physically-based simulation for the generation of effects such as smoke, explosions, and similar phenomena. The task of finding the correct parameters for a desired result, however, is difficult and time-consuming as current tools provide little to no guidance. In this paper, we present a new approach for the visual exploration of such parameter spaces. Given a three-dimensional scene description, we utilize sampling and spatio-temporal clustering techniques to generate a concise overview of the achievable variations and their temporal evolution. Our visualization system then allows the user to explore the simulation space in a goal-oriented manner. Animation sequences with a set of desired characteristics can be composed using a novel search-by-example approach and interactive direct volume rendering is employed to provide instant visual feedback. A user study was performed to evaluate the applicability of our system in production use.
+vis citations:
+ankerst_infovis_98
+daniel_vis_03
+elmqvist_vast_07
+fails_vast_06
+johansso_infovis_09
+lee_vis_09
+ma_vis_99
+smith_vis_07
+woodring_vis_06
+woodring_vis_03

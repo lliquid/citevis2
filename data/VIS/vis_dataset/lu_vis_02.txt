@@ -1,0 +1,8 @@
+title: Non-Photorealistic Volume Rendering Using Stippling Techniques
+authors: Aidong Lu, Christopher J. Morris, David S. Ebert
+abstract: Simulating hand-drawn illustration techniques can succinctly express information in a manner that is communicative and informative. We present a framework for an interactive direct volume illustration system that simulates traditional stipple drawing. By combining the principles of artistic and scientific illustration, we explore several feature enhancement techniques to create effective, interactive visualizations of scientific and medical datasets. We also introduce a rendering mechanism that generates appropriate point lists at all resolutions during an automatic preprocess, and modifies rendering styles through different combinations of these feature enhancements. The new system is an effective way to interactively preview large, complex volume datasets in a concise, meaningful, and illustrative manner. Volume stippling is effective for many applications and provides a quick and efficient method to investigate volume models.
+vis citations:
+ebert_vis_00
+mroz_vis_01
+treavett_vis_00
+zwicker_vis_01

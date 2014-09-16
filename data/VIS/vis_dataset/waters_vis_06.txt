@@ -1,0 +1,8 @@
+title: Using Difference Intervals for Time-Varying Isosurface Visualization
+authors: Kenneth W. Waters, Christopher S. Co, Kenneth I. Joy
+abstract: We present a novel approach to out-of-core time-varying isosurface visualization. We attempt to interactively visualize time-varying datasets which are too large to fit into main memory using a technique which is dramatically different from existing algorithms. Inspired by video encoding techniques, we examine the data differences between time steps to extract isosurface information. We exploit span space extraction techniques to retrieve operations necessary to update isosurface geometry from neighboring time steps. Because only the changes between time steps need to be retrieved from disk, I/O bandwidth requirements are minimized. We apply temporal compression to further reduce disk access and employ a point-based previewing technique that is refined in idle interaction cycles. Our experiments on computational simulation data indicate that this method is an extremely viable solution to large time-varying isosurface visualization. Our work advances the state-of-the-art by enabling all isosurfaces to be represented by a compact set of operations.
+vis citations:
+livnat_vis_04
+shen_vis_98
+sutton_vis_99
+von_rymo_vis_04

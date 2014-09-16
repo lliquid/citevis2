@@ -1,0 +1,13 @@
+title: Direct Volume Editing
+authors: Kai B??rger, Jens Kr??ger, R??diger Westermann
+abstract: In this work we present basic methodology for interactive volume editing on GPUs, and we demonstrate the use of these methods to achieve a number of different effects. We present fast techniques to modify the appearance and structure of volumetric scalar fields given on Cartesian grids. Similar to 2D circular brushes as used in surface painting we present 3D spherical brushes for intuitive coloring of particular structures in such fields. This paint metaphor is extended to allow the user to change the data itself, and the use of this functionality for interactive structure isolation, hole filling, and artefact removal is demonstrated. Building on previous work in the field we introduce high-resolution selection volumes, which can be seen as a resolution-based focus+context metaphor. By utilizing such volumes we present a novel approach to interactive volume editing at sub-voxel accuracy. Finally, we introduce a fast technique to paste textures onto iso-surfaces in a 3D scalar field. Since the texture resolution is independent of the volume resolution, this technique allows structure-aligned textures containing appearance properties or textual information to be used for volume augmentation and annotation.
+vis citations:
+bruckner_vis_07
+bruckner_vis_05
+ebert_vis_00
+ikits_vis_03
+krueger_vis_06
+krueger_vis_03
+lu_vis_02
+viola_vis_04
+weiskopf_vis_02

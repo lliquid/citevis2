@@ -1,0 +1,9 @@
+title: The FLOWLENS: A Focus-and-Context Visualization Approach for Exploration of Blood Flow in Cerebral Aneurysms
+authors: Rocco Gasteiger, Mathias Neugebauer, Oliver Beuing, Bernhard Preim
+abstract: Blood flow and derived data are essential to investigate the initiation and progression of cerebral aneurysms as well as their risk of rupture. An effective visual exploration of several hemodynamic attributes like the wall shear stress (WSS) and the inflow jet is necessary to understand the hemodynamics. Moreover, the correlation between focus-and-context attributes is of particular interest. An expressive visualization of these attributes and anatomic information requires appropriate visualization techniques to minimize visual clutter and occlusions. We present the FLOWLENS as a focus-and-context approach that addresses these requirements. We group relevant hemodynamic attributes to pairs of focus-and-context attributes and assign them to different anatomic scopes. For each scope, we propose several FLOWLENS visualization templates to provide a flexible visual filtering of the involved hemodynamic pairs. A template consists of the visualization of the focus attribute and the additional depiction of the context attribute inside the lens. Furthermore, the FLOWLENS supports local probing and the exploration of attribute changes over time. The FLOWLENS minimizes visual cluttering, occlusions, and provides a flexible exploration of a region of interest. We have applied our approach to seven representative datasets, including steady and unsteady flow data from CFD simulations and 4D PC-MRI measurements. Informal user interviews with three domain experts confirm the usefulness of our approach.
+vis citations:
+born_vis_10
+everts_vis_09
+krueger_vis_06
+vanpelt_vis_10
+wangl_vis_05

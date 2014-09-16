@@ -1,0 +1,6 @@
+title: A Novel Interface for Higher-Dimensional Classification of Volume Data
+authors: Fan-Yin Tzeng, Eric B. Lum, Kwan-Liu Ma
+abstract: In the traditional volume visualization paradigm, the user specifies a transfer function that assigns each scalar value to a color and opacity by defining an opacity and a color map function. The transfer function has two limitations. First, the user must define curves based on histogram and value rather than seeing and working with the volume itself. Second, the transfer function is inflexible in classifying regions of interest, where values at a voxel such as intensity and gradient are used to differentiate material, not taking into account additional properties such as texture and position. We describe an intuitive user interface for specifying the classification functions that consists of the users painting directly on sample slices of the volume. These painted regions are used to automatically define high-dimensional classification functions that can be implemented in hardware for interactive rendering. The classification of the volume is iteratively improved as the user paints samples, allowing intuitive and efficient viewing of materials of interest.
+vis citations:
+fang_vis_98
+kniss_vis_01

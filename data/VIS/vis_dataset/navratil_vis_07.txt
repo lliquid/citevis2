@@ -1,0 +1,6 @@
+title: Visualization of Cosmological Particle-Based Datasets
+authors: Paul Arthur Navratil, Jarrett L. Johnson, Volker Bromm
+abstract: We describe our visualization process for a particle-based simulation of the formation of the first stars and their impact on cosmic history. The dataset consists of several hundred time-steps of point simulation data, with each time-step containing approximately two million point particles. For each time-step, we interpolate the point data onto a regular grid using a method taken from the radiance estimate of photon mapping [21]. We import the resulting regular grid representation into ParaView [24], with which we extract isosurfaces across multiple variables. Our images provide insights into the evolution of the early universe, tracing the cosmic transition from an initially homogeneous state to one of increasing complexity. Specifically, our visualizations capture the build-up of regions of ionized gas around the first stars, their evolution, and their complex interactions with the surrounding matter. These observations will guide the upcoming James Webb Space Telescope, the key astronomy mission of the next decade.
+vis citations:
+livnat_vis_04
+von_rymo_vis_04

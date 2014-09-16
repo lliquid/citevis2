@@ -1,0 +1,13 @@
+title: UTOPIAN: User-Driven Topic Modelingi Based on Interactive Nonnegative Matrix Factorization
+authors: Jaegul Choo, Changhyun Lee, Chandan K. Reddy, Haesun Park
+abstract: Topic modeling has been widely used for analyzing text document collections. Recently, there have been significant advancements in various topic modeling techniques, particularly in the form of probabilistic graphical modeling. State-of-the-art techniques such as Latent Dirichlet Allocation (LDA) have been successfully applied in visual text analytics. However, most of the widely-used methods based on probabilistic modeling have drawbacks in terms of consistency from multiple runs and empirical convergence. Furthermore, due to the complicatedness in the formulation and the algorithm, LDA cannot easily incorporate various types of user feedback. To tackle this problem, we propose a reliable and flexible visual analytics system for topic modeling called UTOPIAN (User-driven Topic modeling based on Interactive Nonnegative Matrix Factorization). Centered around its semi-supervised formulation, UTOPIAN enables users to interact with the topic modeling method and steer the result in a user-driven manner. We demonstrate the capability of UTOPIAN via several usage scenarios with real-world document corpuses such as InfoVis/VAST paper data set and product review data sets.
+vis citations:
+choo_vast_09
+choo_vast_10
+cui_infovis_11
+dou_vast_11
+dou_vast_12
+hossain_vast_12
+nam_vast_07
+paulovic_infovis_08
+stasko_vast_07

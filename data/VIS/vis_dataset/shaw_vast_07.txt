@@ -1,0 +1,4 @@
+title: IMAS: The Interactive Multigenomic Analysis System
+authors: Christopher D. Shaw, Gregory A. Dasch, Marina E. Eremeeva
+abstract: This paper introduces a new Visual Analysis tool named IMAS (Interactive Multigenomic Analysis System), which combines common analysis tools such as Glimmer, BLAST, and Clustal-W into a unified Visual Analytic framework. IMAS displays the primary DNA sequence being analyzed by the biologist in a highly interactive, zoomable visual display. The user may analyze the sequence in a number of ways, and visualize these analyses in a coherent, sequence aligned form, with all related analysis products grouped together. This enables the user to rapidly perform analyses of DNA sequences without the need for tedious and error-prone cutting and pasting of sequence data from text files to and from web-based databases and data analysis services, as is now common practice.
+vis citations:

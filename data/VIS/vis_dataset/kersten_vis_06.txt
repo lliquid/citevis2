@@ -1,0 +1,4 @@
+title: Enhancing Depth Perception in Translucent Volumes
+authors: Marta A. Kersten, A. James Stewart, Niko Troje, Randy Ellis
+abstract: We present empirical studies that consider the effects of stereopsis and simulated aerial perspective on depth perception in translucent volumes. We consider a purely absorptive lighting model, in which light is not scattered or reflected, but is simply absorbed as it passes through the volume.A purely absorptive lighting model is used, for example, when rendering digitally reconstructed radiographs (DRRs), which are synthetic X???ray images reconstructed from CT volumes. Surgeons make use of DRRs in planning and performing operations, so an improvement of depth perception in DRRs may help diagnosis and surgical planning.
+vis citations:

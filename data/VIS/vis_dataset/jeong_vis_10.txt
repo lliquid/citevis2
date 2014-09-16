@@ -1,0 +1,9 @@
+title: Interactive Histology of Large-Scale Biomedical Image Stacks
+authors: Won-Ki Jeong, Jens Schneider, Stephen G. Turney, Beverly E. Faulkner-Jones, Dominik Meyer, R??diger Westermann, R. Clay Reid, Jeff Lichtman, Hanspeter Pfister
+abstract: Histology is the study of the structure of biological tissue using microscopy techniques. As digital imaging technology advances, high resolution microscopy of large tissue volumes is becoming feasible; however, new interactive tools are needed to explore and analyze the enormous datasets. In this paper we present a visualization framework that specifically targets interactive examination of arbitrarily large image stacks. Our framework is built upon two core techniques: display-aware processing and GPUaccelerated texture compression. With display-aware processing, only the currently visible image tiles are fetched and aligned on-thefly, reducing memory bandwidth and minimizing the need for time-consuming global pre-processing. Our novel texture compression scheme for GPUs is tailored for quick browsing of image stacks. We evaluate the usability of our viewer for two histology applications: digital pathology and visualization of neural structure at nanoscale-resolution in serial electron micrographs.
+vis citations:
+fout_vis_07
+guthe_vis_01
+guthe_vis_02
+lum_vis_01
+schneide_vis_03

@@ -1,0 +1,8 @@
+title: The Application of GPU Particle Tracing to Diffusion Tensor Field Visualization
+authors: Polina Kondratieva, Jens Kr??ger, R??diger Westermann
+abstract: In this paper we introduce GPU particle tracing for the visualization of 3D diffusion tensor fields. For about half a million particles, reconstruction of diffusion directions from the tensor field, time integration and rendering can be done at interactive rates. Different visualization options like oriented particles of diffusion-dependent shape, stream lines or stream tubes facilitate the use of particle tracing for diffusion tensor visualization. The proposed methods provide efficient and intuitive means to show the dynamics in diffusion tensor fields, and they accommodate the exploration of the diffusion properties of biological tissue.
+vis citations:
+kindlman_vis_99
+laidlaw_vis_98
+weinstei_vis_99
+zhukov_vis_02

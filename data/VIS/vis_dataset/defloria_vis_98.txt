@@ -1,0 +1,4 @@
+title: Efficient Implementation of Multi-Triangulations
+authors: Leila De Floriani, Paola Magillo, Enrico Puppo
+abstract: The Multi-Triangulation (MT) is a general framework for managing the Level-of-Detail in large triangle meshes, which we have introduced in our previous work. In this paper, we describe an efficient implementation of an MT based on vertex decimation. We present general techniques for querying an MT, which are independent of a specific application, and which can be applied for solving problems, such as selective refinement, windowing, point location, and other spatial interference queries. We describe alternative data structures for encoding an MT, which achieve different trade-offs between space and performance. Experimental results are discussed.
+vis citations:

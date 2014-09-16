@@ -1,0 +1,6 @@
+title: C1-Interpolation for Vector Field Topology Visualization
+authors: Gerik Scheuermann, Xavier Tricoche, Hans Hagen
+abstract: An application of C1 scalar interpolation for 2D vector field topology visualization is presented. Powell-Sabin and Nielson interpolants are considered which both make use of Nielson???s Minimum Norm Network for the precomputation of the derivatives in our implementation. A comparison of their results to the commonly used linear interpolant underlines their significant improvement of singularity location and topological skeleton depiction. Evalution is based upon the processing of polynomial vector fields with known topology containing higher order singularities.
+vis citations:
+bajaj_vis_98
+roth_vis_98

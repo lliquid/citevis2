@@ -1,0 +1,7 @@
+titel: The Impact of Physical Navigation on Spatial Organization for Sensemaking
+authors: Christopher Andrews, Chris North
+abstract: Spatial organization has been proposed as a compelling approach to externalizing the sensemaking process. However, there are two ways in which space can be provided to the user: by creating a physical workspace that the user can interact with directly, such as can be provided by a large, high-resolution display, or through the use of a virtual workspace that the user navigates using virtual navigation techniques such as zoom and pan. In this study we explicitly examined the use of spatial sensemaking techniques within these two environments. The results demonstrate that these two approaches to providing sensemaking space are not equivalent, and that the greater embodiment afforded by the physical workspace changes how the space is perceived and used, leading to increased externalization of the sensemaking process.
+vis citations:
+andrews_vast_12
+kang_vast_09
+robinson_vast_08

@@ -1,0 +1,6 @@
+title: Visualization Tools for Vorticity Transport Analysis in Incompressible Flow
+authors: Filip Sadlo, Ronald Peikert, Mirjam Sick
+abstract: Vortices are undesirable in many applications while indispensable in others. It is therefore of common interest to understand their mechanisms of creation. This paper aims at analyzing the transport of vorticity inside incompressible flow. The analysis is based on the vorticity equation and is performed along pathlines which are typically started in upstream direction from vortex regions. Different methods for the quantitative and explorative analysis of vorticity transport are presented and applied to CFD simulations of water turbines. Simulation quality is accounted for by including the errors of meshing and convergence into analysis and visualization. The obtained results are discussed and interpretations with respect to engineering questions are given.
+vis citations:
+peikert_vis_99
+sadlo_vis_04

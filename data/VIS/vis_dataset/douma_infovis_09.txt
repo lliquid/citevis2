@@ -1,0 +1,8 @@
+title: SpicyNodes: Radial Layout Authoring for the General Public
+authors: Michael Douma, Grzegorz Ligierko, Ovidiu Ancuta, Pavel Gritsai, Sean Liu
+abstract: Trees and graphs are relevant to many online tasks such as visualizing social networks, product catalogs, educational portals, digital libraries, the semantic web, concept maps and personalized information management. SpicyNodes is an information-visualization technology that builds upon existing research on radial tree layouts and graph structures. Users can browse a tree, clicking from node to node, as well as successively viewing a node, immediately related nodes and the path back to the ???home??? nodes. SpicyNodes' layout algorithms maintain balanced layouts using a hybrid mixture of a geometric layout (a succession of spanning radial trees) and force-directed layouts to minimize overlapping nodes, plus several other improvements over prior art. It provides XML-based API and GUI authoring tools. The goal of the SpicyNodes project is to implement familiar principles of radial maps and focus+context with an attractive and inviting look and feel in an open system that is accessible to virtually any Internet user.
+vis citations:
+fekete_infovis_04
+jankun_k_infovis_03
+yee_infovis_01
+ziemkiew_infovis_08

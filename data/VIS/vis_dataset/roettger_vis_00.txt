@@ -1,0 +1,9 @@
+title: Hardware-Accelerated Volume And Isosurface Rendering Based On Cell-Projection
+authors: Stefan R??ttger, Martin Kraus, Thomas Ertl
+abstract: We present two beneficial rendering extensions to the Projected Tetrahedra (PT) algorithm by Shirley and Tuchman. These extensions are compatible with any cell sorting technique, for example the BSP-XMPVO sorting algorithm for unstructured meshes.Using 3D texture mapping our first extension solves the longstanding problem of hardware-accelerated but accurate rendering of tetrahedral volume cells with arbitrary transfer functions.By employing 2D texture mapping our second extension realizes the hardware-accelerated rendering of multiple shaded isosurfaces within the PT algorithm without reconstructing the isosurfaces.Additionally, two methods are presented to combine projected tetrahedral volumes with isosurfaces. The time complexity of all our algorithms is linear in the number of tetrahedra and does neither depend on the number of isosurfaces nor on the employed transfer functions.
+vis citations:
+engel_vis_99
+kreeger_vis_99
+livnat_vis_98
+parker_vis_98
+westerma_vis_00

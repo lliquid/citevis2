@@ -1,0 +1,10 @@
+title: Articulated Planar Reformation for Change Visualization in Small Animal Imaging
+authors: Peter Kok, Martin Baiker, Emile A. Hendriks, Frits H. Post, Jouke Dijkstra, Clemens W.G.M. L??wik, Boudewijn P.F. Lelieveldt, Charl P. Botha
+abstract: The analysis of multi-timepoint whole-body small animal CT data is greatly complicated by the varying posture of the subject at different timepoints. Due to these variations, correctly relating and comparing corresponding regions of interest is challenging. In addition, occlusion may prevent effective visualization of these regions of interest. To address these problems, we have developed a method that fully automatically maps the data to a standardized layout of sub-volumes, based on an articulated atlas registration. We have dubbed this process articulated planar reformation, or APR. A sub-volume can be interactively selected for closer inspection and can be compared with the corresponding sub-volume at the other timepoints, employing a number of different comparative visualization approaches. We provide an additional tool that highlights possibly interesting areas based on the change of bone density between timepoints. Furthermore we allow visualization of the local registration error, to give an indication of the accuracy of the registration. We have evaluated our approach on a case that exhibits cancer-induced bone resorption.
+vis citations:
+bruckner_vis_06
+kanitsar_vis_02
+mcguffin_vis_03
+munzner_infovis_09
+ropinski_vis_09
+schneide_vis_08

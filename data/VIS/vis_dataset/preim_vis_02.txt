@@ -1,0 +1,4 @@
+title: Integration of Measurement Tools in Medical 3d Visualizations
+authors: Bernhard Preim, Christian Tietjen, Wolf Spindler, Heinz-Otto Peitgen 
+abstract: We discuss 3d interaction techniques for the quantitative analysis of spatial relations in medical visualizations. We describe the design and implementation of measurement tools to measure distances, angles and volumes in 3d visualizations. The visualization of measurement tools as recognizable 3d objects and a 3d interaction, which is both intuitive and precise, determines the usability of such facilities. Measurements may be carried out in 2d visualizations of the original radiological data and in 3d visualizations. The result of a measurement carried out in one view is also displayed in the other view appropriately. We discuss the validation of the obtained measures. Finally, we describe how some important measurement tasks may be solved automatically.
+vis citations:

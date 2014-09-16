@@ -1,0 +1,7 @@
+title: Hardware-Based Nonlinear Filtering and Segmentation using High-Level Shading Languages
+authors: Ivan Viola, Armin Kanitsar, Meister Eduard Gr??ller
+abstract: Non-linear filtering is an important task for volume analysis. This paper presents hardware-based implementations of various nonlinear filters for volume smoothing with edge preservation. The Cg high-level shading language is used in combination with latest PC consumer graphics hardware. Filtering is divided into pervertex and per-fragment stages. In both stages we propose techniques to increase the filtering performance. The vertex program pre-computes texture coordinates in order to address all contributing input samples of the operator mask. Thus additional computations are avoided in the fragment program. The presented fragment programs preserve cache coherence, exploit 4D vector arithmetic, and internal fixed point arithmetic to increase performance. We show the applicability of non-linear filters as part of a GPU-based segmentation pipeline. The resulting binary mask is compressed and decompressed in the graphics memory on-the-fly.
+vis citations:
+guthe_vis_02
+tasdizen_vis_02
+weiskopf_vis_02

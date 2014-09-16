@@ -1,0 +1,5 @@
+title: Interactive Visualization of Genealogical Graphs
+authors: Michael J. McGuffin, Ravin Balakrishnan
+abstract: The general problem of visualizing ???family trees???, or genealogical graphs, in 2D, is considered. A graph theoretic analysis is given, which identifies why genealogical graphs can be difficult to draw. This motivates some novel graphical representations, including one based on a dual-tree, a subgraph formed by the union of two trees. Dual-trees can be drawn in various styles, including an indented outline style, and allow users to browse general multitrees in addition to genealogical graphs, by transitioning between different dual-tree views. A software prototype for such browsing is described, that supports smoothly animated transitions, automatic camera framing, rotation of subtrees, and a novel interaction technique for expanding or collapsing subtrees to any depth with a single mouse drag.
+vis citations:
+mcguffin_infovis_04

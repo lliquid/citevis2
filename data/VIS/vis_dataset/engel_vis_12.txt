@@ -1,0 +1,13 @@
+title: Visual Steering and Verification of Mass Spectrometry Data Factorization in Air Quality Research
+authors: Daniel Engel, Klaus Greff, Christoph Garth, Keith Bein, Anthony Wexler, Bernd Hamann, Hans Hagen
+abstract: The study of aerosol composition for air quality research involves the analysis of high-dimensional single particle mass spectrometry data. We describe, apply, and evaluate a novel interactive visual framework for dimensionality reduction of such data. Our framework is based on non-negative matrix factorization with specifically defined regularization terms that aid in resolving mass spectrum ambiguity. Thereby, visualization assumes a key role in providing insight into and allowing to actively control a heretofore elusive data processing step, and thus enabling rapid analysis meaningful to domain scientists. In extending existing black box schemes, we explore design choices for visualizing, interacting with, and steering the factorization process to produce physically meaningful results. A domain-expert evaluation of our system performed by the air quality research experts involved in this effort has shown that our method and prototype admits the finding of unambiguous and physically correct lower-dimensional basis transformations of mass spectrometry data at significantly increased speed and a higher degree of ease.
+vis citations:
+artero_infovis_04
+elmqvist_infovis_08
+hauser_infovis_02
+janicke_vis_08
+johansso_infovis_05
+laramee_vis_05
+peng_infovis_04
+waser_vis_10
+yang_infovis_03

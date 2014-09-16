@@ -1,0 +1,14 @@
+title: Representative Factor Generation for the Interactive Visual Analysis of High-Dimensional Data
+authors: Cagatay Turkay, Arvid Lundervold, Astri Johansen Lundervold, Helwig Hauser
+abstract: Datasets with a large number of dimensions per data item (hundreds or more) are challenging both for computational and visual analysis. Moreover, these dimensions have different characteristics and relations that result in sub-groups and/or hierarchies over the set of dimensions. Such structures lead to heterogeneity within the dimensions. Although the consideration of these structures is crucial for the analysis, most of the available analysis methods discard the heterogeneous relations among the dimensions. In this paper, we introduce the construction and utilization of representative factors for the interactive visual analysis of structures in high-dimensional datasets. First, we present a selection of methods to investigate the sub-groups in the dimension set and associate representative factors with those groups of dimensions. Second, we introduce how these factors are included in the interactive visual analysis cycle together with the original dimensions. We then provide the steps of an analytical procedure that iteratively analyzes the datasets through the use of representative factors. We discuss how our methods improve the reliability and interpretability of the analysis process by enabling more informed selections of computational tools. Finally, we demonstrate our techniques on the analysis of brain imaging study results that are performed over a large group of subjects.
+vis citations:
+endert_vast_11
+fua_vis_99
+janicke_vis_08
+johansso_infovis_09
+oeltze_vis_07
+seo_infovis_04
+stolte_infovis_00
+turkay_infovis_11
+wilkinso_infovis_05
+williams_infovis_04

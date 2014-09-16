@@ -1,0 +1,16 @@
+title: Automatic Transfer Functions Based on Informational Divergence
+authors: Marc Ruiz, Anton Bardera, Imma Boada, Ivan Viola, Miquel Feixas, Mateu Sbert
+abstract: In this paper we present a framework to define transfer functions from a target distribution provided by the user. A target distribution can reflect the data importance, or highly relevant data value interval, or spatial segmentation. Our approach is based on a communication channel between a set of viewpoints and a set of bins of a volume data set, and it supports 1D as well as 2D transfer functions including the gradient information. The transfer functions are obtained by minimizing the informational divergence or Kullback-Leibler distance between the visibility distribution captured by the viewpoints and a target distribution selected by the user. The use of the derivative of the informational divergence allows for a fast optimization process. Different target distributions for 1D and 2D transfer functions are analyzed together with importance-driven and view-based techniques.
+vis citations:
+chen_vis_10
+gumhold_vis_02
+jiguangf_vis_06
+kindlman_vis_03
+kohlmann_vis_07
+salama_vis_06
+takahash_vis_05
+viola_vis_06
+wangchao_vis_06
+wangchao_vis_08
+xu_vis_10
+zhou_vis_09

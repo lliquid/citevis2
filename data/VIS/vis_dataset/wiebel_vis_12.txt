@@ -1,0 +1,9 @@
+title: WYSIWYP: What You See Is What You Pick
+authors: Alexander Wiebel, Frans M. Vos, David Foerster, Hans-Christian Hege
+abstract: Scientists, engineers and physicians are used to analyze 3D data with slice-based visualizations. Radiologists for example are trained to read slices of medical imaging data. Despite the numerous examples of sophisticated 3D rendering techniques, domain experts, who still prefer slice-based visualization do not consider these to be very useful. Since 3D renderings have the advantage of providing an overview at a glance, while 2D depictions better serve detailed analyses, it is of general interest to better combine these methods. Recently there have been attempts to bridge this gap between 2D and 3D renderings. These attempts include specialized techniques for volume picking in medical imaging data that result in repositioning slices. In this paper, we present a new volume picking technique called WYSIWYP (???what you see is what you pick???) that, in contrast to previous work, does not require pre-segmented data or metadata and thus is more generally applicable. The positions picked by our method are solely based on the data itself, the transfer function, and the way the volumetric rendering is perceived by the user. To demonstrate the utility of the proposed method, we apply it to automated positioning of slices in volumetric scalar fields from various application areas. Finally, we present results of a user study in which 3D locations selected by users are compared to those resulting from WYSIWYP. The user study confirms our claim that the resulting positions correlate well with those perceived by the user.
+vis citations:
+bordoloi_vis_05
+bruckner_vis_09
+kohlmann_vis_07
+krueger_vis_03
+yu_vis_12

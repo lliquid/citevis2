@@ -1,0 +1,6 @@
+title: Improving Hybrid MDS with Pivot-Based Searching
+authors: Alistair Morrison, Matthew Chalmers
+abstract: An algorithm is presented for the visualisation of multidimensional abstract data, building on a hybrid model introduced at InfoVis 2002. The most computationally complex stage of the original model involved performing a nearestneighbour search for every data item. The complexity of this phase has been reduced by treating all high-dimensional relationships as a set of discretised distances to a constant number of randomly selected pivot items. In improving this computational bottleneck, the complexity is reduced fromO(NN) to O(N4 ). As well as documenting this improvement, the paper describes evaluation with a data set of 108000 14-dimensional items; a considerable increase on the size of data previously tested. Results illustrate that the reduction in complexity is reflected in significantly improved run times and that no negative impact is made upon the quality of layout produced.
+vis citations:
+koren_infovis_02
+morrison_infovis_02

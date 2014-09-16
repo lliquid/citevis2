@@ -1,0 +1,14 @@
+title: Surface-Based Structure Analysis and Visualization for Multifield Time-Varying Datasets
+authors: Samer S. Barakat, Markus R??tten, Xavier Tricoche
+abstract: This paper introduces a new feature analysis and visualization method for multifield datasets. Our approach applies a surface-centric model to characterize salient features and form an effective, schematic representation of the data. We propose a simple, geometrically motivated, multifield feature definition. This definition relies on an iterative algorithm that applies existing theory of skeleton derivation to fuse the structures from the constitutive fields into a coherent data description, while addressing noise and spurious details. This paper also presents a new method for non-rigid surface registration between the surfaces of consecutive time steps. This matching is used in conjunction with clustering to discover the interaction patterns between the different fields and their evolution over time. We document the unified visual analysis achieved by our method in the context of several multifield problems from large-scale time-varying simulations.
+vis citations:
+barakat_vis_12
+gosink_vis_07
+gosink_vis_07
+janicke_vis_08
+jaenicke_vis_07
+kindlman_vis_09
+qu_vis_07
+sauber_vis_06
+tricoche_vis_08
+wangchao_vis_08

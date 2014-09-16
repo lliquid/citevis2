@@ -1,0 +1,6 @@
+title: Voronoi-Based Extraction and Visualization of Molecular Paths
+authors: Norbert Lindow, Daniel Baum, Hans-Christian Hege
+abstract: Visual analysis is widely used to study the behavior of molecules. Of particular interest are the analysis of molecular interactions and the investigation of binding sites. For large molecules, however, it is difficult to detect possible binding sites and paths leading to these sites by pure visual inspection. In this paper, we present new methods for the computation and visualization of potential molecular paths. Using a novel filtering method, we extract the significant paths from the Voronoi diagram of spheres. For the interactive visualization of molecules and their paths, we present several methods using deferred shading and other state-of-theart techniques. To allow for a fast overview of reachable regions of the molecule, we illuminate the molecular surface using a large number of light sources placed on the extracted paths. We also provide a method to compute the extension surface of selected paths and visualize it using the skin surface. Furthermore, we use the extension surface to clip the molecule to allow easy visual tracking of even deeply buried paths. The methods are applied to several proteins to demonstrate their usefulness.
+vis citations:
+krone_vis_09
+tarini_vis_06

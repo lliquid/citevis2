@@ -1,0 +1,5 @@
+title: Centroidal Voronoi tessellation based algorithms for vector fields visualization and segmentation
+authors: Qiang Du, Xiaoqiang Wang
+abstract: A new method for the simplification and the visualization of vector fields is presented based on the notion of Centroidal Voronoi tessellations (CVT???s). A CVT is a special Voronoi tessellation for which the generators of the Voronoi regions in the tessellation are also the centers of mass (or means) with respect to a prescribed density. A distance function in both the spatial and vector spaces is introduced to measure the similarity of the spatially distributed vector fields. Based on such a distance, vector fields are naturally clustered and their simplified representations are obtained. Our method combines simple geometric intuitions with the rigorously established optimality properties of the CVTs. It is simple to describe, easy to understand and implement. Numerical examples are also provided to illustrate the effectiveness and competitiveness of the CVT-based vector simplification and visualization methodology.
+vis citations:
+telea_vis_99

@@ -1,0 +1,9 @@
+title: Asymmetric Relations in Longitudinal Social Networks
+authors: Ulrik Brandes, Bobo Nick
+abstract: In modeling and analysis of longitudinal social networks, visual exploration is used in particular to complement and inform other methods. The most common graphical representations for this purpose appear to be animations and small multiples of intermediate states, depending on the type of media available. We present an alternative approach based on matrix representation of gestaltlines (a combination of Tufte???s sparklines with glyphs based on gestalt theory). As a result, we obtain static, compact, yet data-rich diagrams that support specifically the exploration of evolving dyadic relations and persistent group structure, although at the expense of cross-sectional network views and indirect linkages.
+vis citations:
+heer1_infovis_06
+henry_infovis_07
+nielsen_infovis_09
+perer_infovis_06
+tikhonov_vis_10

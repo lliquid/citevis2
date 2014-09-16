@@ -1,0 +1,11 @@
+title: Nanocubes for Real-Time Exploration of Spatiotemporal Datasets
+authors: Lauro Lins, James T. Klosowski, Carlos Scheidegger
+abstract: Consider real-time exploration of large multidimensional spatiotemporal datasets with billions of entries, each defined by a location, a time, and other attributes. Are certain attributes correlated spatially or temporally? Are there trends or outliers in the data? Answering these questions requires aggregation over arbitrary regions of the domain and attributes of the data. Many relational databases implement the well-known data cube aggregation operation, which in a sense precomputes every possible aggregate query over the database. Data cubes are sometimes assumed to take a prohibitively large amount of space, and to consequently require disk storage. In contrast, we show how to construct a data cube that fits in a modern laptop???s main memory, even for billions of entries; we call this data structure a nanocube. We present algorithms to compute and query a nanocube, and show how it can be used to generate well-known visual encodings such as heatmaps, histograms, and parallel coordinate plots. When compared to exact visualizations created by scanning an entire dataset, nanocube plots have bounded screen error across a variety of scales, thanks to a hierarchical structure in space and time. We demonstrate the effectiveness of our technique on a variety of real-world datasets, and present memory, timing, and network bandwidth measurements. We find that the timings for the queries in our examples are dominated by network and user-interaction latencies.
+vis citations:
+bostock_infovis_11
+chan_vast_08
+cui_infovis_06
+fekete_infovis_02
+mackinlay_infovis_07
+mcdonnel_infovis_09
+stolte_infovis_02

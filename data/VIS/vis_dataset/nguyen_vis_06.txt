@@ -1,0 +1,8 @@
+title: A Novel Visualization Model for Web Search Results
+authors: Tien N. Nguyen, Jin Zhang
+abstract: This paper presents an interactive visualization system, named WebSearchViz, for visualizing the Web search results and facilitating users??? navigation and exploration. The metaphor in our model is the solar system with its planets and asteroids revolving around the sun. Location, color, movement, and spatial distance of objects in the visual space are used to represent the semantic relationships between a query and relevant Web pages. Especially, the movement of objects and their speeds add a new dimension to the visual space, illustrating the degree of relevance among a query and Web search results in the context of users??? subjects of interest. By interacting with the visual space, users are able to observe the semantic relevance between a query and a resulting Web page with respect to their subjects of interest, context information, or concern. Users??? subjects of interest can be dynamically changed, redefined, added, or deleted from the visual space.
+vis citations:
+frecon_infovis_98
+havre_infovis_01
+higgins_infovis_99
+leuski_infovis_00

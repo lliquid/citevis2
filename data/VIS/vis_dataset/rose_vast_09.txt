@@ -1,0 +1,6 @@
+title: Describing Story Evolution from Dynamic Information Streams
+authors: Stuart Rose, Scott Butner, Wendy Cowley, Michelle Gregory, Julia Walker
+abstract: Sources of streaming information, such as news syndicates, publish information continuously. Information portals and news aggregators list the latest information from around the world enabling information consumers to easily identify events in the past 24 hours. The volume and velocity of these streams causes information from prior days to quickly vanish despite its utility in providing an informative context for interpreting new information. Few capabilities exist to support an individual attempting to identify or understand trends and changes from streaming information over time. The burden of retaining prior information and integrating with the new is left to the skills, determination, and discipline of each individual. In this paper we present a visual analytics system for linking essential content from information streams over time into dynamic stories that develop and change over multiple days. We describe particular challenges to the analysis of streaming information and present a fundamental visual representation for showing story change and evolution over time.
+vis citations:
+havre_infovis_00
+hetzler_infovis_05

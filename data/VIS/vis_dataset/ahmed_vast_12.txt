@@ -1,0 +1,11 @@
+title: An Adaptive Parameter Space-Filling Algorithm for Highly Interactive Cluster Exploration
+authors: Zafar Ahmed, Chris Weaver
+abstract: For a user to perceive continuous interactive response time in a visualization tool, the rule of thumb is that it must process, deliver, and display rendered results for any given interaction in under 100 milliseconds. In many visualization systems, successive interactions trigger independent queries and caching of results. Consequently, computationally expensive queries like multidimensional clustering cannot keep up with rapid sequences of interactions, precluding visual benefits such as motion parallax. In this paper, we describe a heuristic prefetching technique to improve the interactive response time of KMeans clustering in dynamic query visualizations of multidimensional data. We address the tradeoff between high interaction and intense query computation by observing how related interactions on overlapping data subsets produce similar clustering results, and characterizing these similarities within a parameter space of interaction. We focus on the two-dimensional parameter space defined by the minimum and maximum values of a time range manipulated by dragging and stretching a one-dimensional filtering lens over a plot of time series data. Using calculation of nearest neighbors of interaction points in parameter space, we reuse partial query results from prior interaction sequences to calculate both an immediate best-effort clustering result and to schedule calculation of an exact result. The method adapts to user interaction patterns in the parameter space by reprioritizing the interaction neighbors of visited points in the parameter space. A performance study on Mesonet meteorological data demonstrates that the method is a significant improvement over the baseline scheme in which interaction triggers on-demand, exact-range clustering with LRU caching. We also present initial evidence that approximate, temporary clustering results are sufficiently accurate (compared to exact results) to convey useful cluster structure during rapid and protracted interaction.
+vis citations:
+ankerst_infovis_98
+cao_infovis_11
+chan_vast_08
+choo_vast_09
+nam_vast_07
+weaver_infovis_04
+yi_infovis_07

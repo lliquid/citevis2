@@ -1,0 +1,5 @@
+title: Farthest Point Seeding for Efficient Placement of Streamlines
+authors: Abdelkrim Mebarki, Pierre Alliez, Olivier Devillers
+abstract: We propose a novel algorithm for placement of streamlines from two-dimensional steady vector or direction fields. Our method consists of placing one streamline at a time by numerical integration starting at the furthest away from all previously placed streamlines. Such a farthest point seeding strategy leads to high quality placements by favoring long streamlines, while retaining uniformity with the increasing density. Our greedy approach generates placements of comparable quality with respect to the optimization approach from Turk and Banks, while being 200 times faster. Simplicity, robustness as well as efficiency is achieved through the use of a Delaunay triangulation to model the streamlines, address proximity queries and determine the biggest voids by exploiting the empty circle property. Our method handles variable density and extends to multiresolution.
+vis citations:
+verma_vis_00

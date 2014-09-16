@@ -1,0 +1,5 @@
+title: Change Blindness in Information Visualization: A Case Study
+authors: Lucy Nowell, Elizabeth Hetzler, Ted Tanasse
+abstract: Change blindness occurs when people do not notice changes in visible elements of a scene. If people use an information visualization system to compare document collection subsets partitioned by their time-stamps, change blindness makes it impossible for them to recognize even very major changes, let alone minor ones. We describe theories from cognitive science that account for the change blindness phenomenon, as well as solutions developed for two visual analysis tools, a dot plot ( SPIRE Galaxies) and landscape (ThemeViewTM) visualizations.
+vis citations:
+leuski_infovis_00

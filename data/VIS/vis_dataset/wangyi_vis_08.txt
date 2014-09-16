@@ -1,0 +1,7 @@
+title: Effects of Video Placement and Spatial Context Presentation on Path Reconstruction Tasks with Contextualized Videos
+authors: Yi Wang, Doug Bowman, David Krum, Enylton Coelho, Tonya Smith-Jackson, David Bailey, Sarah Peck, Swethan Anand, Trevor Kennedy, Yernar Abdrazakov
+abstract: Many interesting and promising prototypes for visualizing video data have been proposed, including those that combine videos with their spatial context (contextualized videos). However, relatively little work has investigated the fundamental design factors behind these prototypes in order to provide general design guidance. Focusing on real-time video data visualization, we evaluated two important design factors ??? video placement method and spatial context presentation method ??? through a user study. In addition, we evaluated the effect of spatial knowledge of the environment. Participants??? performance was measured through path reconstruction tasks, where the participants followed a target through simulated surveillance videos and marked the target paths on the environment model. We found that embedding videos inside the model enabled realtime strategies and led to faster performance. With the help of contextualized videos, participants not familiar with the real environment achieved similar task performance to participants that worked in that environment. We discuss design implications and provide general design recommendations for traffic and security surveillance system interfaces.
+vis citations:
+ivanov_infovis_07
+mcguffin_vis_03
+wang_vis_07

@@ -1,0 +1,9 @@
+title: Interactive Blood Damage Analysis for Ventricular Assist Devices
+authors: Bernd Hentschel, Irene Tedjo, Markus Probst, Marc Wolter, Marek Behr, Christian Bischof, Torsten Kuhlen
+abstract: Ventricular Assist Devices (VADs) support the heart in its vital task of maintaining circulation in the human body when the heart alone is not able to maintain a sufficient flow rate due to illness or degenerative diseases. However, the engineering of these devices is a highly demanding task. Advanced modeling methods and computer simulations allow the investigation of the fluid flow inside such a device and in particular of potential blood damage. In this paper we present a set of visualization methods which have been designed to specifically support the analysis of a tensor-based blood damage prediction model. This model is based on the tracing of particles through the VAD, for each of which the cumulative blood damage can be computed. The model???s tensor output approximates a single blood cell???s deformation in the flow field. The tensor and derived scalar data are subsequently visualized using techniques based on icons, particle visualization, and function plotting. All these techniques are accessible through a Virtual Realitybased user interface, which features not only stereoscopic rendering but also natural interaction with the complex three-dimensional data. To illustrate the effectiveness of these visualization methods, we present the results of an analysis session that was performed by domain experts for a specific data set for the MicroMed DeBakey VAD.
+vis citations:
+ellswort_vis_04
+hotz_vis_04
+jankun_vis_06
+kindlman_vis_06
+zheng_vis_02

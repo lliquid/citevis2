@@ -1,0 +1,7 @@
+title: Statistically Quantitative Volume Visualization
+authors: Joe M. Kniss, Robert Van Uitert, Abraham Stephens, Guo-Shi Li, Tolga Tasdizen
+abstract: Visualization users are increasingly in need of techniques for assessing quantitative uncertainty and error in the images produced. Statistical segmentation algorithms compute these quantitative results, yet volume rendering tools typically produce only qualitative imagery via transfer functionbased classification. This paper presents a visualization technique that allows users to interactively explore the uncertainty, risk, and probabilistic decision of surface boundaries. Our approach makes it possible to directly visualize the combined ???fuzzy??? classification results from multiple segmentations by combining these data into a unified probabilistic data space. We represent this unified space, the combination of scalar volumes from numerous segmentations, using a novel graph-based dimensionality reduction scheme. The scheme both dramatically reduces the dataset size and is suitable for efficient, high quality, quantitative visualization. Lastly, we show that the statistical risk arising from overlapping segmentations is a robust measure for visualizing features and assigning optical properties.
+vis citations:
+hadwiger_vis_03
+tiede_vis_98
+viola_vis_04

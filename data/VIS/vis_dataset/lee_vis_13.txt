@@ -1,0 +1,10 @@
+title: Efficient Local Statistical Analysis via Integral Histograms with Discrete Wavelet Transform
+authors: Teng-Yok Lee, Han-Wei Shen
+abstract: Histograms computed from local regions are commonly used in many visualization applications, and allowing the user to query histograms interactively in regions of arbitrary locations and sizes plays an important role in feature identification and tracking. Computing histograms in regions with arbitrary location and size, nevertheless, can be time consuming for large data sets since it involves expensive I/O and scan of data elements. To achieve both performance- and storage-efficient query of local histograms, we present a new algorithm called WaveletSAT, which utilizes integral histograms, an extension of the summed area tables (SAT), and discrete wavelet transform (DWT). Similar to SAT, an integral histogram is the histogram computed from the area between each grid point and the grid origin, which can be be pre-computed to support fast query. Nevertheless, because one histogram contains multiple bins, it will be very expensive to store one integral histogram at each grid point. To reduce the storage cost for large integral histograms, WaveletSAT treats the integral histograms of all grid points as multiple SATs, each of which can be converted into a sparse representation via DWT, allowing the reconstruction of axis-aligned region histograms of arbitrary sizes from a limited number of wavelet coefficients. Besides, we present an efficient wavelet transform algorithm for SATs that can operate on each grid point separately in logarithmic time complexity, which can be extended to parallel GPU-based implementation. With theoretical and empirical demonstration, we show that WaveletSAT can achieve fast preprocessing and smaller storage overhead than the conventional integral histogram approach with close query performance.
+vis citations:
+gu_vis_11
+janicke_vis_09
+schlegel_vis_11
+shen_vis_99
+tenginakai_vis_01
+xu_vis_10

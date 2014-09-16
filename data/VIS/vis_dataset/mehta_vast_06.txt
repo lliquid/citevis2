@@ -1,0 +1,5 @@
+title: Visual Exploration of Spatio-temporal Relationships for Scientific Data
+authors: Sameep Mehta, Srinivasan Parthasarathy, Raghu Machiraju
+abstract: Spatio-temporal relationships among features extracted from temporally-varying scientific datasets can provide useful information about the evolution of an individual feature and its interactions with other features. However, extracting such useful relationships without user guidance is cumbersome and often an error prone process. In this paper, we present a visual analysis system that interactively discovers such relationships from the trajectories of derived features. We describe analysis algorithms to derive various spatial and spatio-temporal relationships. A visual interface is presented using which the user can interactively select spatial and temporal extents to guide the knowledge discovery process. We show the usefulness of our proposed algorithms on datasets originating from computational fluid dynamics. We also demonstrate how the derived relationships can help in explaining the occurrence of critical events like merging and bifurcation of the vortices.
+vis citations:
+jiang_vis_02

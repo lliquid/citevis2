@@ -1,0 +1,8 @@
+title: Topological Structures of 3D Tensor Fields
+authors: Xiaoqiang Zheng, Beresford Parlett, Alex Pang
+abstract: Tensor topology is useful in providing a simplified and yet detailed representation of a tensor field. Recently the field of 3D tensor topology is advanced by the discovery that degenerate tensors usually form lines in their most basic configurations. These lines form the backbone for further topological analysis. A number of ways for extracting and tracing the degenerate tensor lines have also been proposed. In this paper, we complete the previous work by studying the behavior and extracting the separating surfaces emanating from these degenerate lines.First, we show that analysis of eigenvectors around a 3D degenerate tensor can be reduced to 2D. That is, in most instances, the 3D separating surfaces are just the trajectory of the individual 2D separatrices which includes trisectors and wedges. But the proof is by no means trivial since it is closely related to perturbation theory around a pair of singular state. Such analysis naturally breaks down at the tangential points where the degenerate lines pass through the plane spanned by the eigenvectors associated with the repeated eigenvalues. Second, we show that the separatrices along a degenerate line may switch types (e.g. trisectors to wedges) exactly at the points where the eigenplane is tangential to the degenerate curve. This property leads to interesting and yet complicated configuration of surfaces around such transition points. Finally, we apply the technique to several common data sets to verify its correctness.
+vis citations:
+theisel_vis_03
+tricoche_vis_04
+weinstei_vis_99
+zheng_vis_04

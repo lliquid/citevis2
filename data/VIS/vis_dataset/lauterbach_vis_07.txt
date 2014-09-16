@@ -1,0 +1,6 @@
+title: Interactive Sound Rendering in Complex and Dynamic Scenes using Frustum Tracing
+authors: Christian Lauterbach, Anish Chandak, Dinesh Manocha
+abstract: We present a new approach for real-time sound rendering in complex, virtual scenes with dynamic sources and objects. Our approach combines the efficiency of interactive ray tracing with the accuracy of tracing a volumetric representation. We use a four-sided convex frustum and perform clipping and intersection tests using ray packet tracing. A simple and efficient formulation is used to compute secondary frusta and perform hierarchical traversal. We demonstrate the performance of our algorithm in an interactive system for complex environments and architectural models with tens or hundreds of thousands of triangles. Our algorithm can perform real-time simulation and rendering on a high-end PC.
+vis citations:
+bertram_vis_05
+deines_vis_06

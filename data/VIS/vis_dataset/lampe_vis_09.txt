@@ -1,0 +1,8 @@
+title: Curve-Centric Volume Reformation for Comparative Visualization
+authors: Ove Daae Lampe, Carlos Correa, Kwan-Liu Ma, Helwig Hauser
+abstract: We present two visualization techniques for curve-centric volume reformation with the aim to create compelling comparative visualizations. A curve-centric volume reformation deforms a volume, with regards to a curve in space, to create a new space in which the curve evaluates to zero in two dimensions and spans its arc-length in the third. The volume surrounding the curve is deformed such that spatial neighborhood to the curve is preserved. The result of the curve-centric reformation produces images where one axis is aligned to arc-length, and thus allows researchers and practitioners to apply their arc-length parameterized data visualizations in parallel for comparison. Furthermore we show that when visualizing dense data, our technique provides an inside out projection, from the curve and out into the volume, which allows for inspection what is around the curve. Finally we demonstrate the usefulness of our techniques in the context of two application cases. We show that existing data visualizations of arc-length parameterized data can be enhanced by using our techniques, in addition to creating a new view and perspective on volumetric data around curves. Additionally we show how volumetric data can be brought into plotting environments that allow precise readouts. In the first case we inspect streamlines in a flow field around a car, and in the second we inspect seismic volumes and well logs from drilling.
+vis citations:
+bartoli_vis_01
+correa_vis_06
+kanitsar_vis_02
+kanitsar_vis_03

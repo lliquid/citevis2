@@ -1,0 +1,4 @@
+title: Graphical Encoding for Information Visualization: An Empirical Study
+authors: Lucy Nowell, Robert Schulman, Deborah Hix
+abstract: Research in several areas provides scientific guidance for use of graphical encoding to convey information in an information visualization display. By graphical encoding we mean the use of visual display elements such as icon color, shape, size, or position to convey information about objects represented by the icons. Literature offers inconclusive and often conflicting viewpoints, including the suggestion that the effectiveness of a graphical encoding depends on the type of data represented. Our empirical study suggests that the nature of the users??? perceptual task is more indicative of the effectiveness of a graphical encoding than the type of data represented.
+vis citations:

@@ -1,0 +1,9 @@
+title: Straightening Tubular Flow for Side-by-Side Visualization
+authors: Paolo Angelelli, Helwig Hauser
+abstract: Flows through tubular structures are common in many fields, including blood flow in medicine and tubular fluid flows in engineering. The analysis of such flows is often done with a strong reference to the main flow direction along the tubular boundary. In this paper we present an approach for straightening the visualization of tubular flow. By aligning the main reference direction of the flow, i.e., the center line of the bounding tubular structure, with one axis of the screen, we are able to natively juxtapose (1.) different visualizations of the same flow, either utilizing different flow visualization techniques, or by varying parameters of a chosen approach such as the choice of seeding locations for integration-based flow visualization, (2.) the different time steps of a time-dependent flow, (3.) different projections around the center line , and (4.) quantitative flow visualizations in immediate spatial relation to the more qualitative classical flow visualization. We describe how to utilize this approach for an informative interactive visual analysis. We demonstrate the potential of our approach by visualizing two datasets from different fields: an arterial blood flow measurement and a tubular gas flow simulation from the automotive industry.
+vis citations:
+kanitsar_vis_03
+lampe_vis_09
+ropinski_vis_09
+vanpelt_vis_10
+bartoli_vis_01

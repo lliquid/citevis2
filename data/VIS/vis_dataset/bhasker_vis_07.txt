@@ -1,0 +1,10 @@
+title: Registration Techniques for Using Imperfect and Partially Calibrated Devices in Planar Multi-Projector Displays
+authors: Ezekiel Bhasker, Ray Juang, Aditi Majumder
+abstract: Multi-projector displays today are automatically registered, both geometrically and photometrically, using cameras. Existing registration techniques assume pre-calibrated projectors and cameras that are devoid of imperfections such as lens distortion. In practice, however, these devices are usually imperfect and uncalibrated. Registration of each of these devices is often more challenging than the multi-projector display registration itself. To make tiled projection-based displays accessible to a layman user we should allow the use of uncalibrated inexpensive devices that are prone to imperfections. In this paper, we make two important advances in this direction. First, we present a new geometric registration technique that can achieve geometric alignment in the presence of severe projector lens distortion using a relatively inexpensive low-resolution camera. This is achieved via a closed-form model that relates the projectors to cameras, in planar multi-projector displays, using rational Bezier patches. This enables us to geometrically calibrate a 3000 ?? 2500 resolution planar multi-projector display made of 3 ?? 3 array of nine severely distorted projectors using a low resolution (640 ?? 480) VGA camera. Second, we present a photometric self-calibration technique for a projector-camera pair. This allows us to photometrically calibrate the same display made of nine projectors using a photometrically uncalibrated camera. To the best of our knowledge, this is the first work that allows geometrically imperfect projectors and photometrically uncalibrated cameras in calibrating multi-projector displays.
+vis citations:
+bhasker_vis_06
+chen_vis_02
+chen2_vis_00
+majumder_vis_00
+raskar_vis_99
+yang_vis_01

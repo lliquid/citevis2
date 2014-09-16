@@ -1,0 +1,13 @@
+title: Vis4Heritage: Visual Analytics Approach on Grotto Wall Painting Degradations
+authors: Jiawan Zhang, Kai Kang, Dajian Liu, Ye Yuan, Yanli E
+abstract: For preserving the grotto wall paintings and protecting these historic cultural icons from the damage and deterioration in nature environment, a visual analytics framework and a set of tools are proposed for the discovery of degradation patterns. In comparison with the traditional analysis methods that used restricted scales, our method provides users with multi-scale analytic support to study the problems on site, cave, wall and particular degradation area scales, through the application of multidimensional visualization techniques. Several case studies have been carried out using real-world wall painting data collected from a renowned World Heritage site, to verify the usability and effectiveness of the proposed method. User studies and expert reviews were also conducted through by domain experts ranging from scientists such as microenvironment researchers, archivists, geologists, chemists, to practitioners such as conservators, restorers and curators.
+vis citations:
+cui_infovis_11
+elmqvist_infovis_08
+elmqvist_vast_07
+ghoniem_infovis_04
+havre_infovis_00
+holten_infovis_06
+johansso_infovis_05
+ma_infovis_12
+sharko_vis_08

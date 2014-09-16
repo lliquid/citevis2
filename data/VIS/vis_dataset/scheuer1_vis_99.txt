@@ -1,0 +1,5 @@
+title: Visualizing Planar Vector Fields with Normal Component Using Line Integral Convolution
+authors: Gerik Scheuermann, Holger Burbacht, Hans Hagen
+abstract: We present a method for visualizing three dimensional vector fields which are defined on a two dimensional manifold only. These vector fields do exist in real application, as we show by an example of an optical measuring instrument which can gauge the displacement at the surface of a mechanical part. The general idea is to compute LIC textures in the manifold???s tangent space and to deform the manifold according to the normal information. The resulting LIC texture is mapped onto the deformed manifold and is rendered as a three dimensional scene. Due to the light???s reflection on the deformed manifold, one can interactively explore the result of the deformation.
+vis citations:
+deleeuw_vis_98

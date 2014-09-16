@@ -1,0 +1,6 @@
+title: Undersampling and Oversampling in Sample Based Shape Modeling
+authors: Tamal K. Dey, Joachim Giesen, Samrat Goswami, James Hudson, Rephael
+Wenger, Wulue Zhao 
+abstract: Shape modeling is an integral part of many visualization problems. Recent advances in scanning technology and a number of surface reconstruction algorithms have opened up a new paradigm for modeling shapes from samples. Many of the problems currently faced in this modeling paradigm can be traced back to two anomalies in sampling, namely undersampling and oversampling. Boundaries, non-smoothness and small features create undersampling problems, whereas oversampling leads to too many triangles. We use Voronoi cell geometry as a unified guide to detect undersampling and oversampling. We apply these detections in surface reconstruction and model simplification. Guarantees of the algorithms can be proved. In this paper we show the success of the algorithms empirically on a number of interesting data sets.
+vis citations:
+adamy_vis_00

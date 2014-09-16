@@ -1,0 +1,6 @@
+title: ResultMaps: Visualization for Search Interfaces
+authors: Edward C. Clarkson, Krishna Desai, James D. Foley
+abstract: Hierarchical representations are common in digital repositories, yet are not always fully leveraged in their online search interfaces. This work describes ResultMaps, which use hierarchical treemap representations with query string-driven digital library search engines. We describe two lab experiments, which find that ResultsMap users yield significantly better results over a control condition on some subjective measures, and we find evidence that ResultMaps have ancillary benefits via increased understanding of some aspects of repository content. The ResultMap system and experiments contribute an understanding of the benefits???direct and indirect???of the ResultMap approach to repository search visualization.
+vis citations:
+csallner_infovis_03
+smith_infovis_06

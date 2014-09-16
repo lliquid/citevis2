@@ -1,0 +1,8 @@
+title: Understanding Pen and Touch Interaction for Data Exploration on Interactive Whiteboards
+authors: Jagoda Walny, Bongshin Lee, Paul Johns, Nathalie Henry Riche, Sheelagh Carpendale
+abstract: Current interfaces for common information visualizations such as bar graphs, line graphs, and scatterplots usually make use of the WIMP (Windows, Icons, Menus and a Pointer) interface paradigm with its frequently discussed problems of multiple levels of indirection via cascading menus, dialog boxes, and control panels. Recent advances in interface capabilities such as the availability of pen and touch interaction challenge us to re-think this and investigate more direct access to both the visualizations and the data they portray. We conducted a Wizard of Oz study to explore applying pen and touch interaction to the creation of information visualization interfaces on interactive whiteboards without implementing a plethora of recognizers. Our wizard acted as a robust and flexible pen and touch recognizer, giving participants maximum freedom in how they interacted with the system. Based on our qualitative analysis of the interactions our participants used, we discuss our insights about pen and touch interactions in the context of learnability and the interplay between pen and touch gestures. We conclude with suggestions for designing pen and touch enabled interactive visualization interfaces.
+vis citations:
+bostock_infovis_09
+grammel_infovis_10
+isenberg_infovis_07
+walny_infovis_11

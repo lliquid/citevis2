@@ -1,0 +1,8 @@
+title: A Multiphase Approach to Efficient Surface Simplification
+authors: Michael Garland, Eric Shaffer
+abstract: We present a new multiphase method for efficiently simplifying polygonal surface models of arbitrary size. It operates by combining an initial out-of-core uniform clustering phase with a subsequent in-core iterative edge contraction phase. These two phases are both driven by quadric error metrics, and quadrics are used to pass information about the original surface between phases. The result is a method that produces approximations of a quality comparable to quadric-based iterative edge contraction, but at a fraction of the cost in terms of running time and memory consumption.
+vis citations:
+hoppe_vis_98
+lindstrom01_vis_01
+lindstro_vis_98
+shaffer_vis_01

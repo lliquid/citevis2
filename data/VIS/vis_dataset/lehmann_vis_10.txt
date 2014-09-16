@@ -1,0 +1,9 @@
+title: Discontinuities in Continuous Scatterplots
+authors: Dirk J. Lehmann, Holger Theisel
+abstract: The concept of continuous scatterplot (CSP) is a modern visualization technique. The idea is to define a scalar density value based on the map between an ndimensional spatial domain and an mdimensional data domain, which describe the CSP space. Usually the data domain is two-dimensional to visually convey the underlying, density coded, data. In this paper we investigate kinds of map-based discontinuities, especially for the practical cases n = m = 2 and n = 3 | m = 2, and we depict relations between them and attributes of the resulting CSP itself. Additionally, we show that discontinuities build critical line structures, and we introduce algorithms to detect them. Further, we introduce a discontinuity-based visualization approach  called contribution map (CM)  which establishes a relationship between the CSP???s data domain and the number of connected components in the spatial domain. We show that CMs enhance the CSP-based linking & brushing interaction. Finally, we apply our approaches to a number of synthetic as well as real data sets.
+vis citations:
+bachthal_vis_08
+carr_vis_06
+heinrich_vis_09
+peikert_vis_99
+theisel_vis_05

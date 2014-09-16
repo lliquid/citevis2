@@ -1,0 +1,7 @@
+title: A Study on Dual-Scale Data Charts
+authors: Petra Isenberg, Anastasia Bezerianos, Pierre Dragicevic, Jean-Daniel Fekete
+abstract: We present the results of a user study that compares different ways of representing Dual-Scale data charts. DualScale charts incorporate two different data resolutions into one chart in order to emphasize data in regions of interest or to enable the comparison of data from distant regions. While some design guidelines exist for these types of charts, there is currently little empirical evidence on which to base their design. We fill this gap by discussing the design space of Dual-Scale cartesian-coordinate charts and by experimentally comparing the performance of different chart types with respect to elementary graphical perception tasks such as comparing lengths and distances. Our study suggests that cut-out charts which include collocated full context and focus are the best alternative, and that superimposed charts in which focus and context overlap on top of each other should be avoided.
+vis citations:
+bostock_infovis_09
+keahey_infovis_98
+viegas_infovis_07

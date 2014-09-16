@@ -1,0 +1,11 @@
+title: Real-Time Illustration of Vascular Structures
+authors: Felix Ritter, Christian Hansen, Volker Dicken, Olaf Konrad, Bernhard Preim, Heinz-Otto Peitgen
+abstract: We present real-time vascular visualization methods, which extend on illustrative rendering techniques to particularly accentuate spatial depth and to improve the perceptive separation of important vascular properties such as branching level and supply area. The resulting visualization can and has already been used for direct projection on a patient???s organ in the operation theater where the varying absorption and reflection characteristics of the surface limit the use of color. The important contributions of our work are a GPU-based hatching algorithm for complex tubular structures that emphasizes shape and depth as well as GPU-accelerated shadow-like depth indicators, which enable reliable comparisons of depth distances in a static monoscopic 3D visualization. In addition, we verify the expressiveness of our illustration methods in a large, quantitative study with 160 subjects.
+vis citations:
+fischer_vis_05
+hahn_vis_01
+house_vis_05
+kim_infovis_03
+stewart_vis_03
+stoll_vis_05
+weigle_vis_05

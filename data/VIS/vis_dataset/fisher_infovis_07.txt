@@ -1,0 +1,6 @@
+title: Hotmap: Looking at Geographic Attention
+authors: Danyel Fisher
+abstract: Understanding how people use onlin e maps allows data acquisition teams to concentrate their efforts on the portions of the map that are most seen by users. Online maps represent vast databases, and so it is insufficient to simply look at a list of the most-accessed URLs. Hotmap takes adva ntage of the design of a mapping system???s imagery pyramid to superpose a heatmap of the log files over the original maps. Users??? behavior within the system can be observed and interpreted. This paper discusses the imagery acquisition task that motivated Hotmap, and presentsseveral examples of information that Hotmap makes visible. We discuss thedesign choices behind Hotmap, including logarithmic color schemes;low-saturation backgroundimages; and tuning images to explore both infrequently-viewed and frequently-viewed spaces.
+vis citations:
+mehler_infovis_06
+wattenba_infovis_05

@@ -1,0 +1,6 @@
+title: Linear and Cubic Box Splines for the Body Centered Cubic Lattice
+authors: Alireza Entezari, Ramsay Dyer, Torsten M??ller
+abstract: In this paper we derive piecewise linear and piecewise cubic box spline reconstruction filters for data sampled on the body centered cubic (BCC) lattice. We analytically derive a time domain representation of these reconstruction filters and using the Fourier slice-projection theorem we derive their frequency responses. The quality of these filters, when used in reconstructing BCC sampled volumetric data, is discussed and is demonstrated with a raycaster. Moreover, to demonstrate the superiority of the BCC sampling, the resulting reconstructions are compared with those produced from similar filters applied to data sampled on the Cartesian lattice.
+vis citations:
+carr_vis_01
+theussl_vis_01

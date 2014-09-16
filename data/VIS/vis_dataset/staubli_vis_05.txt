@@ -1,0 +1,9 @@
+title: Volume rendering of smoke propagation CFD data
+authors: Oliver Staubli, Christian Sigg, Ronald Peikert, Daniel Gubler, Markus Gross
+abstract: The evacuation of buildings in the event of a fire requires careful planning of ventilation and evacuation routes during early architectural design stages. Different designs are evaluated by simulating smoke propagation using computational fluid dynamics (CFD). Visibility plays a decisive role in finding the nearest fire exit. This paper presents real-time volume rendering of transient smoke propagation conforming to standardized visibility distances. We visualize time dependent smoke particle concentration on unstructured tetrahedral meshes using a direct volume rendering approach. Due to the linear transfer function of the optical model commonly used in fire protection engineering, accurate pre-integration of diffuse color across tetrahedra can be carried out with a single 2D texture lookup. We reduce rounding errors during framebuffer blending by applying randomized dithering if high accuracy frame buffers are unavailable on the target platform. A simple absorption-based lighting model is evaluated in a preprocessing step using the same rendering approach. Back-illuminated exit signs are commonly used to indicate the escape route. As light emitting objects are visible further than reflective objects, the transfer function in front of illuminated exit signs must be adjusted with a deferred rendering pass.
+vis citations:
+kraus_vis_04
+krueger_vis_03
+roettger_vis_00
+schneide_vis_03
+weiler_vis_03

@@ -1,0 +1,10 @@
+title: Display of Vector Fields Using a Reaction-Diffusion Model
+authors: Allen R. Sanderson, Chris R. Johnson, Robert M. Kirby
+abstract: Effective visualization of vector fields relies on the ability to control the size and density of the underlying mapping to visual cues used to represent the field. In this paper we introduce the use of a reaction-diffusion model, already well known for its ability to form irregular spatio-temporal patters, to control the size, density, and placement of the vector field representation. We demonstrate that it is possible to encode vector field information (orientation and magnitude) into the parameters governing a reaction-diffusion model to form a spot pattern with the correct orientation, size, and density, creating an effective visualization. To encode direction we texture the spots using a light to dark fading texture. We also show that it is possible to use the reaction-diffusion model to visualize an additional scalar value, such as the uncertainty in the orientation of the vector field.An additional benefit of the reaction-diffusion visualization technique arises from its automatic density distribution. This benefit suggests using the technique to augment other vector visualization techniques. We demonstrate this utility by augmenting a LIC visualization with a reaction-diffusion visualization. Finally, the reaction-diffusion visualization method provides a technique that can be used for streamline and glyph placement.
+vis citations:
+kirby_vis_99
+forsberg_vis_09
+lefohn_vis_03
+preusser_vis_99
+telea_vis_99
+westerma_vis_00

@@ -1,0 +1,7 @@
+title: Design Considerations for Collaborative Visual Analytics
+authors: Jeffrey Heer, Maneesh Agrawala 
+abstract: Information visualization leverages the human visual system to support the process of sensemaking, in which information is collected, organized, and analyzed to generate knowledge and inform action. Though most research to date assumes a single-user focus on perceptual and cognitive processes, in practice, sensemaking is often a social process involving parallelization of effort, discussion, and consensus building. This suggests that to fully support sensemaking, interactive visualization should also support social interaction. However, the most appropriate collaboration mechanisms for supporting this interaction are not immediately clear. In this article, we present design considerations for asynchronous collaboration in visual analysis environments, highlighting issues of work parallelization, communication, and social organization. These considerations provide a guide for the design and evaluation of collaborative visualization systems.
+vis citations:
+brennan_vast_06
+dorling_infovis_06
+heer2_infovis_06

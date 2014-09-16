@@ -1,0 +1,5 @@
+title: A Scalable Framework for Information Visualization
+authors: Matthias Kreuseler, Norma L??pez, Heidrun Schumann
+abstract: This paper describes major concepts of a scalable information visualization framework. We assume that the exploration of heterogenous information spaces at arbitrary levels ofdetail requires a suitable preprocessing of information quantities, the combination of different graphical interfaces and the illustration of the frame of reference of given information sets. The innovative features of our system include dynamic hierarchy computation and user controlled refinement of those hierarchies for preprocessing unstructured information spaces, a new Focus+Context technique for visualizing complex hierarchy graphs, a new paradigm for visualizing information structures within their frame of reference and a new graphical interface that utilizes textual similarities to arrange objects of high dimensional information space in 3-dimensional visualization space.
+vis citations:
+jeong_infovis_98

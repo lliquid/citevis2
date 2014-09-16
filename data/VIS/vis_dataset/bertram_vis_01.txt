@@ -1,0 +1,8 @@
+title: Wavelet Representation of Contour Sets
+authors: Martin Bertram, Daniel E. Laney, Mark A. Duchaineau, Charles D.
+Hansen, Bernd Hamann, Kenneth I. Joy
+abstract: We present a new wavelet compression and multiresolution modeling approach for sets of contours (level sets). In contrast to previous wavelet schemes, our algorithm creates a parametrization of a scalar field induced by its contours and compactly stores this parametrization rather than function values sampled on a regular grid. Our representation is based on hierarchical polygon meshes with subdivision connectivity whose vertices are transformed into wavelet coefficients. From this sparse set of coefficients, every set of contours can be efficiently reconstructed at multiple levels of resolution. When applying lossy compression, introducing high quantization errors, our method preserves contour topology, in contrast to compression methods applied to the corresponding field function. We provide numerical results for scalar fields defined on planar domains. Our approach generalizes to volumetric domains, time-varying contours, and level sets of vector fields.
+vis citations:
+bertram_vis_00
+tricoche_vis_00
+wood_vis_00

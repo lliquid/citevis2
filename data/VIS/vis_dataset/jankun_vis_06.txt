@@ -1,0 +1,8 @@
+title: Superellipsoid-based, Real Symmetric Traceless Tensor Glyphs Motivated by Nematic Liquid Crystal Alignment Visualization
+authors: T.J. Jankun-Kelly, Ketan Mehta
+abstract: A glyph-based method for visualizing the nematic liquid crystal alignment tensor is introduced. Unlike previous approaches, the glyph is based upon physically-linked metrics, not offsets of the eigenvalues. These metrics, combined with a set of superellipsoid shapes, communicate both the strength of the crystal???s uniaxial alignment and the amount of biaxiality. With small modifications, our approach can visualize any real symmetric traceless tensor.
+vis citations:
+hlawitsc_vis_05
+mehta_vis_06
+slavin_vis_06
+zhengcom_vis_05

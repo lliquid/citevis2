@@ -1,0 +1,5 @@
+title: Achieving Color Uniformity Across Multi-Projector Displays
+authors: Aditi Majumder, Zhu He, Herman Towles, Greg Welch
+abstract: Large area tiled displays are gaining popularity for use in collaborative immersive virtual environments and scientific visualization. While recent work has addressed the issues of geometric registration, rendering architectures, and human interfaces, there has been relatively little work on photometric calibration in general, and photometric non-uniformity in particular. For example, as a result of differences in the photometric characteristics of projectors, the color and intensity of a large area display varies from place to place. Further, the imagery typically appears brighter at the regions of overlap between adjacent projectors.In this paper we analyze and classify the causes of photometric non-uniformity in a tiled display. We then propose a methodology for determining corrections designed to achieve uniformity, that can correct for the photometric variations across a tiled projector display in real time using per channel color look-up-tables (LUT).
+vis citations:
+humphrey_vis_99

@@ -1,0 +1,5 @@
+title: The Software Interface to the 3D-Force Microscope
+authors: David Marshburn, Chris Weigle, Benjamin G. Wilde, Russell M. Taylor,
+Kalpit Desai, J. K. Fisher, Jeremy Cribb
+abstract: We have developed a real-time experiment-control and datadisplay system for a novel microscope, the 3D-Force Microscope (3DFM), which is designed for nanometer-scale and nanoNewton-force biophysical experiments. The 3DFM software suite synthesizes the several data sources from the 3DFM into a coherent view and provides control over data collection and specimen manipulation. Herein, we describe the system architecture designed to handle the several feedback loops and data flows present in the microscope and its control system. We describe the visualization techniques used in the 3DFM software suite, where used, and on which types of data. We present feedback from our scientist-users regarding the usefulness of these techniques, and we also present lessons learned from our successive implementations.
+vis citations:

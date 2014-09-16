@@ -1,0 +1,12 @@
+title: Saddle Connectors  An Approach to Visualizing the Topological Skeleton of Complex 3D Vector Fields
+authors: Holger Theisel Tino Weinkauf, Hans-Christian Heget, Hans-Peter Seidel
+abstract: One of the reasons that topological methods have a limited popularity for the visualization of complex 3D flow fields is the fact that such topological structures contain a number of separating stream surfaces. Since these stream surfaces tend to hide each other as well as other topological features, for complex 3D topologies the visualizations become cluttered and hardly interpretable. This paper proposes to use particular stream lines called saddle connectors instead of separating stream surfaces and to depict single surfaces only on user demand. We discuss properties and computational issues of saddle connectors and apply these methods to complex flow data. We show that the use of saddle connectors makes topological skeletons available as a valuable visualization tool even for topologically complex 3D flow data.
+vis citations:
+bajaj_vis_98
+batra_vis_99
+deleeuw_vis_99
+lavin_vis_98
+lodha_vis_00
+scheuermann_vis_01
+tricoche_vis_00
+tricoche_vis_01

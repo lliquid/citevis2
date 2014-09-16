@@ -1,0 +1,4 @@
+title: The Generalized Detail-In-Context Problem
+authors: T. Alan Keahey
+abstract: This paper describes a general formulation of the ???detail-in-context??? problem, which is a central issue offundamental importance to a wide variety of nonlinear magnification systems. A number of tools are described for dealing with this problem effectively. These tools can be applied to any continuous nonlinear magnification system, and are not tied to specific implementation features of the system that produced the original transformation. Of particular interest is the development of ???seamless multi-level views???, which allow multiple global views of an information space (each having different information content) to be integrated into a single view without discontinuity.
+vis citations:

@@ -1,0 +1,9 @@
+title: Focus+Context Route Zooming and Information Overlay in 3D Urban Environments
+authors: Huamin Qu, Haomian Wang, Weiwei Cui, Yingcai Wu, Ming-Yuen Chan
+abstract: In this paper we present a novel focus+context zooming technique, which allows users to zoom into a route and its associated landmarks in a 3D urban environment from a 45-degree bird???s-eye view. Through the creative utilization of the empty space in an urban environment, our technique can informatively reveal the focus region and minimize distortions to the context buildings. We first create more empty space in the 2D map by broadening the road with an adapted seam carving algorithm. A grid-based zooming technique is then used to enlarge the landmarks to reclaim the created empty space and thus reduce distortions to the other parts. Finally, an occlusion-free route visualization scheme adaptively scales the buildings occluding the route to make the route always visible to users. Our method can be conveniently integrated into Google Earth and Virtual Earth to provide seamless route zooming and help users better explore a city and plan their tours. It can also be used in other applications such as information overlay to a virtual city.
+vis citations:
+degener_vis_08
+heer1_infovis_06
+keahey_infovis_98
+takahash_vis_06
+wang_vis_08

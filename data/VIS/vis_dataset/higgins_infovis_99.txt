@@ -1,0 +1,4 @@
+title: VisageWeb: Visualizing WWW Data in Visage
+authors: Michael Higgins, Peter Lucas, Jeffrey Senn
+abstract: VisageWeb is an information-centric user interface to the World Wide Web built within the Visage data visualization environment. This paper traces the development of the VisageWeb project, using it to motivate an exploration of how an information-centric architecture copes with new visualization challenges. We conclude with a presentation of the VisageWeb prototype itself.
+vis citations:

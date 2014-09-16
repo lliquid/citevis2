@@ -1,0 +1,9 @@
+title: Flow Radar Glyphs???Static Visualization of Unsteady Flow with Uncertainty
+authors: Marcel Hlawatsch, Philipp Leube, Wolfgang Nowak, Daniel Weiskopf
+abstract: A new type of glyph is introduced to visualize unsteady flow with static images, allowing easier analysis of time-dependent phenomena compared to animated visualization. Adopting the visual metaphor of radar displays, this glyph represents flow directions by angles and time by radius in spherical coordinates. Dense seeding of flow radar glyphs on the flow domain naturally lends itself to multi-scale visualization: zoomed-out views show aggregated overviews, zooming-in enables detailed analysis of spatial and temporal characteristics. Uncertainty visualization is supported by extending the glyph to display possible ranges of flow directions. The paper focuses on 2D flow, but includes a discussion of 3D flow as well. Examples from CFD and the field of stochastic hydrogeology show that it is easy to discriminate regions of different spatiotemporal flow behavior and regions of different uncertainty variations in space and time. The examples also demonstrate that parameter studies can be analyzed because the glyph design facilitates comparative visualization. Finally, different variants of interactive GPU-accelerated implementations are discussed.
+vis citations:
+bak_infovis_09
+botchen_vis_05
+joshi_vis_05
+alexa_infovis_01
+woodring_vis_03

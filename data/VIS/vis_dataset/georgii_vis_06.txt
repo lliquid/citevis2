@@ -1,0 +1,8 @@
+title: A Generic and Scalable Pipeline for GPU Tetrahedral Grid Rendering
+authors: Joachim Georgii, R??diger Westermann
+abstract: Recent advances in algorithms and graphics hardware have opened the possibility to render tetrahedral grids at interactive rates on commodity PCs. This paper extends on this work in that it presents a direct volume rendering method for such grids which supports both current and upcoming graphics hardware architectures, large and deformable grids, as well as different rendering options. At the core of our method is the idea to perform the sampling of tetrahedral elements along the view rays entirely in local barycentric coordinates. Then, sampling requires minimum GPU memory and texture access operations, and it maps efficiently onto a feed-forward pipeline of multiple stages performing computation and geometry construction. We propose to spawn rendered elements from one single vertex. This makes the method amenable to upcoming Direct3D 10 graphics hardware which allows to create geometry on the GPU. By only modifying the algorithm slightly it can be used to render per-pixel iso-surfaces and to perform tetrahedral cell projection. As our method neither requires any pre-processing nor an intermediate grid representation it can efficiently deal with dynamic and large 3D meshes.
+vis citations:
+krueger_vis_03
+roettger_vis_00
+weiler_vis_01
+weiler_vis_03

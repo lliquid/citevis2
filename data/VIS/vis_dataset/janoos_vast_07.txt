@@ -1,0 +1,5 @@
+title: Activity Analysis Using Spatio-Temporal Trajectory Volumes in Surveillance Applications
+authors: Firdaus Janoos, Shantanu Singh, Okan Irfanoglu, Raghu Machiraju, Richard Parent
+abstract: In this paper, we present a system to analyze activities and detect anomalies in a surveillance application, which exploits the intuition and experience of security and surveillance experts through an easyto-use visual feedback loop. The multi-scale and location specific nature of behavior patterns in space and time is captured using a wavelet-based feature descriptor. The system learns the fundamental descriptions of the behavior patterns in a semi-supervised fashion by the higher order singular value decomposition of the space described by the training data. This training process is guided and refined by the users in an intuitive fashion. Anomalies are detected by projecting the test data into this multi-linear space and are visualized by the system to direct the attention of the user to potential problem spots. We tested our system on real-world surveillance data, and it satisfied the security concerns of the environment.
+vis citations:
+chen_vis_06

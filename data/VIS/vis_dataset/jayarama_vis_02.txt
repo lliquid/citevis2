@@ -1,0 +1,5 @@
+title: A Radial Focus+Context Visualization for Multi-Dimensional Functions
+authors: Sanjini Jayaraman, Chris North
+abstract: The analysis of multidimensional functions is important in many engineering disciplines, and poses a major problem as the number of dimensions increases. Previous visualization approaches focus on representing three or fewer dimensions at a time. This paper presents a new focus+context visualization that provides an integrated overview of an entire multidimensional function space, with uniform treatment of all dimensions. The overview is displayed with respect to a user-controlled polar focal point in the function???s parameter space. Function value patterns are viewed along rays that emanate from the focal point in all directions in the parameter space, and represented radially around the focal point in the visualization. Data near the focal point receives proportionally more screen space than distant data. This approach scales smoothly from two dimensions to 10-20, with a 1000 pixel range on each dimension.
+vis citations:
+keahey_infovis_98

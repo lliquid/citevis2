@@ -1,0 +1,11 @@
+title: Visibility Culling Using Plenoptic Opacity Functions for Large Volume Visualization
+authors: Jinzhu Gao, Jian Huang, Han-Wei Shen, James Arthur Kohl
+abstract: Visibility culling has the potential to accelerate large data visualization in significant ways. Unfortunately, existing algorithms do not scale well when parallelized, and require full re-computation whenever the opacity transfer function is modified. To address these issues, we have designed a Plenoptic Opacity Function (POF) scheme to encode the view-dependent opacity of a volume block. POFs are computed off-line during a pre-processing stage, only once for each block. We show that using POFs is (i) an efficient, conservative and effective way to encode the opacity variations of a volume block for a range of views, (ii) flexible for re-use by a family of opacity transfer functions without the need for additional off-line processing, and (iii) highly scalable for use in massively parallel implementations. Our results confirm the efficacy of POFs for visibility culling in large-scale parallel volume rendering; we can interactively render the Visible Woman dataset using software ray-casting on 32 processors, with interactive modification of the opacity transfer function on-the-fly.
+vis citations:
+guthe_vis_02
+huang_vis_00
+kniss_vis_01
+livnat_vis_98
+parker_vis_98
+pekar_vis_01
+zhang9_3_vis_02

@@ -1,0 +1,9 @@
+title: Facilitating Discourse Analysis with Interactive Visualization
+authors: Jian Zhao, Fanny Chevalier, Christopher Collins, Ravin Balakrishnan
+abstract: A discourse parser is a natural language processing system which can represent the organization of a document based on a rhetorical structure tree???one of the key data structures enabling applications such as text summarization, question answering and dialogue generation. Computational linguistics researchers currently rely on manually exploring and comparing the discourse structures to get intuitions for improving parsing algorithms. In this paper, we present DAViewer, an interactive visualization system for assisting computational linguistics researchers to explore, compare, evaluate and annotate the results of discourse parsers. An iterative user-centered design process with domain experts was conducted in the development of DAViewer. We report the results of an informal formative study of the system to better understand how the proposed visualization and interaction techniques are used in the real research environment.
+vis citations:
+bremm_vast_11
+collins_infovis_09
+munzner_infovis_99
+tu_infovis_07
+vanham_infovis_03

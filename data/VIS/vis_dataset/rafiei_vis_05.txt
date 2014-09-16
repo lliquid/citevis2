@@ -1,0 +1,8 @@
+title: Effectively Visualizing Large Networks Through Sampling
+authors: Davood Rafiei, Stephen Curial???
+abstract: We study the problem of visualizing large networks and develop techniques for effectively abstracting a network and reducing the size to a level that can be clearly viewed. Our size reduction techniques are based on sampling, where only a sample instead of the full network is visualized. We propose a randomized notion of ???focus??? that specifies a part of the network and the degree to which it needs to be magnified. Visualizing a sample allows our method to overcome the scalability issues inherent in visualizing massive networks. We report some characteristics that frequently occur in large networks and the conditions under which they are preserved when sampling from a network. This can be useful in selecting a proper sampling scheme that yields a sample with similar characteristics as the original network. Our method is built on top of a relational database, thus it can be easily and efficiently implemented using any off-the-shelf database software. As a proof of concept, we implement our methods and report some of our experiments over the movie database and the connectivity graph of the Web.
+vis citations:
+abello_infovis_01
+auber_infovis_03
+gansner_infovis_04
+plaisant_infovis_02

@@ -1,0 +1,8 @@
+title: Multi-variate, Time-varying, and Comparative Visualization with Contextual Cues
+authors: Jonathan Woodring, Han-Wei Shen
+abstract: Time-varying, multi-variate, and comparative data sets are not easily visualized due to the amount of data that is presented to the user at once. By combining several volumes together with different operators into one visualized volume, the user is able to compare values from different data sets in space over time, run, or field without having to mentally switch between different renderings of individual data sets. In this paper, we propose using a volume shader where the user is given the ability to easily select and operate on many data volumes to create comparison relationships. The user specifies an expression with set and numerical operations and her data to see relationships between data fields. Furthermore, we render the contextual information of the volume shader by converting it to a volume tree. We visualize the different levels and nodes of the volume tree so that the user can see the results of suboperations. This gives the user a deeper understanding of the final visualization, by seeing how the parts of the whole are operationally constructed.
+vis citations:
+bruckner_vis_05
+mccormic_vis_04
+ebert_vis_00
+woodring_vis_03

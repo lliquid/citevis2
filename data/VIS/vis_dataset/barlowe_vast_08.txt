@@ -1,0 +1,8 @@
+title: Multivariate Visual Explanation for High Dimensional Datasets
+authors: Scott Barlowe, Tianyi Zhang, Yujie Liu, Jing Yang, Donald Jacobs
+abstract: Understanding multivariate relationships is an important task in multivariate data analysis. Unfortunately, existing multivariate visualization systems lose effectiveness when analyzing relationships among variables that span more than a few dimensions. We present a novel multivariate visual explanation approach that helps users interactively discover multivariate relationships among a large number of dimensions by integrating automatic numerical differentiation techniques and multidimensional visualization techniques. The result is an efficient workflow for multivariate analysis model construction, interactive dimension reduction, and multivariate knowledge discovery leveraging both automatic multivariate analysis and interactive multivariate data visual exploration. Case studies and a formal user study with a real dataset illustrate the effectiveness of this approach.
+vis citations:
+amar_infovis_04
+seo_infovis_04
+wilkinso_infovis_05
+yang_infovis_04

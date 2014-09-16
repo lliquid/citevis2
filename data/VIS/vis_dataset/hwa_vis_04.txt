@@ -1,0 +1,10 @@
+title: Adaptive 4-8 Texture Hierarchies
+authors: Lok M. Hwa, Mark A. Duchaineau, Kenneth I. Joy
+abstract: We address the texture level-of-detail problem for extremely large surfaces such as terrain during realtime, view-dependent rendering. A novel texture hierarchy is introduced based on 4-8 refinement of raster tiles, in which the texture grids in effect rotate 45 degrees for each level of refinement. This hierarchy provides twice as many levels of detail as conventional quadtree-style refinement schemes such as mipmaps, and thus provides per-pixel view-dependent filtering that is twice as close to the ideal cutoff frequency for an average pixel. Because of this more gradual change in low-pass filtering, and due to the more precise emulation of the ideal cutoff frequency, we find in practice that the transitions between texture levels of detail are not perceptible. This allows rendering systems to avoid the complexity and performance costs of per-pixel blending between texture levels of detail.The 4-8 texturing scheme is integrated into a variant of the Realtime Optimally Adapting Meshes (ROAM) algorithm for viewdependent multiresolution mesh generation. Improvements to ROAM included here are: the diamond data structure as a streamlined replacement for the triangle bintree elements, the use of lowpass-filtered geometry patches in place of individual triangles, integration of 4-8 textures, and a simple out-of-core data access mechanism for texture and geometry tiles.
+vis citations:
+cignoni_vis_03
+doellner_vis_00
+hoppe_vis_98
+levenber_vis_02
+lindstrom02_vis_01
+pajarola_vis_98

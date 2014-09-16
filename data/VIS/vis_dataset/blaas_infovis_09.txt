@@ -1,0 +1,10 @@
+title: Smooth Graphs for Visual Exploration of Higher-Order State Transitions
+authors: Jorik Blaas, Charl P. Botha, Edward Grundy, Mark W. Jones, Robert S. Laramee, Frits H. Post
+abstract: In this paper, we present a new visual way of exploring state sequences in large observational time-series. A key advantage of our method is that it can directly visualize higher-order state transitions. A standard first order state transition is a sequence of two states that are linked by a transition. A higher-order state transition is a sequence of three or more states where the sequence of participating states are linked together by consecutive first order state transitions.Our method extends the current state-graph exploration methods by employing a two dimensional graph, in which higher-order state transitions are visualized as curved lines. All transitions are bundled into thick splines, so that the thickness of an edge represents the frequency of instances.The bundling between two states takes into account the state transitions before and after the transition. This is done in such a way that it forms a continuous representation in which any subsequence of the timeseries is represented by a continuous smooth line. The edge bundles in these graphs can be explored interactively through our incremental selection algorithm.We demonstrate our method with an application in exploring labeled time-series data from a biological survey, where a clustering has assigned a single label to the data at each time-point. In these sequences, a large number of cyclic patterns occur, which in turn are linked to specific activities. We demonstrate how our method helps to find these cycles, and how the interactive selection process helps to find and investigate activities.
+vis citations:
+cui_infovis_08
+holten_infovis_06
+vanham_infovis_01
+pretorius_infovis_06
+vanham_infovis_08
+vanham_infovis_01

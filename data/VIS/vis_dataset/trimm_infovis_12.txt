@@ -1,0 +1,7 @@
+title: Visualizing Student Histories Using Clustering and Composition
+authors: David Trimm, Penny Rheingans, Marie desJardins
+abstract: While intuitive time-series visualizations exist for common datasets, student course history data is difficult to represent using traditional visualization techniques due its concurrent nature. A visual composition process is developed and applied to reveal trends across various groupings. By working closely with educators, analytic strategies and techniques are developed to leverage the visualization composition to reveal unknown trends in the data. Furthermore, clustering algorithms are developed to group common course-grade histories for further analysis. Lastly, variations of the composition process are implemented to reveal subtle differences in the underlying data. These analytic tools and techniques enabled educators to confirm expected trends and to discover new ones.
+vis citations:
+chlan_infovis_05
+shenas_infovis_07
+heinrich_vis_09

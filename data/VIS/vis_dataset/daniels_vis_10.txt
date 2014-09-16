@@ -1,0 +1,11 @@
+title: Interactive Vector Field Feature Identification
+authors: Joel Daniels, Erik W. Anderson, Luis Gustavo Nonato, Claudio T. Silva
+abstract: We introduce a flexible technique for interactive exploration of vector field data through classification derived from userspecified feature templates. Our method is founded on the observation that, while similar features within the vector field may be spatially disparate, they share similar neighborhood characteristics. Users generate feature-based visualizations by interactively highlighting well-accepted and domain specific representative feature points. Feature exploration begins with the computation of attributes that describe the neighborhood of each sample within the input vector field. Compilation of these attributes forms a representation of the vector field samples in the attribute space. We project the attribute points onto the canonical 2D plane to enable interactive exploration of the vector field using a painting interface. The projection encodes the similarities between vector field points within the distances computed between their associated attribute points. The proposed method is performed at interactive rates for enhanced user experience and is completely flexible as showcased by the simultaneous identification of diverse feature types.
+vis citations:
+everts_vis_09
+janicke_vis_08
+jobard_vis_00
+krishnan_vis_09
+roth_vis_98
+schlemmer_vis_07
+verma_vis_00

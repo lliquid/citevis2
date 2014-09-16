@@ -1,0 +1,13 @@
+title: Exploring the Millennium Run Scalable Rendering of Large-Scale Cosmological Datasets
+authors: Roland Fraedrich, Jens Schneider, R??diger Westermann
+abstract: In this paper we investigate scalability limitations in the visualization of large-scale particle-based cosmological simulations, and we present methods to reduce these limitations on current PC architectures. To minimize the amount of data to be streamed from disk to the graphics subsystem, we propose a visually continuous level-of-detail (LOD) particle representation based on a hierarchical quantization scheme for particle coordinates and rules for generating coarse particle distributions. Given the maximal world space error per level, our LOD selection technique guarantees a sub-pixel screen space error during rendering. A brick-based pagetree allows to further reduce the number of disk seek operations to be performed. Additional particle quantities like density, velocity dispersion, and radius are compressed at no visible loss using vector quantization of logarithmically encoded floating point values. By fine-grain view-frustum culling and presence acceleration in a geometry shader the required geometry throughput on the GPU can be significantly reduced. We validate the quality and scalability of our method by presenting visualizations of a particle-based cosmological dark-matter simulation exceeding 10 billion elements.
+vis citations:
+brodlie_vis_04
+childs_vis_05
+hopf_vis_03
+hopf_vis_03
+li_vis_07
+liyingga_vis_06
+millerja_vis_06
+navratil_vis_07
+schneide_vis_03

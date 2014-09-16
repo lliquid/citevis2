@@ -1,0 +1,5 @@
+title: Topological Fisheye Views for Visualizing Large Graphs
+authors: Emden Gansner, Yehuda Koren, Stephen North
+abstract: Graph drawing is a basic visualization tool. For graphs of up to hundreds of nodes and edges, there are many effective techniques available. At greater scale, data density and occlusion problems often negate its effectiveness. Conventional pan-and-zoom, and multiscale and geometric fisheye views are not fully satisfactory solutions to this problem. As an alternative, we describe a topological zooming method. It is based on the precomputation of a hierarchy of coarsened graphs, which are combined on-the-fly into renderings with the level of detail dependent on the distance from one or more foci. We also discuss a related distortion method that allows our technique to achieve constant information density displays.
+vis citations:
+auber_infovis_03

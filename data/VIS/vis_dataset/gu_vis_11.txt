@@ -1,0 +1,15 @@
+title: TransGraph: Hierarchical Exploration of Transition Relationships in Time-Varying Volumetric Data
+authors: Yi Gu, Chaoli Wang
+abstract: A fundamental challenge for time-varying volume data analysis and visualization is the lack of capability to observe and track data change or evolution in an occlusion-free, controllable, and adaptive fashion. In this paper, we propose to organize a timevarying data set into a hierarchy of states. By deriving transition probabilities among states, we construct a global map that captures the essential transition relationships in the time-varying data. We introduce the TransGraph, a graph-based representation to visualize hierarchical state transition relationships. The TransGraph not only provides a visual mapping that abstracts data evolution over time in different levels of detail, but also serves as a navigation tool that guides data exploration and tracking. The user interacts with the TransGraph and makes connection to the volumetric data through brushing and linking. A set of intuitive queries is provided to enable knowledge extraction from time-varying data. We test our approach with time-varying data sets of different characteristics and the results show that the TransGraph can effectively augment our ability in understanding time-varying data.
+vis citations:
+bachthal_vis_08
+bruckner_vis_10
+daniel_vis_03
+guthe_vis_01
+janicke_vis_08
+lee_vis_09
+ma_vis_99
+mehta_vast_06
+sauber_vis_06
+wangchao_vis_08
+woodring_vis_03

@@ -1,0 +1,5 @@
+title: Topology Preserving and Controlled Topology Simplifying Multiresolution Isosurface Extraction
+authors: Thomas Gerstner, Renato Pajarola
+abstract: Multiresolution methods are becoming increasingly important tools for the interactive visualization of very large data sets. Multiresolution isosurface visualization allows the user to explore volume data using simplified and coarse representations of the isosurface for overview images, and finer resolution in areas of high interest or when zooming into the data. Ideally, a coarse isosurface should have the same topological structure as the original. The topological genus of the isosurface is one important property which is often neglected in multiresolution algorithms. This results in uncontrolled topological changes which can occur whenever the level-of-detail is changed. The scope of this paper is to propose an efficient technique which allows preservation of topology as well as controlled topology simplification in multiresolution isosurface extraction.
+vis citations:
+livnat_vis_98

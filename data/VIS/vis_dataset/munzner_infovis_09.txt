@@ -1,0 +1,17 @@
+title: A Nested Model for Visualization Design and Validation
+authors: Tamara Munzner
+abstract: We present a nested model for the visualization design and validation with four layers: characterize the task and data in the vocabulary of the problem domain, abstract into operations and data types, design visual encoding and interaction techniques, and create algorithms to execute techniques efficiently. The output from a level above is input to the level below, bringing attention to the design challenge that an upstream error inevitably cascades to all downstream levels. This model provides prescriptive guidance for determining appropriate evaluation approaches by identifying threats to validity unique to each level. We also provide three recommendations motivated by this model: authors should distinguish between these levels when claiming contributions at more than one of them, authors should explicitly state upstream assumptions at levels above the focus of a paper, and visualization venues should accept more papers on domain characterization.
+vis citations:
+amar_infovis_05
+amar_infovis_04
+barsky_infovis_08
+chi_infovis_98
+henry_infovis_06
+henze_vis_98
+lam_infovis_08
+lam_vast_07
+mcguffin_infovis_05
+phan_infovis_05
+robertso_infovis_08
+tory_infovis_04
+yi_infovis_07

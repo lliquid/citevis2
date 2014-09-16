@@ -1,0 +1,6 @@
+title: Nonmanifold Subdivision
+authors: Lexing Ying, Denis Zorin
+abstract: Commonly-used subdivision schemes require manifold control meshes and produce manifold surfaces. However, it is often necessary to model nonmanifold surfaces, such as several surface patches meeting at a common boundary.In this paper, we describe a subdivision algorithm that makes it possible to model nonmanifold surfaces. Any triangle mesh, subject only to the restriction that no two vertices of any triangle coincide, can serve as an input to the algorithm. Resulting surfaces consist of collections of manifold patches joined along nonmanifold curves and vertices. If desired, constraints may be imposed on the tangent planes of manifold patches sharing a curve or a vertex.The algorithm is an extension of a well-known Loop subdivision scheme, and uses techniques developed for piecewise smooth surfaces.
+vis citations:
+gueziec_vis_99
+ying_vis_01

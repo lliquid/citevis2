@@ -1,0 +1,11 @@
+title: Multidimensional Visual Analysis Using Cross-Filtered Views
+authors: Chris Weaver
+abstract: Analysis of multidimensional data often requires careful examination of relationships across dimensions. Coordinated multiple view approaches have become commonplace in visual analysis tools because they directly support expression of complex multidimensional queries using simple interactions. However, generating such tools remains difficult because of the need to map domain-specific data structures and semantics into the idiosyncratic combinations of interdependent data and visual abstractions needed to reveal particular patterns and distributions in cross-dimensional relationships.This paper describes: (1) a method for interactively expressing sequences of multidimensional set queries by cross-filtering data values across pairs of views, and (2) design strategies for constructing coordinated multiple view interfaces for cross-filtered visual analysis of multidimensional data sets. Using examples of crossfiltered visualizations of data from several different domains, we describe how cross-filtering can be modularized and reused across designs, flexibly customized with respect to data types across multiple dimensions, and incorporated into more wide-ranging multiple view designs. The demonstrated analytic utility of these examples suggest that cross-filtering is a suitable design pattern for instantiation in a wide variety of visual analysis tools.
+vis citations:
+chen_h_infovis_03
+heer2_infovis_06
+chi_infovis_98
+mackinlay_infovis_07
+stasko_vast_07
+stolte_infovis_00
+weaver_vast_06

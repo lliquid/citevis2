@@ -1,0 +1,7 @@
+title: Optimized View-Dependent Rendering for Large Polygonal Datasets
+authors: Jihad El-Sana, Eitan Bachmat
+abstract: In this paper we are presenting a novel approach for rendering large datasets in a view-dependent manner. In a typical view-dependent rendering framework, an appropriate level of detail is selected and sent to the graphics hardware for rendering at each frame. In our approach, we have successfully managed to speed up the selection of the level of detail as well as the rendering of the selected levels. We have accelerated the selection of the appropriate level of detail by not scanning active nodes that do not contribute to the incremental update of the selected level of detail. Our idea is based on imposing a spatial subdivision over the view-dependence trees data-structure, which allows spatial tree cells to refine and merge in real-time rendering to comply with the changes in the active nodes list. The rendering of the selected level of detail is accelerated by using vertex arrays. To overcome the dynamic changes in the selected levels of detail we use multiple small vertex arrays whose sizes depend on the memory on the graphics hardware. These multiple vertex arrays are attached to the active cells of the spatial tree and represent the active nodes of these cells. These vertex arrays, which are sent to the graphics hardware at each frame, merge and split with respect to the changes in the cells of the spatial tree.
+vis citations:
+defloria_vis_98
+elsana_vis_99
+shamir_vis_00

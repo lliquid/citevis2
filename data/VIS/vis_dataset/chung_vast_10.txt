@@ -1,0 +1,9 @@
+title: VizCept: Supporting Synchronous Collaboration for Constructing Visualizations in Intelligence Analysis
+authors: Haeyong Chung, Seungwon Yang, Naveed Massjouni, Christopher Andrews, Rahul Kanna, Chris North
+abstract: In this paper, we present a new web-based visual analytics system, VizCept, which is designed to support fluid, collaborative analysis of large textual intelligence datasets. The main approach of the design is to combine individual workspace and shared visualization in an integrated environment. Collaborating analysts will be able to identify concepts and relationships from the dataset based on keyword searches in their own workspace and collaborate visually with other analysts using visualization tools such as a concept map view and a timeline view. The system allows analysts to parallelize the work by dividing initial sets of concepts, investigating them on their own workspace, and then integrating individual findings automatically on shared visualizations with support for interaction and personal graph layout in real time, in order to develop a unified plot. We highlight several design considerations that promote communication and analytic performance in small team synchronous collaboration. We report the result of a pair of case study applications including collaboration and communication methods, analysis strategies, and user behaviors under a competition setting in the same location at the same time. The results of these demonstrate the tool???s effectiveness for synchronous collaborative construction and use of visualizations in intelligence data analysis.
+vis citations:
+stasko_vast_07
+bier_vast_08
+pike_vast_08
+viegas_infovis_07
+mckeon_infovis_09

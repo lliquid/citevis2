@@ -1,0 +1,6 @@
+title: Visualization by Proxy: A Novel Framework for Deferred Interaction with Volume Data
+authors: Anna Tikhonova, Carlos D. Correa, Kwan-Liu Ma
+abstract: Interactivity is key to exploration of volume data. Interactivity may be hindered due to many factors, e.g. large data size, high resolution or complexity of a data set, or an expensive rendering algorithm. We present a novel framework for visualizing volume data that enables interactive exploration using proxy images, without accessing the original 3D data. Data exploration using direct volume rendering requires multiple (often redundant) accesses to possibly large amounts of data. The notion of visualization by proxy relies on the ability to defer operations traditionally used for exploring 3D data to a more suitable intermediate representation for interaction  proxy images. Such operations include view changes, transfer function exploration, and relighting. While previous work has addressed specific interaction needs, we provide a complete solution that enables real-time interaction with large data sets and has low hardware and storage requirements.
+vis citations:
+luke_vis_02
+rautek_vis_07

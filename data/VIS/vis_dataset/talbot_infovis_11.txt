@@ -1,0 +1,5 @@
+title: Arc Length-Based Aspect Ratio Selection
+authors: Justin Talbot, John Gerth, Pat Hanrahan
+abstract: The aspect ratio of a plot has a dramatic impact on our ability to perceive trends and patterns in the data. Previous approaches for automatically selecting the aspect ratio have been based on adjusting the orientations or angles of the line segments in the plot. In contrast, we recommend a simple, effective method for selecting the aspect ratio: minimize the arc length of the data curve while keeping the area of the plot constant. The approach is parameterization invariant, robust to a wide range of inputs, preserves visual symmetries in the data, and is a compromise between previously proposed techniques. Further, we demonstrate that it can be effectively used to select the aspect ratio of contour plots. We believe arc length should become the default aspect ratio selection method.
+vis citations:
+heer1_infovis_06

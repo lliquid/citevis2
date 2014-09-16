@@ -1,0 +1,8 @@
+title: Opening the Can of Worms: An Exploration Tool for Vortical Flows
+authors: Simon Stegmaier, Ulrich Rist, Thomas Ertl
+abstract: Gaining a comprehensive understanding of turbulent flows still poses one of the great challenges in fluid dynamics. A wellestablished approach to advance this research is the analysis of the vortex structures contained in the flow. In order to be able to perform this analysis efficiently, supporting visualization tools with clearly defined requirements are needed. In this paper, we present a visualization system which matches these requirements to a large extent. The system consists of two components. The first component analyzes the flow by means of a novel combination of vortex core line detection and the 22 method. The second component is a vortex browser which allows for an interactive exploration and manipulation of the vortices detected and separated during the first phase.Our system improves the reliability and applicability of existing vortex detection methods and allows for a more efficient study of vortical flows which is demonstrated in an evaluation performed by experts.
+vis citations:
+kenwrigh_vis_98
+roth_vis_98
+silver_vis_98
+stegmaie_vis_04

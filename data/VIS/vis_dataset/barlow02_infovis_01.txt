@@ -1,0 +1,4 @@
+title: Case Study: Visualization for Decision Tree Analysis in Data Mining
+authors: Todd Barlow, Padraic Neville
+abstract: Decision trees are one of the most popular methods of data mining. Decision trees partition large amounts of data into smaller segments by applying a series of rules. Creating and evaluating decision trees benefits greatly from visualization of the trees and diagnostic measures of their effectiveness. This paper describes an application, EMTree Results Viewer, that supports decision tree analysis through the visualization of model results and diagnosis. The functionality of the application and the visualization techniques are revealed through an example of churn analysis in the telecommunications industry.
+vis citations:

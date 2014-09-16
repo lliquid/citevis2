@@ -1,0 +1,5 @@
+title: Evaluating a Visualisation of Image Similarity as a Tool for Image Browsing
+authors: Kerry Rodden, Wojciech Basalaj, David Sinclair, Kenneth Wood 
+abstract: A similarity metric based on the low-level content of images can be used to create a visualisation in which visually similar images are displayed close to each other. We are carrying out a series of experiments to evaluate the usefulness of this type of visualisation as an image browsing aid. The initial experiment, described in this paper, considered whether people would find a given photograph more quickly in a visualisation than in a randomly arranged grid of images. The results show that the subjects were faster with the visualisation, although in post-experiment interviews many of them said that they preferred the clarity and regularity of the grid. We describe an algorithm with which the best aspects of the two layout types can be combined.
+vis citations:
+rodden_infovis_99

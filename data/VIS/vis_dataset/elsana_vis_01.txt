@@ -1,0 +1,8 @@
+title: Integrating Occlusion Culling with View-Dependent Rendering
+authors: Jihad El-Sana, Neta Sokolovsky, Claudio T. Silva
+abstract: We present a novel approach that integrates occlusion culling within the view-dependent rendering framework. View-dependent rendering provides the ability to change level of detail over the surface seamlessly and smoothly in real-time. The exclusive use of viewparameters to perform level-of-detail selection causes even occluded regions to be rendered in high level of detail. To overcome this serious drawback we have integrated occlusion culling into the level selection mechanism. Because computing exact visibility is expensive and it is currently not possible to perform this computation in real time, we use a visibility estimation technique instead. Our approach reduces dramatically the resolution at occluded regions.
+vis citations:
+defloria_vis_98
+elsana_vis_99
+klosowsk_vis_99
+shamir_vis_00

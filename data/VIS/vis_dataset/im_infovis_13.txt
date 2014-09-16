@@ -1,0 +1,18 @@
+title: GPLOM: The Generalized Plot Matrix for Visualizing Multidimensional Multivariate Data
+authors: Jean-Francois Im, Michael J. McGuffin, Rock Leung
+abstract: Scatterplot matrices (SPLOMs), parallel coordinates, and glyphs can all be used to visualize the multiple continuous variables (i.e., dependent variables or measures) in multidimensional multivariate data. However, these techniques are not well suited to visualizing many categorical variables (i.e., independent variables or dimensions). To visualize multiple categorical variables, ???hierarchical axes??? that ???stack dimensions??? have been used in systems like Polaris and Tableau. However, this approach does not scale well beyond a small number of categorical variables. Emerson et al. [8] extend the matrix paradigm of the SPLOM to simultaneously visualize several categorical and continuous variables, displaying many kinds of charts in the matrix depending on the kinds of variables involved. We propose a variant of their technique, called the Generalized Plot Matrix (GPLOM). The GPLOM restricts Emerson et al.???s technique to only three kinds of charts (scatterplots for pairs of continuous variables, heatmaps for pairs of categorical variables, and barcharts for pairings of categorical and continuous variable), in an effort to make it easier to understand. At the same time, the GPLOM extends Emerson et al.???s work by demonstrating interactive techniques suited to the matrix of charts. We discuss the visual design and interactive features of our GPLOM prototype, including a textual search feature allowing users to quickly locate values or variables by name. We also present a user study that compared performance with Tableau and our GPLOM prototype, that found that GPLOM is significantly faster in certain cases, and not significantly slower in other cases.
+vis citations:
+bostock_infovis_11
+claessen_infovis_11
+collins_infovis_07
+elmqvist_infovis_08
+grammel_infovis_10
+mackinlay_infovis_07
+peng_infovis_04
+qu_vis_07
+steed_vast_09
+steinberger_infovis_11
+stolte_infovis_00
+viau_infovis_10
+wilkinso_infovis_05
+yuan_infovis_09

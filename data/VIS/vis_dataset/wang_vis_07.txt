@@ -1,0 +1,9 @@
+title: Contextualized Videos: Combining Videos with Environment Models to Support Situational Understanding
+authors: Yi Wang, David M. Krum, Enylton M. Coelho, Doug A. Bowman
+abstract: Multiple spatially-related videos are increasingly used in security, communication, and other applications. Since it can be difficult to understand the spatial relationships between multiple videos in complex environments (e.g. to predict a person's path through a building), some visualization techniques, such as video texture projection, have been used to aid spatial understanding. In this paper, we identify and begin to characterize an overall class of visualization techniques that combine video with 3D spatial context. This set of techniques, which we call contextualized videos, forms a design palette which must be well understood so that designers can select and use appropriate techniques that address the requirements of particular spatial video tasks. In this paper, we first identify user tasks in video surveillance that are likely to benefit from contextualized videos and discuss the video, model, and navigation related dimensions of the contextualized video design space. We then describe our contextualized video testbed which allows us to explore this design space and compose various video visualizations for evaluation. Finally, we describe the results of our process to identify promising design patterns through user selection of visualization features from the design space, followed by user interviews.
+vis citations:
+chen_vis_06
+daniel_vis_03
+mcguffin_vis_03
+tory_vis_03
+velez_vis_05

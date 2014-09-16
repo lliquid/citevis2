@@ -1,0 +1,9 @@
+title: EZEL: a Visual Tool for Performance Assessment of Peer-to-Peer File-Sharing Networks
+authors: Lucian Voinea, Alex Telea, Jarke J. van Wijk
+abstract: In this paper we present EZEL, a visual tool we developed for the performance assessment of peer-to-peer file-sharing networks. We start by identifying the relevant data transferred in this kind of networks and the main performance assessment questions. Then we describe the visualization of data from two different points of view. First we take servers as focal points and we introduce a new technique, faded cushioning, which allows visualizing the same data from different perspectives. Secondly, we present the viewpoint of files, and we expose the correlations with the server stance via a special scatter plot. Finally, we discuss how our tool, based on the described techniques, is effective in the performance assessment of peer-to-peer file-sharing networks.
+vis citations:
+stolte_infovis_99
+chi_infovis_99
+vanwijk1_infovis_99
+wilson_infovis_99
+yee_infovis_01

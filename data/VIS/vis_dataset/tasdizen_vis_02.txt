@@ -1,0 +1,5 @@
+title: Geometric Surface Smoothing via Anisotropic Diffusion of Normals
+authors: Tolga Tasdizen, Ross Whitaker, Paul Burchard, Stanley Osher
+abstract: This paper introduces a method for smoothing complex, noisy surfaces, while preserving (and enhancing) sharp, geometric features. It has two main advantages over previous approaches to feature preserving surface smoothing. First is the use of level set surface models, which allows us to process very complex shapes of arbitrary and changing topology. This generality makes it well suited for processing surfaces that are derived directly from measured data. The second advantage is that the proposed method derives from a well-founded formulation, which is a natural generalization of anisotropic diffusion, as used in image processing. This formulation is based on the proposition that the generalization of image filtering entails filtering the normals of the surface, rather than processing the positions of points on a mesh.
+vis citations:
+clarenz_vis_00

@@ -1,0 +1,5 @@
+title: Enabling Level-of-Detail Matching for Exterior Scene Synthesis
+authors: Randy K. Scoggins, Raghu Machiraju, Robert J. Moorhead
+abstract: This work presents a method to enable matching of level-of-detail (LOD) models to image-plane resolution over large variations in viewing distances often present in exterior images. A relationship is developed between image sampling rate, viewing distance, object projection, and expected image error due to LOD approximations. This is employed in an error metric to compute error profiles for LOD models. Multirate filtering in the frequency space of a reference object image is utilized to approximate multiple distant views over a range of orientations. An importance sampling method is described to better characterize perspective projection over view distance. A contrast sensitivity function (CSF) is employed to approximate the response of the vision system. Examples are presented for multiresolution spheres and a terrain height field feature. Future directions for extending this method are described.
+vis citations:
+hoppe_vis_98

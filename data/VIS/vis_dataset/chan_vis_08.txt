@@ -1,0 +1,20 @@
+title: Relation-Aware Volume Exploration Pipeline
+authors: Ming-Yuen Chan, Huamin Qu, Ka-Kei Chung, Wai-Ho Mak, Yingcai Wu
+abstract: Volume exploration is an important issue in scientific visualization. Research on volume exploration has been focused on revealing hidden structures in volumetric data. While the information of individual structures or features is useful in practice, spatial relations between structures are also important in many applications and can provide further insights into the data. In this paper, we systematically study the extraction, representation, exploration, and visualization of spatial relations in volumetric data and propose a novel relation-aware visualization pipeline for volume exploration. In our pipeline, various relations in the volume are first defined and measured using region connection calculus (RCC) and then represented using a graph interface called relation graph. With RCC and the relation graph, relation query and interactive exploration can be conducted in a comprehensive and intuitive way. The visualization process is further assisted with relation-revealing viewpoint selection and color and opacity enhancement. We also introduce a quality assessment scheme which evaluates the perception of spatial relations in the rendered images. Experiments on various datasets demonstrate the practical use of our system in exploratory visualization.
+vis citations:
+bavoil_vis_05
+bordoloi_vis_05
+bruckner_vis_05
+bruckner_vis_07
+correa_vis_06
+ellis_infovis_07
+jankun_k_infovis_03
+kniss_vis_07
+kohlmann_vis_07
+ma_vis_99
+rautek_vis_07
+ebert_vis_00
+scheidegger_vis_07
+takahash_vis_05
+weigle_vis_05
+yi_infovis_07

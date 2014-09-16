@@ -1,0 +1,10 @@
+title: Generalized Streak Lines: Analysis and Visualization of Boundary Induced Vortices
+authors: Alexander Wiebel, Xavier Tricoche, Dominic Schneider, Heike J??nicke,
+Gerik Scheuermann
+abstract: We present a method to extract and visualize vortices that originate from bounding walls of three-dimensional timedependent flows. These vortices can be detected using their footprint on the boundary, which consists of critical points in the wall shear stress vector field. In order to follow these critical points and detect their transformations, affected regions of the surface are parameterized. Thus, an existing singularity tracking algorithm devised for planar settings can be applied. The trajectories of the singularities are used as a basis for seeding particles. This leads to a new type of streak line visualization, in which particles are released from a moving source. These generalized streak lines visualize the particles that are ejected from the wall. We demonstrate the usefulness of our method on several transient fluid flow datasets from computational fluid dynamics simulations.
+vis citations:
+garth_vis_04
+liwanchi_vis_06
+peikert_vis_99
+sadlo_vis_06
+theisel_vis_05

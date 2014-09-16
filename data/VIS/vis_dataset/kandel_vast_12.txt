@@ -1,0 +1,12 @@
+title: Enterprise Data Analysis and Visualization: An Interview Study
+authors: Sean Kandel, Andreas Paepcke, Joseph M. Hellerstein, Jeffrey Heer
+abstract: Organizations rely on data analysts to model customer engagement, streamline operations, improve production, inform business decisions, and combat fraud. Though numerous analysis and visualization tools have been built to improve the scale and efficiency at which analysts can work, there has been little research on how analysis takes place within the social and organizational context of companies. To better understand the enterprise analysts??? ecosystem, we conducted semi-structured interviews with 35 data analysts from 25 organizations across a variety of sectors, including healthcare, retail, marketing and finance. Based on our interview data, we characterize the process of industrial data analysis and document how organizational features of an enterprise impact it. We describe recurring pain points, outstanding challenges, and barriers to adoption for visual analytic tools. Finally, we discuss design implications and opportunities for visual analysis research.
+vis citations:
+amar_infovis_05
+gotz_vast_08
+heer_vast_07
+heer_infovis_08
+isenberg_vast_10
+kang_vast_09
+kang_vast_11
+kwon_vast_11

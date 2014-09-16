@@ -1,0 +1,8 @@
+title: Edge Aware Anisotropic Diffusion for 3D Scalar Data
+authors: Zahid Hossain, Torsten M??ller
+abstract: In this paper we present a novel anisotropic diffusion model targeted for 3D scalar field data. Our model preserves material boundaries as well as fine tubular structures while noise is smoothed out. One of the major novelties is the use of the directional second derivative to define material boundaries instead of the gradient magnitude for thresholding. This results in a diffusion model that has much lower sensitivity to the diffusion parameter and smoothes material boundaries consistently compared to gradient magnitude based techniques. We empirically analyze the stability and convergence of the proposed diffusion and demonstrate its de-noising capabilities for both analytic and real data. We also discuss applications in the context of volume rendering.
+vis citations:
+carr_vis_04
+kindlman_vis_03
+tasdizen_vis_02
+tenginakai_vis_01

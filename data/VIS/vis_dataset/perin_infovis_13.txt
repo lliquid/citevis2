@@ -1,0 +1,8 @@
+title: SoccerStories: A Kick-off for Visual Soccer Analysis
+authors: Charles Perin, Romain Vuillemot, Jean-Daniel Fekete
+abstract: This article presents SoccerStories, a visualization interface to support analysts in exploring soccer data and communicating interesting insights. Currently, most analyses on such data relate to statistics on individual players or teams. However, soccer analysts we collaborated with consider that quantitative analysis alone does not convey the right picture of the game, as context, player positions and phases of player actions are the most relevant aspects. We designed SoccerStories to support the current practice of soccer analysts and to enrich it, both in the analysis and communication stages. Our system provides an overview+detail interface of game phases, and their aggregation into a series of connected visualizations, each visualization being tailored for actions such as a series of passes or a goal attempt. To evaluate our tool, we ran two qualitative user studies on recent games using SoccerStories with data from one of the world???s leading live sports data providers. The first study resulted in a series of four articles on soccer tactics, by a tactics analyst, who said he would not have been able to write these otherwise. The second study consisted in an exploratory follow-up to investigate design alternatives for embedding soccer phases into word-sized graphics. For both experiments, we received a very enthusiastic feedback and participants consider further use of SoccerStories to enhance their current workflow.
+vis citations:
+bostock_infovis_11
+brandes_infovis_11
+henry_infovis_07
+pileggi_infovis_12

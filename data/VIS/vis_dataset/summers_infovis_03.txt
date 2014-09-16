@@ -1,0 +1,4 @@
+title: An Experimental Evaluation of Continuous Semantic Zooming in Program Visualization
+authors: Kenneth L. Summers, Timothy E. Goldsmith, Steve Kubica, Thomas P. Caudell
+abstract: This paper presents the results of an experiment aimed at investigating how different methods of viewing visual programs affect users??? understanding. The first two methods used traditional flat and semantic zooming models of program representation; the third is a new representation that uses semantic zooming combined with blending and proximity. The results of several search tasks performed by approximately 80 participants showed that the new method resulted in both faster and more accurate searches than the other methods.
+vis citations:

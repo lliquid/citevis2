@@ -1,0 +1,8 @@
+title: Lattice-Based Volumetric Global Illumination
+authors: Feng Qiu, Fang Xu, Zhe Fan, Neophytou Neophytos, Arie Kaufman, Klaus Mueller
+abstract: We describe a novel volumetric global illumination framework based on the Face-Centered Cubic (FCC) lattice. An FCC lattice has important advantages over a Cartesian lattice. It has higher packing density in the frequency domain, which translates to better sampling efficiency. Furthermore, it has the maximal possible kissing number (equivalent to the number of nearest neighbors of each site), which provides optimal 3D angular discretization among all lattices. We employ a new two-pass (illumination and rendering) global illumination scheme on an FCC lattice. This scheme exploits the angular discretization to greatly simplify the computation in multiple scattering and to minimize illumination information storage. The GPU has been utilized to further accelerate the rendering stage. We demonstrate our new framework with participating media and volume rendering with multiple scattering, where both are significantly faster than traditional techniques with comparable quality.
+vis citations:
+entezari_vis_04
+krueger_vis_03
+qiao_vis_05
+theussl_vis_01

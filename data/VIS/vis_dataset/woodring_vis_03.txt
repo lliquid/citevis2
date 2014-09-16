@@ -1,0 +1,6 @@
+title: High Dimensional Direct Rendering of Time-Varying Volumetric Data
+authors: Jonathan Woodring, Chaoli Wang, Han-Wei Shen
+abstract: We present an alternative method for viewing time-varying volumetric data. We consider such data as a four-dimensional data field, rather than considering space and time as separate entities. If we treat the data in this manner, we can apply high dimensional slicing and projection techniques to generate an image hyperplane. The user is provided with an intuitive user interface to specify arbitrary hyperplanes in 4D, which can be displayed with standard volume rendering techniques. From the volume specification, we are able to extract arbitrary hyperslices, combine slices together into a hyperprojection volume, or apply a 4D raycasting method to generate the same results. In combination with appropriate integration operators and transfer functions, we are able to extract and present different space-time features to the user.
+vis citations:
+kniss_vis_01
+zheng_vis_03

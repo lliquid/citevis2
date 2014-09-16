@@ -1,0 +1,15 @@
+title: Interactive Separating Streak Surfaces
+authors: Florian Ferstl, Kai B??rger, Holger Theisel, R??diger Westermann
+abstract: Streak surfaces are among the most important features to support 3D unsteady flow exploration, but they are also among the computationally most demanding. Furthermore, to enable a feature driven analysis of the flow, one is mainly interested in streak surfaces that show separation profiles and thus detect unstable manifolds in the flow. The computation of such separation surfaces requires to place seeding structures at the separation locations and to let the structures move correspondingly to these locations in the unsteady flow. Since only little knowledge exists about the time evolution of separating streak surfaces, at this time, an automated exploration of 3D unsteady flows using such surfaces is not feasible. Therefore, in this paper we present an interactive approach for the visual analysis of separating streak surfaces. Our method draws upon recent work on the extraction of Lagrangian coherent structures (LCS) and the real-time visualization of streak surfaces on the GPU. We propose an interactive technique for computing ridges in the finite time Lyapunov exponent (FTLE) field at each time step, and we use these ridges as seeding structures to track streak surfaces in the time-varying flow. By showing separation surfaces in combination with particle trajectories, and by letting the user interactively change seeding parameters such as particle density and position, visually guided exploration of separation profiles in 3D is provided. To the best of our knowledge, this is the first time that the reconstruction and display of semantic separable surfaces in 3D unsteady flows can be performed interactively, giving rise to new possibilities for gaining insight into complex flow phenomena.
+vis citations:
+burger_vis_09
+garth_vis_07
+garth_vis_08
+kindlman_vis_09
+kondrati_vis_05
+krishnan_vis_09
+merhof_vis_06
+sadlo_vis_07
+scheuermann_vis_01
+vonfunck_vis_08
+wiebel_vis_07

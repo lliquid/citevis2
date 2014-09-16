@@ -1,0 +1,5 @@
+title: ThemeRiver: Visualizing Theme Changes over Time
+authors: Susan Havre, Beth Hetzler, Lucy Nowell 
+abstract: ThemeRiverTM is a prototype system that visualizes thematic variations over time within a large collection of documents. The ???river??? flows from left to right through time, changing width to depict changes in thematic strength of temporally associated documents. Colored ???currents??? flowing within the river narrow or widen to indicate decreases or increases in the strength of an individual topic or a group of topics in the associated documents. The river is shown within the context of a timeline and a corresponding textual presentation of external events.
+vis citations:
+hetzler_infovis_98

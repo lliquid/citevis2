@@ -1,0 +1,8 @@
+title: Eyelet Particle Tracing Steady Visualization of Unsteady Flow
+authors: Alexander Wiebel, Gerik Scheuermann
+abstract: It is a challenging task to visualize the behavior of time-dependent 3D vector fields. Most of the time an overview of unsteady fields is provided via animations, but, unfortunately, animations provide only transient impressions of momentary flow. In this paper we present two approaches to visualize time varying fields with fixed geometry. Path lines and streak lines represent such a steady visualization of unsteady vector fields, but because of occlusion and visual clutter it is useless to draw them all over the spatial domain. A selection is needed. We show how bundles of streak lines and path lines, running at different times through one point in space, like through an eyelet, yield an insightful visualization of flow structure (???eyelet lines???). To provide a more intuitive and appealing visualization we also explain how to construct a surface from these lines. As second approach, we use a simple measurement of local changes of a field over time to determine regions with strong changes. We visualize these regions with isosurfaces to give an overview of the activity in the dataset. Finally we use the regions as a guide for placing eyelets.
+vis citations:
+ebling_vis_03
+garth_vis_04
+jobard_vis_01
+theisel_vis_04

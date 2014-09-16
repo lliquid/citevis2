@@ -1,0 +1,14 @@
+title: Supporting the Visual Analysis of Dynamic Networks by Clustering associated Temporal Attributes
+authors: Steffen Hadlak, Heidrun Schumann, Clemens H. Cap, Till Wollenberg
+abstract: The visual analysis of dynamic networks is a challenging task. In this paper, we introduce a new approach supporting the discovery of substructures sharing a similar trend over time by combining computation, visualization and interaction. With existing techniques, their discovery would be a tedious endeavor because of the number of nodes, edges as well as time points to be compared. First, on the basis of the supergraph, we therefore group nodes and edges according to their associated attributes that are changing over time. Second, the supergraph is visualized to provide an overview of the groups of nodes and edges with similar behavior over time in terms of their associated attributes. Third, we provide specific interactions to explore and refine the temporal clustering, allowing the user to further steer the analysis of the dynamic network. We demonstrate our approach by the visual analysis of a large wireless mesh network.
+vis citations:
+ahmed_vast_12
+brandes_infovis_02
+burch_infovis_11
+frishman_infovis_04
+hadlak_infovis_11
+kumar_infovis_06
+saraiya_infovis_05
+tu_infovis_07
+vanwijk2_infovis_99
+ziegler_vast_10

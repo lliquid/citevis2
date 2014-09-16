@@ -1,0 +1,8 @@
+title: VisMashup: Streamlining the Creation of Custom Visualization Applications
+authors: Emanuele Santos, Lauro Lins, James P. Ahrens, Juliana Freire, Claudio T. Silva
+abstract: Visualization is essential for understanding the increasing volumes of digital data. However, the process required to create insightful visualizations is involved and time consuming. Although several visualization tools are available, including tools with sophisticated visual interfaces, they are out of reach for users who have little or no knowledge of visualization techniques and/or who do not have programming expertise. In this paper, we propose VISMASHUP, a new framework for streamlining the creation of customized visualization applications. Because these applications can be customized for very specific tasks, they can hide much of the complexity in a visualization specification and make it easier for users to explore visualizations by manipulating a small set of parameters. We describe the framework and how it supports the various tasks a designer needs to carry out to develop an application, from mining and exploring a set of visualization specifications (pipelines), to the creation of simplified views of the pipelines, and the automatic generation of the application and its interface. We also describe the implementation of the system and demonstrate its use in two real application scenarios.
+vis citations:
+childs_vis_05
+ma_vis_99
+scheidegger_vis_07
+viegas_infovis_07

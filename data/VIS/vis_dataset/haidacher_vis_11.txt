@@ -1,0 +1,11 @@
+title: Volume Analysis Using Multimodal Surface Similarity
+authors: Martin Haidacher, Stefan Bruckner, M. Eduard Gr??ller
+abstract: The combination of volume data acquired by multiple modalities has been recognized as an important but challenging task. Modalities often differ in the structures they can delineate and their joint information can be used to extend the classification space. However, they frequently exhibit differing types of artifacts which makes the process of exploiting the additional information non-trivial. In this paper, we present a framework based on an information-theoretic measure of isosurface similarity between different modalities to overcome these problems. The resulting similarity space provides a concise overview of the differences between the two modalities, and also serves as the basis for an improved selection of features. Multimodal classification is expressed in terms of similarities and dissimilarities between the isosurfaces of individual modalities, instead of data value combinations. We demonstrate that our approach can be used to robustly extract features in applications such as dual energy computed tomography of parts in industrial manufacturing.
+vis citations:
+carr_vis_06
+chen_vis_10
+heinzl_vis_07
+khoury_vis_10
+scheideg_vis_08
+viola_vis_06
+xu_vis_10

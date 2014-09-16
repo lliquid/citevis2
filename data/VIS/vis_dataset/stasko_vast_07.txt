@@ -1,0 +1,6 @@
+title: Jigsaw: Supporting Investigative Analysis through Interactive Visualization
+authors: John Stasko, Carsten G??rg, Zhicheng Liu, Kanupriya Singhal
+abstract: Investigative analysts who work with collections of text documents connect embedded threads of evidence in order to formulate hypotheses about plans and activities of potential interest. As the number of documents and the corresponding number of concepts and entities within the documents grow larger, sense-making processes become more and more difficult for the analysts. We have developed a visual analytic system called Jigsaw that represents documents and their entities visually in order to help analysts examine reports more efficiently and develop theories about potential actions more quickly. Jigsaw provides multiple coordinated views of document entities with a special emphasis on visually illustrating connections between entities across the different documents.
+vis citations:
+kapler_infovis_04
+wong_vast_06

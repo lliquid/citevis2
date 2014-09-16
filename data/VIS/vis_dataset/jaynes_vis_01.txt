@@ -1,0 +1,9 @@
+title: Dynamic Shadow Removal from Front Projection Displays
+authors: Christopher Jaynes, Stephen Webb, R. Matt Steele, Michael Brown, W. Brent Seales
+abstract: Front-projection display environments suffer from a fundamental problem: users and other objects in the environment can easily and inadvertently block projectors, creating shadows on the displayed image. We introduce a technique that detects and corrects transient shadows in a multi-projector display. Our approach is to minimize the difference between predicted (generated) and observed (camera) images by continuous modification of the projected image values for each display device. We are unaware of any other technique that directly addresses this problem. Furthermore, we speculate that the general predictive monitoring framework introduced here is capable of addressing more general radiometric consistency problems such as displaysurface inter-reflections and the changes in display color and intensity due to projector bulb temperature variation.Using an automatically-derived relative position of cameras and projectors in the display environment and a straightforward color correction scheme, the system renders an expected image for each camera location. Cameras observe the displayed image, which is compared with the expected image to detect shadowed regions. These regions are transformed to the appropriate projector frames, where corresponding pixel values are increased. In display regions where more than one projector contributes to the image, shadow regions are eliminated. We demonstrate an implementation of the technique to remove shadows in a multi-projector front projection system.
+vis citations:
+chen1_vis_00
+humphrey_vis_99
+majumder_vis_00
+raskar_vis_99
+chen2_vis_00

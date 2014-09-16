@@ -1,0 +1,6 @@
+title: Skip Strips: Maintaining Triangle Strips for View-dependent Rendering
+authors: Jihad El-Sana, Elvir Azanli, Amitabh Varshney
+abstract: View-dependent simplification has emerged as a powerful tool for graphics acceleration in visualization of complex environments. However, view-dependent simplification techniques have not been able to take full advantage of the underlying graphics hardware. Specifically, triangle strips are a widely used hardware-supported mechanism to compactly represent and efficiently render static triangle meshes. However, in a view-dependent framework, the triangle mesh connectivity changes at every frame making it difficult to use triangle strips. In this paper we present a novel data-structure, Skip Strip, that efficiently maintains triangle strips during such view-dependent changes. A Skip Strip stores the vertex hierarchy nodes in a skip-list-like manner with path compression. We anticipate that Skip Strips will provide a road-map to combine rendering acceleration techniques for static datasets, typical of retained-mode graphics applications, with those for dynamic datasets found in immediate-mode applications.
+vis citations:
+defloria_vis_98
+lindstro_vis_98

@@ -1,0 +1,10 @@
+title: Full Body Virtual Autopsies using a State-of-the-art Volume Rendering Pipeline
+authors: Patric Ljung, Calle Winskog, Anders Persson, Claes Lundstr??m, Anders Ynnerman
+abstract: This paper presents a procedure for virtual autopsies based on interactive 3D visualizations of large scale, high resolution data from CT-scans of human cadavers. The procedure is described using examples from forensic medicine and the added value and future potential of virtual autopsies is shown from a medical and forensic perspective. Based on the technical demands of the procedure state-of-the-art volume rendering techniques are applied and refined to enable real-time, full body virtual autopsies involving gigabyte sized data on standard GPUs. The techniques applied include transfer function based data reduction using levelof-detail selection and multi-resolution rendering techniques. The paper also describes a data management component for large, out-of-core data sets and an extension to the GPU-based raycaster for efficient dual TF rendering. Detailed benchmarks of the pipeline are presented using data sets from forensic cases.
+vis citations:
+gao_vis_05
+gao_vis_03
+guthe_vis_02
+klein_vis_05
+krueger_vis_03
+lamar_vis_99

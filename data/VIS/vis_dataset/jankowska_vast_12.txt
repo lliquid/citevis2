@@ -1,0 +1,6 @@
+title: Relative N-Gram Signatures: Document Visualization at the Level of Character N-Grams
+authors: Magdalena Jankowska, Vlado Ke??elj, Evangelos Milios
+abstract: The Common N-Gram (CNG) classifier is a text classification algorithm based on the comparison of frequencies of character n-grams (strings of characters of length n) that are the most common in the considered documents and classes of documents. We present a text analytic visualization system that employs the CNG approach for text classification and uses the differences in frequency values of common n-grams in order to visually compare documents at the sub-word level. The visualization method provides both an insight into n-gram characteristics of documents or classes of documents and a visual interpretation of the workings of the CNG classifier.
+vis citations:
+collins_vast_09
+keim_vast_07

@@ -1,0 +1,8 @@
+title: Light Collages: Lighting Design for Effective Visualization
+authors: Chang Ha Lee, Xuejun Hao, Amitabh Varshney
+abstract: We introduce Light Collages  a lighting design system for effective visualization based on principles of human perception. Artists and illustrators enhance perception of features with lighting that is locally consistent and globally inconsistent. Inspired by these techniques, we design the placement of light sources to convey a greater sense of realism and better perception of shape with globally inconsistent lighting. Our algorithm segments the objects into local surface patches and uses a number of perceptual heuristics, such as highlights, shadows, and silhouettes, to enhance the perception of shape. We show our results on scientific and sculptured datasets.
+vis citations:
+akers_vis_03
+gumhold_vis_02
+halle_vis_03
+stewart_vis_03

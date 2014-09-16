@@ -1,0 +1,4 @@
+title: Fairing Scalar Fields by Variational Modeling of Contours
+authors: Martin Bertram
+abstract: Volume rendering and isosurface extraction from three-dimensional scalar fields are mostly based on piecewise trilinear representations. In regions of high geometric complexity such visualization methods often exhibit artefacts, due to trilinear interpolation. In this work, we present an iterative fairing method for scalar fields interpolating function values associated with grid points while smoothing the contours inside the grid cells based on variational principles. We present a local fairing method providing a piecewise bicubic representation of two-dimensional scalar fields. Our algorithm generalizes to the trivariate case and can be used to increase the resolution of data sets either locally or globally, reducing interpolation artefacts. In contrast to filtering methods, our algorithm does not reduce geometric detail supported by the data.
+vis citations:

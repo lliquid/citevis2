@@ -1,0 +1,8 @@
+title: Space-Time Visual Analytics of Eye-Tracking Data for Dynamic Stimuli
+authors: Kuno Kurzhals, Daniel Weiskopf
+abstract: We introduce a visual analytics method to analyze eye movement data recorded for dynamic stimuli such as video or animated graphics. The focus lies on the analysis of data of several viewers to identify trends in the general viewing behavior, including time sequences of attentional synchrony and objects with strong attentional focus. By using a space-time cube visualization in combination with clustering, the dynamic stimuli and associated eye gazes can be analyzed in a static 3D representation. Shot-based, spatiotemporal clustering of the data generates potential areas of interest that can be filtered interactively. We also facilitate data drill-down: the gaze points are shown with density-based color mapping and individual scan paths as lines in the space-time cube. The analytical process is supported by multiple coordinated views that allow the user to focus on different aspects of spatial and temporal information in eye gaze data. Common eye-tracking visualization techniques are extended to incorporate the spatiotemporal characteristics of the data. For example, heat maps are extended to motion-compensated heat maps and trajectories of scan paths are included in the space-time visualization. Our visual analytics approach is assessed in a qualitative users study with expert users, which showed the usefulness of the approach and uncovered that the experts applied different analysis strategies supported by the system.
+vis citations:
+andrienko_vast_12
+burch2_infovis_11
+chen_vis_06
+tsang_infovis_10

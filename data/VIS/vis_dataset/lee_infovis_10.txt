@@ -1,0 +1,8 @@
+title: SparkClouds: Visualizing Trends in Tag Clouds
+authors: Bongshin Lee, Nathalie Henry Riche, Amy K. Karlson, Sheelagh Carpendale
+abstract: Tag clouds have proliferated over the web over the last decade. They provide a visual summary of a collection of texts by visually depicting the tag frequency by font size. In use, tag clouds can evolve as the associated data source changes over time. Interesting discussions around tag clouds often include a series of tag clouds and consider how they evolve over time. However, since tag clouds do not explicitly represent trends or support comparisons, the cognitive demands placed on the person for perceiving trends in multiple tag clouds are high. In this paper, we introduce SparkClouds, which integrate sparklines [23] into a tag cloud to convey trends between multiple tag clouds. We present results from a controlled study that compares SparkClouds with two traditional trend visualizations???multiple line graphs and stacked bar charts???as well as Parallel Tag Clouds [4]. Results show that SparkClouds??? ability to show trends compares favourably to the alternative visualizations.
+vis citations:
+collins_vast_09
+viegas_infovis_09
+wattenba_infovis_05
+willett_infovis_07

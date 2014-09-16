@@ -1,0 +1,20 @@
+title: A Framework of Interaction Costs in Information Visualization
+authors: Heidi Lam
+abstract: Interaction cost is an important but poorly understood factor in visualization design. We propose a framework of interaction costs inspired by Norman???s Seven Stages of Action to facilitate study. From 484 papers, we collected 61 interaction-related usability problems reported in 32 user studies and placed them into our framework of seven costs: (1) Decision costs to form goals; (2) System-power costs to form system operations; (3) Multiple input mode costs to form physical sequences; (4) Physical-motion costs to execute sequences; (5) Visual-cluttering costs to perceive state; (6) View-change costs to interpret perception; (7) State-change costs to evaluate interpretation. We also suggested ways to narrow the gulfs of execution (2???4) and evaluation (5???7) based on collected reports. Our framework suggests a need to consider decision costs (1) as the gulf of goal formation.
+vis citations:
+abello_infovis_06
+buering_infovis_06
+chi_infovis_98
+granitze_infovis_04
+heer_infovis_05
+hetzler_infovis_05
+kang_vast_06
+kobsa_infovis_01
+lam_infovis_07
+li_infovis_03
+mcguffin_infovis_04
+saraiya_infovis_04
+saraiya_infovis_05
+shi_infovis_05
+willett_infovis_07
+yi_infovis_07

@@ -1,0 +1,10 @@
+title: Multifield Visualization Using Local Statistical Complexity
+authors: Heike J??nicke, Alexander Wiebel, Gerik Scheuermann, Wolfgang Kollmann
+abstract: Modern unsteady (multi-)field visualizations require an effective reduction of the data to be displayed. From a huge amount of information the most informative parts have to be extracted. Instead of the fuzzy application dependent notion of feature, a new approach based on information theoretic concepts is introduced in this paper to detect important regions. This is accomplished by extending the concept of local statistical complexity from finite state cellular automata to discretized (multi-)fields. Thus, informative parts of the data can be highlighted in an application-independent, purely mathematical sense. The new measure can be applied to unsteady multifields on regular grids in any application domain. The ability to detect and visualize important parts is demonstrated using diffusion, flow, and weather simulations.
+vis citations:
+bair_vis_06
+ebling_vis_03
+kirby_vis_99
+riley_vis_03
+sauber_vis_06
+telea_vis_99

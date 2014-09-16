@@ -1,0 +1,19 @@
+title: FacetAtlas: Multifaceted Visualization for Rich Text Corpora
+authors: Nan Cao, Jimeng Sun, Yu-Ru Lin, David Gotz, Shixia Liu, Huamin Qu
+abstract: Documents in rich text corpora usually contain multiple facets of information. For example, an article about a specific disease often consists of different facets such as symptom, treatment, cause, diagnosis, prognosis, and prevention. Thus, documents may have different relations based on different facets. Powerful search tools have been developed to help users locate lists of individual documents that are most related to specific keywords. However, there is a lack of effective analysis tools that reveal the multifaceted relations of documents within or cross the document clusters. In this paper, we present FacetAtlas, a multifaceted visualization technique for visually analyzing rich text corpora. FacetAtlas combines search technology with advanced visual analytical tools to convey both global and local patterns simultaneously. We describe several unique aspects of FacetAtlas, including (1) node cliques and multifaceted edges, (2) an optimized density map, and (3) automated opacity pattern enhancement for highlighting visual patterns, (4) interactive context switch between facets. In addition, we demonstrate the power of FacetAtlas through a case study that targets patient education in the health care domain.Our evaluation shows the benefits of this work, especially in support of complex multifaceted data analysis.
+vis citations:
+chenyanh_infovis_09
+collins_vast_09
+cortese_infovis_06
+cui_infovis_08
+havre_infovis_00
+heer_infovis_05
+holten_infovis_06
+miller_vis_98
+perer_infovis_06
+smith_infovis_06
+strobelt_infovis_09
+vanham1_infovis_09
+vanham2_infovis_09
+viegas_infovis_09
+wattenbe_infovis_08

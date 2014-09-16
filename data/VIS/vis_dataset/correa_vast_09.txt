@@ -1,0 +1,6 @@
+title: A Framework for Uncertainty-Aware Visual Analytics
+authors: Carlos D. Correa, Yu-Hsuan Chan, Kwan-Liu Ma
+abstract: Visual analytics has become an important tool for gaining insight on large and complex collections of data. Numerous statistical tools and data transformations, such as projections, binning and clustering, have been coupled with visualization to help analysts understand data better and faster. However, data is inherently uncertain, due to error, noise or unreliable sources. When making decisions based on uncertain data, it is important to quantify and present to the analyst both the aggregated uncertainty of the results and the impact of the sources of that uncertainty. In this paper, we present a new framework to support uncertainty in the visual analytics process, through statistic methods such as uncertainty modeling, propagation and aggregation. We show that data transformations, such as regression, principal component analysis and k-means clustering, can be adapted to account for uncertainty. This framework leads to better visualizations that improve the decision-making process and help analysts gain insight on the analytic process itself.
+vis citations:
+barlowe_vast_08
+yang_vast_07

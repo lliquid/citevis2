@@ -1,0 +1,12 @@
+title: Hybrid Visualization for White Matter Tracts using Triangle Strips and Point Sprites
+authors: Dorit Merhof, Markus Sonntag, Frank Enders, Christopher Nimsky, Peter
+Hastreiter, G??nther Greiner
+abstract: Diffusion tensor imaging is of high value in neurosurgery, providing information about the location of white matter tracts in the human brain. For their reconstruction, streamline techniques commonly referred to as fiber tracking model the underlying fiber structures and have therefore gained interest. To meet the requirements of surgical planning and to overcome the visual limitations of line representations, a new real-time visualization approach of high visual quality is introduced. For this purpose, textured triangle strips and point sprites are combined in a hybrid strategy employing GPU programming. The triangle strips follow the fiber streamlines and are textured to obtain a tube-like appearance. A vertex program is used to orient the triangle strips towards the camera. In order to avoid triangle flipping in case of fiber segments where the viewing and segment direction are parallel, a correct visual representation is achieved in these areas by chains of point sprites. As a result, a high quality visualization similar to tubes is provided allowing for interactive multimodal inspection. Overall, the presented approach is faster than existing techniques of similar visualization quality and at the same time allows for real-time rendering of dense bundles encompassing a high number of fibers, which is of high importance for diagnosis and surgical planning.
+vis citations:
+akers_vis_04
+blaas_vis_05
+hlawitsc_vis_05
+mallo_vis_05
+moberts_vis_05
+stoll_vis_05
+zhukov_vis_02

@@ -1,0 +1,17 @@
+title: Superquadric Glyphs for Symmetric Second-Order Tensors
+authors: Thomas Schultz, Gordon L. Kindlmann
+abstract: Symmetric second-order tensor fields play a central role in scientific and biomedical studies as well as in image analysis and feature-extraction methods. The utility of displaying tensor field samples has driven the development of visualization techniques that encode the tensor shape and orientation into the geometry of a tensor glyph. With some exceptions, these methods work only for positive-definite tensors (i.e. having positive eigenvalues, such as diffusion tensors). We expand the scope of tensor glyphs to all symmetric second-order tensors in two and three dimensions, gracefully and unambiguously depicting any combination of positive and negative eigenvalues. We generalize a previous method of superquadric glyphs for positive-definite tensors by drawing upon a larger portion of the superquadric shape space, supplemented with a coloring that indicates the tensor???s quadratic form. We show that encoding arbitrary eigenvalue sign combinations requires design choices that differ fundamentally from those in previous work on traceless tensors (arising in the study of liquid crystals). Our method starts with a design of 2-D tensor glyphs guided by principles of symmetry and continuity, and creates 3-D glyphs that include the 2-D glyphs in their axis-aligned cross-sections. A key ingredient of our method is a novel way of mapping from the shape space of three-dimensional symmetric second-order tensors to the unit square. We apply our new glyphs to stress tensors from mechanics, geometry tensors and Hessians from image analysis, and rate-of-deformation tensors in computational fluid dynamics.
+vis citations:
+dick_vis_09
+hotz_vis_04
+jankun_vis_06
+kindlman_vis_06
+kindlman_vis_03
+kindlman_vis_09
+kirby_vis_99
+laidlaw_vis_98
+neeman_vis_05
+sigfrids_vis_02
+slavin_vis_06
+tarini_vis_06
+theisel_vis_03

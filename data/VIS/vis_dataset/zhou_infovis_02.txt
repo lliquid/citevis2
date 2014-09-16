@@ -1,0 +1,4 @@
+title: Building a Visual Database for Example-based Graphics Generation
+authors: Michelle X. Zhou, Min Chen, Mike F. Webster
+abstract: Example-based graphics generation systems automatically create new information visualizations by learning from existing graphic examples. As part of the effort on developing a general-purpose example-based generation system, we are building a visual database of graphic examples. In this paper, we address two main issues involved in constructing such a database: example selection and example modeling. As a result, our work offers three unique contributions: First, we build a visual database that contains a diverse collection of well-designed examples. Second, we develop a feature-based scheme to model all examples uniformly and accurately. Third, our visual database brings several important implications to the area of information visualization.
+vis citations:

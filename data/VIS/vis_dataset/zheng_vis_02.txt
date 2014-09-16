@@ -1,0 +1,7 @@
+title: Volume Deformation For Tensor Visualization
+authors: Xiaoqiang Zheng, Alex Pang
+abstract: Visualizing second-order 3D tensor fields continue to be a challenging task. Although there are several algorithms that have been presented, no single algorithm by itself is sufficient for the analysis because of the complex nature of tensor fields. In this paper, we present two new methods, based on volume deformation, to show the effects of the tensor field upon its underlying media. We focus on providing a continuous representation of the nature of the tensor fields. Each of these visualization algorithms is good at displaying some particular properties of the tensor field.
+vis citations:
+boring_vis_98
+kirby_vis_99
+laidlaw_vis_98

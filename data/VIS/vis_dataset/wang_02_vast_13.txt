@@ -1,0 +1,16 @@
+title: Visual Traffic Jam Analysis Based on Trajectory Data
+authors: Zuchao Wang, Min Lu, Xiaoru Yuan, Junping Zhang, Huub van de Wetering
+abstract: In this work, we present an interactive system for visual analysis of urban traffic congestion based on GPS trajectories. For these trajectories we develop strategies to extract and derive traffic jam information. After cleaning the trajectories, they are matched to a road network. Subsequently, traffic speed on each road segment is computed and traffic jam events are automatically detected. Spatially and temporally related events are concatenated in, so-called, traffic jam propagation graphs. These graphs form a high-level description of a traffic jam and its propagation in time and space. Our system provides multiple views for visually exploring and analyzing the traffic condition of a large city as a whole, on the level of propagation graphs, and on road segment level. Case studies with 24 days of taxi GPS trajectories collected in Beijing demonstrate the effectiveness of our system.
+vis citations:
+andrienk_vast_08
+andrienk_vast_11
+crnovrsa_vast_09
+hurter_infovis_09
+kapler_infovis_04
+liu2_vast_11
+piringer_vast_12
+robertso_infovis_08
+scheepens_infovis_11
+tominski_infovis_12
+verbeek_infovis_11
+vonlandesberger_vast_12

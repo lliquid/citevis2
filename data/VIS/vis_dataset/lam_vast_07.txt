@@ -1,0 +1,7 @@
+title: Session Viewer: Visual Exploratory Analysis of Web Session Logs
+authors: Heidi Lam, Daniel Russell, Diane Tang, Tamara Munzner
+abstract: Large-scale session log analysis typically includes statistical methods and detailed log examinations. While both methods have merits, statistical methods can miss previously unknown subpopulations in the data and detailed analyses may have selection biases. We therefore built Session Viewer, a visualization tool to facilitate and bridge between statistical and detailed analyses. Taking a multiple-coordinated view approach, Session Viewer shows multiple session populations at the Aggregate, Multiple, and Detail data levels to support different analysis styles. To bridge between the statistical and the detailed analysis levels, Session Viewer provides fluid traversal between data levels and side-by-side comparison at all data levels. We describe an analysis of a large-scale web usage study to demonstrate the use of Session Viewer, where we quantified the importance of grouping sessions based on task type.
+vis citations:
+maceachr_infovis_03
+frecon_infovis_98
+kreusele_infovis_04

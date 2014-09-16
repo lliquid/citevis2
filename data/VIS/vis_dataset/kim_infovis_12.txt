@@ -1,0 +1,9 @@
+title: Does an Eye Tracker Tell the Truth about Visualizations?: Findings while Investigating Visualizations for Decision Making
+authors: Sung-Hee Kim, Zhihua Dong, Hanjun Xian, Benjavan Upatising, Ji Soo Yi
+abstract: For information visualization researchers, eye tracking has been a useful tool to investigate research participants??? underlying cognitive processes by tracking their eye movements while they interact with visual techniques. We used an eye tracker to better understand why participants with a variant of a tabular visualization called ???SimulSort??? outperformed ones with a conventional table and typical one-column sorting feature (i.e., Typical Sorting). The collected eye-tracking data certainly shed light on the detailed cognitive processes of the participants; SimulSort helped with decision-making tasks by promoting efficient browsing behavior and compensatory decision-making strategies. However, more interestingly, we also found unexpected eye-tracking patterns with SimulSort. We investigated the cause of the unexpected patterns through a crowdsourcing-based study (i.e., Experiment 2), which elicited an important limitation of the eye tracking method: incapability of capturing peripheral vision. This particular result would be a caveat for other visualization researchers who plan to use an eye tracker in their studies. In addition, the method to use a testing stimulus (i.e., influential column) in Experiment 2 to verify the existence of such limitations would be useful for researchers who would like to verify their eye tracking results.
+vis citations:
+burch2_infovis_11
+rudolph_vast_09
+savikhin_vast_08
+steinberger_infovis_11
+tsang_infovis_10

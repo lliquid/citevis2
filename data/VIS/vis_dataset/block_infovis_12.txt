@@ -1,0 +1,11 @@
+title: The DeepTree Exhibit: Visualizing the Tree of Life to Facilitate Informal Learning
+authors: Florian Block, Michael S. Horn, Brenda Caldwell Phillips, Judy Diamond, E. Margaret Evans, Chia Shen
+abstract: In this paper, we present the DeepTree exhibit, a multi	multi-touch interactive visualization of the Tree of Life. We developed DeepTree to facilitate collaborative learning of evolutionary concepts. We will describe an iterative process in which a team of computer scientists, learning scientists, biologists, and museum curators worked together throughout design, development, and evaluation. We present the importance of designing the interactions and the visualization hand-in-hand in order to facilitate active learning. The outcome of this process is a fractal-based tree layout that reduces visual complexity while being able to capture all life on earth; a custom rendering and navigation engine that prioritizes visual appeal and smooth fly-through; and a multi-user interface that encourages collaborative exploration while offering guided discovery. We present an evaluation showing that the large dataset encouraged free exploration, triggers emotional responses, and facilitates visitor engagement and informal learning.
+vis citations:
+van_ham_infovis_02
+heer_infovis_07
+hinrichs_infovis_08
+vandewetering_infovis_01
+munzner_infovis_09
+plaisant_infovis_02
+pousman_infovis_07

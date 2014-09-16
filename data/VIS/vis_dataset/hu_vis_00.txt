@@ -1,0 +1,5 @@
+title: Visual Cues For Imminent Object Contact In Realistic Virtual Environments
+authors: Helen H. Hu, Amy A. Gooch, William B. Thompson, Brian E. Smits
+authors: John J. Rieser, Peter Shirley
+abstract: Distance judgments are difficult in current virtual environments, limiting their effectiveness in conveying spatial information. This problem is apparent when contact occurs while a user is manipulating objects. In particular, the computer graphics used to support current generation immersive interfaces does a poor job of providing the visual cues necessary to perceive when contact between objects is about to occur. This perception of imminent contact is important in human motor control. Its absence prevents a sense of naturalness in interactive displays which allow for object manipulation. This paper reports results from an experiment evaluating the effectiveness of binocular disparity, cast shadows, and diffuse interreflections in signaling imminent contact in a manipulation task.
+vis citations:

@@ -1,0 +1,11 @@
+title: Visualizing Fuzzy Overlapping Communities in Networks
+authors: Corinna Vehlow, Thomas Reinhardt, Daniel Weiskopf
+abstract: An important feature of networks for many application domains is their community structure. This is because objects within the same community usually have at least one property in common. The investigation of community structure can therefore support the understanding of object attributes from the network topology alone. In real-world systems, objects may belong to several communities at the same time, i.e., communities can overlap. Analyzing fuzzy community memberships is essential to understand to what extent objects contribute to different communities and whether some communities are highly interconnected. We developed a visualization approach that is based on node-link diagrams and supports the investigation of fuzzy communities in weighted undirected graphs at different levels of detail. Starting with the network of communities, the user can continuously drill down to the network of individual nodes and finally analyze the membership distribution of nodes of interest. Our approach uses layout strategies and further visual mappings to graphically encode the fuzzy community memberships. The usefulness of our approach is illustrated by two case studies analyzing networks of different domains: social networking and biological interactions. The case studies showed that our layout and visualization approach helps investigate fuzzy overlapping communities. Fuzzy vertices as well as the different communities to which they belong can be easily identified based on node color and position.
+vis citations:
+alper_infovis_11
+collins_infovis_09
+vehlow_infovis_13
+heer_infovis_05
+machado_vis_09
+riche_infovis_10
+vanham_infovis_04

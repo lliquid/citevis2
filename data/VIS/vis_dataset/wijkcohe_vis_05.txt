@@ -1,0 +1,4 @@
+title: Visualization of the Genus of Knots
+authors: Jarke J. van Wijk, Arjeh M. Cohen
+abstract: The genus of a knot or link can be defined via Seifert surfaces. A Seifert surface of a knot or link is an oriented surface whose boundary coincides with that knot or link. Schematic images of these surfaces are shown in every text book on knot theory, but from these it is hard to understand their shape and structure. In this paper the visualization of such surfaces is discussed. A method is presented to produce different styles of surfaces for knots and links, starting from the so-called braid representation. Also, it is shown how closed oriented surfaces can be generated in which the knot is embedded, such that the knot subdivides the surface into two parts. These closed surfaces provide a direct visualization of the genus of a knot.
+vis citations:

@@ -1,0 +1,6 @@
+title: A Handheld Flexible Display System
+authors: Jonathan Konieczny, Clement Shimizu, Gary Meyer, Dnardo Colucci
+abstract: A new close range virtual reality system is introduced that allows intuitive and immersive user interaction with computer generated objects. A projector with a special spherical lens is combined with a flexible, tracked rear projection screen that users hold in their hands. Unlike normal projectors, the spherical lens allows for a 180 degree field of view and nearly infinite depth of focus. This allows the user to move the screen around the environment and use it as a virtual ???slice??? to examine the interior of 3D volumes. This provides a concrete correspondence between the virtual representation of the 3D volume and how that volume would actually appear if its real counterpart was sliced open. The screen can also be used as a ???magic window??? to view the mesh of the volume from different angles prior to taking cross sections of it. Real time rendering of the desired 3D volume or mesh is accomplished using current graphics hardware. Additional applications of the system are also discussed.
+vis citations:
+saroul_vis_03
+yang_vis_01

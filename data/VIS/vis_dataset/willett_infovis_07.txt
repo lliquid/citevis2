@@ -1,0 +1,5 @@
+title: Scented Widgets: Improving Navigation Cues with Embedded Visualizations
+authors: Wesley Willett, Jeffrey Heer, Maneesh Agrawala
+abstract: This paper presents scented widgets, graphical user interface controls enhanced with embedded visualizations that facilitate navigation in information spaces. We describe design guidelines for adding visual cues to common user interface widgets such as radio buttons, sliders, and combo boxes and contribute a general software framework for applying scented widgets within applications with minimal modifications to existing source code. We provide a number of example applications and describe a controlled experiment which finds that users exploring unfamiliar data make up to twice as many unique discoveries using widgets imbued with social navigation data. However, these differences equalize as familiarity with the data increases.
+vis citations:
+derthick_infovis_99

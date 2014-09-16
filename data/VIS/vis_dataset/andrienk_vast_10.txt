@@ -1,0 +1,6 @@
+title: Discovering Bits of Place Histories from People's Activity Traces
+authors: Gennady Andrienko, Natalia Andrienko, Martin Mladenov, Michael Mock, Christian P??litz
+abstract: Events that happened in the past are important for understanding the ongoing processes, predicting future developments, and making informed decisions. Significant and/or interesting events tend to attract many people. Some people leave traces of their attendance in the form of computer-processable data, such as records in the databases of mobile phone operators or photos on photo sharing web sites. We developed a suite of visual analytics methods for reconstructing past events from these activity traces. Our tools combine geocomputations, interactive geovisualizations and statistical methods to enable integrated analysis of the spatial, temporal, and thematic components of the data, including numeric attributes and texts. We demonstrate the utility of our approach on two large real data sets, mobile phone calls in Milano during 9 days and flickr photos made on British Isles during 5 years.
+vis citations:
+ivanov_infovis_07
+vanwijk2_infovis_99

@@ -1,0 +1,7 @@
+title: Texture-based feature tracking for effective time-varying data visualization
+authors: Jesus J. Caban, Alark Joshi, Penny Rheingans
+abstract: Analyzing, visualizing, and illustrating changes within time-varying volumetric data is challenging due to the dynamic changes occurring between timesteps. The changes and variations in computational fluid dynamic volumes and atmospheric 3D datasets do not follow any particular transformation. Features within the data move at different speeds and directions making the tracking and visualization of these features a difficult task. We introduce a texture-based feature tracking technique to overcome some of the current limitations found in the illustration and visualization of dynamic changes within time-varying volumetric data. Our texture-based technique tracks various features individually and then uses the tracked objects to better visualize structural changes. We show the effectiveness of our texture-based tracking technique with both synthetic and real world time-varying data. Furthermore, we highlight the specific visualization, annotation, registration, and feature isolation benefits of our technique. For instance, we show how our texture-based tracking can lead to insightful visualizations of time-varying data. Such visualizations, more than traditional visualization techniques, can assist domain scientists to explore and understand dynamic changes.
+vis citations:
+ji_vis_03
+ebert_vis_00
+silver_vis_98

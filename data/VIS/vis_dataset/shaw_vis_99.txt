@@ -1,0 +1,4 @@
+title: Interactive Lens Visualization Techniques
+authors: Christopher D. Shaw, James A. Hall, David S. Ebert, D. Aaron Roberts
+abstract: This paper describes new techniques for minimally immersive visualization of 3D scalar and vector fields, and visualization of document corpora. In our glyph-based visualization system, the user interacts with the 3D volume of glyphs using a pair of buttonenhanced 3D position and orientation trackers. The user may also examine the volume using an interactive lens, which is a rectangle that slices through the 3D volume and displaysscalar information on its surface. A lens allows the display of scalar data in the 3D volume using a contour diagram, and a texture-based volume rendering.
+vis citations:

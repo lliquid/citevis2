@@ -1,0 +1,9 @@
+title: A Grid with a View: Optimal Texturing for Perception of Layered Surface Shape
+authors: Alethea Bair, Donald House
+abstract: We present the results of two controlled studies comparing layered surface visualizations under various texture conditions. The task was to estimate surface normals, measured by accuracy of a hand-set surface normal probe. A single surface visualization was compared with the two-surfaces case under conditions of no texture and with projected grid textures. Variations in relative texture spacing on top and bottom surfaces were compared, as well as opacity of the top surface. Significant improvements are found for the textured cases over non-textured surfaces. Either larger or thinner top-surface textures, and lower top surface opacities are shown to give less bottom surface error. Top surface error appears to be highly resilient to changes in texture. Given the results we also present an example of how appropriate textures might be useful in volume visualization.
+vis citations:
+acevedo_vis_06
+bair_vis_06
+house_vis_05
+kim_infovis_03
+laidlaw_vis_01

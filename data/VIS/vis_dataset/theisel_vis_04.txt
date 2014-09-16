@@ -1,0 +1,9 @@
+title: Stream Line and Path Line Oriented Topology for 2D Time-Dependent Vector Fields
+authors: Holger Theisel, Tino Weinkauf, Hans-Christian Hege, Hans-Peter Seidel
+abstract: Topological methods aim at the segmentation of a vector field into areas of different flow behavior. For 2D time-dependent vector fields, two such segmentations are possible: either concerning the behavior of stream lines, or of path lines. While stream line oriented topology is well established, we introduce path line oriented topology as a new visualization approach in this paper. As a contribution to stream line oriented topology we introduce new methods to detect global bifurcations like saddle connections and cyclic fold bifurcations. To get the path line oriented topology we segment the vector field into areas of attracting, repelling and saddle-like behavior of the path lines. We compare both kinds of topologies and apply them to a number of data sets.
+vis citations:
+deleeuw_vis_99
+lodha_vis_00
+theisel_vis_03
+tricoche_vis_00
+tricoche_vis_01

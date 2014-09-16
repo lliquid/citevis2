@@ -1,0 +1,9 @@
+title: The Scalable Reasoning System: Lightweight Visualization for Distributed Analytics
+authors: William A. Pike, Joe Bruce, Bob Baddeley, Daniel Best, Lyndsey Franklin, Richard May, Douglas M. Rice, Rick Riensche, Katarina Younkin
+abstract: A central challenge in visual analytics is the creation of accessible, widely distributable analysis applications that bring the benefits of visual discovery to as broad a user base as possible. Moreover, to support the role of visualization in the knowledge creation process, it is advantageous to allow users to describe the reasoning strategies they employ while interacting with analytic environments. We introduce an application suite called the Scalable Reasoning System (SRS), which provides web-based and mobile interfaces for visual analysis. The service-oriented analytic framework that underlies SRS provides a platform for deploying pervasive visual analytic environments across an enterprise. SRS represents a ???lightweight??? approach to visual analytics whereby thin client analytic applications can be rapidly deployed in a platform-agnostic fashion. Client applications support multiple coordinated views while giving analysts the ability to record evidence, assumptions, hypotheses and other reasoning artifacts. We describe the capabilities of SRS in the context of a real-world deployment at a regional law enforcement organization.
+vis citations:
+viegas_infovis_07
+hetzler_infovis_05
+pan_vast_07
+stasko_vast_07
+smith_infovis_06

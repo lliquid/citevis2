@@ -1,0 +1,7 @@
+title: Exploring Scalar Fields Using Critical Isovalues
+authors: Gunther H. Weber, Gerik Scheuermann, Hans Hagen, Bernd Hamann
+abstract: Isosurfaces are commonly used to visualize scalar fields. Critical isovalues indicate isosurface topology changes: the creation of new surface components, merging of surface components or the formation of holes in a surface component. Therefore, they highlight ???interesting??? isosurface behavior and are helpful in exploration of large trivariate data sets. We present a method that detects critical isovalues in a scalar field defined by piecewise trilinear interpolation over a rectilinear grid and describe how to use them when examining volume data. We further review varieties of the Marching Cubes (MC) algorithm, with the intention to preserve topology of the trilinear interpolant when extracting an isosurface. We combine and extend two approaches in such a way that it is possible to extract meaningful isosurfaces even when a critical value is chosen as isovalue.
+vis citations:
+bajaj_vis_98
+gerstner_vis_00
+wood_vis_00

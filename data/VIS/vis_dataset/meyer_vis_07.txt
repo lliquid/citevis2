@@ -1,0 +1,10 @@
+title: Topology, Accuracy, and Quality of Isosurface Meshes Using Dynamic Particles
+authors: Miriah Meyer, Robert M. Kirby, Ross Whitaker
+abstract: This paper describes a method for constructing isosurface triangulations of sampled, volumetric, three-dimensional scalar fields. The resulting meshes consist of triangles that are of consistently high quality, making them well suited for accurate interpolation of scalar and vector-valued quantities, as required for numerous applications in visualization and numerical simulation. The proposed method does not rely on a local construction or adjustment of triangles as is done, for instance, in advancing wavefront or adaptive refinement methods. Instead, a system of dynamic particles optimally samples an implicit function such that the particles??? relative positions can produce a topologically correct Delaunay triangulation. Thus, the proposed method relies on a global placement of triangle vertices. The main contributions of the paper are the integration of dynamic particles systems with surface sampling theory and PDE-based methods for controlling the local variability of particle densities, as well as detailing a practical method that accommodates Delaunay sampling requirements to generate sparse sets of points for the production of high-quality tessellations.
+vis citations:
+kindlman_vis_03
+nielson_vis_02
+schreine_vis_06
+tasdizen_vis_02
+vanwijk_vis_03
+wood_vis_00

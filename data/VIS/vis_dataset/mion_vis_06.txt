@@ -1,0 +1,7 @@
+title: Distributed Shared Memory for Roaming Large Volumes
+authors: Laurent Castanie, Christophe Mion, Xavier Cavin and Bruno Levy
+abstract: We present a cluster-based volume rendering system for roaming very large volumes. This system allows to move a gigabyte-sized probe inside a total volume of several tens or hundreds of gigabytes in real-time. While the size of the probe is limited by the total amount of texture memory on the cluster, the size of the total data set has no theoretical limit. The cluster is used as a distributed graphics processing unit that both aggregates graphics power and graphics memory. A hardware-accelerated volume renderer runs in parallel on the cluster nodes and the final image compositing is implemented using a pipelined sort-last rendering algorithm. Meanwhile, volume bricking and volume paging allow efficient data caching. On each rendering node, a distributed hierarchical cache system implements a global software-based distributed shared memory on the cluster. In case of a cache miss, this system first checks page residency on the other cluster nodes instead of directly accessing local disks. Using two Gigabit Ethernet network interfaces per node, we accelerate data fetching by a factor of 4 compared to directly accessing local disks. The system also implements asynchronous disk access and texture loading, which makes it possible to overlap data loading, volume slicing and rendering for optimal volume roaming.
+vis citations:
+castanie_vis_05
+cavin_vis_05
+gao_vis_05

@@ -1,0 +1,4 @@
+title: Progressive Compression of Arbitrary Triangular Meshes
+authors: Daniel Cohen-Or, David Levin, Offir Remez
+abstract: In this paper we present a mesh compression method based on a multiresolution decomposition whose detail coefficients have a compact representation and thus smaller entropy than the original mesh. Given an arbitrary triangular mesh with an irregular connectivity, we use a hierarchical simplification scheme, which generates a multiresolution model. By reversing the process we define a hierarchical progressive refinement process, where a simple prediction plus a correction is used for inserting vertices to form a finer level. We show how the connectivity of an arbitrary triangulation can be encoded efficiently by a coloring technique, and recovered incrementally during the progressive reconstruction of the original mesh.
+vis citations:

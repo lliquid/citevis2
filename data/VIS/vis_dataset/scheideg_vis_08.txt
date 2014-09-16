@@ -1,0 +1,9 @@
+title: Revisiting Histograms and Isosurface Statistics
+authors: Carlos E. Scheidegger, John M. Schreiner, Brian Duffy, Hamish Carr, Claudio T. Silva
+abstract: Recent results have shown a link between geometric properties of isosurfaces and statistical properties of the underlying sampled data. However, this has two defects: not all of the properties described converge to the same solution, and the statistics computed are not always invariant under isosurface-preserving transformations. We apply Federer???s Coarea Formula from geometric measure theory to explain these discrepancies. We describe an improved substitute for histograms based on weighting with the inverse gradient magnitude, develop a statistical model that is invariant under isosurface-preserving transformations, and argue that this provides a consistent method for algorithm evaluation across multiple datasets based on histogram equalization. We use our corrected formulation to reevaluate recent results on average isosurface complexity, and show evidence that noise is one cause of the discrepancy between the expected figure and the observed one.
+vis citations:
+bachthal_vis_08
+carr_vis_06
+kniss_vis_01
+pekar_vis_01
+tenginakai_vis_01

@@ -1,0 +1,7 @@
+title: Graph-Theoretic Scagnostics
+authors: Leland Wilkinson, Anushka Anand, Robert Grossman
+abstract: We introduce Tukey and Tukey scagnostics and develop graphtheoretic methods for implementing their procedure on large datasets.
+vis citations:
+maceachr_infovis_03
+peng_infovis_04
+seo_infovis_04

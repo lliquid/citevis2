@@ -1,0 +1,13 @@
+title: Interactive View-Dependent Rendering Of Large Isosurfaces
+authors: Benjamin Gregorski, Mark Duchaineau, Peter Lindstrom, Valerio
+Pascucci, Kenneth I. Joy
+abstract: We present an algorithm for interactively extracting and rendering isosurfaces of large volume datasets in a view-dependent fashion. A recursive tetrahedral mesh refinement scheme, based on longest edge bisection, is used to hierarchically decompose the data into a multiresolution structure. This data structure allows fast extraction of arbitrary isosurfaces to within user specified view-dependent error bounds. A data layout scheme based on hierarchical space filling curves provides access to the data in a cache coherent manner that follows the data access pattern indicated by the mesh refinement.
+vis citations:
+engel_vis_99
+gavriliu_vis_01
+gerstner_vis_00
+lindstrom02_vis_01
+lindstrom01_vis_01
+livnat_vis_98
+roxborou_vis_00
+wood_vis_00

@@ -1,0 +1,10 @@
+title: Saliency-guided Enhancement for Volume Visualization
+authors: Youngmin Kim, Amitabh Varshney
+abstract: Recent research in visual saliency has established a computational measure of perceptual importance. In this paper we present a visual-saliency-based operator to enhance selected regions of a volume. We show how we use such an operator on a user-specified saliency field to compute an emphasis field. We further discuss how the emphasis field can be integrated into the visualization pipeline through its modifications of regional luminance and chrominance. Finally, we validate our work using an eyetracking-based user study and show that our new saliency enhancement operator is more effective at eliciting viewer attention than 
+vis citations:
+kindlman_vis_03
+kniss_vis_03
+lu_vis_02
+lum_vis_04
+ebert_vis_00
+treavett_vis_00

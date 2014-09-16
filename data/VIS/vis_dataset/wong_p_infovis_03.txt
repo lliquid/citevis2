@@ -1,0 +1,6 @@
+title: Dynamic Visualization of Transient Data Streams
+authors: Pak Chung Wong, Harlan Foote, Dan Adams, Wendy Cowley, Jim Thomas
+abstract: We introduce two dynamic visualization techniques using multidimensional scaling to analyze transient data streams such as newswires and remote sensing imagery. While the time-sensitive nature of these data streams requires immediate attention in many applications, the unpredictable and unbounded characteristics of this information can potentially overwhelm many scaling algorithms that require a full re-computation for every update. We present an adaptive visualization technique based on data stratification to ingest stream information adaptively when influx rate exceeds processing rate. We also describe an incremental visualization technique based on data fusion to project new information directly onto a visualization subspace spanned by the singular vectors of the previously processed neighboring data. The ultimate goal is to leverage the value of legacy and new information and minimize re-processing of the entire dataset in full resolution. We demonstrate these dynamic visualization results using a newswire corpus and a remote sensing imagery sequence.
+vis citations:
+morrison_infovis_02
+rodden_infovis_99

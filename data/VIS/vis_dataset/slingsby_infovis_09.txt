@@ -1,0 +1,10 @@
+title: Configuring Hierarchical Layouts to Address Research Questions
+authors: Aidan Slingsby, Jason Dykes, Jo Wood
+abstract: We explore the effects of selecting alternative layouts in hierarchical displays that show multiple aspects of large multivariate datasets, including spatial and temporal characteristics. Hierarchical displays of this type condition a dataset by multiple discrete variable values, creating nested graphical summaries of the resulting subsets in which size, shape and colour can be used to show subset properties. These ???small multiples??? are ordered by the conditioning variable values and are laid out hierarchically using dimensional stacking. Crucially, we consider the use of different layouts at different hierarchical levels, so that the coordinates of the plane can be used more effectively to draw attention to trends and anomalies in the data. We argue that these layouts should be informed by the type of conditioning variable and by the research question being explored. We focus on space-filling rectangular layouts that provide data-dense and rich overviews of data to address research questions posed in our exploratory analysis of spatial and temporal aspects of property sales in London. We develop a notation (???HiVE???) that describes visualisation and layout states and provides reconfiguration operators, demonstrate its use for reconfiguring layouts to pursue research questions and provide guidelines for this process. We demonstrate how layouts can be related through animated transitions to reduce the cognitive load associated with their reconfiguration whilst supporting the exploratory process.
+vis citations:
+heer_infovis_07
+jankun_k_vis_02
+maceachr_infovis_03
+robertso_infovis_08
+wood_infovis_08
+yi_infovis_07

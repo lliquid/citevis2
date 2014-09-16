@@ -1,0 +1,10 @@
+title: Particle and Texture Based Spatiotemporal Visualization of Time-Dependent Vector Fields
+authors: Daniel Weiskopf, Frederik Schramm, Gordon Erlebacher, Thomas Ertl
+abstract: We propose a hybrid particle and texture based approach for the visualization of time-dependent vector fields. The underlying spacetime framework builds a dense vector field representation in a twostep process: 1) particle-based forward integration of trajectories in spacetime for temporal coherence, and 2) texture-based convolution along another set of paths through the spacetime for spatially correlated patterns. Particle density is controlled by stochastically injecting and removing particles, taking into account the divergence of the vector field. Alternatively, a uniform density can be maintained by placing exactly one particle in each cell of a uniform grid, which leads to particle-in-cell forward advection. Moreover, we discuss strategies of previous visualization methods for unsteady flow and show how they address issues of spatiotemporal coherence and dense visual representations. We demonstrate how our framework is capable of realizing several of these strategies. Finally, we present an efficient GPU implementation that facilitates an interactive visualization of unsteady 2D flow on Shader Model 3 compliant graphics hardware.
+vis citations:
+jobard_vis_00
+laramee_vis_03
+li_gs_vis_03
+telea_vis_03
+vanwijk_vis_03
+weiskopf_vis_03

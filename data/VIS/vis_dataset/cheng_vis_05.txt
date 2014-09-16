@@ -1,0 +1,5 @@
+title: Quality Mesh Generation for Molecular Skin Surfaces Using Restricted Union of Balls
+authors: Ho-Lun Cheng, Xinwei Shi
+abstract: Quality surface meshes for molecular models are desirable in the studies of protein shapes and functionalities. However, there is still no robust software that is capable to generate such meshes with good quality. In this paper, we present a Delaunay-based surface triangulation algorithm generating quality surface meshes for the molecular skin model. We expand the restricted union of balls along the surface and generate an esampling of the skin surface incrementally. At the same time, a quality surface mesh is extracted from the Delaunay triangulation of the sample points. The algorithm supports robust and efficient implementation and guarantees the mesh quality and topology as well. Our results facilitate molecular visualization and have made a contribution towards generating quality volumetric tetrahedral meshes for the macromolecules.
+vis citations:
+cheng_vis_04

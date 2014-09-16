@@ -1,0 +1,6 @@
+title: A Multi-resolution Data Structure for Two-dimensional Morse-Smale Functions
+authors: P.-T. Bremerm, H. Edelsbrunner, B. Hamann, V. Pascucci
+abstract: We combine topological and geometric methods to construct a multi-resolution data structure for functions over two-dimensional domains. Starting with the Morse-Smale complex, we construct a topological hierarchy by progressively canceling critical points in pairs. Concurrently, we create a geometric hierarchy by adapting the geometry to the changes in topology. The data structure supports mesh traversal operations similarly to traditional multiresolution representations.
+vis citations:
+gerstner_vis_00
+lindstro_vis_98

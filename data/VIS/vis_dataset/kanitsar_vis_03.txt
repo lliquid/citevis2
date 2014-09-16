@@ -1,0 +1,7 @@
+title: Advanced Curved Planar Reformation: Flattening of Vascular Structures
+authors: Armin Kanitsar, Rainer Wegenkittl, Dominik Fleischmann, Meister
+Eduard Gr??ller
+abstract: Traditional volume visualization techniques may provide incomplete clinical information needed for applications in medical visualization. In the area of vascular visualization important features such as the lumen of a diseased vessel segment may not be visible. Curved Planar Reformation (CPR) has proven to be an acceptable practical solution. Existing CPR techniques, however, still have diagnostically relevant limitations. In this paper we introduce two advanced methods for efficient vessel visualization, based on the concept of CPR. Both methods benefit from relaxation of spatial coherence in favor of improved feature perception. We present a new technique to visualize the interior of a vessel in a single image. A vessel is re-sampled along a spiral around its central axis. The helical spiral depicts the vessel volume. Furthermore, a method to display an entire vascular tree without mutually occluding vessels is presented. Minimal rotations at the bifurcations avoid occlusions. For each viewing direction the entire vessel structure is visible.
+vis citations:
+hahn_vis_01
+kanitsar_vis_02

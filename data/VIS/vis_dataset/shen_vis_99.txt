@@ -1,0 +1,6 @@
+title: A Fast Volume Rendering Algorithm for Time-Varying Fields Using a Time-Space Partitioning (TSP) Tree
+authors: Han-Wei Shen, Ling-Jen Chiangt, Kwan-Liu Mat
+abstract: This paper presents a fast volume rendering algorithm for timevarying fields. We propose a new data structure, called Time-Space Partitioning (TSP) tree, that can effectively capture both the spatial and the temporal coherence from a time-varying field. Using the proposed data structure, the rendering speed is substantially improved. In addition, our data structure helps to maintain the memory access locality and to provide the sparse data traversal so that our algorithm becomes suitable for large-scale out-of-core applications. Finally, our algorithm allows flexible error control for both the temporal and the spatial coherence so that a trade-off between image quality and rendering speed is possible. We demonstrate the utility and speed of our algorithm with data from several timevarying CFD simulations. Our rendering algorithm can achieve substantial speedup while the storage space overhead for the TSP tree is kept at a minimum.
+vis citations:
+shen_vis_98
+parker_vis_98

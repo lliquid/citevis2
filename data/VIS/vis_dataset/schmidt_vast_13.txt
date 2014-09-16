@@ -1,0 +1,13 @@
+title: VAICo: Visual Analysis for Image Comparison
+authors: Johanna Schmidt, M. Eduard Gr??ller, Stefan Bruckner
+abstract: Scientists, engineers, and analysts are confronted with ever larger and more complex sets of data, whose analysis poses special challenges. In many situations it is necessary to compare two or more datasets. Hence there is a need for comparative visualization tools to help analyze differences or similarities among datasets. In this paper an approach for comparative visualization for sets of images is presented. Well-established techniques for comparing images frequently place them side-by-side. A major drawback of such approaches is that they do not scale well. Other image comparison methods encode differences in images by abstract parameters like color. In this case information about the underlying image data gets lost. This paper introduces a new method for visualizing differences and similarities in large sets of images which preserves contextual information, but also allows the detailed analysis of subtle variations. Our approach identifies local changes and applies cluster analysis techniques to embed them in a hierarchy. The results of this process are then presented in an interactive web application which allows users to rapidly explore the space of differences and drill-down on particular features. We demonstrate the flexibility of our approach by applying it to multiple distinct domains.
+vis citations:
+schmidt_vast_13
+bruckner_vis_10
+shenas_infovis_07
+ma_vis_99
+mistelbauer_vast_12
+sahasrab_vis_99
+scheidegger_vis_07
+torsneyweir_vis_11
+zhou_vis_02

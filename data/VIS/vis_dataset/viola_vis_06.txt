@@ -1,0 +1,8 @@
+title: Importance-Driven Focus of Attention
+authors: Ivan Viola, Mateu Sbert, Meister Eduard Gr??ller
+abstract: This paper introduces a concept for automatic focusing on features within a volumetric data set. The user selects a focus, i.e., object of interest, from a set of pre-defined features. Our system automatically determines the most expressive view on this feature. A characteristic viewpoint is estimated by a novel information-theoretic framework which is based on the mutual information measure. Viewpoints change smoothly by switching the focus from one feature to another one. This mechanism is controlled by changes in the importance distribution among features in the volume. The highest importance is assigned to the feature in focus. Apart from viewpoint selection, the focusing mechanism also steers visual emphasis by assigning a visually more prominent representation. To allow a clear view on features that are normally occluded by other parts of the volume, the focusing for example incorporates cut-away views.
+vis citations:
+bordoloi_vis_05
+bruckner_vis_05
+miksch_infovis_01
+takahash_vis_05

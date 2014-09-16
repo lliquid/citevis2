@@ -1,0 +1,6 @@
+title: Volumetric Modeling in Laser BPH Therapy Simulation
+authors: Nan Zhang, Xiangmin Zhou, Yunhe Shen, Robert Sweet
+abstract: In this paper, we introduce a novel application of volume modeling techniques on laser Benign Prostatic Hyperplasia (BPH) therapy simulation. The core technique in our system is an algorithm for simulating the tissue vaporization process by laser heating. Different from classical volume CSG operations, our technique takes experimental data as the guidance to determine the vaporization amount so that only a specified amount of tissue is vaporized in each time. Our algorithm uses a predictor-corrector strategy. First, we apply the classical CSG algorithm on a tetrahedral grid based distance field to estimate the vaporized tissue amount. Then, a volumecorrection phase is applied on the distance field. To improve system performance, we further propose optimization approaches for efficient implementation.
+vis citations:
+sigg_vis_03
+varadhan_vis_03

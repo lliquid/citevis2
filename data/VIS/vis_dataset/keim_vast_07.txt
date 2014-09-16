@@ -1,0 +1,4 @@
+title: Literature Fingerprinting: A New Method for Visual Literary Analysis
+authors: Daniel A. Keim, Daniela Oelke
+abstract: In computer-based literary analysis different types of features are used to characterize a text. Usually, only a single feature value or vector is calculated for the whole text. In this paper, we combine automatic literature analysis methods with an effective visualization technique to analyze the behavior of the feature values across the text. For an interactive visual analysis, we calculate a sequence of feature values per text and present them to the user as a characteristic fingerprint. The feature values may be calculated on different hierarchy levels, allowing the analysis to be done on different resolution levels. A case study shows several successful applications of our new method to known literature problems and demonstrates the advantage of our new visual literature fingerprinting.
+vis citations:

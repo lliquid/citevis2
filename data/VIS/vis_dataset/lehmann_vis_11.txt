@@ -1,0 +1,9 @@
+title: Features in Continuous Parallel Coordinates
+authors: Dirk J. Lehmann, Holger Theisel
+abstract: Continuous Parallel Coordinates (CPC) are a contemporary visualization technique in order to combine several scalar fields, given over a common domain. They facilitate a continuous view for parallel coordinates by considering a smooth scalar field instead of a finite number of straight lines. We show that there are feature curves in CPC which appear to be the dominant structures of a CPC. We present methods to extract and classify them and demonstrate their usefulness to enhance the visualization of CPCs. In particular, we show that these feature curves are related to discontinuities in Continuous Scatterplots (CSP). We show this by exploiting a curve-curve duality between parallel and Cartesian coordinates, which is a generalization of the well-known point-line duality. Furthermore, we illustrate the theoretical considerations. Concluding, we discuss relations and aspects of the CPC???s/CSP???s features concerning the data analysis.
+vis citations:
+bachthal_vis_08
+bajaj_vis_98
+heinrich_vis_09
+lehmann_vis_10
+peikert_vis_99

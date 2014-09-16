@@ -1,0 +1,7 @@
+title: Visualization of Labeled Data Using Linear Transformations
+authors: Yehuda Koren, Liran Carmel
+abstract: We present a novel family of data-driven linear transformations, aimed at visualizing multivariate data in a low-dimensional space in a way that optimally preserves the structure of the data. The well-studied PCA and Fisher???s LDA are shown to be special members in this family of transformations, and we demonstrate how to generalize these two methods such as to enhance their performance. Furthermore, our technique is the only one, to the best of our knowledge, that reflects in the resulting embedding both the data coordinates and pairwise similarities and/or dissimilarities between the data elements. Even more so, when information on the clustering (labeling) decomposition of the data is known, this information can be integrated in the linear transformation, resulting in embeddings that clearly show the separation between the clusters, as well as their intra-structure. All this makes our technique very flexible and powerful, and lets us cope with kinds of data that other techniques fail to describe properly.
+vis citations:
+wylie_infovis_01
+koren_infovis_02
+morrison_infovis_02

@@ -1,0 +1,9 @@
+title: Sampling and Visualizing Creases with Scale-Space Particles
+authors: Gordon L. Kindlmann, Raul San Jose Estepar, Stephen M. Smith, Carl-Fredrik Westin
+abstract: Particle systems have gained importance as a methodology for sampling implicit surfaces and segmented objects to improve mesh generation and shape analysis. We propose that particle systems have a significantly more general role in sampling structure from unsegmented data. We describe a particle system that computes samplings of crease features (i.e. ridges and valleys, as lines or surfaces) that effectively represent many anatomical structures in scanned medical data. Because structure naturally exists at a range of sizes relative to the image resolution, computer vision has developed the theory of scale-space, which considers an nD image as an (n+ 1)D stack of images at different blurring levels. Our scale-space particles move through continuous fourdimensional scale-space according to spatial constraints imposed by the crease features, a particle-image energy that draws particles towards scales of maximal feature strength, and an inter-particle energy that controls sampling density in space and scale. To make scale-space practical for large three-dimensional data, we present a spline-based interpolation across scale from a small number of pre-computed blurrings at optimally selected scales. The configuration of the particle system is visualized with tensor glyphs that display information about the local Hessian of the image, and the scale of the particle. We use scale-space particles to sample the complex three-dimensional branching structure of airways in lung CT, and the major white matter structures in brain DTI.
+vis citations:
+linsen_vis_08
+meyer_vis_07
+meyer_vis_08
+peikert_vis_99
+tricoche_vis_08

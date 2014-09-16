@@ -1,0 +1,5 @@
+title: Enridged Contour Maps
+authors: Jarke J. van Wijk, Alexandru Telea
+abstract: The visualization of scalar functions of two variables is a classic and ubiquitous application. We present a new method to visualize such data. The method is based on a non-linear mapping of the function to a height field, followed by visualization as a shaded mountain landscape. The method is easy to implement and efficient, and leads to intriguing and insightful images: The visualization is enriched by adding ridges. Three types of applications are discussed: visualization of iso-levels, clusters (multivariate data visualization), and dense contours (flow visualization).
+vis citations:
+vanwijk1_infovis_99

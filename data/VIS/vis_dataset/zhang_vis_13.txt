@@ -1,0 +1,9 @@
+title: Lighting Design for Globally Illuminated Volume Rendering
+authors: Yubo Zhang, Kwan-Liu Ma
+abstract: With the evolution of graphics hardware, high quality global illumination becomes available for real-time volume rendering. Compared to local illumination, global illumination can produce realistic shading effects which are closer to real world scenes, and has proven useful for enhancing volume data visualization to enable better depth and shape perception. However, setting up optimal lighting could be a nontrivial task for average users. There were lighting design works for volume visualization but they did not consider global light transportation. In this paper, we present a lighting design method for volume visualization employing global illumination. The resulting system takes into account view and transfer-function dependent content of the volume data to automatically generate an optimized three-point lighting environment. Our method fully exploits the back light which is not used by previous volume visualization systems. By also including global shadow and multiple scattering, our lighting system can effectively enhance the depth and shape perception of volumetric features of interest. In addition, we propose an automatic tone mapping operator which recovers visual details from overexposed areas while maintaining sufficient contrast in the dark areas. We show that our method is effective for visualizing volume datasets with complex structures. The structural information is more clearly and correctly presented under the automatically generated light sources.
+vis citations:
+gumhold_vis_02
+lee_vis_04
+schlegel_vis_11
+tao_vis_12
+yuan_vis_05

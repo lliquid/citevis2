@@ -1,0 +1,15 @@
+title: Depth-Dependent Halos: Illustrative Rendering of Dense Line Data
+authors: Maarten H. Everts, Henk Bekker, Jos B.T.M. Roerdink, Tobias Isenberg
+abstract: We present a technique for the illustrative rendering of 3D line data at interactive frame rates. We create depth-dependent halos around lines to emphasize tight line bundles while less structured lines are de-emphasized. Moreover, the depth-dependent halos combined with depth cueing via line width attenuation increase depth perception, extending techniques from sparse line rendering to the illustrative visualization of dense line data. We demonstrate how the technique can be used, in particular, for illustrating DTI fiber tracts but also show examples from gas and fluid flow simulations and mathematics as well as describe how the technique extends to point data. We report on an informal evaluation of the illustrative DTI fiber tract visualizations with domain experts in neurosurgery and tractography who commented positively about the results and suggested a number of directions for future work.
+vis citations:
+blaas_vis_05
+bruckner_vis_07
+ebert_vis_00
+melek_vis_06
+petrovic_vis_07
+ritter_vis_06
+stoll_vis_05
+svakhine_vis_05
+tarini_vis_06
+treavett_vis_00
+viola_vis_04

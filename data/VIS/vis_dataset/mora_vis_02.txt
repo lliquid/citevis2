@@ -1,0 +1,11 @@
+title: A New Object-Order Ray-Casting Algorithm
+authors: Benjamin Mora, Jean-Pierre Jessel, Rene Caubet
+abstract: Many direct volume rendering algorithms have been proposed during the last decade to render 2563 voxels interactively. However a lot of limitations are inherent to all of them, like lowquality images, a small viewport size or a fixed classification. In contrast, interactive high quality algorithms are still a challenge nowadays. We introduce here an efficient and accurate technique called object-order ray-casting that can achieve up to 10 fps on current workstations. Like usual ray-casting, colors and opacities are evenly sampled along the ray, but now within a new objectorder algorithm. Thus, it allows to combine the main advantages of both worlds in term of speed and quality. We also describe an efficient hidden volume removal technique to compensate for the loss of early ray termination.
+vis citations:
+huang_vis_00
+meissner_vis_99
+mueller_vis_98
+mueller_vis_99
+theussl_vis_01
+wan_vis_99
+westermann_vis_01

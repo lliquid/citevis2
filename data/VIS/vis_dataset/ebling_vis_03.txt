@@ -1,0 +1,5 @@
+title: Clifford Convolution And Pattern Matching On Vector Fields
+authors: Julia Ebling
+abstract: The goal of this paper is to define a convolution operation which transfers image processing and pattern matching to vector fields from flow visualization. For this, a multiplication of vectors is necessary. Clifford algebra provides such a multiplication of vectors. We define a Clifford convolution on vector fields with uniform grids. The Clifford convolution works with multivector filter masks. Scalar and vector masks can be easily converted to multivector fields. So, filter masks from image processing on scalar fields can be applied as well as vector and multivector masks. Furthermore, a method for pattern matching with Clifford convolution on vector fields is described. The method is independent of the direction of the structures. This provides an automatic approach to feature detection. The features can be visualized using any known method like glyphs, isosurfaces or streamlines. The features are defined by filter masks instead of analytical properties and thus the approach is more intuitive.
+vis citations:
+tricoche_vis_00

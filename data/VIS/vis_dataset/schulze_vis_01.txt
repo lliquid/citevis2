@@ -1,0 +1,4 @@
+title: The Perspective Shear-Warp Algorithm In A Virtual Environment
+authors: J??rgen P. Schulze, Roland Niemeier, Ulrich Lang
+abstract: Since the original paper ofLacroute and Levoy [9], where the shearwarp factorization was also shown for perspective projections, a lot of work has been carried out using the shear-warp factorization with parallel projections. However, none of it has proved or improved the algorithm for the perspective projection. Also in Lacroute???s Volpack library, the perspective shear-warp volume rendering algorithm is missing.This paper reports on an implementation of the perspective shear-warp algorithm, which includes enhancements for its application in immersive virtual environments. Furthermore, a mathematical proof for the correctness of the permutation of projection and warp is provided, so far a basic assumption of the shear-warp perspective projection.
+vis citations:

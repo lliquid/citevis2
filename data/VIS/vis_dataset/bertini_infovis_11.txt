@@ -1,0 +1,25 @@
+title: Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization
+authors: Enrico Bertini, Andrada Tatu, Daniel Keim
+abstract: In this paper, we present a systematization of techniques that use quality metrics to help in the visual exploration of meaningful patterns in high-dimensional data. In a number of recent papers, different quality metrics are proposed to automate the demanding search through large spaces of alternative visualizations (e.g., alternative projections or ordering), allowing the user to concentrate on the most promising visualizations suggested by the quality metrics. Over the last decade, this approach has witnessed a remarkable development but few reflections exist on how these methods are related to each other and how the approach can be developed further. For this purpose, we provide an overview of approaches that use quality metrics in high-dimensional data visualization and propose a systematization based on a thorough literature review. We carefully analyze the papers and derive a set of factors for discriminating the quality metrics, visualization techniques, and the process itself. The process is described through a reworked version of the well-known information visualization pipeline. We demonstrate the usefulness of our model by applying it to several existing approaches that use quality metrics, and we provide reflections on implications of our model for future research.
+vis citations:
+albuquer_vast_10
+ankerst_infovis_98
+chi_infovis_00
+cui_infovis_06
+dasgupta_infovis_10
+ellis_infovis_06
+ellis_infovis_07
+ferdosi_vast_10
+johansso_infovis_09
+maceachr_infovis_03
+peng_infovis_04
+schneidewind_vast_06
+segal_infovis_10
+seo_infovis_04
+tatu_vast_09
+tory_infovis_04
+wattensp_infovis_05
+wilkinso_infovis_05
+yang_infovis_03
+yang_infovis_02
+yi_infovis_07

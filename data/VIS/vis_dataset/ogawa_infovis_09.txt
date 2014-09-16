@@ -1,0 +1,9 @@
+title: code swarm: A Design Study in Organic Software Visualization
+authors: Michael Ogawa, Kwan-Liu Ma
+abstract: In May of 2008, we published online a series of software visualization videos using a method called code swarm. Shortly thereafter, we made the code open source and its popularity took off. This paper is a study of our code swarm application, comprising its design, results and public response. We share our design methodology, including why we chose the organic information visualization technique, how we designed for both developers and a casual audience, and what lessons we learned from our experiment. We validate the results produced by code swarm through a qualitative analysis and by gathering online user comments. Furthermore, we successfully released the code as open source, and the software community used it to visualize their own projects and shared their results as well. In the end, we believe code swarm has positive implications for the future of organic information design and open source information visualization practice.
+vis citations:
+lommerse_infovis_05
+moere_infovis_04
+pousman_infovis_07
+wattenba_infovis_05
+wattenbe_infovis_08

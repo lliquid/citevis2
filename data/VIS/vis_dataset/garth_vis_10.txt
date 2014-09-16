@@ -1,0 +1,8 @@
+title: Fast, Memory-Efficient Cell Location in Unstructured Grids for Visualization
+authors: Christoph Garth, Kenneth I. Joy
+abstract: Applying certain visualization techniques to datasets described on unstructured grids requires the interpolation of variables of interest at arbitrary locations within the dataset???s domain of definition. Typical solutions to the problem of finding the grid element enclosing a given interpolation point make use of a variety of spatial subdivision schemes. However, existing solutions are memoryintensive, do not scale well to large grids, or do not work reliably on grids describing complex geometries. In this paper, we propose a data structure and associated construction algorithm for fast cell location in unstructured grids, and apply it to the interpolation problem. Based on the concept of bounding interval hierarchies, the proposed approach is memory-efficient, fast and numerically robust. We examine the performance characteristics of the proposed approach and compare it to existing approaches using a number of benchmark problems related to vector field visualization. Furthermore, we demonstrate that our approach can successfully accommodate large datasets, and discuss application to visualization on both CPUs and GPUs.
+vis citations:
+burger_vis_09
+childs_vis_05
+garth_vis_08
+vonfunck_vis_08

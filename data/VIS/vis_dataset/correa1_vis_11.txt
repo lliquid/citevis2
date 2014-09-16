@@ -1,0 +1,13 @@
+title: Topological Spines: A Structure-Preserving Visual Representation of Scalar Fields
+authors: Carlos D. Correa, Peter Lindstrom, Peer-Timo Bremer
+abstract: We present topological spines???a new visual representation that preserves the topological and geometric structure of a scalar field. This representation encodes the spatial relationships of the extrema of a scalar field together with the local volume and nesting structure of the surrounding contours. Unlike other topological representations, such as contour trees, our approach preserves the local geometric structure of the scalar field, including structural cycles that are useful for exposing symmetries in the data. To obtain this representation, we describe a novel mechanism based on the extraction of extremum graphs???sparse subsets of the Morse-Smale complex that retain the important structural information without the clutter and occlusion problems that arise from visualizing the entire complex directly. Extremum graphs form a natural multiresolution structure that allows the user to suppress noise and enhance topological features via the specification of a persistence range. Applications of our approach include the visualization of 3D scalar fields without occlusion artifacts, and the exploratory analysis of high-dimensional functions.
+vis citations:
+gerber_vis_10
+gyulassy_vis_08
+gyulassy_vis_05
+gyulassy2_vis_07
+laney_vis_06
+theisel_vis_03
+tierny_vis_09
+weber_vis_07
+weber_vis_02

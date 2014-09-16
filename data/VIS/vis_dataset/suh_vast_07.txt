@@ -1,0 +1,6 @@
+title: Us vs. Them: Understanding Social Dynamics in Wikipedia with Revert Graph Visualizations
+authors: Bongwon Suh, Ed H. Chi, Bryan A. Pendleton, Aniket Kittur
+abstract: Wikipedia is a wiki-based encyclopedia that has become one of the most popular collaborative on-line knowledge systems. As in any large collaborative system, as Wikipedia has grown, conflicts and coordination costs have increased dramatically. Visual analytic tools provide a mechanism for addressing these issues by enabling users to more quickly and effectively make sense of the status of a collaborative environment. In this paper we describe a model for identifying patterns of conflicts in Wikipedia articles. The model relies on users??? editing history and the relationships between user edits, especially revisions that void previous edits, known as ???reverts???. Based on this model, we constructed Revert Graph, a tool that visualizes the overall conflict patterns between groups of users. It enables visual analysis of opinion groups and rapid interactive exploration of those relationships via detail drilldowns. We present user patterns and case studies that show the effectiveness of these techniques, and discuss how they could generalize to other systems.
+vis citations:
+heer_infovis_05
+perer_infovis_06

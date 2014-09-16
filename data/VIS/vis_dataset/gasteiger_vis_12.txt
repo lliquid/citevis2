@@ -1,0 +1,10 @@
+title: Automatic Detection and Visualization of Qualitative Hemodynamic Characteristics in Cerebral Aneurysms
+authors: Rocco Gasteiger, Dirk J. Lehmann, Roy van Pelt, Gabor Janiga, Oliver Beuing, Anna Vilanova, Holger Theisel, Bernhard Preim
+abstract: Cerebral aneurysms are a pathological vessel dilatation that bear a high risk of rupture. For the understanding and evaluation of the risk of rupture, the analysis of hemodynamic information plays an important role. Besides quantitative hemodynamic information, also qualitative flow characteristics, e.g., the inflow jet and impingement zone are correlated with the risk of rupture. However, the assessment of these two characteristics is currently based on an interactive visual investigation of the flow field, obtained by computational fluid dynamics (CFD) or blood flow measurements. We present an automatic and robust detection as well as an expressive visualization of these characteristics. The detection can be used to support a comparison, e.g., of simulation results reflecting different treatment options. Our approach utilizes local streamline properties to formalize the inflow jet and impingement zone. We extract a characteristic seeding curve on the ostium, on which an inflow jet boundary contour is constructed. Based on this boundary contour we identify the impingement zone. Furthermore, we present several visualization techniques to depict both characteristics expressively. Thereby, we consider accuracy and robustness of the extracted characteristics, minimal visual clutter and occlusions. An evaluation with six domain experts confirms that our approach detects both hemodynamic characteristics reasonably.
+vis citations:
+everts_vis_09
+gasteiger_vis_11
+hummel_vis_10
+reininghaus_vis_11
+vanpelt_vis_10
+vanpelt_vis_11

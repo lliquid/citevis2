@@ -1,0 +1,6 @@
+title: Visibility-Guided Simplification
+authors: Eugene Zhang, Greg Turk
+abstract: For some graphics applications, object interiors and hard-to-see regions contribute little to the final images and need not be processed. In this paper, we define a view-independent visibility measure on mesh surfaces based on the visibility function between the surfaces and a surrounding sphere of cameras. We demonstrate the usefulness of this measure with a visibility-guided simplification algorithm.Mesh simplification reduces the polygon counts of 3D models and speeds up the rendering process. Many mesh simplification algorithms are based on sequences of edge collapses that minimize geometric and attribute errors. By combining the surface visibility measure with a geometric error measure, we obtain simplified models with improvement proportional to the amount of low visibility regions in the original models.
+vis citations:
+hoppe_vis_99
+nooruddi_vis_00

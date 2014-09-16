@@ -1,0 +1,5 @@
+title: Interactive Display Of Very Large Textures
+authors: David Cline, Parris K. Egbert
+abstract: Large textures cause bottlenecks in real-time applications that often lead to a loss of interactivity. These performance bottlenecks occur because of disk and network transfer, texture translation, and memory swapping. We present a software solution that alleviates the problems associated with large textures by treating texture as a bandwidth-limited resource rather than a finite resource. As a result the display of large textures is reduced to a caching problem in which texture memory serves as the primary cache for texture data, main memory the secondary cache, and local disk the tertiary cache. By using this cache hierarchy, applications are able to maintain realtime performance while displaying textures hundreds of times larger than can fit into texture memory.
+vis citations:
+cline_vis_98

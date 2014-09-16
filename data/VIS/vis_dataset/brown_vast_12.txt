@@ -1,0 +1,10 @@
+title: Dis-Function: Learning Distance Functions Interactively
+authors: Eli T. Brown, Jingjing Liu, Carla E. Brodley, Remco Chang
+abstract: The world???s corpora of data grow in size and complexity every day, making it increasingly difficult for experts to make sense out of their data. Although machine learning offers algorithms for finding patterns in data automatically, they often require algorithm-specific parameters, such as an appropriate distance function, which are outside the purview of a domain expert. We present a system that allows an expert to interact directly with a visual representation of the data to define an appropriate distance function, thus avoiding direct manipulation of obtuse model parameters. Adopting an iterative approach, our system first assumes a uniformly weighted Euclidean distance function and projects the data into a two-dimensional scatterplot view. The user can then move incorrectly-positioned data points to locations that reflect his or her understanding of the similarity of those data points relative to the other data points. Based on this input, the system performs an optimization to learn a new distance function and then re-projects the data to redraw the scatter-plot. We illustrate empirically that with only a few iterations of interaction and optimization, a user can achieve a scatterplot view and its corresponding distance function that reflect the user???s knowledge of the data. In addition, we evaluate our system to assess scalability in data size and data dimension, and show that our system is computationally efficient and can provide an interactive or near-interactive user experience.
+vis citations:
+andrienk_vast_09
+choo_vast_10
+endert_vast_11
+garg_vast_08
+may_vast_11
+nam_vast_07

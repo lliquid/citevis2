@@ -1,0 +1,12 @@
+title: Visual Thinking In Action: Visualizations As Used On Whiteboards
+authors: Jagoda Walny, Sheelagh Carpendale, Nathalie Henry Riche, Gina Venolia, Philip Fawcett
+abstract: While it is still most common for information visualization researchers to develop new visualizations from a data or taskdriven perspective, there is growing interest in understanding the types of visualizations people create by themselves for personal use. As part of this recent direction, we have studied a large collection of whiteboards in a research institution, where people make active use of combinations of words, diagrams and various types of visuals to help them further their thought processes. Our goal is to arrive at a better understanding of the nature of visuals that are created spontaneously during brainstorming, thinking, communicating, and general problem solving on whiteboards. We use the qualitative approaches of open coding, interviewing, and af??nity diagramming to explore the use of recognizable and novel visuals, and the interplay between visualization and diagrammatic elements with words, numbers and labels. We discuss the potential implications of our ??ndings on information visualization design.
+vis citations:
+amar_infovis_04
+dwyer_infovis_06
+ellis_infovis_07
+grammel_infovis_10
+heer_infovis_10
+plaisant_infovis_02
+segal_infovis_10
+vanham_infovis_08

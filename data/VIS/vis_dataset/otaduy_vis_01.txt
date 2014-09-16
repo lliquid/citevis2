@@ -1,0 +1,5 @@
+title: User-Centric Viewpoint Computation for Haptic Exploration and Manipulation
+authors: Miguel A. Otaduy, Ming C. Lin
+abstract: We present several techniques for user-centric viewing of the virtual objects or datasets under haptic exploration and manipulation. Depending on the type of tasks performed by the user, our algorithms compute automatic placement of the user viewpoint to navigate through the scene, to display the near-optimal views, and to reposition the viewpoint for haptic visualization. This is accomplished by conjecturing the user???s intent based on the user???s actions, the object geometry, and intra and inter-object occlusion relationships. These algorithms have been implemented and interfaced with both a 3-DOF and a 6-DOF PHANToM arms. We demonstrate their application on haptic exploration and visualization of a complex structure, as well as multiresolution modeling and 3D painting with a haptic interface.
+vis citations:
+lawrence_vis_00

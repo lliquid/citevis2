@@ -1,0 +1,9 @@
+title: Moment Invariants for the Analysis of 2D Flow Fields
+authors: Michael Schlemmer, Manuel Heringer, Florian Morr, Ingrid Hotz,
+Martin-Hering Bertram, Christoph Garth, Wolfgang Kollmann, Bernd Hamann, Hans Hagen
+abstract: We present a novel approach for analyzing two-dimensional (2D) flow field data based on the idea of invariant moments. Moment invariants have traditionally been used in computer vision applications, and we have adapted them for the purpose of interactive exploration of flow field data. The new class of moment invariants we have developed allows us to extract and visualize 2D flow patterns, invariant under translation, scaling, and rotation. With our approach one can study arbitrary flow patterns by searching a given 2D flow data set for any type of pattern as specified by a user. Further, our approach supports the computation of moments at multiple scales, facilitating fast pattern extraction and recognition. This can be done for critical point classification, but also for patterns with greater complexity. This multi-scale moment representation is also valuable for the comparative visualization of flow field data. The specific novel contributions of the work presented are the mathematical derivation of the new class of moment invariants, their analysis regarding critical point features, the efficient computation of a novel feature space representation, and based upon this the development of a fast pattern recognition algorithm for complex flow structures.
+vis citations:
+ebling_vis_03
+edelsbru_vis_04
+sahasrab_vis_99
+svakhine_vis_05

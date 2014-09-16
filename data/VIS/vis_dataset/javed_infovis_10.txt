@@ -1,0 +1,10 @@
+title: Graphical Perception of Multiple Time Series
+authors: Waqas Javed, Bryan McDonnel, Niklas Elmqvist
+abstract: Line graphs have been the visualization of choice for temporal data ever since the days of William Playfair (1759???1823), but realistic temporal analysis tasks often include multiple simultaneous time series. In this work, we explore user performance for comparison, slope, and discrimination tasks for different line graph techniques involving multiple time series. Our results show that techniques that create separate charts for each time series???such as small multiples and horizon graphs???are generally more efficient for comparisons across time series with a large visual span. On the other hand, shared-space techniques???like standard line graphs???are typically more efficient for comparisons over smaller visual spans where the impact of overlap and clutter is reduced.
+vis citations:
+byron_infovis_08
+ellis_infovis_07
+lam_infovis_07
+robertso_infovis_08
+saito_infovis_05
+vanwijk2_infovis_99

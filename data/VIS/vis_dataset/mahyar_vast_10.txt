@@ -1,0 +1,11 @@
+title: A Closer Look at Note Taking in the Co-located Collaborative Visual Analytics Process
+authors: Narges Mahyar, Ali Sarvghad, Melanie Tory
+abstract: This paper highlights the important role that record-keeping (i.e. taking notes and saving charts) plays in collaborative data analysis within the business domain. The discussion of record-keeping is based on observations from a user study in which co-located teams worked on collaborative visual analytics tasks using large interactive wall and tabletop displays. Part of our findings is a collaborative data analysis framework that encompasses note taking as one of the main activities. We observed that recordkeeping was a critical activity within the analysis process. Based on our observations, we characterize notes according to their content, scope, and usage, and describe how they fit into a process of collaborative data analysis. We then discuss suggestions for the design of collaborative visual analytics tools.
+vis citations:
+gotz_vast_08
+heer_infovis_08
+isenberg_infovis_07
+kadivar_vast_09
+robinson_vast_08
+shriniva_vast_09
+viegas_infovis_07

@@ -1,0 +1,12 @@
+title: Flexible Linked Axes for Multivariate Data Visualization
+authors: Jarry H.T. Claessen, Jarke J. van Wijk
+abstract: Multivariate data visualization is a classic topic, for which many solutions have been proposed, each with its own strengths and weaknesses. In standard solutions the structure of the visualization is fixed, we explore how to give the user more freedom to define visualizations. Our new approach is based on the usage of Flexible Linked Axes: The user is enabled to define a visualization by drawing and linking axes on a canvas. Each axis has an associated attribute and range, which can be adapted. Links between pairs of axes are used to show data in either scatterplot or Parallel Coordinates Plot-style. Flexible Linked Axes enable users to define a wide variety of different visualizations. These include standard methods, such as scatterplot matrices, radar charts, and PCPs [11]; less well known approaches, such as Hyperboxes [1], TimeWheels [17], and many-to-many relational parallel coordinate displays [14]; and also custom visualizations, consisting of combinations of scatterplots and PCPs. Furthermore, our method allows users to define composite visualizations that automatically support brushing and linking. We have discussed our approach with ten prospective users, who found the concept easy to understand and highly promising.
+vis citations:
+amar_infovis_05
+collins_infovis_07
+ellis_infovis_06
+elmqvist_infovis_08
+hauser_infovis_02
+novotny_vis_06
+viau_infovis_10
+wilkinso_infovis_05

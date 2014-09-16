@@ -1,0 +1,7 @@
+title: Compressing Polygon Mesh Geometry with Parallelogram Prediction
+authors: Martin Isenburg, Pierre Alliez
+abstract: In this paper we present a generalization of the geometry coder by Touma and Gotsman [34] to polygon meshes. We let the polygon information dictate where to apply the parallelogram rule that they use to predict vertex positions. Since polygons tend to be fairly planar and fairly convex, it is beneficial to make predictions within a polygon rather than across polygons. This, for example, avoids poor predictions due to a crease angle between polygons. Up to 90 percent of the vertices can be predicted this way. Our strategy improves geometry compression by 10 to 40 percent depending on (a) how polygonal the mesh is and (b) on the quality (planarity/convexity) of the polygons.
+vis citations:
+bajaj_vis_99
+cohenor_vis_99
+deviller_vis_00

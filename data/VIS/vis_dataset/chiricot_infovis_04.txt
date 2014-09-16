@@ -1,0 +1,8 @@
+title: Metric-Based Network Exploration and Multiscale Scatterplot
+authors: Yves Chiricota, Fabien Jourdan, Guy Melancon???
+abstract: We describe an exploratory technique based on the direct interaction with a 2D modified scatterplot computed from two different metrics calculated over the elements of a network. The scatterplot is transformed into an image by applying standard image processing techniques resulting into blurring effects. Segmentation of the image allows to easily select patches on the image as a way to extract sub-networks. We were inspired by the work of Wattenberg and Fisher [21] showing that the blurring process builds into a multiscale perceptual scheme, making this type of interaction intuitive to the user. We explain how the exploration of the network can be guided by the visual analysis of the blurred scatterplot and by its possible interpretations.
+vis citations:
+auber_infovis_03
+fua_infovis_99
+herman_infovis_00
+wattenbe_infovis_03

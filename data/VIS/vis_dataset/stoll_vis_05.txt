@@ -1,0 +1,6 @@
+title: Visualization with stylized line primitives
+authors: Carsten Stoll, Stefan Gumhold, Hans-Peter Seidel
+abstract: Line primitives are a very powerful visual attribute used for scientific visualization and in particular for 3D vector-field visualization. We extend the basic line primitives with additional visual attributes including color, line width, texture and orientation. To implement the visual attributes we represent the stylized line primitives as generalized cylinders. One important contribution of our work is an efficient rendering algorithm for stylized lines, which is hybrid in the sense that it uses both CPU and GPU based rendering. We improve the depth perception with a shadow algorithm. We present several applications for the visualization with stylized lines among which are the visualizations of 3D vector fields and molecular structures.
+vis citations:
+fuhrmann_vis_98
+schussma_vis_04

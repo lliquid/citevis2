@@ -1,0 +1,7 @@
+title: Scout: A Hardware-Accelerated System for Quantitatively Driven Visualization and Analysis
+authors: Patrick S. McCormick, Jeff Inman, James P. Ahrens, Charles Hansen, Greg Roth
+abstract: Quantitative techniques for visualization are critical to the successful analysis of both acquired and simulated scientific data. Many visualization techniques rely on indirect mappings, such as transfer functions, to produce the final imagery. In many situations, it is preferable and more powerful to express these mappings as mathematical expressions, or queries, that can then be directly applied to the data. In this paper, we present a hardware-accelerated system that provides such capabilities and exploits current graphics hardware for portions of the computational tasks that would otherwise be executed on the CPU. In our approach, the direct programming of the graphics processor using a concise data parallel language, gives scientists the capability to efficiently explore and visualize data sets.
+vis citations:
+kniss_vis_01
+lefohn_vis_03
+moran_vis_99

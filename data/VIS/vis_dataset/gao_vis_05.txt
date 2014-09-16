@@ -1,0 +1,11 @@
+title: Distributed Data Management for Large Volume Visualization
+authors: Jinzhu Gao, Jian Huang, C. Ryan Johnson, Scott Atchley
+abstract: We propose a distributed data management scheme for large data visualization that emphasizes efficient data sharing and access. To minimize data access time and support users with a variety of local computing capabilities, we introduce an adaptive data selection method based on an ???Enhanced Time-Space Partitioning??? (ETSP) tree that assists with effective visibility culling, as well as multiresolution data selection. By traversing the tree, our data management algorithm can quickly identify the visible regions of data, and, for each region, adaptively choose the lowest resolution satisfying userspecified error tolerances. Only necessary data elements are accessed and sent to the visualization pipeline. To further address the issue of sharing large-scale data among geographically distributed collaborative teams, we have designed an infrastructure for integrating our data management technique with a distributed data storage system provided by Logistical Networking (LoN). Data sets at different resolutions are generated and uploaded to LoN for wide-area access. We describe a parallel volume rendering system that verifies the effectiveness of our data storage, selection and access scheme.
+vis citations:
+brodlie_vis_04
+gao_vis_04
+guthe_vis_02
+livnat_vis_98
+luke_vis_02
+shen_vis_99
+sutton_vis_99

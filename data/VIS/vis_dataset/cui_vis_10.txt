@@ -1,0 +1,10 @@
+title: A Curved Ray Camera for Handling Occlusions through Continuous Multiperspective Visualization
+authors: Jian Cui, Paul Rosen, Voicu Popescu, Christoph Hoffmann
+abstract: Most images used in visualization are computed with the planar pinhole camera. This classic camera model has important advantages such as simplicity, which enables efficient software and hardware implementations, and similarity to the human eye, which yields images familiar to the user. However, the planar pinhole camera has only a single viewpoint, which limits images to parts of the scene to which there is direct line of sight. In this paper we introduce the curved ray camera to address the single viewpoint limitation. Rays are C1continuous curves that bend to circumvent occluders. Our camera is designed to provide a fast 3-D point projection operation, which enables interactive visualization. The camera supports both 3-D surface and volume datasets. The camera is a powerful tool that enables seamless integration of multiple perspectives for overcoming occlusions in visualization while minimizing distortions.
+vis citations:
+krueger_vis_06
+wong_n_infovis_03
+bruckner_vis_06
+takahash_vis_06
+degener_vis_08
+roman_vis_04

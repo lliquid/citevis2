@@ -1,0 +1,4 @@
+title: Mixing Translucent Polygons with Volumes
+authors: Kevin Kreeger, Arie Kaufman
+abstract: We present an algorithm which renders opaque and/or translucent polygons embedded within volumetric data. The processing occurs such that all objects are composited in the correct order, by rendering thin slabs of the translucent polygons between volume slices using slice-order volume rendering. We implemented our algorithm with OpenGL on current general-purpose graphics systems. We discuss our system implementation, speed and image quality, as well as the renderings of several mixed scenes.
+vis citations:

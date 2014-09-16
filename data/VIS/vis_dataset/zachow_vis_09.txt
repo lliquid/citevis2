@@ -1,0 +1,9 @@
+title: Visual Exploration of Nasal Airflow
+authors: Stefan Zachow, Philipp Muigg, Thomas Hildebrandt, Helmut Doleisch, Hans-Christian Hege
+abstract: Rhinologists are often faced with the challenge of assessing nasal breathing from a functional point of view to derive effective therapeutic interventions. While the complex nasal anatomy can be revealed by visual inspection and medical imaging, only vague information is available regarding the nasal airflow itself: Rhinomanometry delivers rather unspecific integral information on the pressure gradient as well as on total flow and nasal flow resistance. In this article we demonstrate how the understanding of physiological nasal breathing can be improved by simulating and visually analyzing nasal airflow, based on an anatomically correct model of the upper human respiratory tract. In particular we demonstrate how various Information Visualization (InfoVis) techniques, such as a highly scalable implementation of parallel coordinates, time series visualizations, as well as unstructured grid multi-volume rendering, all integrated within a multiple linked views framework, can be utilized to gain a deeper understanding of nasal breathing. Evaluation is accomplished by visual exploration of spatio-temporal airflow characteristics that include not only information on flow features but also on accompanying quantities such as temperature and humidity. To our knowledge, this is the first in-depth visual exploration of the physiological function of the nose over several simulated breathing cycles under consideration of a complete model of the nasal airways, realistic boundary conditions, and all physically relevant time-varying quantities.
+vis citations:
+bavoil_vis_05
+kehrer_vis_08
+muigg_vis_07
+novotny_vis_06
+weiler_vis_03

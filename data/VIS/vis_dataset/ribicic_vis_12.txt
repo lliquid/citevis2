@@ -1,0 +1,8 @@
+title: Sketching Uncertainty into Simulations
+authors: Hrvoje Ribicic, J??rgen Waser, Roman Gurbat, Bernhard Sadransky, M. Eduard Gr??ller
+abstract: In a variety of application areas, the use of simulation steering in decision making is limited at best. Research focusing on this problem suggests that most user interfaces are too complex for the end user. Our goal is to let users create and investigate multiple, alternative scenarios without the need for special simulation expertise. To simplify the specification of parameters, we move from a traditional manipulation of numbers to a sketch-based input approach. Users steer both numeric parameters and parameters with a spatial correspondence by sketching a change onto the rendering. Special visualizations provide immediate visual feedback on how the sketches are transformed into boundary conditions of the simulation models. Since uncertainty with respect to many intertwined parameters plays an important role in planning, we also allow the user to intuitively setup complete value ranges, which are then automatically transformed into ensemble simulations. The interface and the underlying system were developed in collaboration with experts in the field of flood management. The real-world data they have provided has allowed us to construct scenarios used to evaluate the system. These were presented to a variety of flood response personnel, and their feedback is discussed in detail in the paper. The interface was found to be intuitive and relevant, although a certain amount of training might be necessary.
+vis citations:
+afzal_vast_11
+tateosia_vis_10
+waser_vis_10
+waser_vis_11

@@ -1,0 +1,6 @@
+title: IStar: A Raster Representation for Scalable Image and Volume Data
+authors: Joe Kniss, Warren Hunt, Kristin Potter, Pradeep Sen
+abstract: Topology has been an important tool for analyzing scalar data and flow fields in visualization. In this work, we analyze the topology of multivariate image and volume data sets with discontinuities in order to create an efficient, raster-based representation we call IStar. Specifically, the topology information is used to create a dual structure that contains nodes and connectivity information for every segmentable region in the original data set. This graph structure, along with a sampled representation of the segmented data set, is embedded into a standard raster image which can then be substantially downsampled and compressed. During rendering, the raster image is upsampled and the dual graph is used to reconstruct the original function. Unlike traditional raster approaches, our representation can preserve sharp discontinuities at any level of magnification, much like scalable vector graphics. However, because our representation is raster-based, it is well suited to the real-time rendering pipeline. We demonstrate this by reconstructing our data sets on graphics hardware at real-time rates.
+vis citations:
+gyulassy_vis_05
+kniss_vis_05

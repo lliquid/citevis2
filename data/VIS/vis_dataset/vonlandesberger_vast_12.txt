@@ -1,0 +1,15 @@
+title: Visual Analytics Methods for Categoric Spatio-Temporal Data
+authors: T. von Landesberger, Sebastian Bremm, Natalia Andrienko, Gennady Andrienko, Maria Tekusova
+abstract: We focus on visual analysis of space- and time-referenced categorical data, which describe possible states of spatial (geographical) objects or locations and their changes over time. The analysis of these data is difficult as there are only limited possibilities to analyze the three aspects (location, time and category) simultaneously. We present a new approach which interactively combines (a) visualization of categorical changes over time; (b) various spatial data displays; (c) computational techniques for task-oriented selection of time steps. They provide an expressive visualization with regard to either the overall evolution over time or unusual changes. We apply our approach on two use cases demonstrating its usefulness for a wide variety of tasks. We analyze data from movement tracking and meteorologic areas. Using our approach, expected events could be detected and new insights were gained.
+vis citations:
+blaas_infovis_09
+riehmann_infovis_05
+havre_infovis_00
+johansso_infovis_09
+kapler_infovis_04
+lex_infovis_10
+vanham_infovis_01
+vrotsou_infovis_09
+wood_infovis_11
+wood_infovis_08
+ziegler_vast_10

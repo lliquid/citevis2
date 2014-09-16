@@ -1,0 +1,11 @@
+title: Evaluating the Use of Data Transformation for Information Visualization
+authors: Zhen Wen, Michelle X. Zhou
+abstract: Data transformation, the process of preparing raw data for effective visualization, is one of the key challenges in information visualization. Although researchers have developed many data transformation techniques, there is little empirical study of the general impact of data transformation on visualization. Without such study, it is difficult to systematically decide when and which data transformation techniques are needed. We thus have designed and conducted a two-part empirical study that examines how the use of common data transformation techniques impacts visualization quality, which in turn affects user task performance. Our first experiment studies the impact of data transformation on user performance in single-step, typical visual analytic tasks. The second experiment assesses the impact of data transformation in multi-step analytic tasks. Our results quantify the benefits of data transformation in both experiments. More importantly, our analyses reveal that (1) the benefits of data transformation vary significantly by task and by visualization, and (2) the use of data transformation depends on a user???s interaction context. Based on our findings, we present a set of design recommendations that help guide the development and use of data transformation techniques.
+vis citations:
+amar_infovis_05
+chi_infovis_00
+cui_infovis_06
+kobsa_infovis_04
+viegas_infovis_07
+wen_infovis_08
+yang_infovis_03

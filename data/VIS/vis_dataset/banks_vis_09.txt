@@ -1,0 +1,7 @@
+title: Decoupling Illumination from Isosurface Generation Using 4D Light Transport
+authors: David C. Banks, Kevin M. Beason
+abstract: One way to provide global illumination for the scientist who performs an interactive sweep through a 3D scalar dataset is to pre-compute global illumination, resample the radiance onto a 3D grid, then use it as a 3D texture. The basic approach of repeatedly extracting isosurfaces, illuminating them, and then building a 3D illumination grid suffers from the non-uniform sampling that arises from coupling the sampling of radiance with the sampling of isosurfaces. We demonstrate how the illumination step can be decoupled from the isosurface extraction step by illuminating the entire 3D scalar function as a 3-manifold in 4-dimensional space. By reformulating light transport in a higher dimension, one can sample a 3D volume without requiring the radiance samples to aggregate along individual isosurfaces in the pre-computed illumination grid.
+vis citations:
+hu_vis_00
+stewart_vis_03
+weigle_vis_08

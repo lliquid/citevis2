@@ -1,0 +1,7 @@
+title: Process Visualization with Levels of Detail
+authors: Kresimir Matkovic, Helwig Hauser, Reinhard Sainitzer, M. Eduard Gr??ller
+abstract: In this paper we demonstrate how we apply information visualization techniques to process monitoring. Virtual instruments are enhanced using history encoding  instruments are capable of displaying the current value and the value from the near past. Multi-instruments are capable of displaying several data sources simultaneously. Levels of detail for virtual instruments are introduced where the screen area is inversely proportional to the information amount displayed. Furthermore the monitoring system is enhanced by using: 3D anchoring  attachment of instruments to positions on a 3D model , collision avoidance  a physically based spring model prevents instruments from overlapping , and focus+context rendering  giving the user a possibility to examine particular instruments in detail without loosing the context information.
+vis citations:
+keahey_infovis_98
+miksch_infovis_01
+matkovic_infovis_02

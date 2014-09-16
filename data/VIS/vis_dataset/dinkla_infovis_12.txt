@@ -1,0 +1,17 @@
+title: Compressed Adjacency Matrices: Untangling Gene Regulatory Networks
+authors: Kasper Dinkla, Michel A. Westenberg, Jarke J. van Wijk
+abstract: We present a novel technique???Compressed Adjacency Matrices???for visualizing gene regulatory networks. These directed networks have strong structural characteristics: out-degrees with a scale-free distribution, in-degrees bound by a low maximum, and few and small cycles. Standard visualization techniques, such as node-link diagrams and adjacency matrices, are impeded by these network characteristics. The scale-free distribution of out-degrees causes a high number of intersecting edges in node-link diagrams. Adjacency matrices become space-inefficient due to the low in-degrees and the resulting sparse network. Compressed adjacency matrices, however, exploit these structural characteristics. By cutting open and rearranging an adjacency matrix, we achieve a compact and neatly-arranged visualization. Compressed adjacency matrices allow for easy detection of subnetworks with a specific structure, so-called motifs, which provide important knowledge about gene regulatory networks to domain experts. We summarize motifs commonly referred to in the literature, and relate them to network analysis tasks common to the visualization domain. We show that a user can easily find the important motifs in compressed adjacency matrices, and that this is hard in standard adjacency matrix and node-link diagrams. We also demonstrate that interaction techniques for standard adjacency matrices can be used for our compressed variant. These techniques include rearrangement clustering, highlighting, and filtering.
+vis citations:
+abello_infovis_04
+bezerian_infovis_10
+dwyer_infovis_06
+ghoniem_infovis_04
+graham_infovis_07
+heer_infovis_05
+henry_infovis_08
+henry_infovis_06
+henry_infovis_07
+holten_infovis_06
+bae_infovis_11
+saraiya_infovis_04
+vanham_infovis_03

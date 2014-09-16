@@ -1,0 +1,6 @@
+title: A tetrahedra-based stream surface algorithm
+authors: Gerik Scheuermann, Tom Bobach, Hans Hagen, Karim Mahrous, Bernd
+Hamann, Kenneth I. Joy, Wolfgang Kollmann
+abstract: This paper presents a new algorithm for the calculation of stream surfaces for tetrahedral grids. It propagates the surface through the tetrahedra, one at a time, calculating the intersections with the tetrahedral faces. The method allows us to incorporate topological information from the cells, e.g., critical points. The calculations are based on barycentric coordinates, since this simplifies theory and algorithm. The stream surfaces are ruled surfaces inside each cell, and their construction is started with line segments on the faces. Our method supports the analysis of velocity fields resulting from computational fluid dynamics (CFD) simulations.
+vis citations:
+peikert_vis_99

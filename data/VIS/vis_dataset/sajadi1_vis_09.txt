@@ -1,0 +1,9 @@
+title: Markerless View-Independent Registration of Multiple Distorted Projectors on Extruded Surfaces Using an Uncalibrated Camera
+authors: Behzad Sajadi, Aditi Majumder
+abstract: In this paper, we present the first algorithm to geometrically register multiple projectors in a view-independent manner (i.e. wallpapered) on a common type of curved surface, vertically extruded surface, using an uncalibrated camera without attaching any obtrusive markers to the display screen. Further, it can also tolerate large non-linear geometric distortions in the projectors as is common when mounting short throw lenses to allow a compact set-up. Our registration achieves sub-pixel accuracy on a large number of different vertically extruded surfaces and the image correction to achieve this registration can be run in real time on the GPU. This simple markerless registration has the potential to have a large impact on easy set-up and maintenance of large curved multi-projector displays, common for visualization, edutainment, training and simulation applications.
+vis citations:
+bhasker_vis_07
+chen_vis_02
+raskar_vis_99
+sajadi2_vis_09
+yang_vis_01

@@ -1,0 +1,5 @@
+title: Cell-Projection of Cyclic Meshes
+authors: Martin Kraus, Thomas Ertl
+abstract: We present the first algorithm that employs hardware-accelerated cell-projection for direct volume rendering of cyclic meshes, i.e., meshes with visibility cycles. The visibility sorting of a cyclic mesh is performed by an extended topological sorting, which computes and isolates visibility cycles. Measured sorting times are comparable to previously published algorithms, which are, however, restricted to acyclic meshes. In practice, our algorithm is also useful for acyclic meshes as numerical instabilities can lead to false visibility cycles.Our method includes a simple, hardware-assisted algorithm based on image compositing that renders visibility cycles correctly. For tetrahedral meshes this algorithm allows us to render each tetrahedral cell (whether it is part of a cycle or not) by hardware-accelerated cell-projection. In its basic form our method applies only to convex cyclic meshes; however, we present an exact and a simpler but inexact extension of our method for nonconvex meshes.
+vis citations:
+roettger_vis_00

@@ -1,0 +1,5 @@
+title: Efficient Multi-Object Dynamic Query Histograms
+authors: Mark Derthick, James Harrison, Andrew Moore, Steven F. Roth
+abstract: Dynamic Queries offer continuous feedback during range queries, and have been shown to be effective and satisfying. Recent work has extended them to datasets of 100,000 objects and, separately, to queries involving relations among multiple objects. The latter work enables filtering houses by properties of their owners, for instance. Our primary concern is providing feedback from histograms during Dynamic Query. The height of each histogram bar shows the count of selected objects whose attribute value falls into a given range. Unfortunately, previous efficient algorithms for single object queries overcount in the case of multiple objects if, for instance, a house has multiple owners. This paper presents an efficient algorithm that with high probability closely approximates the true counts.
+vis citations:
+kapler_infovis_04

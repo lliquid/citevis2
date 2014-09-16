@@ -1,0 +1,6 @@
+title: Visualizing Cortical Waves and Timing from Data
+authors: Kay A. Robbins, Mark Robinson, David M. Senseman
+abstract: Waves are a fundamental mechanism for conveying information in many physical problems. Direct visualization techniques are often used to display wave fronts. However, the information derived from such visualizations may not be as central to an investigation as an understanding of how the location, structure and time course of the wave change as key experimental parameters are varied. In experimental data, these questions are confounded by noise and incomplete data. Recognition of waves in networks of neurons is additionally complicated by the presence of long-range physical connections and recurrent excitation. This paper applies visual techniques to analyze the structural details of waves in response data from the turtle visual cortex. We emphasize low-cost visualizations that allow comparisons across neural data sets and variables to reconstruct the choreography for a complex response.
+vis citations:
+jobard_vis_01
+lawrence_vis_00

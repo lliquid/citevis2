@@ -1,0 +1,9 @@
+title: Authalic Parameterization of General Surfaces Using Lie Advection
+authors: Guangyu Zou, Jiaxi Hu, Xianfeng Gu, Jing Hua
+abstract: Parameterization of complex surfaces constitutes a major means of visualizing highly convoluted geometric structures as well as other properties associated with the surface. It also enables users with the ability to navigate, orient, and focus on regions of interest within a global view and overcome the occlusions to inner concavities. In this paper, we propose a novel area-preserving surface parameterization method which is rigorous in theory, moderate in computation, yet easily extendable to surfaces of non-disc and closed-boundary topologies. Starting from the distortion induced by an initial parameterization, an area restoring diffeomorphic ??ow is constructed as a Lie advection of differential 2-forms along the manifold, which yields equality of the area elements between the domain and the original surface at its ??nal state. Existence and uniqueness of result are assured through an analytical derivation. Based upon a triangulated surface representation, we also present an ef??cient algorithm in line with discrete differential modeling. As an exemplar application, the utilization of this method for the effective visualization of brain cortical imaging modalities is presented. Compared with conformal methods, our method can reveal more subtle surface patterns in a quantitative manner. It, therefore, provides a competitive alternative to the existing parameterization techniques for better surface-based analysis in various scenarios.
+vis citations:
+hua_vis_08
+jin_vis_04
+kindlman_vis_06
+sorkine_vis_02
+zou_vis_09

@@ -1,0 +1,10 @@
+title: Illustrative Display of Hidden Iso-Surface Structures
+authors: Jan Fischer, Dirk Bartz, Wolfgang Stra??er
+abstract: Indirect volume rendering is a widespread method for the display of volume datasets. It is based on the extraction of polygonal isosurfaces from volumetric data, which are then rendered using conventional rasterization methods. Whereas this rendering approach is fast and relatively easy to implement, it cannot easily provide an understandable display of structures occluded by the directly visible iso-surface. Simple approaches like alpha-blending for transparency when drawing the iso-surface often generate a visually complex output, which is difficult to interpret. Moreover, such methods can significantly increase the computational complexity of the rendering process.In this paper, we therefore propose a new approach for the illustrative indirect rendering of volume data in real-time. This algorithm emphasizes the silhouette of objects represented by the iso-surface. Additionally, shading intensities on objects are reproduced with a monochrome hatching technique. Using a specially designed two-pass rendering process, structures behind the front layer of the iso-surface are automatically extracted with a depth peeling method. The shapes of these hidden structures are also displayed as silhouette outlines. As an additional option, the geometry of explicitly specified inner objects can be displayed with constant translucency. Although these inner objects always remain visible, a specific shading and depth attenuation method is used to convey the depth relationships.We describe the implementation of the algorithm, which exploits the programmability of state-of-the-art graphics processing units (GPUs). The algorithm described in this paper does not require any preprocessing of the input data or a manual defitinion of inner structures. Since the presented method works on iso-surfaces, which are stored as polygonal datasets, it can also be applied to other types of polygonal models.
+vis citations:
+born_vis_10
+lu_vis_02
+nooruddi_vis_00
+ebert_vis_00
+viola_vis_04
+viola_vis_03

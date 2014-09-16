@@ -1,0 +1,10 @@
+title: Visual Analysis of Higher-Order Conjunctive Relationships in Multidimensional Data Using a Hypergraph Query System
+authors: Rachel Shadoan, Chris Weaver
+abstract: Visual exploration and analysis of multidimensional data becomes increasingly difficult with increasing dimensionality. We want to understand the relationships between dimensions of data, but lack flexible techniques for exploration beyond low-order relationships. Current visual techniques for multidimensional data analysis focus on binary conjunctive relationships between dimensions. Recent techniques, such as cross-filtering on an attribute relationship graph, facilitate the exploration of some higher-order conjunctive relationships, but require a great deal of care and precision to do so effectively. This paper provides a detailed analysis of the expressive power of existing visual querying systems and describes a more flexible approach in which users can explore n-ary conjunctive inter- and intra- dimensional relationships by interactively constructing queries as visual hypergraphs. In a hypergraph query, nodes represent subsets of values and hyperedges represent conjunctive relationships. Analysts can dynamically build and modify the query using sequences of simple interactions. The hypergraph serves not only as a query specification, but also as a compact visual representation of the interactive state. Using examples from several domains, focusing on the digital humanities, we describe the design considerations for developing the querying system and incorporating it into visual analysis tools. We analyze query expressiveness with regard to the kinds of questions it can and cannot pose, and describe how it simultaneously expands the expressiveness of and is complemented by cross-filtering.
+vis citations:
+henry_infovis_06
+liu_vast_11
+shneiderman_infovis_06
+stasko_vast_07
+weaver_infovis_04
+weaver_vast_10

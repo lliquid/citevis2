@@ -1,0 +1,10 @@
+title: Harnessing the Web Information Ecosystem with Wiki-based Visualization Dashboards
+authors: Matt McKeon
+abstract: We describe the design and deployment of Dashiki, a public website where users may collaboratively build visualization dashboards through a combination of a wiki-like syntax and interactive editors. Our goals are to extend existing research on social data analysis into presentation and organization of data from multiple sources, explore new metaphors for these activities, and participate more fully in the web's information ecology by providing tighter integration with real-time data. To support these goals, our design includes novel and low-barrier mechanisms for editing and layout of dashboard pages and visualizations, connection to data sources, and coordinating interaction between visualizations. In addition to describing these technologies, we provide a preliminary report on the public launch of a prototype based on this design, including a description of the activities of our users derived from observation and interviews.
+vis citations:
+doerk_infovis_08
+chi_infovis_98
+heer_vast_07
+heer2_infovis_06
+pike_vast_08
+viegas_infovis_07

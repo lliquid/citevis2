@@ -1,0 +1,9 @@
+title: A Data-Driven Approach to Hue-Preserving Color-Blending
+authors: Lars K??hne, Joachim Giesen, Zhiyuan Zhang, Sungsoo Ha, Klaus Mueller
+abstract: Color mapping and semitransparent layering play an important role in many visualization scenarios, such as information visualization and volume rendering. The combination of color and transparency is still dominated by standard alpha-compositing using the Porter-Duff over operator which can result in false colors with deceiving impact on the visualization. Other more advanced methods have also been proposed, but the problem is still far from being solved. Here we present an alternative to these existing methods specifically devised to avoid false colors and preserve visual depth ordering. Our approach is data driven and follows the recently formulated knowledge-assisted visualization (KAV) paradigm. Preference data, that have been gathered in web-based user surveys, are used to train a support-vector machine model for automatically predicting an optimized hue-preserving blending. We have applied the resulting model to both volume rendering and a specific information visualization technique, illustrative parallel coordinate plots. Comparative renderings show a significant improvement over previous approaches in the sense that false colors are completely removed and important properties such as depth ordering and blending vividness are better preserved. Due to the generality of the defined data-driven blending operator, it can be easily integrated also into other visualization frameworks.
+vis citations:
+wangluji_vis_08
+chuang_vis_09
+urness_vis_03
+shenas_infovis_07
+ahmed_vis_12

@@ -1,0 +1,4 @@
+title: Wavelets over Curvilinear Grids
+authors: Gregory M. Nielson, Il-Hong Jung, Junwon Sung
+abstract: We develop multiresolution models for analyzing and visualizing two dimensional flows over curvilinear grids. Our models are based upon nested spaces of piecewise defined functions defined over nested curvilinear grid domains. The nested domains are selected so as to maintain the original geometry of the inner boundary. We first give the refinement and decomposition equations for Haar wavelets over these domains. Next, using lifting techniques we develop and show examples of piecewise linear wavelets over curvilinear grids.
+vis citations:

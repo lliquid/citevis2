@@ -1,0 +1,4 @@
+title: Optimal Triangular Haar Bases for Spherical Data
+authors: Georges-Pierre Bonneau
+abstract: Multiresolution analysis based on FWT (Fast Wavelet Transform) is now widely used in Scientific Visualization. Spherical biorthogonal wavelets for spherical triangular grids where introduced in [5]. In order to improve on the orthogonality of the wavelets, the concept of nearly orthogonality, and two new piecewise-constant (Haar) bases were introduced in [4]. In our paper, we extend the results of [4]. First we give two one-parameter families of triangular Haar wavelet bases that are nearly orthogonal in the sense of [4]. Then we introduce a measure of orthogonality. This measure vanishes for orthogonal bases. Eventually, we show that we can find an optimal parameter of our wavelet families, for which the measure of orthogonality is minimized. Several numerical and visual examples for a spherical topographic data set illustrates our results.
+vis citations:

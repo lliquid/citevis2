@@ -1,0 +1,7 @@
+title: A Topology Simplification Method For 2D Vector Fields
+authors: Xavier Tricoche, Gerik Scheuermann, Hans Hagen
+abstract: Topology analysis of plane, turbulent vector fields results in visual clutter caused by critical points indicating vortices of finer and finer scales. A simplification can be achieved by merging critical points within a prescribed radius into higher order critical points. After building clusters containing the singularities to merge, the method generates a piecewise linear representation of the vector field in each cluster containing only one (higher order) singularity. Any visualization method can be applied to the result after this process. Using different maximal distances for the critical points to be merged results in a hierarchy of simplified vector fields that can be used for analysis on different scales.
+vis citations:
+deleeuw_vis_99
+heckel_vis_99
+nielson_vis_98

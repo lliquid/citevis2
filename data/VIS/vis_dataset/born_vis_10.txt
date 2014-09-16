@@ -1,0 +1,16 @@
+title: Illustrative Stream Surfaces
+authors: Silvia Born, Alexander Wiebel, Jan Friedrich, Gerik Scheuermann
+abstract: Stream surfaces are an intuitive approach to represent 3D vector fields. In many cases, however, they are challenging objects to visualize and to understand, due to a high degree of self-occlusion. Despite the need for adequate rendering methods, little work has been done so far in this important research area. In this paper, we present an illustrative rendering strategy for stream surfaces. In our approach, we apply various rendering techniques, which are inspired by the traditional flow illustrations drawn by Dallmann and Abraham & Shaw in the early 1980s. Among these techniques are contour lines and halftoning to show the overall surface shape. Flow direction as well as singularities on the stream surface are depicted by illustrative surface streamlines. To go beyond reproducing static text book images, we provide several interaction features, such as movable cuts and slabs allowing an interactive exploration of the flow and insights into subjacent structures, e.g., the inner windings of vortex breakdown bubbles. These methods take only the parameterized stream surface as input, require no further preprocessing, and can be freely combined by the user. We explain the design, GPU-implementation, and combination of the different illustrative rendering and interaction methods and demonstrate the potential of our approach by applying it to stream surfaces from various flow simulations.
+vis citations:
+correa_vis_07
+everts_vis_09
+fischer_vis_05
+garth_vis_08
+joshi_vis_05
+kirby_vis_99
+krishnan_vis_09
+patel_vis_08
+scheuermann_vis_01
+svakhine_vis_05
+theisel_vis_03
+tricoche_vis_04

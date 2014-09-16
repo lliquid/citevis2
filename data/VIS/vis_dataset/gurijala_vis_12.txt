@@ -1,0 +1,6 @@
+title: Cumulative Heat Diffusion Using Volume Gradient Operator for Volume Analysis
+authors: Krishna Chaitanya Gurijala, Lei Wang, Arie Kaufman
+abstract: We introduce a simple, yet powerful method called the Cumulative Heat Diffusion for shape-based volume analysis, while drastically reducing the computational cost compared to conventional heat diffusion. Unlike the conventional heat diffusion process, where the diffusion is carried out by considering each node separately as the source, we simultaneously consider all the voxels as sources and carry out the diffusion, hence the term cumulative heat diffusion. In addition, we introduce a new operator that is used in the evaluation of cumulative heat diffusion called the Volume Gradient Operator (VGO). VGO is a combination of the LBO and a data-driven operator which is a function of the half gradient. The half gradient is the absolute value of the difference between the voxel intensities. The VGO by its definition captures the local shape information and is used to assign the initial heat values. Furthermore, VGO is also used as the weighting parameter for the heat diffusion process. We demonstrate that our approach can robustly extract shape-based features and thus forms the basis for an improved classification and exploration of features based on shape.
+vis citations:
+correa_vis_05
+haidacher_vis_11

@@ -1,0 +1,7 @@
+title: On the Interpolation of Data with Normally Distributed Uncertainty for Visualization
+authors: Steven Schlegel, Nico Korn, Gerik Scheuermann
+abstract: In many fields of science or engineering, we are confronted with uncertain data. For that reason, the visualization of uncertainty received a lot of attention, especially in recent years. In the majority of cases, Gaussian distributions are used to describe uncertain behavior, because they are able to model many phenomena encountered in science. Therefore, in most applications uncertain data is (or is assumed to be) Gaussian distributed. If such uncertain data is given on fixed positions, the question of interpolation arises for many visualization approaches. In this paper, we analyze the effects of the usual linear interpolation schemes for visualization of Gaussian distributed data. In addition, we demonstrate that methods known in geostatistics and machine learning have favorable properties for visualization purposes in this case.
+vis citations:
+hlawatsch_vis_11
+kniss_vis_05
+li_vis_07

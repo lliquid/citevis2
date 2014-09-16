@@ -1,0 +1,10 @@
+title: A Visual Analytics Approach to Model Learning
+authors: Supriya Garg, I.V. Ramakrishnan, Klaus Mueller 
+abstract: The process of learning models from raw data typically requires a substantial amount of user input during the model initialization phase. We present an assistive visualization system which greatly reduces the load on the users and makes the process of model initialization and refinement more efficient, problem-driven, and engaging. Utilizing a sequence segmentation task with a Hidden Markov Model as an example, we assign each token in the sequence a feature vector based on its various properties within the sequence. These vectors are then clustered according to similarity, generating a layout of the individual tokens in form of a node link diagram where the length of the links is determined by the feature vector similarity. Users may then tune the weights of the feature vector components to improve the segmentation, which is visualized as a better separation of the clusters. Also, as individual clusters represent different classes, the user can now work at the cluster level to define token classes, instead of labelling one entry at time. Inconsistent entries visually identify themselves by locating at the periphery of clusters, and the user then helps refine the model by resolving these inconsistencies. Our system therefore makes efficient use of the knowledge of its users, only requesting user assistance for non-trivial data items. It so allows users to visually analyse data at a higher, more abstract level, improving scalability.
+vis citations:
+andrienk_vast_09
+crossno_vast_09
+garg_vast_08
+janoos_vast_07
+mao_infovis_07
+schreck_vast_08

@@ -1,0 +1,13 @@
+title: Exploration of Networks Using Overview+Detail with Constraint-based Cooperative Layout
+authors: Tim Dwyer, Kim Marriott, Falk Schreiber, Peter J. Stuckey, Michael Woodward, Michael Wybrow
+abstract: A standard approach to large network visualization is to provide an overview of the network and a detailed view of a small component of the graph centred around a focal node. The user explores the network by changing the focal node in the detailed view or by changing the level of detail of a node or cluster. For scalability, fast force-based layout algorithms are used for the overview and the detailed view. However, using the same layout algorithm in both views is problematic since layout for the detailed view has different requirements to that in the overview. Here we present a model in which constrained graph layout algorithms are used for layout in the detailed view. This means the detailed view has high-quality layout including sophisticated edge routing and is customisable by the user who can add placement constraints on the layout. Scalability is still ensured since the slower layout techniques are only applied to the small subgraph shown in the detailed view. The main technical innovations are techniques to ensure that the overview and detailed view remain synchronized, and modifying constrained graph layout algorithms to support smooth, stable layout. The key innovation supporting stability are new dynamic graph layout algorithms that preserve the topology or structure of the network when the user changes the focus node or the level of detail by in situ semantic zooming. We have built a prototype tool and demonstrate its use in two application domains, UML class diagrams and biological networks.
+vis citations:
+archambault_infovis_06
+bederson_infovis_99
+dwyer_infovis_06
+gansner_infovis_04
+heer_infovis_05
+koren_infovis_02
+perer_infovis_06
+plaisant_infovis_02
+vanham_infovis_04

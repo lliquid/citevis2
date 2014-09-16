@@ -1,0 +1,10 @@
+title: Interactive Visualization and Analysis of Network and Sensor Data on Mobile Devices
+authors: Avin Pattath, Brian Bue, Yun Jang, David Ebert, Xuan Zhong, Aaron
+Ault, Edward Coyle
+abstract: Mobile devices are rapidly gaining popularity due to their small size and their wide range of functionality. With the constant improvement in wireless network access, they are an attractive option not only for day to day use, but also for in-field analytics by first responders in wide spread areas. However, their limited processing, display, graphics and power resources pose a major challenge in developing effective applications. Nevertheless, they are vital for rapid decision making in emergencies when combined with appropriate analysis tools.In this paper, we present an efficient, interactive visual analytic system using a PDA to visualize network information from Purdue???s Ross-Ade Stadium during football games as an example of in-field data analytics combined with text and video analysis. With our system, we can monitor the distribution of attendees with mobile devices throughout the stadium through their access of information and association/disassociation from wireless access points, enabling the detection of crowd movement and event activity. Through correlative visualization and analysis of synchronized video (instant replay video) and text information (play statistics) with the network activity, we can provide insightful information to network monitoring personnel, safety personnel and analysts. This work provides a demonstration and testbed for mobile sensor analytics that will help to improve network performance and provide safety personnel with information for better emergency planning and guidance.
+vis citations:
+pingali_vis_01
+kapler_infovis_04
+brandes_infovis_05
+wong_infovis_00
+wong_infovis_05

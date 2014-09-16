@@ -1,0 +1,4 @@
+title: Marching Diamonds for Unstructured Meshes
+authors: John C. Anderson, Janine C. Bennett, Kenneth I. Joy
+abstract: We present a higher-order approach to the extraction of isosurfaces from unstructured meshes. Existing methods use linear interpolation along each mesh edge to find isosurface intersections. In contrast, our method determines intersections by performing barycentric interpolation over diamonds formed by the tetrahedra incident to each edge. Our method produces smoother, more accurate isosurfaces. Additionally, interpolating over diamonds, rather than linearly interpolating edge endpoints, enables us to identify up to two isosurface intersections per edge. This paper details how our new technique extracts isopoints, and presents a simple connection strategy for forming a triangle mesh isosurface.
+vis citations:

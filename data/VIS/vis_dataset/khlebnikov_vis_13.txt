@@ -1,0 +1,10 @@
+title: Noise-Based Volume Rendering for the Visualization of Multivariate Volumetric Data
+authors: Rostislav Khlebnikov, Bernhard Kainz, Markus Steinberger, Dieter Schmalstieg
+abstract: Analysis of multivariate data is of great importance in many scientific disciplines. However, visualization of 3D spatially-fixed multivariate volumetric data is a very challenging task. In this paper we present a method that allows simultaneous real-time visualization of multivariate data. We redistribute the opacity within a voxel to improve the readability of the color defined by a regular transfer function, and to maintain the see-through capabilities of volume rendering. We use predictable procedural noise  random-phase Gabor noise ??? to generate a high-frequency redistribution pattern and construct an opacity mapping function, which allows to partition the available space among the displayed data attributes. This mapping function is appropriately filtered to avoid aliasing, while maintaining transparent regions. We show the usefulness of our approach on various data sets and with different example applications. Furthermore, we evaluate our method by comparing it to other visualization techniques in a controlled user study. Overall, the results of our study indicate that users are much more accurate in determining exact data values with our novel 3D volume visualization method. Significantly lower error rates for reading data values and high subjective ranking of our method imply that it has a high chance of being adopted for the purpose of visualization of multivariate 3D data.
+vis citations:
+bergner_vis_06
+shenas_infovis_07
+kniss_vis_03
+kniss_vis_05
+livingston_vis_12
+urness_vis_03

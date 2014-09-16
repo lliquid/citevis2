@@ -1,0 +1,9 @@
+title: Watch This: A Taxonomy for Dynamic Data Visualization
+authors: Joseph A. Cottam, Andrew Lumsdaine, Chris Weaver
+abstract: Visualizations embody design choices about data access, data transformation, visual representation, and interaction. To interpret a static visualization, a person must identify the correspondences between the visual representation and the underlying data. These correspondences become moving targets when a visualization is dynamic. Dynamics may be introduced in a visualization at any point in the analysis and visualization process. For example, the data itself may be streaming, shifting subsets may be selected, visual representations may be animated, and interaction may modify presentation. In this paper, we focus on the impact of dynamic data. We present a taxonomy and conceptual framework for understanding how data changes influence the interpretability of visual representations. Visualization techniques are organized into categories at various levels of abstraction. The salient characteristics of each category and task suitability are discussed through examples from the scientific literature and popular practices. Examining the implications of dynamically updating visualizations warrants attention because it directly impacts the interpretability (and thus utility) of visualizations. The taxonomy presented provides a reference point for further exploration of dynamic data visualization techniques.
+vis citations:
+chi_infovis_00
+heer_infovis_07
+moere_infovis_04
+ogawa_infovis_09
+robertso_infovis_08

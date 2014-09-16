@@ -1,0 +1,7 @@
+title: Interactive Wormhole Detection in Large Scale Wireless Networks
+authors: Weichao Wang, Aidong Lu
+abstract: Wormhole attacks in wireless networks can severely deteriorate the network performance and compromise the security through spoiling the routing protocols and weakening the security enhancements. This paper develops an approach, Interactive Visualization of Wormholes (IVoW), to monitor and detect such attacks in large scale wireless networks in real time. We characterize the topology features of a network under wormhole attacks through the node position changes and visualize the information at dynamically adjusted scales. We integrate an automatic detection algorithm with appropriate user interactions to handle complicated scenarios that include a large number of moving nodes and multiple wormhole attackers. Various visual forms have been adopted to assist the understanding and analysis of the reconstructed network topology and improve the detection accuracy. Extended simulation has demonstrated that the proposed approach can effectively locate the fake neighbor connections without introducing many false alarms. IVoW does not require the wireless nodes to be equipped with any special hardware, thus avoiding any additional cost. The proposed approach demonstrates that interactive visualization can be successfully combined with network security mechanisms to greatly improve the intrusion detection capabilities.
+vis citations:
+morrison_infovis_02
+rafiei_vis_05
+williams_infovis_04

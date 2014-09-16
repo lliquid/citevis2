@@ -1,0 +1,11 @@
+title: Visual Compression of Workflow Visualizations with Automated Detection of Macro Motifs
+authors: Eamonn Maguire, Philippe Rocca-Serra, Susanna-Assunta Sansone, Jim Davies, Min Chen
+abstract: This paper is concerned with the creation of ???macros??? in workflow visualization as a support tool to increase the efficiency of data curation tasks. We propose computation of candidate macros based on their usage in large collections of workflows in data repositories. We describe an efficient algorithm for extracting macro motifs from workflow graphs. We discovered that the state transition information, used to identify macro candidates, characterizes the structural pattern of the macro and can be harnessed as part of the visual design of the corresponding macro glyph. This facilitates partial automation and consistency in glyph design applicable to a large set of macro glyphs. We tested this approach against a repository of biological data holding some 9,670 workflows and found that the algorithmically generated candidate macros are in keeping with domain expert expectations.
+vis citations:
+holten_infovis_06
+koop_vis_08
+maguire_infovis_12
+santos_vis_09
+scheidegger_vis_07
+shneiderman_infovis_06
+weaver_infovis_04

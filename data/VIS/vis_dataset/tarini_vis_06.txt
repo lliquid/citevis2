@@ -1,0 +1,6 @@
+title: Ambient occlusion and edge cueing to enhance real time molecular visualization
+authors: Marco Tarini, Paolo Cignoni, Claudio Montani
+abstract: The paper presents a set of combined techniques to enhance the real-time visualization of simple or complex molecules (up to order of 106 atoms) space fill mode. The proposed approach includes an innovative technique for efficient computation and storage of ambient occlusion terms, a small set of GPU accelerated procedural impostors for space-fill and ball-and-stick rendering, and novel edge-cueing techniques. As a result, the user???s understanding of the three-dimensional structure under inspection is strongly increased (even for still images), while the rendering still occurs in real time.
+vis citations:
+ebert_vis_00
+stewart_vis_03

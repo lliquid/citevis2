@@ -1,0 +1,4 @@
+title: Creativity, Complexity, and Precision: Information Visualization for (Landscape) Architecture
+authors: Monika B??scher, Dan Shapiro
+abstract: Drawing on ethnographic studies of (landscape) architects at work, this paper presents a human-centered approach to information visualization. A 3D collaborative electronic workspace allows people to configure, save, and browse arrangements of heterogeneous work materials. Spatial arrangements and links are created and maintained as an integral part of ongoing work with ???live??? documents and objects. The result is an extension of the physical information space of the architects??? studio that utilizes the potential of electronic data storage, visualization, and network technologies to support work with information in context.
+vis citations:

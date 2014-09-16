@@ -1,0 +1,9 @@
+title: Extraction of Parallel Vector Surfaces in 3D Time-Dependent Fields and Application to Vortex Core Line Tracking
+authors: Holger Theisel, Jan Sahner, Tino Weinkauf, Hans-Christian Hege, Hans-Peter Seidel
+abstract: We introduce an approach to tracking vortex core lines in timedependent 3D flow fields which are defined by the parallel vectors approach. They build surface structures in the 4D space-time domain. To extract them, we introduce two 4D vector fields which act as feature flow fields, i.e., their integration gives the vortex core structures. As part of this approach, we extract and classify local bifurcations of vortex core lines in space-time. Based on a 4D stream surface integration, we provide an algorithm to extract the complete vortex core structure. We apply our technique to a number of test data sets.
+vis citations:
+peikert_vis_99
+roth_vis_98
+scheuermann_vis_01
+tang_vis_98
+theisel_vis_04

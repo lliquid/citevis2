@@ -1,0 +1,7 @@
+title: Iterative Integration of Visual Insights during Patent Search and Analysis
+authors: Steffen Koch, Harald Bosch, Mark Giereth, Thomas Ertl
+abstract: Patents are an important economic factor in today???s globalized markets. Therefore, the analysis of patent information has become an inevitable task for a variety of interest groups. The retrieval of relevant patent information is an integral part of almost every patent analysis scenario. Unfortunately, the complexity of patent material inhibits a straightforward retrieval of all relevant patent documents and leads to iterative, time-consuming approaches in practice. With ???PatViz???, a new system for interactive analysis of patent information has been developed to leverage iterative query refinement. PatViz supports users in building complex queries visually and in exploring patent result sets interactively. Thereby, the visual query module introduces an abstraction layer that provides uniform access to different retrieval systems and relieves users of the burden to learn different complex query languages. By establishing an integrated environment it allows for interactive reintegration of insights gained from visual result set exploration into the visual query representation. We expect that the approach we have taken is also suitable to improve iterative query refinement in other Visual Analytics systems.
+vis citations:
+chang_vast_07
+stasko_vast_07
+stolte_infovis_00

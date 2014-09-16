@@ -1,0 +1,8 @@
+title: Caricaturistic Visualization
+authors: Peter Rautek, Ivan Viola, M. Eduard Gr??ller
+abstract: Caricatures are pieces of art depicting persons or sociological conditions in a non-veridical way. In both cases caricatures are referring to a reference model. The deviations from the reference model are the characteristic features of the depicted subject. Good caricatures exaggerate the characteristics of a subject in order to accent them. The concept of caricaturistic visualization is based on the caricature metaphor. The aim of caricaturistic visualization is an illustrative depiction of characteristics of a given dataset by exaggerating deviations from the reference model. We present the general concept of caricaturistic visualization as well as a variety of examples. We investigate different visual representations for the depiction of caricatures. Further, we present the caricature matrix, a technique to make differences between datasets easily identifiable.
+vis citations:
+bruckner_vis_05
+joshi_vis_05
+viola_vis_04
+weigle_vis_05

@@ -1,0 +1,7 @@
+title: Isosurface Extraction in Time-varying Fields Using a Temporal Branch-on-Need Tree (T-BON)
+authors: Philip Sutton, Charles D. Hansen
+abstract: The Temporal Branch-on-Need Tree (T-BON) extends the threedimensional branch-on-need octree for time-varying isosurface extraction. At each time step, only those portions of the tree and data necessary to construct the current isosurface are read from disk. This algorithm can thus exploit the temporal locality of the isosurface and, as a geometric technique, spatial locality between cells in order to improve performance. Experimental results demonstrate the performance gained and memory overhead saved using this technique.
+vis citations:
+chiang_vis_98
+shen_vis_98
+tiede_vis_98

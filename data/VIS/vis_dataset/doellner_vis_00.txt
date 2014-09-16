@@ -1,0 +1,10 @@
+title: Texturing Techniques for Terrain Visualization
+authors: J??rgen D??llner, Konstantin Baumann, Klaus Hinrichs
+abstract: We present a new rendering technique for processing multiple multiresolution textures of LOD terrain models and describe its application to interactive, animated terrain content design. The approach is based on a multiresolution model for terrain texture which cooperates with a multiresolution model for terrain geometry. For each texture layer, an image pyramid and a texture tree are constructed. Multiple texture layers can be associated with one terrain model and can be combined in different ways, e.g., by blending and masking. The rendering algorithm traverses simultaneously the geometry multiresolution model and the texture multiresolution model, and takes into account geometric and texture approximation errors. It uses multi-pass rendering and exploits multitexturing to achieve real-time performance. Applications include interactive texture lenses, texture animation, and topographic textures. These techniques offer an enormous potential for developing new visualization applications for presenting, exploring and manipulating spatio-temporal data.
+vis citations:
+chen2_vis_99
+cignoni_vis_98
+cline_vis_98
+defloria_vis_98
+hoppe_vis_99
+pajarola_vis_98

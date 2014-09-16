@@ -1,0 +1,7 @@
+title: BaobabView: Interactive Construction and Analysis of Decision Trees
+authors: Stef van den Elzen, Jarke J. van Wijk
+abstract: We present a system for the interactive construction and analysis of decision trees that enables domain experts to bring in domain specific knowledge. We identify different user tasks and corresponding requirements, and develop a system incorporating a tight integration of visualization, interaction and algorithmic support. Domain experts are supported in growing, pruning, optimizing and analysing decision trees. Furthermore, we present a scalable decision tree visualization optimized for exploration. We show the effectiveness of our approach by applying the methods to two use cases. The first case illustrates the advantages of interactive construction, the second case demonstrates the effectiveness of analysis of decision trees and exploration of the structure of the data.
+vis citations:
+barlow02_infovis_01
+barlow01_infovis_01
+byron_infovis_08

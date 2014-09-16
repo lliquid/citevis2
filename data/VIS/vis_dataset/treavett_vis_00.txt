@@ -1,0 +1,4 @@
+title: Pen-and-Ink Rendering in Volume Visualisation
+authors: S. M. F. Treavett, M. Chen
+abstract: This paper is concerned with the development of nonphotorealistic rendering techniques for volume visualisation. In particular, we present two pen-and-ink rendering methods, a 3D method based on non-photorealistic solid textures, and a 2 D method that involves two rendering phases in the object space and image space respectively. As both techniques utilize volume and image-based data representations, they can be built upon a traditional volume rendering pipeline, and be integrated with photorealistic methods available in such a pipeline. We demonstrate that such an integration facilitates an effective mechanism for enhancing visualisation and its interpretation.
+vis citations:

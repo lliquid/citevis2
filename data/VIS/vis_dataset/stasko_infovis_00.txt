@@ -1,0 +1,6 @@
+title: Focus+Context Display and Navigation Techniques for Enhancing Radial, Space-Filling Hierarchy Visualizations
+authors: John Stasko, Eugene Zhang
+abstract: Radial, space-filling visualizations can be useful for depicting information hierarchies, but they suffer from one major problem. As the hierarchy grows in size, many items become small, peripheral slices that are difficult to distinguish. We have developed three visualization/interaction techniques that provideflexible browsing of the display. The techniques allow viewers to examine the small items in detail while providing context within the entire information hierarchy. Additionally, smooth transitions between views help users maintain orientation within the complete information space.
+vis citations:
+chuah_infovis_98
+vanwijk1_infovis_99
