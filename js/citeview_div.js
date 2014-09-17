@@ -176,11 +176,12 @@ var set_active = function(d){
 }
 
 var tooltip = function(d){
+  var conf = '<div>'+d.conference+' '+d.year+'</div>'
   var title = '<div><b>'+(d.best?"*":'')+d.title+'</b></div>'
   var authors = '<div>'+d.authors.join("; ")+'</div>'
   var citations = '<div>'+d.gscholar+" "+((d.gscholar!==1)?"citations":"citation")+" ("+(d.incites.length)+" internal)"+'</div>'
   var concepts = '<div>'+'Concepts: '+d.concepts.join(', ')+'</div>'
-  return title+authors+citations+concepts
+  return conf+title+authors+citations+concepts
 }
 
 var deactivate = function(){

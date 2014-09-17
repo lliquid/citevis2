@@ -16,10 +16,12 @@ for fn in os.listdir(directory):
     with open(os.path.join(directory, fn), 'r') as f:
         paper = dict()
         raw_year =  int(fn.split('.')[0].split('_')[-1])
+        conf = fn.split('.')[0].split('_')[1]
         year_val = 2000 + raw_year if raw_year < 50 else 1900 + raw_year
         year = years[str(year_val)]
         paper['id'] = fn.replace('.txt','')
         paper['year'] = year_val
+        paper['conference'] = conf
         year[paper['id']] = paper
         paper['citations'] = []
         paper['concepts'] = []
