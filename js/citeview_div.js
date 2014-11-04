@@ -205,8 +205,9 @@ var deactivate = function(){
 
 
 //Driver
-// d3.json('data/citations-2013.json',function(json){
-d3.json('data/VIS/vis_dataset_ii.json',function(json){
+d3.json('data/citations-all-conf.json',function(json){
+// d3.json('data/citations.json',function(json){
+// d3.json('data/VIS/vis_dataset_ii.json',function(json){
   data = json
   var gscholar_max = 0
   var internal_max = 0
@@ -245,10 +246,18 @@ d3.json('data/VIS/vis_dataset_ii.json',function(json){
 
       
       for(var c in paper.citations){
+        // console.log(c)
         c = paper.citations[c]
+        // console.log(c)
         var loc = c.loc
+        var id = c.id
         c = lookup[c.id]
-        c.incites.push({id:paper.id, loc:loc})
+        try{
+          c.incites.push({id:paper.id, loc:loc})
+          // console.log('safe: '+id)
+        }catch(e){
+          console.log('bad: '+id )
+        }
       }
     }
   }

@@ -339,107 +339,7 @@ citations:
 infovis95--528686
 b
 
-article
-infovis96--559224
-10.1109/INFVIS.1996.559224 
-12924722659966061855
-12
-Dual multiresolution HyperSlice for multivariate data visualization 
-author: Wong, P.C.
-author: Bergeron, R.D.
-author: Crabb, A.H.
-citations:
-infovis95--528680
-b
 
-article
-infovis96--559223
-10.1109/INFVIS.1996.559223
-1320295170637371335
-44
-Animating multidimensional scaling to visualize N-dimensional data sets
-concept: high-dimensional data
-concept: animation
-keyword: animation
-keyword: multidimensional scaling
-author: Bentley, C.L.
-keyword: multivariate data visualization
-citations:
-infovis95--528686
-b
-
-article
-infovis96--559222
-10.1109/INFVIS.1996.559222 
-16229276992240311712
-46
-FINESSE: a financial information spreadsheet
-concept: text
-concept: financial
-author: Kaufman, A.
-author: Varshney, A.
-citations:
-infovis95--528682
-r
-
-
-article
-infovis96--559221
-10.1109/INFVIS.1996.559221 
-17478067817228525339
-3
-Interactive visualization of multiway tables
-concept: business
-author: Cox, K.C.
-author: Hackborn, D.
-citations:
-
-article
-infovis96--559220
-10.1109/INFVIS.1996.559220 
-7772080667301332934
-12
-Minimally-immersive interactive volumetric information visualization
-concept: interaction
-concept: document
-concept: navigation
-author: Shaw, C.
-author: Ebert, D.S.
-concept: perception
-concept: glyph
-author: Zwa, A.
-author: Miller, E.L.
-author: Roberts, D.A.
-citations:
-infovis95--528686
-i
-
-article
-infovis96--559219
-10.1109/INFVIS.1996.559219 
-17898470986583693911
-22
-Visualizing the results of multimedia Web search engines
-concept: text
-author: Mukherjea, S.
-author: Hirata, K.
-author: Hara, Y.
-citations:
-
-article
-infovis96--559218
-10.1109/INFVIS.1996.559218 
-10404545510054480609
-23
-Towards rich information landscapes for visualising structured Web spaces
-concept: document
-concept: hierarchy
-author: Andrews, K.
-author: Pichler, M.
-author: Wolf, P.
-citations:
-infovis95--528692
-b
 
 article
 infovis96--559216
@@ -619,8 +519,6 @@ keyword: volume rendering
 citations:
 infovis95--528686
 i
-infovis96--559224
-i
 infovis95--528688
 i
 
@@ -664,8 +562,6 @@ author: Lunzer, A.
 author: Cotture, P.
 citations:
 infovis95--528688
-b
-infovis96--559223
 b
 infovis95--528686
 b
@@ -814,8 +710,6 @@ infovis95--528686
 i
 infovis95--528691
 ib
-infovis96--559223
-i
 
 
 article
@@ -856,8 +750,6 @@ keyword: document analysis
 citations:
 infovis97--636789
 b
-infovis96--559220
-i
 infovis97--636761
 r
 infovis97--636793
@@ -910,8 +802,6 @@ keyword: document clustering
 citations:
 infovis97--636761
 b
-infovis96--559220
-r
 infovis97--636759
 b
 infovis96--559228
@@ -1059,8 +949,6 @@ irb
 infovis97--636761
 irb
 infovis97--636793
-b
-infovis96--559222
 b
 infovis95--528686
 b
@@ -1399,8 +1287,7 @@ keyword: user interface
 author: Higgins, M.
 author: Sean, J.
 citations:
-infovis96--559219
-i
+
 
 article
 infovis99--801865
@@ -2199,8 +2086,6 @@ author: Brainerd, J.
 citations:
 infovis00--885089
 i
-infovis96--559218
-i
 infovis95--528697
 i
 infovis98--729553
@@ -2982,8 +2867,6 @@ keyword: text visualization
 keyword: remote sensing imagery
 keyword: transient data stream
 citations:
-infovis96--559223
-r
 infovis02--1173161
 rb
 infovis99--801855
@@ -8705,6 +8588,77 @@ i
 
 
 article
+infovis11--188
+10.1109/TVCG.2011.188
+14242651682453745095
+24
+DICON: Interactive Visual Analysis of Multidimensional Clusters
+author: Cao, N.
+author: Gotz, D.
+author: Sun, J.
+author: Qu, H.
+concept: case study
+concept: cluster
+concept: clustering
+concept: evaluation
+concept: interaction
+concept: treemap
+concept: user study
+keyword: clustering
+keyword: information visualization
+keyword: visual analysis
+citations:
+infovis98--729559
+r
+infovis05--1532128
+rb
+infovis08--4658123
+irb
+infovis07--4376154
+r
+infovis06--4015425
+b
+infovis09--5290704
+r
+infovis10--216
+b
+infovis01--963283
+rb
+infovis08--4658149
+rb
+infovis09--5290705
+r
+
+
+article
+infovis11--202
+10.1109/TVCG.2011.202
+14611825329870644199
+27
+Flow Map Layout via Spiral Trees
+author: Buchin, K.
+author: Speckmann, B.
+author: Verbeek, K.
+concept: clustering
+concept: geographic
+keyword: automated cartography
+keyword: flow maps
+keyword: spiral trees
+citations:
+infovis08--4658140
+r
+infovis09--5290710
+r
+infovis06--4015425
+r
+infovis96--559226
+r
+infovis05--1532150
+rb
+
+
+
+article
 infovis11--255
 10.1109/TVCG.2011.255
 8226781009926984211
@@ -9809,6 +9763,9 @@ infovis11--167
 3144967581963553725
 5
 Arc Length-Based Aspect Ratio Selection
+author: Talbot, J.
+author: Gerth, J.
+author: Hanrahan, P.
 keyword: aspect ratio selection
 keyword: banking to 45 degrees
 keyword: orientation resolution

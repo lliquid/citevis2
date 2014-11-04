@@ -16,13 +16,22 @@ h3{
   color: #7FABAA;
 }
 
+.hlabel.hconcept{
+  display: none;
+}
+
+#shading{
+  display: none;
+}
+
 .year{
-  min-height: 21px;
+  min-height: 11px;
   /*border-spacing: -1px -1px;*/
 }
 
 .yearlabel{
   vertical-align: middle;
+  font-size: 10pt;
 }
 
 .legendtext{
@@ -38,16 +47,16 @@ h3{
 
 .paper{
   
-  min-width: 24px;
-  min-height: 24px;
+  min-width: 11px;
+  min-height: 11px;
   position: relative;
 
 }
 
 .corners{
   /*background-color: red;*/
-  min-width: 24px;
-  min-height: 24px;
+  min-width: 11px;
+  min-height: 11px;
 }
 
 
@@ -75,8 +84,8 @@ h3{
 
 .papercircle{
   border-radius: 15px;
-  min-width: 18px;
-  min-height: 18px;
+  min-width: 5px;
+  min-height: 5px;
   border: 2px white solid;
   /*background-color: black;*/
   left: 1px;
