@@ -47,16 +47,16 @@ h3{
 
 .paper{
   
-  min-width: 11px;
-  min-height: 11px;
+  min-width: 15px;
+  min-height: 15px;
   position: relative;
 
 }
 
 .corners{
   /*background-color: red;*/
-  min-width: 11px;
-  min-height: 11px;
+  min-width: 15px;
+  min-height: 15px;
 }
 
 
@@ -84,12 +84,12 @@ h3{
 
 .papercircle{
   border-radius: 15px;
-  min-width: 5px;
-  min-height: 5px;
+  min-width: 7px;
+  min-height: 7px;
   border: 2px white solid;
   /*background-color: black;*/
-  left: 1px;
-  top: 1px;
+  left: 2px;
+  top: 2px;
   background-color: rgb(200,200,200);
 
 }
