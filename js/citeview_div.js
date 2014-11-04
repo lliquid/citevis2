@@ -69,8 +69,6 @@ var update = function(){
     .classed("best",true)
     .style('display',function(d){return d.best?null:'none'})
   
-  papers_enter.append('div')
-    .classed('label',true)
 
 
   papers.selectAll(".papercircle")
@@ -105,11 +103,7 @@ var update = function(){
     .classed("hconcept",function(d){return last_highlight(d)=='hconcept'})
     .classed("hkeyword",function(d){return last_highlight(d)=='hkeyword'})
 
-  papers.selectAll('.label')
-    .text(function(d){ return d.loc})
-    .classed("innode",function(d){return d.innode==true})
-    .classed("outnode",function(d){return d.outnode==true})
-    
+
 
 
 }
