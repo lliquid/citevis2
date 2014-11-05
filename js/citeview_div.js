@@ -319,7 +319,9 @@ d3.json('data/citations-all-conf.json',function(json){
   initButtons()
   initKeyboardShortcuts()
   //updateOScale()
+
   update()
+    triangular_layout()
 })
 
 // var updateOScale(){
