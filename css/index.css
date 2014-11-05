@@ -27,11 +27,17 @@ h3{
 .year{
   min-height: 11px;
   /*border-spacing: -1px -1px;*/
+  display: table-row;
 }
 
 .yearlabel{
+  display: table-cell;
   vertical-align: middle;
   font-size: 10pt;
+}
+
+.conference{
+  display: table-cell;
 }
 
 .legendtext{

@@ -24,6 +24,7 @@ var update = function(){
   var years = d3.select("#canvas").selectAll('div.year')
       .data(data.sort(function(a,b){return b.year-a.year}))
 
+
   var year_enter = years.enter()
     .append('div')
       .classed('year',true)
@@ -31,11 +32,18 @@ var update = function(){
 
   year_enter.append('div')
     .classed("yearlabel",true)
-    .style('display','table-cell')
+    // .style('display','table-cell')
     .html(function(d){return d.year})
 
-  var papers = years.selectAll('div.paper')
-      .data(function(d){return d.papers})
+
+  var conferences = years.selectAll('div.conference')
+    .data(function(d){return d.papers})
+
+  conferences_enter= conferences.enter().append('div')
+    .classed('conference',true)
+
+  var papers = conferences.selectAll('div.paper')
+    .data(function(d){return d.papers})
 
 
   var papers_enter = papers.enter().append('div')
@@ -207,14 +215,17 @@ d3.json('data/citations-all-conf.json',function(json){
   var internal_max = 0
   for (var year in data){
     year = data[year]
-    for(var paper in year.papers){
-      paper = year.papers[paper]
-      lookup[paper.id] = paper
-      paper.incites = []
-      paper.gscholar = parseInt(paper.gscholar)
-      gscholar_max = Math.max(gscholar_max,paper.gscholar)
-      conceptsAndAuthors(paper)
+    for(var conf in year.papers){
+      conf = year.papers[conf]
+      for(var paper in conf.papers){
+        paper = conf.papers[paper]
+        lookup[paper.id] = paper
+        paper.incites = []
+        paper.gscholar = parseInt(paper.gscholar)
+        gscholar_max = Math.max(gscholar_max,paper.gscholar)
+        conceptsAndAuthors(paper)
 
+      }
     }
   }
 
@@ -225,65 +236,78 @@ d3.json('data/citations-all-conf.json',function(json){
   var minifill = 2000000
   for (var year in data){
     year = data[year]
-    for(var paper in year.papers){
-      paper = year.papers[paper]
-      paper.highlights = []
+    for(var conf in year.papers){
+      conf = year.papers[conf]
+      for(var paper in conf.papers){
+        paper = conf.papers[paper]
+        paper.highlights = []
 
 
-      paper.fillval = (3 * Math.sqrt(paper.gscholar)) / (max+1)
-      paper.fillval = (1-paper.fillval)*240
-      paper.fillval = Math.floor(paper.fillval)
-      paper.fillval = 'rgb('+paper.fillval+','+paper.fillval+','+paper.fillval+')'
-      maxfillval = Math.max(maxfillval, paper.fillval)
-      minfillval = Math.min(minfillval, paper.fillval)
-      
+        paper.fillval = (3 * Math.sqrt(paper.gscholar)) / (max+1)
+        paper.fillval = (1-paper.fillval)*240
+        paper.fillval = Math.floor(paper.fillval)
+        paper.fillval = 'rgb('+paper.fillval+','+paper.fillval+','+paper.fillval+')'
+        maxfillval = Math.max(maxfillval, paper.fillval)
+        minfillval = Math.min(minfillval, paper.fillval)
+        
 
-      
-      for(var c in paper.citations){
-        // console.log(c)
-        c = paper.citations[c]
-        // console.log(c)
-        var loc = c.loc
-        var id = c.id
-        c = lookup[c.id]
-        try{
-          c.incites.push({id:paper.id, loc:loc})
-          // console.log('safe: '+id)
-        }catch(e){
-          console.log('bad: '+id )
+        
+        for(var c in paper.citations){
+          // console.log(c)
+          c = paper.citations[c]
+          // console.log(c)
+          var loc = c.loc
+          var id = c.id
+          c = lookup[c.id]
+          try{
+            c.incites.push({id:paper.id, loc:loc})
+            // console.log('safe: '+id)
+          }catch(e){
+            console.log('bad: '+id )
+          }
         }
       }
     }
   }
   for (var year in data){
     year = data[year]
-    for(var paper in year.papers){
-      paper = year.papers[paper]
-      internal_max = Math.max(internal_max,paper.incites.length)
-      paper.tooltip = tooltip(paper)
+    for(var conf in year.papers){
+      conf = year.papers[conf]
+      for(var paper in conf.papers){
+        paper = conf.papers[paper]
+        internal_max = Math.max(internal_max,paper.incites.length)
+        paper.tooltip = tooltip(paper)
+      }
     }
   }
   for (var year in data){
     year = data[year]
-    for(var paper in year.papers){
-      paper = year.papers[paper]
-      paper.ifillval = (paper.incites.length)/(internal_max+1)
-      paper.ifillval = (1-paper.ifillval)*240
-      paper.ifillval = Math.floor(paper.ifillval)
-      paper.ifillval = 'rgb('+paper.ifillval+','+paper.ifillval+','+paper.ifillval+')'
+    for(var conf in year.papers){
+      conf = year.papers[conf]
+      for(var paper in conf.papers){
+        paper = conf.papers[paper]
+        paper.ifillval = (paper.incites.length)/(internal_max+1)
+        paper.ifillval = (1-paper.ifillval)*240
+        paper.ifillval = Math.floor(paper.ifillval)
+        paper.ifillval = 'rgb('+paper.ifillval+','+paper.ifillval+','+paper.ifillval+')'
 
 
-      maxifill = Math.max(paper.ifillval,maxifill)
-      minifill = Math.min(paper.ifillval,minifill)
+        maxifill = Math.max(paper.ifillval,maxifill)
+        minifill = Math.min(paper.ifillval,minifill)
 
+      }
     }
   }
 
   for(var year in data){
     year = data[year]
-    year.papers.sort(function(a,b){
-      return b.incites.length-a.incites.length
-    })
+    for(var conf in year.papers){
+      conf = year.papers[conf]
+      conf.papers.sort(function(a,b){
+        return b.incites.length-a.incites.length
+      })
+    }
+    
   }
   // oscale = d3.scale.linear()
   //   .range([240,0])

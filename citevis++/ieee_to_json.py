@@ -2,8 +2,11 @@ import csv
 import json
 from collections import defaultdict
 
-years = defaultdict(list)
+years = defaultdict(lambda : defaultdict(list))
 
+def confsort(a,b):
+  order = ['SciVis','InfoVis','VAST']
+  return order.index(a['conference']) - order.index(b['conference'])
 
 with open('IEEE_VIS.tsv','r') as spreadsheet:
   reader = csv.DictReader(spreadsheet, delimiter='\t')
@@ -16,7 +19,7 @@ with open('IEEE_VIS.tsv','r') as spreadsheet:
       paper['gid'] = ''
       paper['gscholar'] = 0
       paper['authors'] = [x.strip() for x in row['Deduped author names'].split(';')]
-      paper['abstract'] = row['Abstract']
+      # paper['abstract'] = row['Abstract']
       paper['title'] = row['Paper Title']
       paper['keywordstr'] = ''.join(c.lower() for c in paper['title'] if (not c.isspace() and c.isalpha))
       paper['concepts'] = []
@@ -24,8 +27,20 @@ with open('IEEE_VIS.tsv','r') as spreadsheet:
       if '' in paper['citations']:
         paper['citations'] = []
       paper['conference'] = row['Conference']
-      years[paper['year']].append(paper)
+
       paper['citations'] = [{'id': x, 'loc':''} for x in paper['citations']]
-newyears = [{'year': k, 'papers': v} for k,v in years.iteritems()]
+      years[paper['year']][paper['conference']].append(paper)
+
+newyears = defaultdict(list)
+
+for year in years:
+  for conf in years[year]:
+    newyears[year].append({'conference':conf, 'papers':years[year][conf]})
+
+for year in newyears:
+  newyears[year].sort(confsort)
+
+
+newyears = [{'year': k, 'papers': v} for k,v in newyears.iteritems()]
 print json.dumps(newyears, sort_keys=True,
                   indent=2, separators=(',', ': '))
