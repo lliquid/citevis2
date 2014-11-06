@@ -321,7 +321,8 @@ d3.json('data/citations-all-conf.json',function(json){
   //updateOScale()
 
   update()
-    triangular_layout()
+    // triangular_layout()
+    stacked_layout()
 })
 
 // var updateOScale(){
