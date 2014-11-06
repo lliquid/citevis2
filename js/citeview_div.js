@@ -322,7 +322,10 @@ d3.json('data/citations-all-conf.json',function(json){
 
   update()
     // triangular_layout()
-    stacked_layout()
+    // stacked_layout()
+    // stacked_layout2()
+    stacked_layout3()
+
 })
 
 // var updateOScale(){
@@ -440,13 +443,24 @@ var initKeywords = function(){
           .text('Keyword: '+val.trim())
         //this.value = ""
         
-        for (var year in data){
-          year = data[year]
-          for(var paper in year.papers){
-            paper = year.papers[paper]
-            if(paper.keywordstr.indexOf(key)!=-1){
-              paper.highlights.push('hkeyword')
-            }
+        // for (var year in data){
+        //   year = data[year]
+        //   for(var paper in year.papers){
+        //     paper = year.papers[paper]
+        //     if(paper.keywordstr.indexOf(key)!=-1){
+        //       paper.highlights.push('hkeyword')
+        //     }
+
+        //   }
+        // }
+
+        papers = Array.prototype.concat.apply([], _.map(data, function(d) {return d.papers}))
+        papers = Array.prototype.concat.apply([], _.map(papers, function(d) {return d.papers}))
+
+        i = -1;
+        while(++i < papers.length) {
+          if(papers[i].keywordstr.indexOf(key)!=-1){
+            papers[i].highlights.push('hkeyword')
           }
         }
       }

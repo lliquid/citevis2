@@ -1,60 +1,55 @@
 
 
-var tri = {
+var stk2 = {
     h: 13,
     w: 13,
     dx: 10,
     dy: 10,
     x0: 100,
     y0:  200,
-    cnt: 5
+    cnt: 120
 }
 
 var confs = ['InfoVis', 'VAST', 'SciVis'],
-    cnts = [5, 5, 5],
-    ycoords = {}
+    ycoords = {};
 
-
-var stacked_layout = function() {
+var stacked_layout2 = function() {
 
     //flatten data
     papers = Array.prototype.concat.apply([], _.map(data, function(d) {return d.papers}))
     papers = Array.prototype.concat.apply([], _.map(papers, function(d) {return d.papers}))
     papers = _.groupBy(papers, function(p) {return p.conference;})
+
+    papers_by_year = {}
     for (var conf in papers) {
-        papers[conf] = _.groupBy(papers[conf], function(p) {return p.year})
+        papers_by_year[conf] = _.groupBy(papers[conf], function(p) {return p.year})
     }
 
     //sort papers by citation
-    //
+    for (var conf in papers) {
+        papers[conf] = _.sortBy(papers[conf], function(p) {return p.incites.length;}).reverse();
+    }
 
     //layout
-    var k = -1,
-        y = tri.y0;
-    while (++ k < confs.length) {
+    var y = stk2.y0,
+        x = stk2.x0,
+        k = -1;
+
+    while(++ k < confs.length) {
         var conf = confs[k];
-        var years = _.keys(papers[conf]).sort().reverse(),
-            i = -1,
-            x = tri.x0;
-        while(++ i < years.length) {
-            var year = years[i],
-                lpapers = papers[conf][year],
-                j = -1;
+        var lpapers = papers[conf],
+            i = -1;
 
-            while( ++ j < lpapers.length) {
-                lpapers[j].x = j % cnts[k] * tri.w + x;
-                lpapers[j].y = Math.floor(j / cnts[k]) * tri.h + y;
-            }
-
-            x += tri.w * cnts[k]  + tri.dx;
-
+        while(++i < lpapers.length) {
+            lpapers[i].x = x + i % stk2.cnt * stk2.w;
+            lpapers[i].y = y + Math.floor(i / stk2.cnt) * stk2.h;
         }
 
         ycoords[conf] = y;
 
-        y += tri.dy + tri.h * Math.ceil(_.max(_.values(papers[conf]), function(d) {return d.length;}).length / cnts[k]);
-    }
+        y += stk2.dy + stk2.h * Math.ceil(_.max(_.values(papers_by_year[conf]), function(d) {return d.length;}).length / tri.cnt);
 
+    }
 
     //update paper positions
     d3.selectAll('.papercell')
@@ -66,6 +61,9 @@ var stacked_layout = function() {
                 .style('top', d.y)
                 .style('position', 'absolute');
         })
+
+    d3.selectAll('.yearlabel').remove();
+
 
     d3.selectAll('.conflabel').remove();
 
@@ -81,37 +79,16 @@ var stacked_layout = function() {
         .style('left', 20)
         .style('top', function(c) {return ycoords[c];})
         .text(function(c) {return c;});
-        // .attr('text-anchor', 'end');
-
-    d3.selectAll('.yearlabel').remove();
-
-
-    d3.select('#canvas')
-        .selectAll('.yearlabel')
-        .data(d3.range(2013, 1989, -1))
-        .enter()
-        .append('div')
-        .attr('class', 'yearlabel')
-        .style('position', 'absolute')
-        .style('left', function(y, i) {
-            return tri.x0 + (tri.cnt * tri.w + tri.dx ) * i + tri.cnt * tri.w / 4;
-        })
-        .style('top', tri.y0 - 20)
-        .text(function(y) {return y;});
         // .attr('text-anchor', 'end');    
 
 
     d3.select('#details')
-        .transition()
-        .duration(2000)    
         .style('left', tri.x0)
         .style('top', y)
         .style('position', 'absolute');
 
 
     d3.select('#selection')
-        .transition()   
-        .duration(2000)    
         .style('left', tri.x0 + 800)
         .style('top', y)
         .style('position', 'absolute');
