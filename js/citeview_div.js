@@ -87,11 +87,15 @@ var update = function(){
       if(d.selected==true || d.innode==true || d.outnode==true){
         return null; //covered by css
       }else{
-        //var c = Math.floor(oscale(d.gscholar))
-        //return "rgb("+c+","+c+","+c+")"
         return (fillby=="external")?d.fillval:d.ifillval;
       }
-      
+    })
+    .style("border",function(d){
+      if(d.active==true || d.innode_sel==true || d.outnode_sel==true){
+        return null; //covered by css
+      }else{
+        return "2px "+((fillby=="external")?d.fillval:d.ifillval)+" solid";
+      }
     })
     .classed("selinnode",function(d){return d.innode_sel==true})
     .classed("seloutnode",function(d){return d.outnode_sel==true})
@@ -181,9 +185,9 @@ var tooltip = function(d){
   var conf = '<div>'+d.conference+' '+d.year+'</div>'
   var title = '<div><b>'+(d.best?"*":'')+d.title+'</b></div>'
   var authors = '<div>'+d.authors.join("; ")+'</div>'
-  var citations = '<div>'+d.gscholar+" "+((d.gscholar!==1)?"citations":"citation")+" ("+(d.incites.length)+" internal)"+'</div>'
-  var concepts = '<div>'+'Concepts: '+d.concepts.join(', ')+'</div>'
-  return conf+title+authors+citations+concepts
+  var citations = '<div>'+d.incites.length+" VIS "+((d.incites.length!==1)?"citations":"citation")+'</div>'
+  // var concepts = '<div>'+'Concepts: '+d.concepts.join(', ')+'</div>'
+  return conf+title+authors+citations//+concepts
 }
 
 var deactivate = function(){
