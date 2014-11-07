@@ -207,7 +207,7 @@ h3{
 }
 
 .button {
-  background-color:#80abaa;
+  background-color:#E0EBEB;
   -webkit-border-top-left-radius:15px;
   -moz-border-radius-topleft:15px;
   border-top-left-radius:15px;
@@ -234,7 +234,7 @@ h3{
   text-align:center;
   padding: 0px 5px;
 }.button:hover {
-  background-color:#5cb811;
+  background-color:#F2F7F7;
 }.button:active {
   position:relative;
   top:1px;

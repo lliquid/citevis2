@@ -326,9 +326,9 @@ d3.json('data/citations-all-conf.json',function(json){
 
   update()
     // triangular_layout()
-    // stacked_layout()
+    stacked_layout()
     // stacked_layout2()
-    stacked_layout3()
+    // stacked_layout3()
 
 })
 
@@ -385,7 +385,7 @@ var initAuthors = function(){
   authors['---'] = []
   var auth = d3.select('#authors')
   auth.selectAll("option")
-      .data(Object.keys(authors).sort())
+      .data(_.sortBy(Object.keys(authors), function(str) {return str.toLowerCase();}))
     .enter().append('option')
       .attr('value',function(d){return d})
       .text(function(d){return d})

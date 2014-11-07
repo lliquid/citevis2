@@ -8,6 +8,7 @@ $(function() {
         stack_functions[i].call(null);
     })
 
+
     // $('#mode').click(function(){
     //     curr = (curr + 1) % stack_functions.length;
     //     stack_functions[curr].call(null);
