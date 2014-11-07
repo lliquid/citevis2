@@ -4,11 +4,13 @@ var stk2 = {
     h: 14,
     w: 14,
     dx: 10,
-    dy: 10,
+    dy: 30,
     x0: 100,
-    y0:  200,
+    y0:  150,
     cnt: 120
 }
+
+stk2.cnt = Math.floor(($( window ).width() - 100 - stk2.x0) / stk2.w)
 
 var confs = ['InfoVis', 'VAST', 'SciVis'],
     ycoords = {};
@@ -47,7 +49,7 @@ var stacked_layout2 = function() {
 
         ycoords[conf] = y;
 
-        y += stk2.dy + stk2.h * Math.ceil(_.max(_.values(papers_by_year[conf]), function(d) {return d.length;}).length / tri.cnt);
+        y += stk2.dy + stk2.h * lpapers.length / stk2.cnt;
 
     }
 
@@ -89,8 +91,8 @@ var stacked_layout2 = function() {
 
 
     d3.select('#selection')
-        .style('left', tri.x0 + 800)
-        .style('top', y)
+        .style('left', tri.x0)
+        .style('top', y + 150)
         .style('position', 'absolute');
 
 

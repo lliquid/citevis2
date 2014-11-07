@@ -4,9 +4,12 @@ var stk3 = {
     h: 14,
     w: 14,
     x0: 100,
-    y0:  200,
+    y0:  150,
     cnt: 120
 }
+
+stk3.cnt = stk2.cnt
+
 
 var confs = ['InfoVis', 'VAST', 'SciVis'];
 
@@ -61,8 +64,8 @@ var stacked_layout3 = function() {
 
 
     d3.select('#selection')
-        .style('left', stk3.x0 + 800)
-        .style('top', ymax + 50)
+        .style('left', stk3.x0)
+        .style('top', ymax + 200)
         .style('position', 'absolute');
 
 }

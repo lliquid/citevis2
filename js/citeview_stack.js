@@ -6,7 +6,7 @@ var tri = {
     dx: 5,
     dy: 10,
     x0: 100,
-    y0:  200,
+    y0:  150,
     cnt: 5
 }
 
@@ -102,16 +102,16 @@ var stacked_layout = function() {
 
 
     d3.select('#details')
-        .transition()
-        .duration(2000)    
+        // .transition()
+        // .duration(2000)    
         .style('left', tri.x0)
         .style('top', y)
         .style('position', 'absolute');
 
 
     d3.select('#selection')
-        .transition()   
-        .duration(2000)    
+        // .transition()   
+        // .duration(2000)    
         .style('left', tri.x0 + 800)
         .style('top', y)
         .style('position', 'absolute');
