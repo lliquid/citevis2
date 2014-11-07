@@ -515,12 +515,15 @@ var conceptsAndAuthors = function(d){
 var clearAll = function(){
   for (var year in data){
       year = data[year]
-      for(var paper in year.papers){
-        paper = year.papers[paper]
-        paper.highlights = []
-        paper.active = null
-        paper.innode_sel = null
-        paper.outnode_sel = null
+      for (var conf in year.papers){
+        conf = year.papers[conf]
+        for(var paper in conf.papers){
+          paper = conf.papers[paper]
+          paper.highlights = []
+          paper.active = null
+          paper.innode_sel = null
+          paper.outnode_sel = null
+        }
       }
     }
     $("#highlightlist").empty()
