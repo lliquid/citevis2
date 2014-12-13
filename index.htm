@@ -6,6 +6,7 @@
     <link rel='stylesheet' href='css/index.css'></link>
     <link href='http://fonts.googleapis.com/css?family=Advent+Pro' rel='stylesheet' type='text/css'>
     <!--link rel='stylesheet' href='css/bootstrap.css'></link-->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">    
     <script src='lib/underscore.js'></script>
     <script src='lib/jquery-1.7.2.min.js'></script>
     <script src='lib/jquery.hotkeys.js'></script>
@@ -23,8 +24,8 @@
   <!-- <div class="intro">The Information Interfaces Group at Georgia Tech presents...</div> -->
   <h3>IEEE VIS Citations</h3>
 
-  <div>
-    <div>
+  <div >
+    <div style="padding:10px">
     <div class='hlabel hconcept'><b>Concepts:</b> <select id="concepts"></select></div>
     <div style='display: inline;' class='hlabel hauthor'><b>Authors:</b> <select id="authors"></select></div>
     <div style='display: inline;' class='hlabel hkeyword'><b>Title Search:</b> <input id='keywords'></input></div>
@@ -34,12 +35,11 @@
     <input type="radio" name="mode" value="1"><label>By Conference </label>
     <input type="radio" name="mode" value="2" checked="checked"><label>By Conference and Year </label>
     </form> 
-    <h1 style="display:inline; color: #fff">....</h1>
+    <h5 style="display:inline; color: #fff">....</h5>
     <a href="#" id='clear' class="button">Clear All</a>
-    <!-- <a href="#" id='mode' class="button">Switch Mode</a> -->
     <a href="#" id='shading' class="button"></a>
-    <a href="legend.htm" class="button">Help</a>
-    <a href="http://www.cc.gatech.edu/gvu/ii/citevis/VIS25/" class="button">Back to VIS 25 home</a>    
+    <a href="legend.htm" class="button"><i class="fa fa-info"></i> Help</a>
+    <a href="http://www.cc.gatech.edu/gvu/ii/citevis/VIS25/" class="button"><i class="fa fa-home"></i> Back to VIS 25 home</a>    
   </div>
   <br/>
   <div id='canvas'></div>
