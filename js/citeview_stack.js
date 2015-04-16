@@ -88,7 +88,7 @@ var stacked_layout = function() {
 
     d3.select('#canvas')
         .selectAll('.yearlabel')
-        .data(d3.range(2013, 1989, -1))
+        .data(d3.range(2014, 1989, -1))
         .enter()
         .append('div')
         .attr('class', 'yearlabel')
