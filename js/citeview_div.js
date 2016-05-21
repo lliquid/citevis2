@@ -211,7 +211,7 @@ var deactivate = function(){
 
 
 //Driver
-d3.json('data/citations-all-conf.json',function(json){
+d3.json('data/citations-all-conf-add-2015.json',function(json){
 // d3.json('data/citations.json',function(json){
 // d3.json('data/VIS/vis_dataset_ii.json',function(json){
   data = json
