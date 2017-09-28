@@ -211,10 +211,112 @@ var deactivate = function(){
 
 
 //Driver
-d3.json('data/citations-all-conf-add-2015.json',function(json){
-// d3.json('data/citations.json',function(json){
+// d3.json('data/citations-all-conf-add-2015.json',function(json){
+	d3.tsv("data/IEEE VIS papers 1990-2016 - Main dataset.tsv", function(rawdata){
+    
+		
+  dict = d3.map()
+  
+      rawdata.filter(function(d){
+        d.type = d["Paper type: C=conference paper, J = journal paper, M=miscellaneous (capstone, keynote, VAST challenge, panel, poster, ...)"]
+        delete d["Paper type: C=conference paper, J = journal paper, M=miscellaneous (capstone, keynote, VAST challenge, panel, poster, ...)"]
+        return d.type=="C" || d.type=="J"
+      })
+  
+      // console.log(rawdata)
+  
+      rawdata.forEach(function(d){
+        
+        if(d.Conference === "Vis"){
+          d.conference = "SciVis"
+        }else{
+          d.conference = d.Conference
+        }
+        d.conf = d.Conference
+        delete d.Conference
+  
+        d.year = d.Year
+        delete d.Year
+  
+        d.doi = d["Paper DOI"]
+        delete d["Paper DOI"]
+  
+        d.authors = d["Author Names"].split(";")
+        delete d["Author Names"]
+  
+        d.id = d.doi
+  
+        d.gscholar = ""
+  
+        d.title = d["Paper Title"]
+        delete d["Paper Title"]
+  
+        d.concepts = []
+        d.citations = []
+  
+        // d.author_keywords = d["Author Keywords"].split(", ")
+        // d.keywordstr = d.author_keywords.join("").replace(new RegExp("\w*"),"")
+        // if (d.keywordstr.length > 0) { console.log(d.keywordstr)}
+        // delete d["Author Keywords"]
+  
+        delete d["Experimental: OCRd Author Affiliations"]
+  
+  
+        //d["Author Keywords"]
+  
+  
+        dict.set(d.doi, d)
+      })
+  
+      
+  
+      rawdata.forEach(function(d){
+        d.refs = d.References.split(";")
+        if (d.refs==""){ d.refs = [] }
+        d.refs.forEach(function(r){
+          let ref = dict.get(r)
+          if(ref===undefined){
+            // console.log(d,r,ref)
+          }
+          ref.citations.push({id: d.doi, loc:""})
+        })
+      })
+  
+      // console.log(rawdata)
+      // console.log(rawdata[0])
+  
+      let papers = d3.nest()
+        .key(function(d){
+          return d.year
+        })
+        .key(function(d){
+          return d.conference
+        })
+        .entries(rawdata)
+      
+      
+  
+      papers.forEach(function(d){
+        d.year = d.key
+        d.papers = d.values
+        delete d.key
+        delete d.values
+  
+        d.papers.forEach(function(f){
+          f.conference = f.key
+          f.papers = f.values
+          delete f.key
+          delete f.values
+        })
+      })
+  
+      // console.log(papers)
+  
+    
+
+  // d3.json('data/citations.json',function(json){
 // d3.json('data/VIS/vis_dataset_ii.json',function(json){
-  data = json
+  data = papers
   var gscholar_max = 0
   var internal_max = 0
   for (var year in data){
